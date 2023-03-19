@@ -1,0 +1,205 @@
+<div class="container my-5">
+  <h2 class="fw-bold text-center">Similarity</h2>
+  <h3 class="fw-bold lead">Introduction</h3>
+  <p class="lead">
+    Computing the similarity between two text documents is a common task in
+    NLP, with several practical applications. It has commonly been used to,
+    for example, rank results in a search engine or recommend similar content
+    to readers.
+  </p>
+  <p class="lead">
+    Since text similarity is a loosely-defined term, we’ll first have to
+    define it for the scope of this illustration. After that, we’ll explore two
+    different ways of computing similarity and their pros and cons.
+  </p>
+  <h3 class="fw-bold lead">What Is Text Similarity?</h3>
+  <p class="lead">
+    Our first step is to define what we mean by similarity. We’ll do this by
+    starting with two examples.
+  </p>
+  <p class="lead">
+    Let’s consider the sentences:
+  </p>
+  <ul class="lead">
+    <li>The teacher gave his speech to an empty room</li>
+    <li>There was almost nobody when the professor was talking</li>
+  </ul>
+  <p class="lead">
+    Although they convey a very similar meaning, they are written in a
+    completely different way. In fact, the two sentences just have one word
+    in common (“the”), and not a really significant one at that.
+  </p>
+  <p class="lead">
+    Nevertheless, it’s safe to say that we’d want an ideal similarity
+    algorithm to return a high score for this pair.
+  </p>
+  <p class="lead">
+    Now let’s change the sentences a little bit:
+  </p>
+  <ul class="lead">
+    <li>The teacher gave his speech to an empty a full room</li>
+    <li>There was almost nobody when the professor was talking</li>
+  </ul>
+  <p class="lead">
+    We only changed two words, yet the two sentences now have an opposite
+    meaning.
+  </p>
+  <p class="lead">
+    When we want to compute similarity based on meaning, we call it semantic
+    text similarity. Due to the complexities of natural language, this is a
+    very complex task to accomplish, and it’s still an active research area.
+    In any case, most modern methods to compute similarity try to take the
+    semantics into account to some extent.
+  </p>
+  <p class="lead">
+    However, this may not always be needed. Traditional text similarity
+    methods only work on a lexical level, that is, using only the words in
+    the sentence. These were mostly developed before the rise of deep
+    learning but can still be used today. They are faster to implement and
+    run and can provide a better trade-off depending on the use case.
+  </p>
+  <h3 class="fw-bold lead">Document Vectors</h3>
+  <p class="lead">
+    The traditional approach to compute text similarity between documents is to do
+    so by transforming the input documents into real-valued vectors.The goal is
+    to have a vector space where similar documents are “close”, according to a chosen similarity measure.
+  </p>
+  <p class="lead">
+    This approach takes the name of the Vector Space Model, and it’s very convenient because it allows us to use simple
+    linear algebra to compute similarities. We just have to define two things:
+
+  </p>
+  <ul class="lead">
+    <li>A way of transforming documents into vectors
+    </li>
+    <li>A similarity measure for vectors
+    </li>
+  </ul>
+
+  <h3 class="fw-bold lead">Word Embeddings</h3>
+
+  <p class="lead">Word embeddings are high-dimensional vectors that represent words. We can create them in an
+    unsupervised way from a collection of documents, in general using neural networks, by analyzing all the contexts in
+    which the word occurs.</p>
+  <p class="lead">This results in vectors that are similar (according to cosine similarity) for words that appear in
+    similar contexts, and thus have a similar meaning. For example, since the words “teacher” and “professor” can
+    sometimes be used interchangeably, their embeddings will be close together.</p>
+  <p class="lead">For this reason, using word embeddings can enable us to handle synonyms or words with similar meaning
+    in the computation of similarity, which we couldn’t do by using word frequencies.</p>
+  <p class="lead">However, word embeddings are just vector representations of words, and there are several ways that we
+    can use them to integrate them into our text similarity computation. In the next section, we’ll see a basic example
+    of how we can do this.</p>
+
+  <p class="lead">Heat Map shown below is a graphical representation of data that uses colors to visualize values of a
+    matrix. In the
+    context of policy text analysis of several manufacturers, a heatmap can be used to represent the similarities in
+    their policies. The matrix would contain pairwise similarity scores between the policies of each manufacturer. By
+    visualizing this matrix as a heatmap, we can quickly identify patterns and similarities between the policies of
+    different manufacturers. The color scheme used in the heatmap can be customized to highlight areas of high and low
+    similarity. Overall, the heatmap provides an easy-to-understand and visually appealing way to analyze and compare
+    the policy texts of different manufacturers.
+  </p>
+
+  <div class="container mt-5 text-center">
+    <div class="row d-flex justify-content-center">
+      <div class="col-auto">
+        <plotly-plot [data]="_data" [layout]="layout" [config]="config"></plotly-plot>
+      </div>
+    </div>
+  </div>
+
+  <p class="lead">Below is a table containing a list of URLs serves as a useful reference for further visualizations. The
+    table provides a comprehensive list of all the URLs that have been loaded dynamically, making it easy to access and
+    analyze the data. By using this table as a reference, it becomes possible to quickly identify and locate specific
+    URLs that are of interest, allowing for more targeted analysis and visualization.</p>
+
+
+  <div class="container mt-5 text-center">
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th scope="col">S No.</th>
+          <th scope="col">URL</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of dataSource | slice:(page-1)*pageSize:page*pageSize; let i = index">
+          <th scope="row">{{i + 1}}</th>
+          <td>{{item.url}}</td>
+        </tr>
+      </tbody>
+    </table>
+    <mat-paginator [length]="dataSource.length" [pageSize]="pageSize" [pageSizeOptions]="pageSizeOptions"
+      (page)="onPageChange($event)"></mat-paginator>
+  </div>
+
+
+  <p class="lead">To implement filtering of manufacturers list and compare their policy text based on the selected
+    range, I created a form with a range input that allows the user to select a range of values. The selected range is
+    then used to compare the similarity of their policy text.
+  </p>
+  <p class="lead">The filtering process involves selecting minimum and maximum indexes of the list in the below form.
+    This form checks the validity of the values of minimum and maximum based on certain conditions. The condition checks
+    if minimum and maximum are present and if minimum is greater than maximum . Additionally, it also checks if the
+    difference between maximum and minimum is greater than 30, or if minimum is equal to maximum . If any of these
+    conditions are met, the validation will fail and disable the submit button.
+  </p>
+  <p class="lead">After filtering the manufacturers list, a heat map is rendered to display the results. The heat map
+    shows the level of similarity of each manufacturer based on their policy text. The heat map provides a visual
+    representation of the manufacturers' similarity status, making it easy for users to identify the compliant and
+    non-compliant manufacturers.
+
+  </p>
+  <p class="lead">Overall, this approach provides a simple and effective way to filter and compare the policies of
+    different manufacturers based on a selected range, enabling users to make informed decisions based on their specific
+    needs and requirements.
+  </p>
+
+
+  <div class="d-flex justify-content-center mt-5">
+    <form [formGroup]="heatMapForm" (ngSubmit)="onSubmit(heatMapForm)" class="row g-3">
+      <div class="col-auto">
+        <label for="placeholder" class="visually-hidden">Heading</label>
+        <input type="text" readonly class="form-control-plaintext" id="placeholder" value="Select Range">
+      </div>
+      <div class="col-auto">
+        <label for="min" class="visually-hidden">Enter</label>
+        <input type="number" formControlName="min" class="form-control" id="min" placeholder="Min">
+      </div>
+      <div class="col-auto">
+        <label for="max" class="visually-hidden">Enter</label>
+        <input type="number" formControlName="max" class="form-control" id="max" placeholder="Max">
+
+      </div>
+      <div *ngIf="outOfBound" class="text-danger col-auto">
+        <div> Invalid Range!! </div>
+      </div>
+      <div class="col-auto">
+        <button type="submit" [disabled]="heatMapForm.invalid || outOfBound"
+          class="btn btn-primary mb-3">Submit</button>
+      </div>
+
+    </form>
+  </div>
+
+
+
+  <div *ngIf="submitted" class="container mt-5 text-center">
+    <div class="row d-flex justify-content-center">
+      <div class="col-auto">
+        <ngx-charts-heat-map [view]="view" [scheme]="colorScheme" [legend]="legend" [showXAxisLabel]="showXAxisLabel"
+          [showYAxisLabel]="showYAxisLabel" [xAxis]="xAxis" [yAxis]="yAxis" [xAxisLabel]="xAxisLabelH"
+          [yAxisLabel]="yAxisLabelH" [results]="heatMapChartData" (select)="onMapSelect($event)">
+        </ngx-charts-heat-map>
+      </div>
+    </div>
+  </div>
+
+  <div class="container mt-5 text-center">
+    <div class="row d-flex justify-content-center">
+      <div class="col-auto">
+        <plotly-plot [data]="umapData" [layout]="umapLayout"></plotly-plot>
+      </div>
+    </div>
+  </div>
+</div>

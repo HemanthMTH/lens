@@ -1,0 +1,1 @@
+import type { ParseConfig } from 'papaparse';
