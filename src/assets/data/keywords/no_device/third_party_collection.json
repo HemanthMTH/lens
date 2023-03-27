@@ -1,0 +1,140 @@
+[
+    {
+        "category": "Miscellaneous",
+        "min": 2,
+        "average": 6.5,
+        "max": 16
+    },
+    {
+        "category": "Smart Body Scanner",
+        "min": 2,
+        "average": 2.0,
+        "max": 2
+    },
+    {
+        "category": "Smart Camera",
+        "min": 0,
+        "average": 8.304,
+        "max": 44
+    },
+    {
+        "category": "Smart Connected Vehicle",
+        "min": 4,
+        "average": 9.0,
+        "max": 14
+    },
+    {
+        "category": "Smart Doorbell",
+        "min": 0,
+        "average": 7.5,
+        "max": 22
+    },
+    {
+        "category": "Smart Entertainment Device",
+        "min": 0,
+        "average": 7.5,
+        "max": 24
+    },
+    {
+        "category": "Smart Fitness Equipment",
+        "min": 2,
+        "average": 2.0,
+        "max": 2
+    },
+    {
+        "category": "Smart Health Tracker",
+        "min": 0,
+        "average": 3.875,
+        "max": 10
+    },
+    {
+        "category": "Smart Home Device",
+        "min": 0,
+        "average": 6.86,
+        "max": 36
+    },
+    {
+        "category": "Smart Light",
+        "min": 1,
+        "average": 8.0,
+        "max": 26
+    },
+    {
+        "category": "Smart Location Tracker",
+        "min": 0,
+        "average": 5.5,
+        "max": 11
+    },
+    {
+        "category": "Smart Lock",
+        "min": 1,
+        "average": 11.77,
+        "max": 59
+    },
+    {
+        "category": "Smart Monitor",
+        "min": 0,
+        "average": 2.3,
+        "max": 11
+    },
+    {
+        "category": "Smart Mount",
+        "min": 0,
+        "average": 0.0,
+        "max": 0
+    },
+    {
+        "category": "Smart Networking",
+        "min": 0,
+        "average": 1.75,
+        "max": 4
+    },
+    {
+        "category": "Smart Projector",
+        "min": 13,
+        "average": 13.0,
+        "max": 13
+    },
+    {
+        "category": "Smart Scale",
+        "min": 0,
+        "average": 3.375,
+        "max": 9
+    },
+    {
+        "category": "Smart Security",
+        "min": 0,
+        "average": 7.75,
+        "max": 34
+    },
+    {
+        "category": "Smart Sensor",
+        "min": 0,
+        "average": 8.61,
+        "max": 42
+    },
+    {
+        "category": "Smart Speaker",
+        "min": 0,
+        "average": 5.33,
+        "max": 19
+    },
+    {
+        "category": "Smart Thermostat",
+        "min": 1,
+        "average": 16.0,
+        "max": 38
+    },
+    {
+        "category": "Smart Tv",
+        "min": 0,
+        "average": 14.0,
+        "max": 46
+    },
+    {
+        "category": "Smart Watch",
+        "min": 0,
+        "average": 11.13,
+        "max": 43
+    }
+]

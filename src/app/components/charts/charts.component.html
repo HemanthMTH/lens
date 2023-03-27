@@ -101,14 +101,15 @@
   </p>
 
   <div class="container mt-5 text-center">
-    <div class="row d-flex justify-content-center">
+    <div class="row d-flex justify-selectcontent-center">
       <div class="col-auto">
         <plotly-plot [data]="_data" [layout]="layout" [config]="config"></plotly-plot>
       </div>
     </div>
   </div>
 
-  <p class="lead">Below is a table containing a list of URLs serves as a useful reference for further visualizations. The
+  <p class="lead">Below is a table containing a list of URLs serves as a useful reference for further visualizations.
+    The
     table provides a comprehensive list of all the URLs that have been loaded dynamically, making it easy to access and
     analyze the data. By using this table as a reference, it becomes possible to quickly identify and locate specific
     URLs that are of interest, allowing for more targeted analysis and visualization.</p>
@@ -202,4 +203,9 @@
       </div>
     </div>
   </div>
+  
+  
+</div>
+<div *ngIf="isLoading" class="spinner-border" role="status">
+  <span class="visually-hidden">Loading...</span>
 </div>

@@ -6,7 +6,7 @@
             <tr>
               <th scope="col">S No.</th>
               <th scope="col">URL</th>
-              <th scope="col">Coherence_Score</th>
+              <th scope="col">Coherence Score</th>
               <th scope="col">Entropy</th>
               <th scope="col">Reading Time</th>
               <th scope="col">Imprecise Words</th>
@@ -30,4 +30,12 @@
         <mat-paginator [length]="dataSource.length" [pageSize]="pageSize" [pageSizeOptions]="pageSizeOptions"
           (page)="onPageChange($event)"></mat-paginator>
       </div> 
+
+      <div class="container mt-5 text-center">
+        <div class="row d-flex justify-content-center">
+          <div class="col-auto">
+            <plotly-plot [data]="data" [layout]="layout"></plotly-plot>
+          </div>
+        </div>
+      </div>
 </div>

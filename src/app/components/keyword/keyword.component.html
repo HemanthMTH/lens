@@ -1,0 +1,58 @@
+<div class="container my-5">
+    <h2 class="fw-bold text-center">Keyword Analysis</h2>
+    <div class="container mt-5 text-center">
+        <table class="table table-bordered">
+          <thead>
+            <tr>
+              <th scope="col">S No.</th>
+              <th scope="col">URL</th>
+              <th scope="col">Do Not Track</th>
+              <th scope="col">Data Security</th>
+              <th scope="col">First Party Collection</th>
+              <th scope="col">Third Party Collection</th>
+              <th scope="col">OPT-OUT</th>
+              <th scope="col">User Choice</th>
+              <th scope="col">Data</th>
+              <th scope="col">Legislation</th>
+              <th scope="col">Access/Edit/Delete</th>
+              <th scope="col">Policy Change</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let item of dataSource | slice:(page-1)*pageSize:page*pageSize; let i = index">
+              <th scope="row">{{i + 1}}</th>
+              <td>{{item.url}}</td>
+              <td>{{item.do_not_track}}</td>
+              <td>{{item.data_security}}</td>
+              <td>{{item.first_party_collection}}</td>
+              <td>{{item.third_party_collection}}</td>
+              <td>{{item.opt_out}}</td>
+              <td>{{item.user_choice}}</td>
+              <td>{{item.data}}</td>
+              <td>{{item.legislation}}</td>
+              <td>{{item.access_edit_delete}}</td>
+              <td>{{item.policy_change}}</td>
+            </tr>
+          </tbody>
+        </table>
+        <mat-paginator [length]="dataSource.length" [pageSize]="pageSize" [pageSizeOptions]="pageSizeOptions"
+          (page)="onPageChange($event)"></mat-paginator>
+      </div> 
+      <div class="container mt-5 text-center">
+        <div class="row d-flex justify-content-center">
+          <div class="col-auto">
+            <plotly-plot [data]="data" [layout]="layout" (plotlyClick)="onBarClick($event)"></plotly-plot>
+          </div>
+        </div>
+      </div>
+      <div *ngIf="!!this.type" class="container mt-5 text-center">
+        <div class="row d-flex justify-content-center">
+          <div class="col-auto">
+            <plotly-plot [data]="results_data" [layout]="results_layout" ></plotly-plot>
+          </div>
+          <div class="col-auto">
+            <plotly-plot [data]="no_device_results_data" [layout]="results_layout" ></plotly-plot>
+          </div>
+        </div>
+      </div>
+</div>

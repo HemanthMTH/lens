@@ -4,6 +4,7 @@ import { HomeComponent } from './components/home/home.component'
 import { ChartsComponent } from './components/charts/charts.component'
 import { DataComponent } from './components/data/data.component'
 import { AmbiguityComponent } from './components/ambiguity/ambiguity.component';
+import { KeywordComponent } from './components/keyword/keyword.component';
 
 const routes: Routes = [
   { path: '', pathMatch: 'full', redirectTo: 'home' },
@@ -22,6 +23,10 @@ const routes: Routes = [
   {
     path: 'ambiguity',
     component: AmbiguityComponent,
+  },
+  {
+    path: 'keyword',
+    component: KeywordComponent,
   },
 ];
 

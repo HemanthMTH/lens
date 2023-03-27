@@ -15,6 +15,8 @@ import { PlotlyModule } from 'angular-plotly.js';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { AmbiguityComponent } from './components/ambiguity/ambiguity.component';
 import { MatPaginatorModule } from '@angular/material/paginator';
+import { KeywordComponent } from './components/keyword/keyword.component';
+import { NgxExtendedPdfViewerModule } from 'ngx-extended-pdf-viewer';
 
 PlotlyModule.plotlyjs = PlotlyJS;
 @NgModule({
@@ -23,7 +25,8 @@ PlotlyModule.plotlyjs = PlotlyJS;
     ChartsComponent,
     HomeComponent,
     DataComponent,
-    AmbiguityComponent
+    AmbiguityComponent,
+    KeywordComponent
   ],
   imports: [
     BrowserModule,
@@ -35,7 +38,8 @@ PlotlyModule.plotlyjs = PlotlyJS;
     PlotlyModule,
     FormsModule,
     ReactiveFormsModule,
-    MatPaginatorModule 
+    MatPaginatorModule,
+    NgxExtendedPdfViewerModule
   ],
   providers: [],
   bootstrap: [AppComponent]
