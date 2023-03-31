@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, ViewChild } from '@angular/core';
 import { PageEvent } from '@angular/material/paginator';
 import { BarChartInput, GroupedAttributeData } from 'src/app/models/charts';
 import { Keyword, KeywordType, Results } from 'src/app/models/keywords';
@@ -7,8 +7,8 @@ import legislationData from '../../../assets/data/keywords/no_device/legislation
 import policyChangeData from '../../../assets/data/keywords/no_device/policy_change.json';
 import noDeviceLegislationData from '../../../assets/data/keywords/device/legislation_device.json';
 import noDevicePolicyChangeData from '../../../assets/data/keywords/device/policy_change_device.json';
-import firstPartyCollectionData from '../../../assets/data/keywords/no_device/third_party_collection.json';
-import noDeviceFirstPartyCollectionData from '../../../assets/data/keywords/device/third_party_collection_device.json';
+import firstPartyCollectionData from '../../../assets/data/keywords/no_device/first_party_collection.json';
+import noDeviceFirstPartyCollectionData from '../../../assets/data/keywords/device/first_party_collection_device.json';
 import thirdPartyCollectionData from '../../../assets/data/keywords/no_device/third_party_collection.json';
 import noDeviceThirdPartyCollectionData from '../../../assets/data/keywords/device/third_party_collection_device.json';
 import userChoiceData from '../../../assets/data/keywords/no_device/user_choice.json';
@@ -23,6 +23,8 @@ import accessEditDeleteData from '../../../assets/data/keywords/no_device/access
 import noDeviceAccessEditDeleteData from '../../../assets/data/keywords/device/access_edit_delete_device.json';
 import dataKeywordData from '../../../assets/data/keywords/no_device/access_edit_delete.json';
 import noDeviceDataKeywordData from '../../../assets/data/keywords/device/access_edit_delete_device.json';
+import { ColDef, GridOptions, GridReadyEvent } from 'ag-grid-community';
+import { AgGridAngular } from 'ag-grid-angular';
 
 @Component({
     selector: 'app-keyword',
@@ -30,39 +32,15 @@ import noDeviceDataKeywordData from '../../../assets/data/keywords/device/access
     styleUrls: ['./keyword.component.scss'],
 })
 export class KeywordComponent {
-    displayedColumns: string[] = [
-        'url',
-        'do_not_track',
-        'data_security',
-        'first_party_collection',
-        'third_party_collection',
-        'opt_out',
-        'data',
-        'legislation',
-        'access_edit_delete',
-        'policy_change',
-    ];
+    @ViewChild(AgGridAngular) agGrid!: AgGridAngular;
 
     dataSource: Keyword[];
-    page = 1;
-    pageSize = 10;
-    pageSizeOptions: number[] = [5, 10, 25, 100];
-
     data: BarChartInput[] = [];
     layout = {
         barmode: 'group',
         title: 'Grouped Horizontal Bar Chart',
         xaxis: { title: 'Attribute Values' },
         yaxis: {
-            // title: {
-            //     text: 'Groups',
-            //     standoff: 200,
-            //     font: {
-            //         family: 'Pangram',
-            //         size: 14,
-            //         color: '#232323',
-            //     },
-            // },
             tickmode: 'linear',
             tickangle: 45,
             tickfont: { size: 10 },
@@ -75,17 +53,93 @@ export class KeywordComponent {
     results: Results[];
     results_data: BarChartInput[] = [];
     no_device_results_data: BarChartInput[] = [];
-    results_layout = {
+    device_results_layout = {
         barmode: 'stack',
-        title: 'Stacked Bar Chart',
+        title: 'Mentioned Devices',
         xaxis: { title: 'Device Type' },
         yaxis: {
             tickmode: 'linear',
             tickangle: 45,
             tickfont: { size: 8 },
         },
-        width: 600,
-        height: 600,
+        width: 500,
+        height: 500,
+    };
+    results_layout = {
+        barmode: 'stack',
+        title: 'Not Mentioned Devices',
+        xaxis: { title: 'Device Type' },
+        yaxis: {
+            tickmode: 'linear',
+            tickangle: 45,
+            tickfont: { size: 8 },
+        },
+        width: 500,
+        height: 500,
+    };
+
+    public columnDefs: ColDef[] = [
+        {
+            headerName: 'URL',
+            field: 'url',
+            pinned: 'left',
+            width: 250,
+        },
+        {
+            headerName: 'Do Not Track',
+            field: 'do_not_track',
+        },
+        {
+            headerName: 'Data Security',
+            field: 'data_security',
+        },
+        {
+            headerName: 'First Party Collection',
+            field: 'first_party_collection',
+        },
+        {
+            headerName: 'Third Party Collection',
+            field: 'third_party_collection',
+        },
+        {
+            headerName: 'OPT-OUT',
+            field: 'opt_out',
+        },
+        {
+            headerName: 'User Choice',
+            field: 'user_choice',
+        },
+        {
+            headerName: 'Data',
+            field: 'data',
+        },
+        {
+            headerName: 'Legislation',
+            field: 'legislation',
+        },
+        {
+            headerName: 'Access/Edit/Delete',
+            field: 'access_edit_delete',
+        },
+        {
+            headerName: 'Policy Change',
+            field: 'policy_change',
+        },
+    ];
+    public rowData$!: any[];
+    public defaultColDef: ColDef = {
+        sortable: true,
+        filter: true,
+        // cellStyle: {
+        //     display: 'flex',
+        //     justifyContent: 'center',
+        //     alignItems: 'center',
+        //     textAlign: 'center',
+        // },
+    };
+    gridOptions: GridOptions = {
+        pagination: true,
+        paginationPageSize: 10,
     };
 
     constructor() {
@@ -140,9 +194,8 @@ export class KeywordComponent {
         ];
     }
 
-    onPageChange(event: PageEvent): void {
-        this.page = event.pageIndex + 1;
-        this.pageSize = event.pageSize;
+    onGridReady(params: GridReadyEvent) {
+        this.rowData$ = keywordData;
     }
 
     onBarClick(param: any) {

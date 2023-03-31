@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { PageEvent } from '@angular/material/paginator';
+import { ColDef, GridOptions, GridReadyEvent } from 'ag-grid-community';
 import { Ambiguity } from 'src/app/models/ambiguity';
 import ambiguityData from '../../../assets/data/ambiguity_data.json';
 
@@ -9,20 +10,8 @@ import ambiguityData from '../../../assets/data/ambiguity_data.json';
     styleUrls: ['./ambiguity.component.scss'],
 })
 export class AmbiguityComponent {
-    displayedColumns: string[] = [
-        'url',
-        'coherence_score',
-        'entropy',
-        'unique_words',
-        'reading_time',
-        'imprecise_words',
-        'connective_words',
-        'spelling_errors',
-    ];
     dataSource: Ambiguity[] = [];
-    page = 1;
-    pageSize = 10;
-    pageSizeOptions: number[] = [5, 10, 25, 100];
+   
 
     attributeData = [
         { name: 'Group A', mean: 10, median: 8, q2: 12 },
@@ -63,12 +52,51 @@ export class AmbiguityComponent {
         yaxis: { title: 'Groups' },
     };
 
+    public columnDefs: ColDef[] = [
+        {
+            field: 'url',
+            pinned: 'left',
+            width: 250,
+        },
+        {
+            headerName: 'Coherence Score',
+            field: 'coherence_score',
+        },
+        {
+            field: 'entropy',
+        },
+        {
+            headerName: 'Reading Time',
+            field: 'reading_time',
+        },
+        {
+            headerName: 'Imprecise Words',
+            field: 'imprecise_words',
+        },
+        {
+            headerName: 'Connective Words',
+            field: 'connective_words',
+        },
+        {
+            headerName: 'Spelling Errors',
+            field: 'spelling_errors',
+        },
+    ];
+    rowData$!: any[];
+    defaultColDef: ColDef = {
+        sortable: true,
+        filter: true,
+    };
+    gridOptions: GridOptions = {
+        pagination: true,
+        paginationPageSize: 10,
+    };
+
     constructor() {
-        this.dataSource = ambiguityData
+        this.dataSource = ambiguityData;
     }
 
-    onPageChange(event: PageEvent): void {
-        this.page = event.pageIndex + 1;
-        this.pageSize = event.pageSize;
+    onGridReady(params: GridReadyEvent) {
+        this.rowData$ = ambiguityData;
     }
 }

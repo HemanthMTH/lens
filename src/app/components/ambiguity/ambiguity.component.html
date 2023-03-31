@@ -1,41 +1,17 @@
 <div class="container my-5">
-    <h2 class="fw-bold text-center">Ambiguity</h2>
-    <div class="container mt-5 text-center">
-        <table class="table table-bordered">
-          <thead>
-            <tr>
-              <th scope="col">S No.</th>
-              <th scope="col">URL</th>
-              <th scope="col">Coherence Score</th>
-              <th scope="col">Entropy</th>
-              <th scope="col">Reading Time</th>
-              <th scope="col">Imprecise Words</th>
-              <th scope="col">Connective Words</th>
-              <th scope="col">Spelling Errors</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr *ngFor="let item of dataSource | slice:(page-1)*pageSize:page*pageSize; let i = index">
-              <th scope="row">{{i + 1}}</th>
-              <td>{{item.url}}</td>
-              <td>{{item.coherence_score}}</td>
-              <td>{{item.entropy}}</td>
-              <td>{{item.reading_time}}</td>
-              <td>{{item.imprecise_words}}</td>
-              <td>{{item.connective_words}}</td>
-              <td>{{item.spelling_errors}}</td>
-            </tr>
-          </tbody>
-        </table>
-        <mat-paginator [length]="dataSource.length" [pageSize]="pageSize" [pageSizeOptions]="pageSizeOptions"
-          (page)="onPageChange($event)"></mat-paginator>
-      </div> 
+  <h2 class="fw-bold text-center">Ambiguity</h2>
 
-      <div class="container mt-5 text-center">
-        <div class="row d-flex justify-content-center">
-          <div class="col-auto">
-            <plotly-plot [data]="data" [layout]="layout"></plotly-plot>
-          </div>
-        </div>
+  <div class="ag-theme-alpine my-5">
+    <ag-grid-angular #agGrid style="height: 540px;" [rowData]="rowData$" [columnDefs]="columnDefs"
+      [defaultColDef]="defaultColDef" [animateRows]="true" [gridOptions]="gridOptions"
+      (gridReady)="onGridReady($event)">
+    </ag-grid-angular>
+  </div>
+  <div class="container mt-5 text-center">
+    <div class="row d-flex justify-content-center">
+      <div class="col-auto">
+        <plotly-plot [data]="data" [layout]="layout"></plotly-plot>
       </div>
+    </div>
+  </div>
 </div>

@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, ViewChild } from '@angular/core';
 import { PolicyData, Similarity } from 'src/app/models/similarity';
 
 import { DataItem, Series } from '@swimlane/ngx-charts';
@@ -10,6 +10,13 @@ import { PageEvent } from '@angular/material/paginator';
 import _heatmapData from '../../../assets/data/heatmap.json';
 import embedData from '../../../assets/data/embed.json';
 import similarityData from '../../../assets/data/similarity_data.json';
+import { AgGridAngular } from 'ag-grid-angular';
+import {
+    ColDef,
+    GridApi,
+    GridOptions,
+    GridReadyEvent,
+} from 'ag-grid-community';
 
 @Component({
     selector: 'app-charts',
@@ -17,6 +24,10 @@ import similarityData from '../../../assets/data/similarity_data.json';
     styleUrls: ['./charts.component.scss'],
 })
 export class ChartsComponent {
+    @ViewChild(AgGridAngular) agGrid!: AgGridAngular;
+
+    dataSource: Similarity[] = [];
+
     // reactive form for range selection
     heatMapForm: FormGroup = this.fb.group({
         min: [
@@ -41,13 +52,6 @@ export class ChartsComponent {
     config: any = {
         responsive: true,
     };
-
-    // Table grid
-    displayedColumns: string[] = ['url'];
-    dataSource: Similarity[] = [];
-    page = 1;
-    pageSize = 10;
-    pageSizeOptions: number[] = [5, 10, 25, 100];
 
     // Dynamic heatmap
     view: [number, number] = [1000, 800];
@@ -85,6 +89,26 @@ export class ChartsComponent {
         width: 1000,
         height: 800,
     };
+    public columnDefs: ColDef[] = [
+        {
+            headerName: 'S No.',
+            field: 'reference',
+        },
+        {
+            headerName: 'URL',
+            field: 'url',
+        },
+    ];
+    rowData$!: any[];
+    defaultColDef: ColDef = {
+        sortable: true,
+        filter: true,
+    };
+    gridOptions: GridOptions = {
+        pagination: true,
+        paginationPageSize: 10,
+        suppressHorizontalScroll: true,
+    };
 
     constructor(private fb: FormBuilder) {
         this.prepareData();
@@ -104,10 +128,17 @@ export class ChartsComponent {
         this.isLoading = false;
     }
 
+    onGridReady(params: GridReadyEvent) {
+        this.rowData$ = this.dataSource;
+        const gridApi: GridApi = params.api;
+        gridApi.sizeColumnsToFit();
+    }
+
     prepareData(): void {
-        similarityData.forEach((element: any) => {
+        similarityData.forEach((element: any, index: number) => {
             this.dataSource.push(
                 new Similarity(
+                    index + 1,
                     element.url,
                     element.policy_text,
                     element.policy_text_processed,
@@ -137,11 +168,6 @@ export class ChartsComponent {
                 type: 'heatmap',
             },
         ];
-    }
-
-    onPageChange(event: PageEvent): void {
-        this.page = event.pageIndex + 1;
-        this.pageSize = event.pageSize;
     }
 
     getUMAPVector(): number[][] {
@@ -204,7 +230,9 @@ export class ChartsComponent {
                 item.value =
                     Object.values(_heatmapData[i].series[j])[1] == null
                         ? 0
-                        : Object.values(_heatmapData[i].series[j])[1] as number;
+                        : (Object.values(
+                              _heatmapData[i].series[j]
+                          )[1] as number);
                 data.push(item);
             }
             series.series = data;
@@ -221,5 +249,4 @@ export class ChartsComponent {
     onMapSelect(event: any): void {
         console.log(event);
     }
-   
 }

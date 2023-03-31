@@ -1,4 +1,4 @@
-import { NgModule } from '@angular/core';
+import { NgModule, CUSTOM_ELEMENTS_SCHEMA  } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
@@ -16,7 +16,9 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { AmbiguityComponent } from './components/ambiguity/ambiguity.component';
 import { MatPaginatorModule } from '@angular/material/paginator';
 import { KeywordComponent } from './components/keyword/keyword.component';
-import { NgxExtendedPdfViewerModule } from 'ngx-extended-pdf-viewer';
+import { PdfViewerModule } from 'ng2-pdf-viewer';
+import { AgGridModule } from 'ag-grid-angular';
+
 
 PlotlyModule.plotlyjs = PlotlyJS;
 @NgModule({
@@ -39,9 +41,11 @@ PlotlyModule.plotlyjs = PlotlyJS;
     FormsModule,
     ReactiveFormsModule,
     MatPaginatorModule,
-    NgxExtendedPdfViewerModule
+    PdfViewerModule,
+    AgGridModule 
   ],
   providers: [],
+  schemas: [CUSTOM_ELEMENTS_SCHEMA],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

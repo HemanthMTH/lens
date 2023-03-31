@@ -16,3 +16,4 @@ export interface BarChartInput {
     orientation: string;
 }
 
+
