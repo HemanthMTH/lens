@@ -4,7 +4,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
-import { ChartsComponent } from './components/charts/charts.component';
+import { SimilarityComponent } from './components/similarity/similarity.component';
 import { HomeComponent } from './components/home/home.component';
 import { DataComponent } from './components/data/data.component';
 import { GoogleChartsModule } from 'angular-google-charts';
@@ -18,17 +18,20 @@ import { MatPaginatorModule } from '@angular/material/paginator';
 import { KeywordComponent } from './components/keyword/keyword.component';
 import { PdfViewerModule } from 'ng2-pdf-viewer';
 import { AgGridModule } from 'ag-grid-angular';
+import { KeyInformationComponent } from './components/key-information/key-information.component';
+import { NgSelectModule } from '@ng-select/ng-select';
 
 
 PlotlyModule.plotlyjs = PlotlyJS;
 @NgModule({
   declarations: [
     AppComponent,
-    ChartsComponent,
+    SimilarityComponent,
     HomeComponent,
     DataComponent,
     AmbiguityComponent,
-    KeywordComponent
+    KeywordComponent,
+    KeyInformationComponent
   ],
   imports: [
     BrowserModule,
@@ -42,7 +45,8 @@ PlotlyModule.plotlyjs = PlotlyJS;
     ReactiveFormsModule,
     MatPaginatorModule,
     PdfViewerModule,
-    AgGridModule 
+    AgGridModule,
+    NgSelectModule  
   ],
   providers: [],
   schemas: [CUSTOM_ELEMENTS_SCHEMA],

@@ -1,0 +1,28 @@
+<div class="container my-5">
+    <h2 class="fw-bold text-center">Keyword Information</h2>
+
+    <div class="container mt-5 text-center">
+        <div class="row d-flex justify-content-center">
+            <div class="col-auto">
+                <plotly-plot [data]="deviceData" [layout]="deviceLayout"></plotly-plot>
+            </div>
+        </div>
+    </div>
+
+    <div class="container mt-5 text-center">
+        <div class="row d-flex justify-content-center">
+            <div class="col-auto">
+                <plotly-plot [data]="countryData" [layout]="countryLayout"></plotly-plot>
+            </div>
+        </div>
+    </div>
+    <ng-select [items]="countries" bindLabel="name" placeholder="Select country" (change)="onChange($event)"  [(ngModel)]="selectedCity">
+    </ng-select>
+    <div *ngIf="!!selectedCity" class="container my-5 text-center">
+        <div class="row d-flex justify-content-center">
+            <div class="col-auto">
+                <plotly-plot [data]="currentCountryData" [layout]="barLayout"></plotly-plot>
+            </div>
+        </div>
+    </div>
+</div>

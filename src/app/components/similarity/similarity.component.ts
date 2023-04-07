@@ -20,10 +20,10 @@ import {
 
 @Component({
     selector: 'app-charts',
-    templateUrl: './charts.component.html',
-    styleUrls: ['./charts.component.scss'],
+    templateUrl: './similarity.component.html',
+    styleUrls: ['./similarity.component.scss'],
 })
-export class ChartsComponent {
+export class SimilarityComponent {
     @ViewChild(AgGridAngular) agGrid!: AgGridAngular;
 
     dataSource: Similarity[] = [];

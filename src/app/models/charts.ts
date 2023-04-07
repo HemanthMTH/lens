@@ -9,11 +9,15 @@ export interface GroupedAttributeData {
   }
 
 export interface BarChartInput {
-    x: number[];
-    y: string[];
+    x: number[] | string[];
+    y: number[] | string[];
     name: string;
     type: string;
-    orientation: string;
+    orientation?: string;
+    marker?: Marker
 }
 
+export interface Marker{
+  color: string[]
+}
 

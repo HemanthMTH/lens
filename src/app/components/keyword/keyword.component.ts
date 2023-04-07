@@ -1,5 +1,4 @@
 import { Component, ViewChild } from '@angular/core';
-import { PageEvent } from '@angular/material/paginator';
 import { BarChartInput, GroupedAttributeData } from 'src/app/models/charts';
 import { Keyword, KeywordType, Results } from 'src/app/models/keywords';
 import keywordData from '../../../assets/data/keyword_analysis_data.json';

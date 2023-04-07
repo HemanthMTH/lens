@@ -1,0 +1,146 @@
+[
+    {
+        "device_type": " Body Scanners",
+        "not_mentioned": 1,
+        "mentioned": 1,
+        "total": 2
+    },
+    {
+        "device_type": " Cameras",
+        "not_mentioned": 24,
+        "mentioned": 37,
+        "total": 61
+    },
+    {
+        "device_type": " Connected Vehicles",
+        "not_mentioned": 3,
+        "mentioned": 10,
+        "total": 13
+    },
+    {
+        "device_type": " Doorbells",
+        "not_mentioned": 7,
+        "mentioned": 8,
+        "total": 15
+    },
+    {
+        "device_type": " Entertainment Devices",
+        "not_mentioned": 7,
+        "mentioned": 10,
+        "total": 17
+    },
+    {
+        "device_type": " Fitness Equipments",
+        "not_mentioned": 1,
+        "mentioned": 3,
+        "total": 4
+    },
+    {
+        "device_type": " Gaming",
+        "not_mentioned": 1,
+        "mentioned": 1,
+        "total": 2
+    },
+    {
+        "device_type": " Health Trackers",
+        "not_mentioned": 8,
+        "mentioned": 18,
+        "total": 26
+    },
+    {
+        "device_type": " Home Devices",
+        "not_mentioned": 65,
+        "mentioned": 114,
+        "total": 179
+    },
+    {
+        "device_type": " Lights",
+        "not_mentioned": 21,
+        "mentioned": 37,
+        "total": 58
+    },
+    {
+        "device_type": " Location Trackers",
+        "not_mentioned": 3,
+        "mentioned": 15,
+        "total": 18
+    },
+    {
+        "device_type": " Locks",
+        "not_mentioned": 9,
+        "mentioned": 13,
+        "total": 22
+    },
+    {
+        "device_type": " Monitors",
+        "not_mentioned": 12,
+        "mentioned": 23,
+        "total": 35
+    },
+    {
+        "device_type": " Mounts",
+        "not_mentioned": 1,
+        "mentioned": 1,
+        "total": 2
+    },
+    {
+        "device_type": " Networking",
+        "not_mentioned": 4,
+        "mentioned": 8,
+        "total": 12
+    },
+    {
+        "device_type": " Projectors",
+        "not_mentioned": 1,
+        "mentioned": 2,
+        "total": 3
+    },
+    {
+        "device_type": " Scales",
+        "not_mentioned": 8,
+        "mentioned": 16,
+        "total": 24
+    },
+    {
+        "device_type": " Security",
+        "not_mentioned": 12,
+        "mentioned": 22,
+        "total": 34
+    },
+    {
+        "device_type": " Sensors",
+        "not_mentioned": 13,
+        "mentioned": 31,
+        "total": 44
+    },
+    {
+        "device_type": " Speakers",
+        "not_mentioned": 15,
+        "mentioned": 19,
+        "total": 34
+    },
+    {
+        "device_type": " Thermostats",
+        "not_mentioned": 7,
+        "mentioned": 15,
+        "total": 22
+    },
+    {
+        "device_type": " Tv's",
+        "not_mentioned": 8,
+        "mentioned": 10,
+        "total": 18
+    },
+    {
+        "device_type": " Watches",
+        "not_mentioned": 16,
+        "mentioned": 30,
+        "total": 46
+    },
+    {
+        "device_type": "Miscellaneous",
+        "not_mentioned": 9,
+        "mentioned": 15,
+        "total": 24
+    }
+]
