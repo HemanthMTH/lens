@@ -16,12 +16,27 @@
             </div>
         </div>
     </div>
-    <ng-select [items]="countries" bindLabel="name" placeholder="Select country" (change)="onChange($event)"  [(ngModel)]="selectedCity">
+    <ng-select [items]="countries" bindLabel="name" placeholder="Select country" (change)="onCountryChange($event)"
+        [(ngModel)]="selectedCountry">
     </ng-select>
-    <div *ngIf="!!selectedCity" class="container my-5 text-center">
+    <div *ngIf="!!selectedCountry" class="container my-5 text-center">
         <div class="row d-flex justify-content-center">
             <div class="col-auto">
                 <plotly-plot [data]="currentCountryData" [layout]="barLayout"></plotly-plot>
+            </div>
+        </div>
+    </div>
+    <ng-select [items]="devices" bindLabel="name" placeholder="Select Device Type" (change)="onDeviceTypeChange($event)"
+        [(ngModel)]="selectedDevice">
+    </ng-select>
+    <div *ngIf="!!selectedDevice" class="container my-5 text-center">
+        <div class="row d-flex justify-content-center">
+            <div class="col-auto">
+                <plotly-plot [data]="timelineData" [layout]="graph.layout" [config]="graph.config"></plotly-plot>
+            </div>
+            <div class="col-auto">
+                <plotly-plot [data]="noMentionTimelineData" [layout]="graph.layout"
+                    [config]="graph.config"></plotly-plot>
             </div>
         </div>
     </div>

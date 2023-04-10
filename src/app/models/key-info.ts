@@ -19,7 +19,7 @@ export interface DistributionInfo {
     smart_speakers: number | null;
     smart_sensors: number | null;
     smart_security: number | null;
-    smart_scales: number | null,
+    smart_scales: number | null;
     smart_projectors: number | null;
     smart_networking: number | null;
     smart_mounts: number | null;
@@ -39,4 +39,40 @@ export interface DistributionInfo {
     misc: number | null;
 }
 
+export interface UpdateData {
+    device_name: string;
+    year: number;
+}
 
+export interface OutputData {
+    device_name: string;
+    data: {
+        year: number;
+        count: number;
+    }[];
+}
+
+export const devices = [
+    'Smart Home Device',
+    'Smart Light',
+    'Smart Camera',
+    'Smart Health Tracker',
+    'Smart Security',
+    'Miscellaneous',
+    'Smart Speaker',
+    'Smart Watch',
+    'Smart Lock',
+    'Smart Monitor',
+    'Smart Doorbell',
+    'Smart Tv',
+    'Smart Gaming',
+    'Smart Networking',
+    'Smart Thermostat',
+    'Smart Scales',
+    'Smart Mount',
+    'Smart Sensor',
+    'Smart Entertainment Devices',
+    'Smart Connected Vehicle',
+    'Smart Projector',
+    'Smart Body Scanners',
+];

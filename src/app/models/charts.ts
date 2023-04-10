@@ -11,10 +11,13 @@ export interface GroupedAttributeData {
 export interface BarChartInput {
     x: number[] | string[];
     y: number[] | string[];
-    name: string;
+    z?: number[][];
+    name?: string;
     type: string;
     orientation?: string;
-    marker?: Marker
+    marker?: Marker;
+    colorscale?: string;
+    hovertemplate?: string;
 }
 
 export interface Marker{

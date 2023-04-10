@@ -1,0 +1,558 @@
+[
+    {
+        "device_name": "Smart Home Device",
+        "year": 2003
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2003
+    },
+    {
+        "device_name": "Smart Light",
+        "year": 2005
+    },
+    {
+        "device_name": "Smart Camera",
+        "year": 2008
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2011
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2011
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2011
+    },
+    {
+        "device_name": "Smart Health Tracker",
+        "year": 2012
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2012
+    },
+    {
+        "device_name": "Smart Light",
+        "year": 2014
+    },
+    {
+        "device_name": "Smart Security",
+        "year": 2015
+    },
+    {
+        "device_name": "Smart Light",
+        "year": 2015
+    },
+    {
+        "device_name": "Miscellaneous",
+        "year": 2015
+    },
+    {
+        "device_name": "Smart Light",
+        "year": 2015
+    },
+    {
+        "device_name": "Smart Speaker",
+        "year": 2015
+    },
+    {
+        "device_name": "Smart Watch",
+        "year": 2015
+    },
+    {
+        "device_name": "Smart Watch",
+        "year": 2016
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2016
+    },
+    {
+        "device_name": "Smart Security",
+        "year": 2016
+    },
+    {
+        "device_name": "Smart Camera",
+        "year": 2016
+    },
+    {
+        "device_name": "Smart Health Tracker",
+        "year": 2017
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2017
+    },
+    {
+        "device_name": "Smart Camera",
+        "year": 2017
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2017
+    },
+    {
+        "device_name": "Smart Light",
+        "year": 2017
+    },
+    {
+        "device_name": "Smart Lock",
+        "year": 2017
+    },
+    {
+        "device_name": "Smart Health Tracker",
+        "year": 2017
+    },
+    {
+        "device_name": "Smart Monitor",
+        "year": 2017
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2018
+    },
+    {
+        "device_name": "Smart Speaker",
+        "year": 2018
+    },
+    {
+        "device_name": "Smart Speaker",
+        "year": 2018
+    },
+    {
+        "device_name": "Smart Doorbell",
+        "year": 2018
+    },
+    {
+        "device_name": "Smart Tv",
+        "year": 2018
+    },
+    {
+        "device_name": "Smart Monitor",
+        "year": 2018
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2018
+    },
+    {
+        "device_name": "Smart Camera",
+        "year": 2018
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2018
+    },
+    {
+        "device_name": "Smart Gaming",
+        "year": 2018
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2018
+    },
+    {
+        "device_name": "Smart Monitor",
+        "year": 2018
+    },
+    {
+        "device_name": "Miscellaneous",
+        "year": 2018
+    },
+    {
+        "device_name": "Smart Light",
+        "year": 2018
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2018
+    },
+    {
+        "device_name": "Smart Networking",
+        "year": 2018
+    },
+    {
+        "device_name": "Smart Thermostat",
+        "year": 2018
+    },
+    {
+        "device_name": "Smart Camera",
+        "year": 2018
+    },
+    {
+        "device_name": "Smart Light",
+        "year": 2018
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2019
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2019
+    },
+    {
+        "device_name": "Smart Camera",
+        "year": 2019
+    },
+    {
+        "device_name": "Smart Scales",
+        "year": 2019
+    },
+    {
+        "device_name": "Smart Mount",
+        "year": 2019
+    },
+    {
+        "device_name": "Smart Monitor",
+        "year": 2019
+    },
+    {
+        "device_name": "Smart Light",
+        "year": 2019
+    },
+    {
+        "device_name": "Smart Monitor",
+        "year": 2019
+    },
+    {
+        "device_name": "Smart Lock",
+        "year": 2019
+    },
+    {
+        "device_name": "Smart Sensor",
+        "year": 2019
+    },
+    {
+        "device_name": "Smart Camera",
+        "year": 2019
+    },
+    {
+        "device_name": "Smart Light",
+        "year": 2019
+    },
+    {
+        "device_name": "Smart Light",
+        "year": 2019
+    },
+    {
+        "device_name": "Smart Light",
+        "year": 2019
+    },
+    {
+        "device_name": "Smart Health Tracker",
+        "year": 2019
+    },
+    {
+        "device_name": "Smart Light",
+        "year": 2019
+    },
+    {
+        "device_name": "Smart Doorbell",
+        "year": 2019
+    },
+    {
+        "device_name": "Smart Lock",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Tv",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Camera",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Monitor",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Speaker",
+        "year": 2020
+    },
+    {
+        "device_name": "Miscellaneous",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Scales",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Scales",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Watch",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Speaker",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Speaker",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Sensor",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Doorbell",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Entertainment Devices",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Connected Vehicle",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Sensor",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Sensor",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Thermostat",
+        "year": 2020
+    },
+    {
+        "device_name": "Miscellaneous",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Lock",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Camera",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Security",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Tv",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Thermostat",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Tv",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Watch",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Networking",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Projector",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Security",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Watch",
+        "year": 2020
+    },
+    {
+        "device_name": "Smart Entertainment Devices",
+        "year": 2021
+    },
+    {
+        "device_name": "Miscellaneous",
+        "year": 2021
+    },
+    {
+        "device_name": "Smart Monitor",
+        "year": 2021
+    },
+    {
+        "device_name": "Smart Health Tracker",
+        "year": 2021
+    },
+    {
+        "device_name": "Smart Body Scanners",
+        "year": 2021
+    },
+    {
+        "device_name": "Smart Connected Vehicle",
+        "year": 2021
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2021
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2021
+    },
+    {
+        "device_name": "Smart Lock",
+        "year": 2021
+    },
+    {
+        "device_name": "Smart Watch",
+        "year": 2021
+    },
+    {
+        "device_name": "Smart Entertainment Devices",
+        "year": 2021
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2021
+    },
+    {
+        "device_name": "Smart Security",
+        "year": 2021
+    },
+    {
+        "device_name": "Smart Entertainment Devices",
+        "year": 2021
+    },
+    {
+        "device_name": "Smart Watch",
+        "year": 2021
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2021
+    },
+    {
+        "device_name": "Smart Camera",
+        "year": 2021
+    },
+    {
+        "device_name": "Smart Watch",
+        "year": 2021
+    },
+    {
+        "device_name": "Smart Security",
+        "year": 2022
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2022
+    },
+    {
+        "device_name": "Smart Sensor",
+        "year": 2022
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2022
+    },
+    {
+        "device_name": "Smart Home Device",
+        "year": 2022
+    },
+    {
+        "device_name": "Smart Thermostat",
+        "year": 2022
+    },
+    {
+        "device_name": "Smart Watch",
+        "year": 2022
+    },
+    {
+        "device_name": "Smart Speaker",
+        "year": 2022
+    },
+    {
+        "device_name": "Smart Sensor",
+        "year": 2022
+    },
+    {
+        "device_name": "Smart Entertainment Devices",
+        "year": 2022
+    },
+    {
+        "device_name": "Smart Speaker",
+        "year": 2022
+    },
+    {
+        "device_name": "Smart Camera",
+        "year": 2022
+    },
+    {
+        "device_name": "Smart Sensor",
+        "year": 2022
+    },
+    {
+        "device_name": "Smart Light",
+        "year": 2022
+    },
+    {
+        "device_name": "Smart Networking",
+        "year": 2022
+    },
+    {
+        "device_name": "Smart Security",
+        "year": 2022
+    },
+    {
+        "device_name": "Smart Camera",
+        "year": 2022
+    },
+    {
+        "device_name": "Smart Watch",
+        "year": 2022
+    }
+]
