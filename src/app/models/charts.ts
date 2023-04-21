@@ -21,6 +21,10 @@ export interface BarChartInput {
 }
 
 export interface Marker{
-  color: string[]
+  color: any[];
+  colorscale?: string,
+  cmin?: number,
+  cmax?: number,
+  reversescale?: boolean
 }
 

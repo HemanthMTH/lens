@@ -166,6 +166,7 @@ export class SimilarityComponent {
                     policy.series.map((entry) => entry.value)
                 ),
                 type: 'heatmap',
+                hovertemplate: 'X: %{x}, Y: %{y} => Similarity score: %{z}<extra></extra>',
             },
         ];
     }

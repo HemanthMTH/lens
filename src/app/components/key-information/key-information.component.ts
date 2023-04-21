@@ -100,16 +100,47 @@ export class KeyInformationComponent {
             width: 500,
             height: 500,
         },
+        
         config: {
             displayModeBar: false,
         },
         
     };
-    public graph2 = this.graph
+    public graph2 = {
+        layout: {
+            title: 'Device not mentioned',
+            xaxis: {
+                tickvals: this.dates,
+                ticktext: this.dates.map((t) => String(t)),
+                tickmode: 'linear',
+                tickangle: 45,
+                tickfont: { size: 9 },
+            },
+            yaxis: { title: 'Count', showticklabels: false },
+            margin: { t: 30, l: 50, r: 30, b: 30 },
+            shapes: [
+                {
+                    type: 'line',
+                    x0: 2017,
+                    x1: 2017,
+                    xref: 'x',
+                    y0: 0,
+                    y1: 1,
+                    yref: 'paper',
+                    line: {
+                        color: 'red',
+                        width: 2,
+                    },
+                },
+            ],
+            width: 500,
+            height: 500,
+        },
+    };
+
     
 
     constructor() {
-        this.graph2.layout.title = 'Device not mentioned'
         this.deviceInfo = deviceData;
         this.distInfo = distributedData;
         this.countries = countryData.map((t) => t.country);

@@ -1,0 +1,3682 @@
+[
+    {
+        "coherence_score": 0.466545058,
+        "entropy": 6.379410274,
+        "unique_words": 0.140994689,
+        "reading_time": 11,
+        "fkgl": 27.5868951,
+        "imprecise_words": 0.01,
+        "connective_words": 0.02,
+        "spelling_errors": 0.33
+    },
+    {
+        "coherence_score": 0.354273227,
+        "entropy": 7.993333726,
+        "unique_words": 0.211489721,
+        "reading_time": 17,
+        "fkgl": 21.73227679,
+        "imprecise_words": 0.03,
+        "connective_words": 0.05,
+        "spelling_errors": 0.31
+    },
+    {
+        "coherence_score": 0.329174841,
+        "entropy": 7.63602645,
+        "unique_words": 0.35206422,
+        "reading_time": 4,
+        "fkgl": 19.52217562,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.49
+    },
+    {
+        "coherence_score": 0.350586032,
+        "entropy": 8.410242149,
+        "unique_words": 0.198654614,
+        "reading_time": 23,
+        "fkgl": 18.95024873,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.35
+    },
+    {
+        "coherence_score": 0.363856405,
+        "entropy": 7.583596709,
+        "unique_words": 0.338999056,
+        "reading_time": 5,
+        "fkgl": 18.19189633,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.18
+    },
+    {
+        "coherence_score": 0.350214238,
+        "entropy": 8.468020164,
+        "unique_words": 0.174414771,
+        "reading_time": 29,
+        "fkgl": 16.84762471,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.42
+    },
+    {
+        "coherence_score": 0.302174953,
+        "entropy": 7.88823562,
+        "unique_words": 0.346657478,
+        "reading_time": 7,
+        "fkgl": 16.7098981,
+        "imprecise_words": 0.01,
+        "connective_words": 0.04,
+        "spelling_errors": 0.26
+    },
+    {
+        "coherence_score": 0.359551937,
+        "entropy": 7.411393789,
+        "unique_words": 0.346598203,
+        "reading_time": 4,
+        "fkgl": 16.50821901,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.12
+    },
+    {
+        "coherence_score": 0.36269972,
+        "entropy": 8.200595807,
+        "unique_words": 0.22633864,
+        "reading_time": 17,
+        "fkgl": 16.43009962,
+        "imprecise_words": 0.03,
+        "connective_words": 0.04,
+        "spelling_errors": 0.27
+    },
+    {
+        "coherence_score": 0.355011598,
+        "entropy": 7.99443683,
+        "unique_words": 0.220723307,
+        "reading_time": 16,
+        "fkgl": 16.40462034,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.29
+    },
+    {
+        "coherence_score": 0.360076158,
+        "entropy": 8.347387381,
+        "unique_words": 0.22481415,
+        "reading_time": 18,
+        "fkgl": 16.37639233,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.21
+    },
+    {
+        "coherence_score": 0.357867807,
+        "entropy": 7.941799951,
+        "unique_words": 0.278552972,
+        "reading_time": 9,
+        "fkgl": 16.33917313,
+        "imprecise_words": 0.03,
+        "connective_words": 0.05,
+        "spelling_errors": 0.29
+    },
+    {
+        "coherence_score": 0.331301507,
+        "entropy": 7.402043684,
+        "unique_words": 0.340740741,
+        "reading_time": 4,
+        "fkgl": 16.29225309,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.11
+    },
+    {
+        "coherence_score": 0.350939406,
+        "entropy": 8.821630103,
+        "unique_words": 0.184172282,
+        "reading_time": 36,
+        "fkgl": 16.04581818,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.38
+    },
+    {
+        "coherence_score": 0.325116308,
+        "entropy": 7.949719823,
+        "unique_words": 0.290635614,
+        "reading_time": 10,
+        "fkgl": 15.75397344,
+        "imprecise_words": 0.02,
+        "connective_words": 0.07,
+        "spelling_errors": 0.21
+    },
+    {
+        "coherence_score": 0.316379123,
+        "entropy": 8.335708163,
+        "unique_words": 0.243185948,
+        "reading_time": 16,
+        "fkgl": 15.6467701,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.35
+    },
+    {
+        "coherence_score": 0.337131508,
+        "entropy": 7.47340982,
+        "unique_words": 0.349642005,
+        "reading_time": 4,
+        "fkgl": 15.60935561,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.13
+    },
+    {
+        "coherence_score": 0.362705679,
+        "entropy": 7.591144097,
+        "unique_words": 0.31466877,
+        "reading_time": 6,
+        "fkgl": 15.56736247,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.19
+    },
+    {
+        "coherence_score": 0.354093847,
+        "entropy": 8.116106589,
+        "unique_words": 0.217715232,
+        "reading_time": 17,
+        "fkgl": 15.55535896,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.33
+    },
+    {
+        "coherence_score": 0.307590864,
+        "entropy": 7.607326479,
+        "unique_words": 0.330464716,
+        "reading_time": 6,
+        "fkgl": 15.50825075,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.09
+    },
+    {
+        "coherence_score": 0.310439494,
+        "entropy": 7.626643228,
+        "unique_words": 0.338607595,
+        "reading_time": 5,
+        "fkgl": 15.356577,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.19
+    },
+    {
+        "coherence_score": 0.331441381,
+        "entropy": 7.403261054,
+        "unique_words": 0.339901478,
+        "reading_time": 4,
+        "fkgl": 15.29270936,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.19
+    },
+    {
+        "coherence_score": 0.369764681,
+        "entropy": 7.740462558,
+        "unique_words": 0.290081098,
+        "reading_time": 7,
+        "fkgl": 15.26917893,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.22
+    },
+    {
+        "coherence_score": 0.341989615,
+        "entropy": 8.690385354,
+        "unique_words": 0.168527442,
+        "reading_time": 41,
+        "fkgl": 15.24547776,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.33
+    },
+    {
+        "coherence_score": 0.337966526,
+        "entropy": 7.977077258,
+        "unique_words": 0.26485038,
+        "reading_time": 10,
+        "fkgl": 15.23002929,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.3
+    },
+    {
+        "coherence_score": 0.386082301,
+        "entropy": 8.567285302,
+        "unique_words": 0.16046992,
+        "reading_time": 39,
+        "fkgl": 15.14486404,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.39
+    },
+    {
+        "coherence_score": 0.355553289,
+        "entropy": 8.044842451,
+        "unique_words": 0.243920413,
+        "reading_time": 13,
+        "fkgl": 15.10751976,
+        "imprecise_words": 0.03,
+        "connective_words": 0.06,
+        "spelling_errors": 0.56
+    },
+    {
+        "coherence_score": 0.302230125,
+        "entropy": 8.390438645,
+        "unique_words": 0.298582996,
+        "reading_time": 9,
+        "fkgl": 15.08213695,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.53
+    },
+    {
+        "coherence_score": 0.336029114,
+        "entropy": 8.511437173,
+        "unique_words": 0.191304348,
+        "reading_time": 26,
+        "fkgl": 15.01170861,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.03
+    },
+    {
+        "coherence_score": 0.378372225,
+        "entropy": 8.248963437,
+        "unique_words": 0.185185185,
+        "reading_time": 22,
+        "fkgl": 14.91373737,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.07
+    },
+    {
+        "coherence_score": 0.364824741,
+        "entropy": 8.134450651,
+        "unique_words": 0.319807428,
+        "reading_time": 7,
+        "fkgl": 14.88987529,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.24
+    },
+    {
+        "coherence_score": 0.360562117,
+        "entropy": 8.01073713,
+        "unique_words": 0.248696219,
+        "reading_time": 15,
+        "fkgl": 14.84910389,
+        "imprecise_words": 0.01,
+        "connective_words": 0.04,
+        "spelling_errors": 0.21
+    },
+    {
+        "coherence_score": 0.339929869,
+        "entropy": 8.300687065,
+        "unique_words": 0.22834873,
+        "reading_time": 17,
+        "fkgl": 14.81145881,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.05
+    },
+    {
+        "coherence_score": 0.36993575,
+        "entropy": 8.822528126,
+        "unique_words": 0.165035734,
+        "reading_time": 46,
+        "fkgl": 14.76422141,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.07
+    },
+    {
+        "coherence_score": 0.319562971,
+        "entropy": 7.801949847,
+        "unique_words": 0.413711584,
+        "reading_time": 4,
+        "fkgl": 14.63620453,
+        "imprecise_words": 0.01,
+        "connective_words": 0.05,
+        "spelling_errors": 0.19
+    },
+    {
+        "coherence_score": 0.365275619,
+        "entropy": 8.329184825,
+        "unique_words": 0.237958533,
+        "reading_time": 15,
+        "fkgl": 14.60708691,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.5
+    },
+    {
+        "coherence_score": 0.382839071,
+        "entropy": 7.925343475,
+        "unique_words": 0.366869037,
+        "reading_time": 6,
+        "fkgl": 14.59571625,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.42
+    },
+    {
+        "coherence_score": 0.379042139,
+        "entropy": 8.276842782,
+        "unique_words": 0.236953883,
+        "reading_time": 16,
+        "fkgl": 14.52022328,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.13
+    },
+    {
+        "coherence_score": 0.744962775,
+        "entropy": 8.445132583,
+        "unique_words": 0.160685052,
+        "reading_time": 39,
+        "fkgl": 14.51980409,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.16
+    },
+    {
+        "coherence_score": 0.339911588,
+        "entropy": 8.114856042,
+        "unique_words": 0.231832683,
+        "reading_time": 13,
+        "fkgl": 14.50868976,
+        "imprecise_words": 0.01,
+        "connective_words": 0.06,
+        "spelling_errors": 0.23
+    },
+    {
+        "coherence_score": 0.379382506,
+        "entropy": 8.475438289,
+        "unique_words": 0.208843099,
+        "reading_time": 23,
+        "fkgl": 14.50409317,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.41
+    },
+    {
+        "coherence_score": 0.37755719,
+        "entropy": 8.18186596,
+        "unique_words": 0.224320458,
+        "reading_time": 17,
+        "fkgl": 14.46734903,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.47
+    },
+    {
+        "coherence_score": 0.331709272,
+        "entropy": 8.006552162,
+        "unique_words": 0.210939956,
+        "reading_time": 15,
+        "fkgl": 14.43985473,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.27
+    },
+    {
+        "coherence_score": 0.333627629,
+        "entropy": 8.265666128,
+        "unique_words": 0.199571327,
+        "reading_time": 20,
+        "fkgl": 14.36060937,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.72
+    },
+    {
+        "coherence_score": 0.504203673,
+        "entropy": 8.259609677,
+        "unique_words": 0.182901907,
+        "reading_time": 28,
+        "fkgl": 14.3532745,
+        "imprecise_words": 0.01,
+        "connective_words": 0.05,
+        "spelling_errors": 0.16
+    },
+    {
+        "coherence_score": 0.44715904,
+        "entropy": 8.402887214,
+        "unique_words": 0.137295346,
+        "reading_time": 37,
+        "fkgl": 14.34208037,
+        "imprecise_words": 0.01,
+        "connective_words": 0.04,
+        "spelling_errors": 0.42
+    },
+    {
+        "coherence_score": 0.331709521,
+        "entropy": 8.768620172,
+        "unique_words": 0.128479294,
+        "reading_time": 57,
+        "fkgl": 14.27046062,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.31
+    },
+    {
+        "coherence_score": 0.320821229,
+        "entropy": 8.180700774,
+        "unique_words": 0.273378582,
+        "reading_time": 13,
+        "fkgl": 14.24807212,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.28
+    },
+    {
+        "coherence_score": 0.330094833,
+        "entropy": 8.108247416,
+        "unique_words": 0.220159151,
+        "reading_time": 18,
+        "fkgl": 14.24669098,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.35
+    },
+    {
+        "coherence_score": 0.325962749,
+        "entropy": 8.600737738,
+        "unique_words": 0.179648421,
+        "reading_time": 33,
+        "fkgl": 14.23817845,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.2
+    },
+    {
+        "coherence_score": 0.338486811,
+        "entropy": 8.263236303,
+        "unique_words": 0.403354633,
+        "reading_time": 6,
+        "fkgl": 14.20536437,
+        "imprecise_words": 0.02,
+        "connective_words": 0.03,
+        "spelling_errors": 0.28
+    },
+    {
+        "coherence_score": 0.382839071,
+        "entropy": 7.906601866,
+        "unique_words": 0.366024518,
+        "reading_time": 5,
+        "fkgl": 14.1679628,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.21
+    },
+    {
+        "coherence_score": 0.326524454,
+        "entropy": 7.613846835,
+        "unique_words": 0.389322917,
+        "reading_time": 4,
+        "fkgl": 14.15239583,
+        "imprecise_words": 0.02,
+        "connective_words": 0.07,
+        "spelling_errors": 0.38
+    },
+    {
+        "coherence_score": 0.329813942,
+        "entropy": 8.372752559,
+        "unique_words": 0.184418146,
+        "reading_time": 25,
+        "fkgl": 14.08490133,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.27
+    },
+    {
+        "coherence_score": 0.373660553,
+        "entropy": 8.184633536,
+        "unique_words": 0.243256034,
+        "reading_time": 10,
+        "fkgl": 14.0832602,
+        "imprecise_words": 0.01,
+        "connective_words": 0.05,
+        "spelling_errors": 0.34
+    },
+    {
+        "coherence_score": 0.69116296,
+        "entropy": 9.120415306,
+        "unique_words": 0.275897862,
+        "reading_time": 24,
+        "fkgl": 14.06653002,
+        "imprecise_words": 0.01,
+        "connective_words": 0.03,
+        "spelling_errors": 0.13
+    },
+    {
+        "coherence_score": 0.324059545,
+        "entropy": 8.203368515,
+        "unique_words": 0.225014611,
+        "reading_time": 16,
+        "fkgl": 14.01814585,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.12
+    },
+    {
+        "coherence_score": 0.361543988,
+        "entropy": 8.316540969,
+        "unique_words": 0.185510888,
+        "reading_time": 23,
+        "fkgl": 13.96957871,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.63
+    },
+    {
+        "coherence_score": 0.3585722,
+        "entropy": 8.980616583,
+        "unique_words": 0.173750425,
+        "reading_time": 42,
+        "fkgl": 13.94192852,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.15
+    },
+    {
+        "coherence_score": 0.382839071,
+        "entropy": 7.936671912,
+        "unique_words": 0.366464996,
+        "reading_time": 6,
+        "fkgl": 13.93857913,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.21
+    },
+    {
+        "coherence_score": 0.339995025,
+        "entropy": 7.207752942,
+        "unique_words": 0.382178218,
+        "reading_time": 2,
+        "fkgl": 13.88117162,
+        "imprecise_words": 0.01,
+        "connective_words": 0.06,
+        "spelling_errors": 0.45
+    },
+    {
+        "coherence_score": 0.39691681,
+        "entropy": 8.334878627,
+        "unique_words": 0.232509675,
+        "reading_time": 16,
+        "fkgl": 13.85125887,
+        "imprecise_words": 0.03,
+        "connective_words": 0.05,
+        "spelling_errors": 0.38
+    },
+    {
+        "coherence_score": 0.33375895,
+        "entropy": 8.031026013,
+        "unique_words": 0.208231707,
+        "reading_time": 15,
+        "fkgl": 13.83578774,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.33
+    },
+    {
+        "coherence_score": 0.345382117,
+        "entropy": 7.909263075,
+        "unique_words": 0.565371025,
+        "reading_time": 3,
+        "fkgl": 13.74722362,
+        "imprecise_words": 0.02,
+        "connective_words": 0.02,
+        "spelling_errors": 0.2
+    },
+    {
+        "coherence_score": 0.382839071,
+        "entropy": 7.874798427,
+        "unique_words": 0.364203028,
+        "reading_time": 5,
+        "fkgl": 13.67230281,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.18
+    },
+    {
+        "coherence_score": 0.281673914,
+        "entropy": 8.498890207,
+        "unique_words": 0.196615633,
+        "reading_time": 25,
+        "fkgl": 13.65464818,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.42
+    },
+    {
+        "coherence_score": 0.370574174,
+        "entropy": 8.499822223,
+        "unique_words": 0.173705602,
+        "reading_time": 28,
+        "fkgl": 13.60442995,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.19
+    },
+    {
+        "coherence_score": 0.31389819,
+        "entropy": 7.859883712,
+        "unique_words": 0.271604938,
+        "reading_time": 10,
+        "fkgl": 13.55987047,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.15
+    },
+    {
+        "coherence_score": 0.381529708,
+        "entropy": 7.609159157,
+        "unique_words": 0.306010929,
+        "reading_time": 6,
+        "fkgl": 13.53637384,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.42
+    },
+    {
+        "coherence_score": 0.28524069,
+        "entropy": 9.062802715,
+        "unique_words": 0.165685697,
+        "reading_time": 49,
+        "fkgl": 13.526414,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.13
+    },
+    {
+        "coherence_score": 0.382839071,
+        "entropy": 7.908252287,
+        "unique_words": 0.365384615,
+        "reading_time": 6,
+        "fkgl": 13.51905594,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.32
+    },
+    {
+        "coherence_score": 0.332417316,
+        "entropy": 8.435062851,
+        "unique_words": 0.232201533,
+        "reading_time": 17,
+        "fkgl": 13.51012989,
+        "imprecise_words": 0.02,
+        "connective_words": 0.03,
+        "spelling_errors": 0.29
+    },
+    {
+        "coherence_score": 0.367257037,
+        "entropy": 8.276877508,
+        "unique_words": 0.190807175,
+        "reading_time": 21,
+        "fkgl": 13.50324453,
+        "imprecise_words": 0.03,
+        "connective_words": 0.04,
+        "spelling_errors": 0.22
+    },
+    {
+        "coherence_score": 0.399085563,
+        "entropy": 8.033973437,
+        "unique_words": 0.31628533,
+        "reading_time": 7,
+        "fkgl": 13.46848551,
+        "imprecise_words": 0.01,
+        "connective_words": 0.05,
+        "spelling_errors": 0.12
+    },
+    {
+        "coherence_score": 0.354846818,
+        "entropy": 8.440006424,
+        "unique_words": 0.237142133,
+        "reading_time": 19,
+        "fkgl": 13.42910507,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.17
+    },
+    {
+        "coherence_score": 0.35667036,
+        "entropy": 7.321071469,
+        "unique_words": 0.420338983,
+        "reading_time": 3,
+        "fkgl": 13.415,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.1
+    },
+    {
+        "coherence_score": 0.376711834,
+        "entropy": 7.213724156,
+        "unique_words": 0.395147314,
+        "reading_time": 3,
+        "fkgl": 13.3918426,
+        "imprecise_words": 0.01,
+        "connective_words": 0.05,
+        "spelling_errors": 0.13
+    },
+    {
+        "coherence_score": 0.379073413,
+        "entropy": 8.582902437,
+        "unique_words": 0.10765986,
+        "reading_time": 51,
+        "fkgl": 13.38000884,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.28
+    },
+    {
+        "coherence_score": 0.336020812,
+        "entropy": 8.268550072,
+        "unique_words": 0.254147313,
+        "reading_time": 14,
+        "fkgl": 13.36496795,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.39
+    },
+    {
+        "coherence_score": 0.360445028,
+        "entropy": 8.051201922,
+        "unique_words": 0.218769617,
+        "reading_time": 15,
+        "fkgl": 13.36411081,
+        "imprecise_words": 0.02,
+        "connective_words": 0.07,
+        "spelling_errors": 0.32
+    },
+    {
+        "coherence_score": 0.489081181,
+        "entropy": 8.072532687,
+        "unique_words": 0.396119644,
+        "reading_time": 6,
+        "fkgl": 13.32917795,
+        "imprecise_words": 0.01,
+        "connective_words": 0.05,
+        "spelling_errors": 0.47
+    },
+    {
+        "coherence_score": 0.321281202,
+        "entropy": 8.918458725,
+        "unique_words": 0.243126987,
+        "reading_time": 26,
+        "fkgl": 13.3245921,
+        "imprecise_words": 0.01,
+        "connective_words": 0.05,
+        "spelling_errors": 0.13
+    },
+    {
+        "coherence_score": 0.349556619,
+        "entropy": 8.763864192,
+        "unique_words": 0.181689342,
+        "reading_time": 34,
+        "fkgl": 13.28302476,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.21
+    },
+    {
+        "coherence_score": 0.360713961,
+        "entropy": 7.895789791,
+        "unique_words": 0.364674868,
+        "reading_time": 5,
+        "fkgl": 13.24697627,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.34
+    },
+    {
+        "coherence_score": 0.353400331,
+        "entropy": 8.600218129,
+        "unique_words": 0.196818766,
+        "reading_time": 30,
+        "fkgl": 13.24639521,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.24
+    },
+    {
+        "coherence_score": 0.327074479,
+        "entropy": 8.516051436,
+        "unique_words": 0.123911782,
+        "reading_time": 50,
+        "fkgl": 13.23818582,
+        "imprecise_words": 0.03,
+        "connective_words": 0.05,
+        "spelling_errors": 0.21
+    },
+    {
+        "coherence_score": 0.332277858,
+        "entropy": 7.980661043,
+        "unique_words": 0.297588832,
+        "reading_time": 8,
+        "fkgl": 13.23649255,
+        "imprecise_words": 0.02,
+        "connective_words": 0.07,
+        "spelling_errors": 0.49
+    },
+    {
+        "coherence_score": 0.355119765,
+        "entropy": 7.329980672,
+        "unique_words": 0.337488015,
+        "reading_time": 5,
+        "fkgl": 13.19257162,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.29
+    },
+    {
+        "coherence_score": 0.329857662,
+        "entropy": 8.172280333,
+        "unique_words": 0.256217923,
+        "reading_time": 12,
+        "fkgl": 13.18992955,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.45
+    },
+    {
+        "coherence_score": 0.325121024,
+        "entropy": 8.17363646,
+        "unique_words": 0.261302955,
+        "reading_time": 14,
+        "fkgl": 13.1477693,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.37
+    },
+    {
+        "coherence_score": 0.388780105,
+        "entropy": 7.953149837,
+        "unique_words": 0.360669456,
+        "reading_time": 6,
+        "fkgl": 13.12249552,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.36
+    },
+    {
+        "coherence_score": 0.34091379,
+        "entropy": 8.155887281,
+        "unique_words": 0.260145237,
+        "reading_time": 11,
+        "fkgl": 13.12060917,
+        "imprecise_words": 0.02,
+        "connective_words": 0.07,
+        "spelling_errors": 0.17
+    },
+    {
+        "coherence_score": 0.343229829,
+        "entropy": 7.69260998,
+        "unique_words": 0.283783784,
+        "reading_time": 8,
+        "fkgl": 13.11600586,
+        "imprecise_words": 0.03,
+        "connective_words": 0.06,
+        "spelling_errors": 0.36
+    },
+    {
+        "coherence_score": 0.306545856,
+        "entropy": 7.69961932,
+        "unique_words": 0.316070069,
+        "reading_time": 6,
+        "fkgl": 13.10845749,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.18
+    },
+    {
+        "coherence_score": 0.359686365,
+        "entropy": 7.930925254,
+        "unique_words": 0.362542955,
+        "reading_time": 6,
+        "fkgl": 13.00980854,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.42
+    },
+    {
+        "coherence_score": 0.34340525,
+        "entropy": 8.157839653,
+        "unique_words": 0.260853152,
+        "reading_time": 12,
+        "fkgl": 13.00921581,
+        "imprecise_words": 0.03,
+        "connective_words": 0.05,
+        "spelling_errors": 0.22
+    },
+    {
+        "coherence_score": 0.423190868,
+        "entropy": 7.858438387,
+        "unique_words": 0.29867892,
+        "reading_time": 8,
+        "fkgl": 12.99994026,
+        "imprecise_words": 0.01,
+        "connective_words": 0.04,
+        "spelling_errors": 0.36
+    },
+    {
+        "coherence_score": 0.360373967,
+        "entropy": 8.322966469,
+        "unique_words": 0.179005092,
+        "reading_time": 25,
+        "fkgl": 12.99879676,
+        "imprecise_words": 0.03,
+        "connective_words": 0.05,
+        "spelling_errors": 0.13
+    },
+    {
+        "coherence_score": 0.360504408,
+        "entropy": 8.101972003,
+        "unique_words": 0.246129416,
+        "reading_time": 12,
+        "fkgl": 12.92102686,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.39
+    },
+    {
+        "coherence_score": 0.353103233,
+        "entropy": 7.919637396,
+        "unique_words": 0.356427379,
+        "reading_time": 6,
+        "fkgl": 12.90231319,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.31
+    },
+    {
+        "coherence_score": 0.344805409,
+        "entropy": 8.471294302,
+        "unique_words": 0.173067248,
+        "reading_time": 29,
+        "fkgl": 12.89008602,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.05
+    },
+    {
+        "coherence_score": 0.34370522,
+        "entropy": 8.646101159,
+        "unique_words": 0.181529582,
+        "reading_time": 33,
+        "fkgl": 12.87615381,
+        "imprecise_words": 0.03,
+        "connective_words": 0.04,
+        "spelling_errors": 0.13
+    },
+    {
+        "coherence_score": 0.348762395,
+        "entropy": 8.6022086,
+        "unique_words": 0.194940218,
+        "reading_time": 29,
+        "fkgl": 12.84908894,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.54
+    },
+    {
+        "coherence_score": 0.280152209,
+        "entropy": 8.22832441,
+        "unique_words": 0.188570158,
+        "reading_time": 21,
+        "fkgl": 12.8473809,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.46
+    },
+    {
+        "coherence_score": 0.282654858,
+        "entropy": 8.126774007,
+        "unique_words": 0.287032764,
+        "reading_time": 11,
+        "fkgl": 12.84365309,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.17
+    },
+    {
+        "coherence_score": 0.337945048,
+        "entropy": 7.631103342,
+        "unique_words": 0.43502052,
+        "reading_time": 3,
+        "fkgl": 12.75435662,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.15
+    },
+    {
+        "coherence_score": 0.414595104,
+        "entropy": 8.394872627,
+        "unique_words": 0.195703196,
+        "reading_time": 28,
+        "fkgl": 12.73171902,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.22
+    },
+    {
+        "coherence_score": 0.359845115,
+        "entropy": 8.865499336,
+        "unique_words": 0.172570484,
+        "reading_time": 47,
+        "fkgl": 12.7311505,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.29
+    },
+    {
+        "coherence_score": 0.303591098,
+        "entropy": 8.315107805,
+        "unique_words": 0.21851763,
+        "reading_time": 20,
+        "fkgl": 12.73075845,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.15
+    },
+    {
+        "coherence_score": 0.314841046,
+        "entropy": 8.48959948,
+        "unique_words": 0.259719222,
+        "reading_time": 18,
+        "fkgl": 12.70511051,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.18
+    },
+    {
+        "coherence_score": 0.412684529,
+        "entropy": 8.471782605,
+        "unique_words": 0.200840015,
+        "reading_time": 25,
+        "fkgl": 12.67639186,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.21
+    },
+    {
+        "coherence_score": 0.317532582,
+        "entropy": 7.334725843,
+        "unique_words": 0.326805386,
+        "reading_time": 4,
+        "fkgl": 12.65370424,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.41
+    },
+    {
+        "coherence_score": 0.330353488,
+        "entropy": 8.462420737,
+        "unique_words": 0.179094862,
+        "reading_time": 30,
+        "fkgl": 12.63079658,
+        "imprecise_words": 0.03,
+        "connective_words": 0.05,
+        "spelling_errors": 0.17
+    },
+    {
+        "coherence_score": 0.367593553,
+        "entropy": 8.197015567,
+        "unique_words": 0.217952093,
+        "reading_time": 19,
+        "fkgl": 12.61445159,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.85
+    },
+    {
+        "coherence_score": 0.34052492,
+        "entropy": 8.425590983,
+        "unique_words": 0.257185629,
+        "reading_time": 16,
+        "fkgl": 12.60704409,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.25
+    },
+    {
+        "coherence_score": 0.302729408,
+        "entropy": 8.020988644,
+        "unique_words": 0.309460182,
+        "reading_time": 9,
+        "fkgl": 12.6033752,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.19
+    },
+    {
+        "coherence_score": 0.443137759,
+        "entropy": 7.753157008,
+        "unique_words": 0.379935966,
+        "reading_time": 4,
+        "fkgl": 12.55715383,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.21
+    },
+    {
+        "coherence_score": 0.357990984,
+        "entropy": 8.313942466,
+        "unique_words": 0.178522705,
+        "reading_time": 25,
+        "fkgl": 12.55671712,
+        "imprecise_words": 0.03,
+        "connective_words": 0.04,
+        "spelling_errors": 0.15
+    },
+    {
+        "coherence_score": 0.379430397,
+        "entropy": 7.761152141,
+        "unique_words": 0.262506447,
+        "reading_time": 9,
+        "fkgl": 12.54458428,
+        "imprecise_words": 0.03,
+        "connective_words": 0.05,
+        "spelling_errors": 0.23
+    },
+    {
+        "coherence_score": 0.388200706,
+        "entropy": 8.599735214,
+        "unique_words": 0.188863807,
+        "reading_time": 26,
+        "fkgl": 12.54101824,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.18
+    },
+    {
+        "coherence_score": 0.336765568,
+        "entropy": 8.481460159,
+        "unique_words": 0.177278402,
+        "reading_time": 31,
+        "fkgl": 12.52839235,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.22
+    },
+    {
+        "coherence_score": 0.263682678,
+        "entropy": 7.621699211,
+        "unique_words": 0.498275862,
+        "reading_time": 3,
+        "fkgl": 12.48157088,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.19
+    },
+    {
+        "coherence_score": 0.368557475,
+        "entropy": 7.644665041,
+        "unique_words": 0.31120944,
+        "reading_time": 6,
+        "fkgl": 12.47365031,
+        "imprecise_words": 0.03,
+        "connective_words": 0.05,
+        "spelling_errors": 0.67
+    },
+    {
+        "coherence_score": 0.297271109,
+        "entropy": 8.683522139,
+        "unique_words": 0.212906592,
+        "reading_time": 28,
+        "fkgl": 12.42224206,
+        "imprecise_words": 0.01,
+        "connective_words": 0.04,
+        "spelling_errors": 0.06
+    },
+    {
+        "coherence_score": 0.34943032,
+        "entropy": 7.356218724,
+        "unique_words": 0.436363636,
+        "reading_time": 3,
+        "fkgl": 12.41566116,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.43
+    },
+    {
+        "coherence_score": 0.449144977,
+        "entropy": 8.542120248,
+        "unique_words": 0.187323147,
+        "reading_time": 26,
+        "fkgl": 12.4023323,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.42
+    },
+    {
+        "coherence_score": 0.320437309,
+        "entropy": 8.258194107,
+        "unique_words": 0.173333333,
+        "reading_time": 25,
+        "fkgl": 12.3763253,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.12
+    },
+    {
+        "coherence_score": 0.29142992,
+        "entropy": 8.147917898,
+        "unique_words": 0.203136669,
+        "reading_time": 19,
+        "fkgl": 12.31863461,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.33
+    },
+    {
+        "coherence_score": 0.327799613,
+        "entropy": 7.69968305,
+        "unique_words": 0.399529965,
+        "reading_time": 4,
+        "fkgl": 12.31383049,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.17
+    },
+    {
+        "coherence_score": 0.4562581,
+        "entropy": 8.441970444,
+        "unique_words": 0.219104478,
+        "reading_time": 24,
+        "fkgl": 12.29973507,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.37
+    },
+    {
+        "coherence_score": 0.29173325,
+        "entropy": 9.187806356,
+        "unique_words": 0.113736877,
+        "reading_time": 107,
+        "fkgl": 12.25801593,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.26
+    },
+    {
+        "coherence_score": 0.342940341,
+        "entropy": 8.448271213,
+        "unique_words": 0.22110984,
+        "reading_time": 17,
+        "fkgl": 12.16493181,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.11
+    },
+    {
+        "coherence_score": 0.32730223,
+        "entropy": 7.983690328,
+        "unique_words": 0.274667932,
+        "reading_time": 10,
+        "fkgl": 12.07872739,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.12
+    },
+    {
+        "coherence_score": 0.35345127,
+        "entropy": 7.360577854,
+        "unique_words": 0.297352342,
+        "reading_time": 5,
+        "fkgl": 12.07582286,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.28
+    },
+    {
+        "coherence_score": 0.387176178,
+        "entropy": 7.767676289,
+        "unique_words": 0.312352478,
+        "reading_time": 6,
+        "fkgl": 12.06492329,
+        "imprecise_words": 0.03,
+        "connective_words": 0.04,
+        "spelling_errors": 0.21
+    },
+    {
+        "coherence_score": 0.312715608,
+        "entropy": 8.088106236,
+        "unique_words": 0.241908007,
+        "reading_time": 14,
+        "fkgl": 12.05881601,
+        "imprecise_words": 0.03,
+        "connective_words": 0.04,
+        "spelling_errors": 0.41
+    },
+    {
+        "coherence_score": 0.338516436,
+        "entropy": 8.570375594,
+        "unique_words": 0.162407255,
+        "reading_time": 35,
+        "fkgl": 12.03824538,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.48
+    },
+    {
+        "coherence_score": 0.348740224,
+        "entropy": 7.639971704,
+        "unique_words": 0.459677419,
+        "reading_time": 3,
+        "fkgl": 11.9981362,
+        "imprecise_words": 0.02,
+        "connective_words": 0.03,
+        "spelling_errors": 0.12
+    },
+    {
+        "coherence_score": 0.356128876,
+        "entropy": 7.973930161,
+        "unique_words": 0.26518847,
+        "reading_time": 11,
+        "fkgl": 11.9822243,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.19
+    },
+    {
+        "coherence_score": 0.312920634,
+        "entropy": 7.693958538,
+        "unique_words": 0.391203704,
+        "reading_time": 4,
+        "fkgl": 11.97916667,
+        "imprecise_words": 0.03,
+        "connective_words": 0.06,
+        "spelling_errors": 0.28
+    },
+    {
+        "coherence_score": 0.37747166,
+        "entropy": 7.564920101,
+        "unique_words": 0.378343949,
+        "reading_time": 4,
+        "fkgl": 11.96675159,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.16
+    },
+    {
+        "coherence_score": 0.291382463,
+        "entropy": 7.741933555,
+        "unique_words": 0.31010453,
+        "reading_time": 8,
+        "fkgl": 11.96030197,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.25
+    },
+    {
+        "coherence_score": 0.351409374,
+        "entropy": 8.113958996,
+        "unique_words": 0.20809932,
+        "reading_time": 16,
+        "fkgl": 11.95492649,
+        "imprecise_words": 0.03,
+        "connective_words": 0.06,
+        "spelling_errors": 0.24
+    },
+    {
+        "coherence_score": 0.356970495,
+        "entropy": 7.66159142,
+        "unique_words": 0.278276481,
+        "reading_time": 8,
+        "fkgl": 11.9537781,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.23
+    },
+    {
+        "coherence_score": 0.35536041,
+        "entropy": 7.971886081,
+        "unique_words": 0.264862467,
+        "reading_time": 11,
+        "fkgl": 11.93912829,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.21
+    },
+    {
+        "coherence_score": 0.369491645,
+        "entropy": 7.971612279,
+        "unique_words": 0.277435897,
+        "reading_time": 9,
+        "fkgl": 11.92844344,
+        "imprecise_words": 0.03,
+        "connective_words": 0.06,
+        "spelling_errors": 0.15
+    },
+    {
+        "coherence_score": 0.374206407,
+        "entropy": 8.496384315,
+        "unique_words": 0.155536651,
+        "reading_time": 35,
+        "fkgl": 11.92078849,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 1.06
+    },
+    {
+        "coherence_score": 0.332218794,
+        "entropy": 8.303422286,
+        "unique_words": 0.192802617,
+        "reading_time": 22,
+        "fkgl": 11.91652187,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.13
+    },
+    {
+        "coherence_score": 0.318248234,
+        "entropy": 8.324327484,
+        "unique_words": 0.139799579,
+        "reading_time": 40,
+        "fkgl": 11.91198925,
+        "imprecise_words": 0.03,
+        "connective_words": 0.06,
+        "spelling_errors": 0.32
+    },
+    {
+        "coherence_score": 0.328788682,
+        "entropy": 7.789911493,
+        "unique_words": 0.244870651,
+        "reading_time": 11,
+        "fkgl": 11.90278195,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.16
+    },
+    {
+        "coherence_score": 0.396422887,
+        "entropy": 8.129509554,
+        "unique_words": 0.264975042,
+        "reading_time": 11,
+        "fkgl": 11.89343783,
+        "imprecise_words": 0.03,
+        "connective_words": 0.05,
+        "spelling_errors": 0.09
+    },
+    {
+        "coherence_score": 0.335050171,
+        "entropy": 7.527091314,
+        "unique_words": 0.456171735,
+        "reading_time": 3,
+        "fkgl": 11.87530161,
+        "imprecise_words": 0.02,
+        "connective_words": 0.02,
+        "spelling_errors": 0.15
+    },
+    {
+        "coherence_score": 0.354633616,
+        "entropy": 8.349321454,
+        "unique_words": 0.23296808,
+        "reading_time": 20,
+        "fkgl": 11.86464711,
+        "imprecise_words": 0.03,
+        "connective_words": 0.05,
+        "spelling_errors": 0.62
+    },
+    {
+        "coherence_score": 0.361879353,
+        "entropy": 8.030206896,
+        "unique_words": 0.237407263,
+        "reading_time": 12,
+        "fkgl": 11.80999352,
+        "imprecise_words": 0.03,
+        "connective_words": 0.06,
+        "spelling_errors": 0.1
+    },
+    {
+        "coherence_score": 0.341869494,
+        "entropy": 8.44610785,
+        "unique_words": 0.179360072,
+        "reading_time": 32,
+        "fkgl": 11.78843984,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.34
+    },
+    {
+        "coherence_score": 0.350727459,
+        "entropy": 8.529776004,
+        "unique_words": 0.150403609,
+        "reading_time": 40,
+        "fkgl": 11.77857724,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.35
+    },
+    {
+        "coherence_score": 0.400637416,
+        "entropy": 7.887032273,
+        "unique_words": 0.191891211,
+        "reading_time": 19,
+        "fkgl": 11.76789625,
+        "imprecise_words": 0.01,
+        "connective_words": 0.04,
+        "spelling_errors": 0.24
+    },
+    {
+        "coherence_score": 0.34617592,
+        "entropy": 8.444671393,
+        "unique_words": 0.211214483,
+        "reading_time": 19,
+        "fkgl": 11.76671728,
+        "imprecise_words": 0.03,
+        "connective_words": 0.05,
+        "spelling_errors": 0.19
+    },
+    {
+        "coherence_score": 0.337390666,
+        "entropy": 7.746298227,
+        "unique_words": 0.360917248,
+        "reading_time": 5,
+        "fkgl": 11.75403557,
+        "imprecise_words": 0.01,
+        "connective_words": 0.04,
+        "spelling_errors": 0.22
+    },
+    {
+        "coherence_score": 0.429443054,
+        "entropy": 7.764904219,
+        "unique_words": 0.324414716,
+        "reading_time": 6,
+        "fkgl": 11.74919339,
+        "imprecise_words": 0.03,
+        "connective_words": 0.06,
+        "spelling_errors": 0.16
+    },
+    {
+        "coherence_score": 0.311221572,
+        "entropy": 7.728642754,
+        "unique_words": 0.337330136,
+        "reading_time": 6,
+        "fkgl": 11.72509592,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.28
+    },
+    {
+        "coherence_score": 0.357370005,
+        "entropy": 7.736123119,
+        "unique_words": 0.380902413,
+        "reading_time": 5,
+        "fkgl": 11.70800875,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.12
+    },
+    {
+        "coherence_score": 0.337500362,
+        "entropy": 7.857577578,
+        "unique_words": 0.316689466,
+        "reading_time": 7,
+        "fkgl": 11.69317113,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.12
+    },
+    {
+        "coherence_score": 0.320187741,
+        "entropy": 7.918132879,
+        "unique_words": 0.259530026,
+        "reading_time": 9,
+        "fkgl": 11.67217986,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.13
+    },
+    {
+        "coherence_score": 0.332610956,
+        "entropy": 8.138755756,
+        "unique_words": 0.229193758,
+        "reading_time": 15,
+        "fkgl": 11.67138477,
+        "imprecise_words": 0.03,
+        "connective_words": 0.06,
+        "spelling_errors": 0.29
+    },
+    {
+        "coherence_score": 0.36450459,
+        "entropy": 8.085074381,
+        "unique_words": 0.232542599,
+        "reading_time": 14,
+        "fkgl": 11.67091309,
+        "imprecise_words": 0.03,
+        "connective_words": 0.05,
+        "spelling_errors": 0.21
+    },
+    {
+        "coherence_score": 0.302007934,
+        "entropy": 8.208286549,
+        "unique_words": 0.267837131,
+        "reading_time": 13,
+        "fkgl": 11.66950457,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.11
+    },
+    {
+        "coherence_score": 0.312913578,
+        "entropy": 8.706820086,
+        "unique_words": 0.176543894,
+        "reading_time": 35,
+        "fkgl": 11.63459762,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.14
+    },
+    {
+        "coherence_score": 0.299771273,
+        "entropy": 8.150106628,
+        "unique_words": 0.262580401,
+        "reading_time": 12,
+        "fkgl": 11.62687792,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.34
+    },
+    {
+        "coherence_score": 0.320570031,
+        "entropy": 7.819551315,
+        "unique_words": 0.459876543,
+        "reading_time": 3,
+        "fkgl": 11.62571733,
+        "imprecise_words": 0.02,
+        "connective_words": 0.03,
+        "spelling_errors": 0.2
+    },
+    {
+        "coherence_score": 0.342967258,
+        "entropy": 7.85229857,
+        "unique_words": 0.287272727,
+        "reading_time": 8,
+        "fkgl": 11.61161395,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.38
+    },
+    {
+        "coherence_score": 0.36450459,
+        "entropy": 8.079573324,
+        "unique_words": 0.232107023,
+        "reading_time": 14,
+        "fkgl": 11.59365823,
+        "imprecise_words": 0.03,
+        "connective_words": 0.05,
+        "spelling_errors": 0.07
+    },
+    {
+        "coherence_score": 0.399304733,
+        "entropy": 8.477274232,
+        "unique_words": 0.201182372,
+        "reading_time": 27,
+        "fkgl": 11.59209306,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.08
+    },
+    {
+        "coherence_score": 0.353902853,
+        "entropy": 8.200683089,
+        "unique_words": 0.209373631,
+        "reading_time": 22,
+        "fkgl": 11.57913382,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.17
+    },
+    {
+        "coherence_score": 0.36706314,
+        "entropy": 8.591323753,
+        "unique_words": 0.167104227,
+        "reading_time": 38,
+        "fkgl": 11.55871243,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.07
+    },
+    {
+        "coherence_score": 0.309332343,
+        "entropy": 8.278079841,
+        "unique_words": 0.185068762,
+        "reading_time": 24,
+        "fkgl": 11.54119754,
+        "imprecise_words": 0.03,
+        "connective_words": 0.04,
+        "spelling_errors": 0.46
+    },
+    {
+        "coherence_score": 0.319004831,
+        "entropy": 7.981169863,
+        "unique_words": 0.233853007,
+        "reading_time": 13,
+        "fkgl": 11.53160437,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.08
+    },
+    {
+        "coherence_score": 0.326126185,
+        "entropy": 8.027735581,
+        "unique_words": 0.318367347,
+        "reading_time": 8,
+        "fkgl": 11.52239245,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.34
+    },
+    {
+        "coherence_score": 0.460407886,
+        "entropy": 6.837143652,
+        "unique_words": 0.49068323,
+        "reading_time": 2,
+        "fkgl": 11.50456685,
+        "imprecise_words": 0.01,
+        "connective_words": 0.05,
+        "spelling_errors": 0.0
+    },
+    {
+        "coherence_score": 0.336289506,
+        "entropy": 8.449272559,
+        "unique_words": 0.180785522,
+        "reading_time": 25,
+        "fkgl": 11.47272544,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.24
+    },
+    {
+        "coherence_score": 0.3478298,
+        "entropy": 8.004709006,
+        "unique_words": 0.232853224,
+        "reading_time": 14,
+        "fkgl": 11.46719474,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.24
+    },
+    {
+        "coherence_score": 0.309332003,
+        "entropy": 8.424451415,
+        "unique_words": 0.179342059,
+        "reading_time": 27,
+        "fkgl": 11.46063941,
+        "imprecise_words": 0.01,
+        "connective_words": 0.04,
+        "spelling_errors": 0.72
+    },
+    {
+        "coherence_score": 0.35714958,
+        "entropy": 7.531004681,
+        "unique_words": 0.494252874,
+        "reading_time": 3,
+        "fkgl": 11.41341163,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.24
+    },
+    {
+        "coherence_score": 0.368267407,
+        "entropy": 8.307369962,
+        "unique_words": 0.298930481,
+        "reading_time": 9,
+        "fkgl": 11.39673797,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.3
+    },
+    {
+        "coherence_score": 0.355065811,
+        "entropy": 7.796652718,
+        "unique_words": 0.39766702,
+        "reading_time": 5,
+        "fkgl": 11.36310686,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.24
+    },
+    {
+        "coherence_score": 0.325039469,
+        "entropy": 8.161915085,
+        "unique_words": 0.281593407,
+        "reading_time": 11,
+        "fkgl": 11.35897436,
+        "imprecise_words": 0.03,
+        "connective_words": 0.05,
+        "spelling_errors": 0.28
+    },
+    {
+        "coherence_score": 0.326396687,
+        "entropy": 7.699299069,
+        "unique_words": 0.307890223,
+        "reading_time": 6,
+        "fkgl": 11.34780446,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.16
+    },
+    {
+        "coherence_score": 0.32351841,
+        "entropy": 8.156354424,
+        "unique_words": 0.229378902,
+        "reading_time": 15,
+        "fkgl": 11.34077434,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.18
+    },
+    {
+        "coherence_score": 0.374834048,
+        "entropy": 8.413579611,
+        "unique_words": 0.208192484,
+        "reading_time": 24,
+        "fkgl": 11.31407669,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.26
+    },
+    {
+        "coherence_score": 0.316973489,
+        "entropy": 8.107260991,
+        "unique_words": 0.265328467,
+        "reading_time": 13,
+        "fkgl": 11.29221541,
+        "imprecise_words": 0.01,
+        "connective_words": 0.06,
+        "spelling_errors": 0.15
+    },
+    {
+        "coherence_score": 0.357205582,
+        "entropy": 8.185050061,
+        "unique_words": 0.228303109,
+        "reading_time": 15,
+        "fkgl": 11.28853389,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.15
+    },
+    {
+        "coherence_score": 0.370897242,
+        "entropy": 7.860332356,
+        "unique_words": 0.362824675,
+        "reading_time": 6,
+        "fkgl": 11.28302521,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.28
+    },
+    {
+        "coherence_score": 0.393647504,
+        "entropy": 8.384018433,
+        "unique_words": 0.164377358,
+        "reading_time": 31,
+        "fkgl": 11.27507521,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.38
+    },
+    {
+        "coherence_score": 0.314981124,
+        "entropy": 8.548988493,
+        "unique_words": 0.198979592,
+        "reading_time": 31,
+        "fkgl": 11.2701106,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.28
+    },
+    {
+        "coherence_score": 0.5188501,
+        "entropy": 8.281539647,
+        "unique_words": 0.102073708,
+        "reading_time": 43,
+        "fkgl": 11.25433732,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.43
+    },
+    {
+        "coherence_score": 0.32342699,
+        "entropy": 7.672799009,
+        "unique_words": 0.420512821,
+        "reading_time": 4,
+        "fkgl": 11.24987854,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.17
+    },
+    {
+        "coherence_score": 0.343054559,
+        "entropy": 7.70608502,
+        "unique_words": 0.279680365,
+        "reading_time": 8,
+        "fkgl": 11.24369406,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.17
+    },
+    {
+        "coherence_score": 0.364005701,
+        "entropy": 8.067980037,
+        "unique_words": 0.215149921,
+        "reading_time": 18,
+        "fkgl": 11.22893221,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.16
+    },
+    {
+        "coherence_score": 0.337745888,
+        "entropy": 7.264971872,
+        "unique_words": 0.46985447,
+        "reading_time": 2,
+        "fkgl": 11.21332546,
+        "imprecise_words": 0.01,
+        "connective_words": 0.06,
+        "spelling_errors": 0.54
+    },
+    {
+        "coherence_score": 0.308676823,
+        "entropy": 7.920432535,
+        "unique_words": 0.296966161,
+        "reading_time": 8,
+        "fkgl": 11.20828569,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.31
+    },
+    {
+        "coherence_score": 0.356246668,
+        "entropy": 8.343488836,
+        "unique_words": 0.359230769,
+        "reading_time": 6,
+        "fkgl": 11.20442915,
+        "imprecise_words": 0.02,
+        "connective_words": 0.03,
+        "spelling_errors": 0.21
+    },
+    {
+        "coherence_score": 0.304719206,
+        "entropy": 8.46713919,
+        "unique_words": 0.212401666,
+        "reading_time": 21,
+        "fkgl": 11.19863607,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.25
+    },
+    {
+        "coherence_score": 0.400259053,
+        "entropy": 8.022551696,
+        "unique_words": 0.333748443,
+        "reading_time": 8,
+        "fkgl": 11.18333748,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.23
+    },
+    {
+        "coherence_score": 0.345527752,
+        "entropy": 7.263595148,
+        "unique_words": 0.471816284,
+        "reading_time": 2,
+        "fkgl": 11.18027804,
+        "imprecise_words": 0.01,
+        "connective_words": 0.06,
+        "spelling_errors": 0.33
+    },
+    {
+        "coherence_score": 0.315741913,
+        "entropy": 7.230425719,
+        "unique_words": 0.387155963,
+        "reading_time": 3,
+        "fkgl": 11.16253932,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.15
+    },
+    {
+        "coherence_score": 0.299335869,
+        "entropy": 8.242698546,
+        "unique_words": 0.295591647,
+        "reading_time": 10,
+        "fkgl": 11.14403856,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.22
+    },
+    {
+        "coherence_score": 0.329001299,
+        "entropy": 7.705694909,
+        "unique_words": 0.384210526,
+        "reading_time": 4,
+        "fkgl": 11.12585965,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.36
+    },
+    {
+        "coherence_score": 0.353505004,
+        "entropy": 7.684490615,
+        "unique_words": 0.298033283,
+        "reading_time": 6,
+        "fkgl": 11.06600446,
+        "imprecise_words": 0.03,
+        "connective_words": 0.06,
+        "spelling_errors": 0.4
+    },
+    {
+        "coherence_score": 0.33977466,
+        "entropy": 8.233142358,
+        "unique_words": 0.381244522,
+        "reading_time": 5,
+        "fkgl": 11.02078878,
+        "imprecise_words": 0.01,
+        "connective_words": 0.04,
+        "spelling_errors": 0.24
+    },
+    {
+        "coherence_score": 0.349099396,
+        "entropy": 8.66170418,
+        "unique_words": 0.233063895,
+        "reading_time": 25,
+        "fkgl": 11.01961999,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.26
+    },
+    {
+        "coherence_score": 0.356523801,
+        "entropy": 8.173797463,
+        "unique_words": 0.343945069,
+        "reading_time": 8,
+        "fkgl": 11.00628411,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.56
+    },
+    {
+        "coherence_score": 0.316797128,
+        "entropy": 8.058710916,
+        "unique_words": 0.275098425,
+        "reading_time": 10,
+        "fkgl": 10.99829623,
+        "imprecise_words": 0.03,
+        "connective_words": 0.06,
+        "spelling_errors": 0.35
+    },
+    {
+        "coherence_score": 0.312621125,
+        "entropy": 8.346317971,
+        "unique_words": 0.238111186,
+        "reading_time": 14,
+        "fkgl": 10.98167405,
+        "imprecise_words": 0.02,
+        "connective_words": 0.03,
+        "spelling_errors": 0.31
+    },
+    {
+        "coherence_score": 0.36798351,
+        "entropy": 7.916010659,
+        "unique_words": 0.352006689,
+        "reading_time": 6,
+        "fkgl": 10.93200669,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.36
+    },
+    {
+        "coherence_score": 0.298024987,
+        "entropy": 8.794332732,
+        "unique_words": 0.205107483,
+        "reading_time": 30,
+        "fkgl": 10.93143411,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.11
+    },
+    {
+        "coherence_score": 0.338877854,
+        "entropy": 7.849077692,
+        "unique_words": 0.287795993,
+        "reading_time": 8,
+        "fkgl": 10.92001463,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.34
+    },
+    {
+        "coherence_score": 0.34444781,
+        "entropy": 7.709969214,
+        "unique_words": 0.345818815,
+        "reading_time": 5,
+        "fkgl": 10.91702091,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.24
+    },
+    {
+        "coherence_score": 0.338514453,
+        "entropy": 7.808762741,
+        "unique_words": 0.326388889,
+        "reading_time": 6,
+        "fkgl": 10.87394233,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.11
+    },
+    {
+        "coherence_score": 0.338444525,
+        "entropy": 7.938775934,
+        "unique_words": 0.250364609,
+        "reading_time": 10,
+        "fkgl": 10.86524991,
+        "imprecise_words": 0.03,
+        "connective_words": 0.05,
+        "spelling_errors": 0.26
+    },
+    {
+        "coherence_score": 0.354995376,
+        "entropy": 7.376816315,
+        "unique_words": 0.360303413,
+        "reading_time": 4,
+        "fkgl": 10.86473451,
+        "imprecise_words": 0.03,
+        "connective_words": 0.05,
+        "spelling_errors": 0.31
+    },
+    {
+        "coherence_score": 0.340442589,
+        "entropy": 7.885527523,
+        "unique_words": 0.291566265,
+        "reading_time": 8,
+        "fkgl": 10.84786575,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.32
+    },
+    {
+        "coherence_score": 0.376221363,
+        "entropy": 7.649595692,
+        "unique_words": 0.319614711,
+        "reading_time": 5,
+        "fkgl": 10.82227568,
+        "imprecise_words": 0.04,
+        "connective_words": 0.05,
+        "spelling_errors": 0.25
+    },
+    {
+        "coherence_score": 0.447824491,
+        "entropy": 7.783003309,
+        "unique_words": 0.275575448,
+        "reading_time": 7,
+        "fkgl": 10.80538812,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.35
+    },
+    {
+        "coherence_score": 0.378016919,
+        "entropy": 7.575071878,
+        "unique_words": 0.350356295,
+        "reading_time": 4,
+        "fkgl": 10.75157895,
+        "imprecise_words": 0.01,
+        "connective_words": 0.05,
+        "spelling_errors": 0.19
+    },
+    {
+        "coherence_score": 0.351753825,
+        "entropy": 7.896838175,
+        "unique_words": 0.34559387,
+        "reading_time": 6,
+        "fkgl": 10.73118774,
+        "imprecise_words": 0.03,
+        "connective_words": 0.06,
+        "spelling_errors": 0.28
+    },
+    {
+        "coherence_score": 0.333292385,
+        "entropy": 8.693220148,
+        "unique_words": 0.194118708,
+        "reading_time": 27,
+        "fkgl": 10.71957184,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.13
+    },
+    {
+        "coherence_score": 0.288888973,
+        "entropy": 8.520358837,
+        "unique_words": 0.3252149,
+        "reading_time": 10,
+        "fkgl": 10.70811726,
+        "imprecise_words": 0.01,
+        "connective_words": 0.04,
+        "spelling_errors": 0.24
+    },
+    {
+        "coherence_score": 0.312094683,
+        "entropy": 8.701526256,
+        "unique_words": 0.193802615,
+        "reading_time": 27,
+        "fkgl": 10.69078718,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.35
+    },
+    {
+        "coherence_score": 0.313017788,
+        "entropy": 8.174314716,
+        "unique_words": 0.225149701,
+        "reading_time": 16,
+        "fkgl": 10.67967921,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.27
+    },
+    {
+        "coherence_score": 0.336871723,
+        "entropy": 8.171588805,
+        "unique_words": 0.233898305,
+        "reading_time": 15,
+        "fkgl": 10.67082803,
+        "imprecise_words": 0.03,
+        "connective_words": 0.04,
+        "spelling_errors": 0.2
+    },
+    {
+        "coherence_score": 0.373199179,
+        "entropy": 8.116826301,
+        "unique_words": 0.195990504,
+        "reading_time": 18,
+        "fkgl": 10.67019183,
+        "imprecise_words": 0.03,
+        "connective_words": 0.05,
+        "spelling_errors": 0.22
+    },
+    {
+        "coherence_score": 0.316849841,
+        "entropy": 7.423022751,
+        "unique_words": 0.458188153,
+        "reading_time": 3,
+        "fkgl": 10.66752726,
+        "imprecise_words": 0.03,
+        "connective_words": 0.04,
+        "spelling_errors": 0.16
+    },
+    {
+        "coherence_score": 0.316450906,
+        "entropy": 7.806422718,
+        "unique_words": 0.366606171,
+        "reading_time": 5,
+        "fkgl": 10.65781811,
+        "imprecise_words": 0.01,
+        "connective_words": 0.07,
+        "spelling_errors": 0.11
+    },
+    {
+        "coherence_score": 0.310343173,
+        "entropy": 8.667639728,
+        "unique_words": 0.235720974,
+        "reading_time": 21,
+        "fkgl": 10.62265704,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.18
+    },
+    {
+        "coherence_score": 0.304337299,
+        "entropy": 8.272847506,
+        "unique_words": 0.271953578,
+        "reading_time": 13,
+        "fkgl": 10.5795346,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.13
+    },
+    {
+        "coherence_score": 0.358585104,
+        "entropy": 8.346018587,
+        "unique_words": 0.193184285,
+        "reading_time": 23,
+        "fkgl": 10.55319991,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.16
+    },
+    {
+        "coherence_score": 0.34684344,
+        "entropy": 8.021957333,
+        "unique_words": 0.362637363,
+        "reading_time": 6,
+        "fkgl": 10.54988027,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.33
+    },
+    {
+        "coherence_score": 0.32324655,
+        "entropy": 8.634535071,
+        "unique_words": 0.171966256,
+        "reading_time": 37,
+        "fkgl": 10.54522955,
+        "imprecise_words": 0.03,
+        "connective_words": 0.05,
+        "spelling_errors": 0.28
+    },
+    {
+        "coherence_score": 0.368531942,
+        "entropy": 7.9447329,
+        "unique_words": 0.359180036,
+        "reading_time": 5,
+        "fkgl": 10.50771123,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.17
+    },
+    {
+        "coherence_score": 0.365299546,
+        "entropy": 7.9447329,
+        "unique_words": 0.359180036,
+        "reading_time": 5,
+        "fkgl": 10.50771123,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.09
+    },
+    {
+        "coherence_score": 0.330848645,
+        "entropy": 8.272563512,
+        "unique_words": 0.245682059,
+        "reading_time": 14,
+        "fkgl": 10.49795898,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.14
+    },
+    {
+        "coherence_score": 0.349058092,
+        "entropy": 8.398253224,
+        "unique_words": 0.234501348,
+        "reading_time": 19,
+        "fkgl": 10.49682692,
+        "imprecise_words": 0.03,
+        "connective_words": 0.04,
+        "spelling_errors": 0.07
+    },
+    {
+        "coherence_score": 0.369055879,
+        "entropy": 7.716784688,
+        "unique_words": 0.442962963,
+        "reading_time": 3,
+        "fkgl": 10.49072113,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.27
+    },
+    {
+        "coherence_score": 0.316060465,
+        "entropy": 7.901507273,
+        "unique_words": 0.267935578,
+        "reading_time": 10,
+        "fkgl": 10.47210876,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.51
+    },
+    {
+        "coherence_score": 0.374082531,
+        "entropy": 8.061695233,
+        "unique_words": 0.187150158,
+        "reading_time": 20,
+        "fkgl": 10.46668276,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.13
+    },
+    {
+        "coherence_score": 0.337253733,
+        "entropy": 7.828323241,
+        "unique_words": 0.295944233,
+        "reading_time": 8,
+        "fkgl": 10.46096308,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.12
+    },
+    {
+        "coherence_score": 0.258454135,
+        "entropy": 8.87084856,
+        "unique_words": 0.195750255,
+        "reading_time": 33,
+        "fkgl": 10.4595723,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.06
+    },
+    {
+        "coherence_score": 0.374637764,
+        "entropy": 7.210413948,
+        "unique_words": 0.465783664,
+        "reading_time": 2,
+        "fkgl": 10.45488962,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.38
+    },
+    {
+        "coherence_score": 0.36578918,
+        "entropy": 8.115431233,
+        "unique_words": 0.232120838,
+        "reading_time": 15,
+        "fkgl": 10.45279901,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.19
+    },
+    {
+        "coherence_score": 0.315902772,
+        "entropy": 8.096809779,
+        "unique_words": 0.495705521,
+        "reading_time": 4,
+        "fkgl": 10.44758052,
+        "imprecise_words": 0.02,
+        "connective_words": 0.03,
+        "spelling_errors": 0.23
+    },
+    {
+        "coherence_score": 0.328530028,
+        "entropy": 8.535648915,
+        "unique_words": 0.25,
+        "reading_time": 18,
+        "fkgl": 10.42549432,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.23
+    },
+    {
+        "coherence_score": 0.335279355,
+        "entropy": 8.058052891,
+        "unique_words": 0.278806584,
+        "reading_time": 10,
+        "fkgl": 10.4238191,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.19
+    },
+    {
+        "coherence_score": 0.363059052,
+        "entropy": 7.818645334,
+        "unique_words": 0.342307692,
+        "reading_time": 6,
+        "fkgl": 10.31323077,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.16
+    },
+    {
+        "coherence_score": 0.343769004,
+        "entropy": 7.650809273,
+        "unique_words": 0.360621762,
+        "reading_time": 5,
+        "fkgl": 10.30739637,
+        "imprecise_words": 0.03,
+        "connective_words": 0.06,
+        "spelling_errors": 0.09
+    },
+    {
+        "coherence_score": 0.313653829,
+        "entropy": 7.632317447,
+        "unique_words": 0.338028169,
+        "reading_time": 6,
+        "fkgl": 10.30103032,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.25
+    },
+    {
+        "coherence_score": 0.269075681,
+        "entropy": 8.224106271,
+        "unique_words": 0.212810397,
+        "reading_time": 20,
+        "fkgl": 10.28079429,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.25
+    },
+    {
+        "coherence_score": 0.357850803,
+        "entropy": 8.041590739,
+        "unique_words": 0.234177215,
+        "reading_time": 14,
+        "fkgl": 10.27907465,
+        "imprecise_words": 0.03,
+        "connective_words": 0.05,
+        "spelling_errors": 0.28
+    },
+    {
+        "coherence_score": 0.397856392,
+        "entropy": 8.042966105,
+        "unique_words": 0.286477819,
+        "reading_time": 9,
+        "fkgl": 10.26633588,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.31
+    },
+    {
+        "coherence_score": 0.361169621,
+        "entropy": 7.529052497,
+        "unique_words": 0.370689655,
+        "reading_time": 5,
+        "fkgl": 10.25120172,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.15
+    },
+    {
+        "coherence_score": 0.336320176,
+        "entropy": 8.08547539,
+        "unique_words": 0.328462887,
+        "reading_time": 8,
+        "fkgl": 10.24789837,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.27
+    },
+    {
+        "coherence_score": 0.346953405,
+        "entropy": 7.811474298,
+        "unique_words": 0.375266525,
+        "reading_time": 4,
+        "fkgl": 10.23444829,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.37
+    },
+    {
+        "coherence_score": 0.364489452,
+        "entropy": 7.000404145,
+        "unique_words": 0.44109589,
+        "reading_time": 2,
+        "fkgl": 10.23251622,
+        "imprecise_words": 0.02,
+        "connective_words": 0.08,
+        "spelling_errors": 0.15
+    },
+    {
+        "coherence_score": 0.325814243,
+        "entropy": 8.307133545,
+        "unique_words": 0.224212951,
+        "reading_time": 18,
+        "fkgl": 10.22476851,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.41
+    },
+    {
+        "coherence_score": 0.427889064,
+        "entropy": 8.900857342,
+        "unique_words": 0.14670777,
+        "reading_time": 61,
+        "fkgl": 10.11713405,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.23
+    },
+    {
+        "coherence_score": 0.315733803,
+        "entropy": 8.228569864,
+        "unique_words": 0.351535836,
+        "reading_time": 7,
+        "fkgl": 10.09272069,
+        "imprecise_words": 0.02,
+        "connective_words": 0.03,
+        "spelling_errors": 0.26
+    },
+    {
+        "coherence_score": 0.324524009,
+        "entropy": 8.368331185,
+        "unique_words": 0.28342246,
+        "reading_time": 14,
+        "fkgl": 10.06795009,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.22
+    },
+    {
+        "coherence_score": 0.325392648,
+        "entropy": 8.504050333,
+        "unique_words": 0.24319785,
+        "reading_time": 14,
+        "fkgl": 10.03157339,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.33
+    },
+    {
+        "coherence_score": 0.371824966,
+        "entropy": 8.637715602,
+        "unique_words": 0.244549514,
+        "reading_time": 18,
+        "fkgl": 10.0152555,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.27
+    },
+    {
+        "coherence_score": 0.369726077,
+        "entropy": 8.458654426,
+        "unique_words": 0.167356798,
+        "reading_time": 28,
+        "fkgl": 10.00106826,
+        "imprecise_words": 0.01,
+        "connective_words": 0.04,
+        "spelling_errors": 0.23
+    },
+    {
+        "coherence_score": 0.361467638,
+        "entropy": 7.18014382,
+        "unique_words": 0.506361323,
+        "reading_time": 2,
+        "fkgl": 9.929892687,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.07
+    },
+    {
+        "coherence_score": 0.368803906,
+        "entropy": 8.192774121,
+        "unique_words": 0.298273155,
+        "reading_time": 9,
+        "fkgl": 9.887075824,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.03
+    },
+    {
+        "coherence_score": 0.342543656,
+        "entropy": 8.256118251,
+        "unique_words": 0.260571016,
+        "reading_time": 13,
+        "fkgl": 9.879907352,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.29
+    },
+    {
+        "coherence_score": 0.312287179,
+        "entropy": 7.052379893,
+        "unique_words": 0.425531915,
+        "reading_time": 2,
+        "fkgl": 9.878037825,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.26
+    },
+    {
+        "coherence_score": 0.369777314,
+        "entropy": 8.46469951,
+        "unique_words": 0.168593615,
+        "reading_time": 28,
+        "fkgl": 9.871113162,
+        "imprecise_words": 0.01,
+        "connective_words": 0.04,
+        "spelling_errors": 0.34
+    },
+    {
+        "coherence_score": 0.359531352,
+        "entropy": 7.925245212,
+        "unique_words": 0.324862637,
+        "reading_time": 7,
+        "fkgl": 9.841138861,
+        "imprecise_words": 0.03,
+        "connective_words": 0.04,
+        "spelling_errors": 0.2
+    },
+    {
+        "coherence_score": 0.351538679,
+        "entropy": 8.311459952,
+        "unique_words": 0.28352799,
+        "reading_time": 12,
+        "fkgl": 9.826366243,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.3
+    },
+    {
+        "coherence_score": 0.326876469,
+        "entropy": 8.083189034,
+        "unique_words": 0.205405405,
+        "reading_time": 15,
+        "fkgl": 9.814491845,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.33
+    },
+    {
+        "coherence_score": 0.437307647,
+        "entropy": 7.390743278,
+        "unique_words": 0.544072948,
+        "reading_time": 2,
+        "fkgl": 9.79875228,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.24
+    },
+    {
+        "coherence_score": 0.333865616,
+        "entropy": 8.370244057,
+        "unique_words": 0.222491517,
+        "reading_time": 20,
+        "fkgl": 9.714694014,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.26
+    },
+    {
+        "coherence_score": 0.313573203,
+        "entropy": 8.055826266,
+        "unique_words": 0.297421203,
+        "reading_time": 8,
+        "fkgl": 9.710283019,
+        "imprecise_words": 0.02,
+        "connective_words": 0.03,
+        "spelling_errors": 0.14
+    },
+    {
+        "coherence_score": 0.374871586,
+        "entropy": 8.347743875,
+        "unique_words": 0.234055003,
+        "reading_time": 16,
+        "fkgl": 9.684774624,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.16
+    },
+    {
+        "coherence_score": 0.350376858,
+        "entropy": 7.247376647,
+        "unique_words": 0.387788779,
+        "reading_time": 3,
+        "fkgl": 9.636511232,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.15
+    },
+    {
+        "coherence_score": 0.35409645,
+        "entropy": 7.848292835,
+        "unique_words": 0.323572474,
+        "reading_time": 6,
+        "fkgl": 9.620170156,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.27
+    },
+    {
+        "coherence_score": 0.365054055,
+        "entropy": 8.613328306,
+        "unique_words": 0.163648041,
+        "reading_time": 38,
+        "fkgl": 9.613452907,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.28
+    },
+    {
+        "coherence_score": 0.380869971,
+        "entropy": 7.715731648,
+        "unique_words": 0.373056995,
+        "reading_time": 5,
+        "fkgl": 9.559440806,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.18
+    },
+    {
+        "coherence_score": 0.354185746,
+        "entropy": 7.904664089,
+        "unique_words": 0.341296928,
+        "reading_time": 7,
+        "fkgl": 9.522819668,
+        "imprecise_words": 0.03,
+        "connective_words": 0.05,
+        "spelling_errors": 0.15
+    },
+    {
+        "coherence_score": 0.319779756,
+        "entropy": 7.782215891,
+        "unique_words": 0.369334619,
+        "reading_time": 5,
+        "fkgl": 9.496940694,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.15
+    },
+    {
+        "coherence_score": 0.330282855,
+        "entropy": 7.95942194,
+        "unique_words": 0.422099448,
+        "reading_time": 4,
+        "fkgl": 9.480422489,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.53
+    },
+    {
+        "coherence_score": 0.344427258,
+        "entropy": 7.543394405,
+        "unique_words": 0.393401015,
+        "reading_time": 4,
+        "fkgl": 9.468910937,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.09
+    },
+    {
+        "coherence_score": 0.330860071,
+        "entropy": 7.902008051,
+        "unique_words": 0.165903207,
+        "reading_time": 24,
+        "fkgl": 9.388302268,
+        "imprecise_words": 0.01,
+        "connective_words": 0.06,
+        "spelling_errors": 0.18
+    },
+    {
+        "coherence_score": 0.389876776,
+        "entropy": 7.86643091,
+        "unique_words": 0.358225108,
+        "reading_time": 5,
+        "fkgl": 9.387857143,
+        "imprecise_words": 0.01,
+        "connective_words": 0.03,
+        "spelling_errors": 0.36
+    },
+    {
+        "coherence_score": 0.310428896,
+        "entropy": 7.865129193,
+        "unique_words": 0.343083004,
+        "reading_time": 6,
+        "fkgl": 9.37775974,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.21
+    },
+    {
+        "coherence_score": 0.360310782,
+        "entropy": 8.238207545,
+        "unique_words": 0.332932692,
+        "reading_time": 8,
+        "fkgl": 9.359547318,
+        "imprecise_words": 0.02,
+        "connective_words": 0.03,
+        "spelling_errors": 0.26
+    },
+    {
+        "coherence_score": 0.308805153,
+        "entropy": 7.345089572,
+        "unique_words": 0.399317406,
+        "reading_time": 3,
+        "fkgl": 9.317365808,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.42
+    },
+    {
+        "coherence_score": 0.342736939,
+        "entropy": 7.796689909,
+        "unique_words": 0.360815603,
+        "reading_time": 5,
+        "fkgl": 9.255735816,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.1
+    },
+    {
+        "coherence_score": 0.32490358,
+        "entropy": 7.790580391,
+        "unique_words": 0.445964432,
+        "reading_time": 4,
+        "fkgl": 9.243758341,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.18
+    },
+    {
+        "coherence_score": 0.368130931,
+        "entropy": 8.060964087,
+        "unique_words": 0.354971241,
+        "reading_time": 6,
+        "fkgl": 9.215243691,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.25
+    },
+    {
+        "coherence_score": 0.313097399,
+        "entropy": 7.077919393,
+        "unique_words": 0.514285714,
+        "reading_time": 2,
+        "fkgl": 9.193067669,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.47
+    },
+    {
+        "coherence_score": 0.347856918,
+        "entropy": 8.547453953,
+        "unique_words": 0.331373597,
+        "reading_time": 9,
+        "fkgl": 9.178574886,
+        "imprecise_words": 0.02,
+        "connective_words": 0.03,
+        "spelling_errors": 0.31
+    },
+    {
+        "coherence_score": 0.291208466,
+        "entropy": 8.697595854,
+        "unique_words": 0.274697259,
+        "reading_time": 16,
+        "fkgl": 9.177171461,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.23
+    },
+    {
+        "coherence_score": 0.42602836,
+        "entropy": 8.076637129,
+        "unique_words": 0.25884634,
+        "reading_time": 10,
+        "fkgl": 9.170684466,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.2
+    },
+    {
+        "coherence_score": 0.321365337,
+        "entropy": 8.13035621,
+        "unique_words": 0.241570952,
+        "reading_time": 13,
+        "fkgl": 9.16553763,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.13
+    },
+    {
+        "coherence_score": 0.319561658,
+        "entropy": 7.258664844,
+        "unique_words": 0.393841167,
+        "reading_time": 3,
+        "fkgl": 9.09280389,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.1
+    },
+    {
+        "coherence_score": 0.3462519,
+        "entropy": 8.240108824,
+        "unique_words": 0.258658009,
+        "reading_time": 13,
+        "fkgl": 9.068542569,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.21
+    },
+    {
+        "coherence_score": 0.372251662,
+        "entropy": 7.522766544,
+        "unique_words": 0.282392027,
+        "reading_time": 6,
+        "fkgl": 9.053095238,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.16
+    },
+    {
+        "coherence_score": 0.344969018,
+        "entropy": 7.323807765,
+        "unique_words": 0.525641026,
+        "reading_time": 2,
+        "fkgl": 9.052628205,
+        "imprecise_words": 0.02,
+        "connective_words": 0.03,
+        "spelling_errors": 0.34
+    },
+    {
+        "coherence_score": 0.350627561,
+        "entropy": 8.053271451,
+        "unique_words": 0.380868025,
+        "reading_time": 5,
+        "fkgl": 9.046001771,
+        "imprecise_words": 0.02,
+        "connective_words": 0.03,
+        "spelling_errors": 0.39
+    },
+    {
+        "coherence_score": 0.325656068,
+        "entropy": 7.533306076,
+        "unique_words": 0.359865471,
+        "reading_time": 4,
+        "fkgl": 9.001456502,
+        "imprecise_words": 0.03,
+        "connective_words": 0.04,
+        "spelling_errors": 0.43
+    },
+    {
+        "coherence_score": 0.322517326,
+        "entropy": 7.207823159,
+        "unique_words": 0.577639752,
+        "reading_time": 2,
+        "fkgl": 8.992173913,
+        "imprecise_words": 0.01,
+        "connective_words": 0.03,
+        "spelling_errors": 0.28
+    },
+    {
+        "coherence_score": 0.344491627,
+        "entropy": 8.170604765,
+        "unique_words": 0.214051049,
+        "reading_time": 19,
+        "fkgl": 8.97702792,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.46
+    },
+    {
+        "coherence_score": 0.333895032,
+        "entropy": 8.931511206,
+        "unique_words": 0.136201046,
+        "reading_time": 55,
+        "fkgl": 8.969204749,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.15
+    },
+    {
+        "coherence_score": 0.436146209,
+        "entropy": 7.405870263,
+        "unique_words": 0.414675768,
+        "reading_time": 3,
+        "fkgl": 8.951261876,
+        "imprecise_words": 0.01,
+        "connective_words": 0.05,
+        "spelling_errors": 0.15
+    },
+    {
+        "coherence_score": 0.339440931,
+        "entropy": 8.241950947,
+        "unique_words": 0.297065463,
+        "reading_time": 11,
+        "fkgl": 8.936610975,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.18
+    },
+    {
+        "coherence_score": 0.371297682,
+        "entropy": 7.594793387,
+        "unique_words": 0.396551724,
+        "reading_time": 3,
+        "fkgl": 8.930106101,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.23
+    },
+    {
+        "coherence_score": 0.328412374,
+        "entropy": 7.942204589,
+        "unique_words": 0.266808511,
+        "reading_time": 11,
+        "fkgl": 8.793892664,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.09
+    },
+    {
+        "coherence_score": 0.343298443,
+        "entropy": 8.192710958,
+        "unique_words": 0.326486486,
+        "reading_time": 9,
+        "fkgl": 8.753812185,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.15
+    },
+    {
+        "coherence_score": 0.335550478,
+        "entropy": 7.780937859,
+        "unique_words": 0.269023367,
+        "reading_time": 8,
+        "fkgl": 8.748230207,
+        "imprecise_words": 0.03,
+        "connective_words": 0.05,
+        "spelling_errors": 0.25
+    },
+    {
+        "coherence_score": 0.330834474,
+        "entropy": 7.852608176,
+        "unique_words": 0.279618192,
+        "reading_time": 9,
+        "fkgl": 8.718796315,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.19
+    },
+    {
+        "coherence_score": 0.32927529,
+        "entropy": 8.283799085,
+        "unique_words": 0.343595382,
+        "reading_time": 9,
+        "fkgl": 8.697082515,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.23
+    },
+    {
+        "coherence_score": 0.328619298,
+        "entropy": 8.189154616,
+        "unique_words": 0.271534762,
+        "reading_time": 11,
+        "fkgl": 8.680499366,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.28
+    },
+    {
+        "coherence_score": 0.263378361,
+        "entropy": 7.491758483,
+        "unique_words": 0.37334934,
+        "reading_time": 4,
+        "fkgl": 8.675068836,
+        "imprecise_words": 0.03,
+        "connective_words": 0.05,
+        "spelling_errors": 0.22
+    },
+    {
+        "coherence_score": 0.325281456,
+        "entropy": 8.332641596,
+        "unique_words": 0.218867925,
+        "reading_time": 15,
+        "fkgl": 8.630884203,
+        "imprecise_words": 0.04,
+        "connective_words": 0.05,
+        "spelling_errors": 0.31
+    },
+    {
+        "coherence_score": 0.349191538,
+        "entropy": 7.790223219,
+        "unique_words": 0.395273899,
+        "reading_time": 5,
+        "fkgl": 8.627468672,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.24
+    },
+    {
+        "coherence_score": 0.331967884,
+        "entropy": 7.790223219,
+        "unique_words": 0.395273899,
+        "reading_time": 5,
+        "fkgl": 8.627468672,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.17
+    },
+    {
+        "coherence_score": 0.370547361,
+        "entropy": 7.676302104,
+        "unique_words": 0.297124601,
+        "reading_time": 6,
+        "fkgl": 8.501084467,
+        "imprecise_words": 0.01,
+        "connective_words": 0.03,
+        "spelling_errors": 0.23
+    },
+    {
+        "coherence_score": 0.304111505,
+        "entropy": 7.668955432,
+        "unique_words": 0.327289211,
+        "reading_time": 5,
+        "fkgl": 8.456677835,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.2
+    },
+    {
+        "coherence_score": 0.326228154,
+        "entropy": 8.443688013,
+        "unique_words": 0.203617571,
+        "reading_time": 18,
+        "fkgl": 8.442664802,
+        "imprecise_words": 0.04,
+        "connective_words": 0.05,
+        "spelling_errors": 0.21
+    },
+    {
+        "coherence_score": 0.347522659,
+        "entropy": 7.889229758,
+        "unique_words": 0.310632384,
+        "reading_time": 7,
+        "fkgl": 8.439780842,
+        "imprecise_words": 0.03,
+        "connective_words": 0.05,
+        "spelling_errors": 0.12
+    },
+    {
+        "coherence_score": 0.314110022,
+        "entropy": 8.021249241,
+        "unique_words": 0.291285801,
+        "reading_time": 8,
+        "fkgl": 8.388007133,
+        "imprecise_words": 0.01,
+        "connective_words": 0.05,
+        "spelling_errors": 0.12
+    },
+    {
+        "coherence_score": 0.338300443,
+        "entropy": 8.225853994,
+        "unique_words": 0.369092273,
+        "reading_time": 6,
+        "fkgl": 8.383024595,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.15
+    },
+    {
+        "coherence_score": 0.309745705,
+        "entropy": 8.137168997,
+        "unique_words": 0.270612245,
+        "reading_time": 12,
+        "fkgl": 8.273530612,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.21
+    },
+    {
+        "coherence_score": 0.36557647,
+        "entropy": 7.812971902,
+        "unique_words": 0.464849354,
+        "reading_time": 3,
+        "fkgl": 7.991684818,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.07
+    },
+    {
+        "coherence_score": 0.348260624,
+        "entropy": 7.684756791,
+        "unique_words": 0.336956522,
+        "reading_time": 5,
+        "fkgl": 7.973399209,
+        "imprecise_words": 0.03,
+        "connective_words": 0.04,
+        "spelling_errors": 0.25
+    },
+    {
+        "coherence_score": 0.36096847,
+        "entropy": 7.436021663,
+        "unique_words": 0.385941645,
+        "reading_time": 4,
+        "fkgl": 7.952798408,
+        "imprecise_words": 0.03,
+        "connective_words": 0.04,
+        "spelling_errors": 0.25
+    },
+    {
+        "coherence_score": 0.323104273,
+        "entropy": 7.760822922,
+        "unique_words": 0.402597403,
+        "reading_time": 3,
+        "fkgl": 7.858985201,
+        "imprecise_words": 0.01,
+        "connective_words": 0.04,
+        "spelling_errors": 0.24
+    },
+    {
+        "coherence_score": 0.374942751,
+        "entropy": 8.159390746,
+        "unique_words": 0.277412835,
+        "reading_time": 10,
+        "fkgl": 7.853643514,
+        "imprecise_words": 0.02,
+        "connective_words": 0.03,
+        "spelling_errors": 0.31
+    },
+    {
+        "coherence_score": 0.297664807,
+        "entropy": 8.025924735,
+        "unique_words": 0.239181747,
+        "reading_time": 12,
+        "fkgl": 7.850725333,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.49
+    },
+    {
+        "coherence_score": 0.491673475,
+        "entropy": 7.420258747,
+        "unique_words": 0.535410765,
+        "reading_time": 2,
+        "fkgl": 7.846734116,
+        "imprecise_words": 0.01,
+        "connective_words": 0.05,
+        "spelling_errors": 0.35
+    },
+    {
+        "coherence_score": 0.334605832,
+        "entropy": 8.229125958,
+        "unique_words": 0.141002571,
+        "reading_time": 37,
+        "fkgl": 7.664160263,
+        "imprecise_words": 0.01,
+        "connective_words": 0.04,
+        "spelling_errors": 0.29
+    },
+    {
+        "coherence_score": 0.324155368,
+        "entropy": 7.38211641,
+        "unique_words": 0.338811631,
+        "reading_time": 4,
+        "fkgl": 7.636828146,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.27
+    },
+    {
+        "coherence_score": 0.349977713,
+        "entropy": 7.717550608,
+        "unique_words": 0.398802395,
+        "reading_time": 4,
+        "fkgl": 7.519744993,
+        "imprecise_words": 0.01,
+        "connective_words": 0.04,
+        "spelling_errors": 0.13
+    },
+    {
+        "coherence_score": 0.356730287,
+        "entropy": 8.355063166,
+        "unique_words": 0.1571958,
+        "reading_time": 31,
+        "fkgl": 7.4569079,
+        "imprecise_words": 0.02,
+        "connective_words": 0.05,
+        "spelling_errors": 0.24
+    },
+    {
+        "coherence_score": 0.481136438,
+        "entropy": 7.205897061,
+        "unique_words": 0.429460581,
+        "reading_time": 2,
+        "fkgl": 7.431894487,
+        "imprecise_words": 0.04,
+        "connective_words": 0.05,
+        "spelling_errors": 0.57
+    },
+    {
+        "coherence_score": 0.34709069,
+        "entropy": 7.710725868,
+        "unique_words": 0.356553621,
+        "reading_time": 5,
+        "fkgl": 7.423217117,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.42
+    },
+    {
+        "coherence_score": 0.382037133,
+        "entropy": 7.439742731,
+        "unique_words": 0.387518142,
+        "reading_time": 3,
+        "fkgl": 7.420673902,
+        "imprecise_words": 0.02,
+        "connective_words": 0.06,
+        "spelling_errors": 0.41
+    },
+    {
+        "coherence_score": 0.413335145,
+        "entropy": 7.346183671,
+        "unique_words": 0.447698745,
+        "reading_time": 2,
+        "fkgl": 7.420137829,
+        "imprecise_words": 0.01,
+        "connective_words": 0.04,
+        "spelling_errors": 0.24
+    },
+    {
+        "coherence_score": 0.342270742,
+        "entropy": 7.228034714,
+        "unique_words": 0.496437055,
+        "reading_time": 2,
+        "fkgl": 7.221335755,
+        "imprecise_words": 0.01,
+        "connective_words": 0.04,
+        "spelling_errors": 0.19
+    },
+    {
+        "coherence_score": 0.353013703,
+        "entropy": 7.070446966,
+        "unique_words": 0.521865889,
+        "reading_time": 2,
+        "fkgl": 7.081709184,
+        "imprecise_words": 0.02,
+        "connective_words": 0.02,
+        "spelling_errors": 0.26
+    },
+    {
+        "coherence_score": 0.34709069,
+        "entropy": 7.74238356,
+        "unique_words": 0.359673025,
+        "reading_time": 5,
+        "fkgl": 7.038395469,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.31
+    },
+    {
+        "coherence_score": 0.341309037,
+        "entropy": 7.733785386,
+        "unique_words": 0.330586081,
+        "reading_time": 5,
+        "fkgl": 7.036505495,
+        "imprecise_words": 0.03,
+        "connective_words": 0.05,
+        "spelling_errors": 0.51
+    },
+    {
+        "coherence_score": 0.378350634,
+        "entropy": 7.504699437,
+        "unique_words": 0.27567195,
+        "reading_time": 7,
+        "fkgl": 6.685158901,
+        "imprecise_words": 0.04,
+        "connective_words": 0.05,
+        "spelling_errors": 0.07
+    },
+    {
+        "coherence_score": 0.305296464,
+        "entropy": 8.692109018,
+        "unique_words": 0.328643782,
+        "reading_time": 9,
+        "fkgl": 6.6568443,
+        "imprecise_words": 0.02,
+        "connective_words": 0.03,
+        "spelling_errors": 0.41
+    },
+    {
+        "coherence_score": 0.29837169,
+        "entropy": 7.908750075,
+        "unique_words": 0.432616082,
+        "reading_time": 5,
+        "fkgl": 6.608731933,
+        "imprecise_words": 0.01,
+        "connective_words": 0.03,
+        "spelling_errors": 0.83
+    },
+    {
+        "coherence_score": 0.362366533,
+        "entropy": 7.394472844,
+        "unique_words": 0.398412698,
+        "reading_time": 3,
+        "fkgl": 6.558542569,
+        "imprecise_words": 0.04,
+        "connective_words": 0.05,
+        "spelling_errors": 0.2
+    },
+    {
+        "coherence_score": 0.36016595,
+        "entropy": 7.731497293,
+        "unique_words": 0.466458658,
+        "reading_time": 3,
+        "fkgl": 6.537884606,
+        "imprecise_words": 0.01,
+        "connective_words": 0.05,
+        "spelling_errors": 0.3
+    },
+    {
+        "coherence_score": 0.457728234,
+        "entropy": 7.272233855,
+        "unique_words": 0.423597679,
+        "reading_time": 2,
+        "fkgl": 6.500266441,
+        "imprecise_words": 0.04,
+        "connective_words": 0.05,
+        "spelling_errors": 0.29
+    },
+    {
+        "coherence_score": 0.748759122,
+        "entropy": 7.017482855,
+        "unique_words": 0.376199616,
+        "reading_time": 3,
+        "fkgl": 6.431016795,
+        "imprecise_words": 0.01,
+        "connective_words": 0.05,
+        "spelling_errors": 0.31
+    },
+    {
+        "coherence_score": 0.415419841,
+        "entropy": 7.191816597,
+        "unique_words": 0.447191011,
+        "reading_time": 2,
+        "fkgl": 6.387985554,
+        "imprecise_words": 0.04,
+        "connective_words": 0.05,
+        "spelling_errors": 0.25
+    },
+    {
+        "coherence_score": 0.456589595,
+        "entropy": 6.993792292,
+        "unique_words": 0.452926209,
+        "reading_time": 2,
+        "fkgl": 6.363274809,
+        "imprecise_words": 0.05,
+        "connective_words": 0.05,
+        "spelling_errors": 0.15
+    },
+    {
+        "coherence_score": 0.618366604,
+        "entropy": 7.886381536,
+        "unique_words": 0.508295626,
+        "reading_time": 3,
+        "fkgl": 6.166687944,
+        "imprecise_words": 0.01,
+        "connective_words": 0.04,
+        "spelling_errors": 0.26
+    },
+    {
+        "coherence_score": 0.925862043,
+        "entropy": 6.865988914,
+        "unique_words": 0.342490842,
+        "reading_time": 3,
+        "fkgl": 5.893809524,
+        "imprecise_words": 0.0,
+        "connective_words": 0.02,
+        "spelling_errors": 0.15
+    },
+    {
+        "coherence_score": 0.811197317,
+        "entropy": 7.140251929,
+        "unique_words": 0.528813559,
+        "reading_time": 2,
+        "fkgl": 5.76,
+        "imprecise_words": 0.0,
+        "connective_words": 0.01,
+        "spelling_errors": 0.27
+    },
+    {
+        "coherence_score": 0.421201135,
+        "entropy": 5.418344261,
+        "unique_words": 0.543859649,
+        "reading_time": 1,
+        "fkgl": 5.346952381,
+        "imprecise_words": 0.0,
+        "connective_words": 0.01,
+        "spelling_errors": 0.14
+    },
+    {
+        "coherence_score": 0.582344383,
+        "entropy": 7.567501136,
+        "unique_words": 0.454736842,
+        "reading_time": 2,
+        "fkgl": 4.77984689,
+        "imprecise_words": 0.01,
+        "connective_words": 0.05,
+        "spelling_errors": 0.21
+    },
+    {
+        "coherence_score": 0.593704736,
+        "entropy": 6.962895092,
+        "unique_words": 0.333996024,
+        "reading_time": 3,
+        "fkgl": 4.698841396,
+        "imprecise_words": 0.0,
+        "connective_words": 0.02,
+        "spelling_errors": 0.1
+    },
+    {
+        "coherence_score": 0.70336312,
+        "entropy": 5.491893798,
+        "unique_words": 0.673684211,
+        "reading_time": 1,
+        "fkgl": 4.596992481,
+        "imprecise_words": 0.0,
+        "connective_words": 0.0,
+        "spelling_errors": 0.31
+    },
+    {
+        "coherence_score": 0.556514483,
+        "entropy": 7.410686382,
+        "unique_words": 0.44742268,
+        "reading_time": 2,
+        "fkgl": 4.384027062,
+        "imprecise_words": 0.01,
+        "connective_words": 0.04,
+        "spelling_errors": 0.19
+    },
+    {
+        "coherence_score": 0.255876782,
+        "entropy": 7.264329251,
+        "unique_words": 0.453382084,
+        "reading_time": 6,
+        "fkgl": 4.24074917,
+        "imprecise_words": 0.01,
+        "connective_words": 0.04,
+        "spelling_errors": 0.18
+    }
+]

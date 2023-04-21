@@ -7,11 +7,38 @@
       (gridReady)="onGridReady($event)">
     </ag-grid-angular>
   </div>
-  <div class="container mt-5 text-center">
+  <!-- <div class="container mt-5 text-center">
     <div class="row d-flex justify-content-center">
       <div class="col-auto">
         <plotly-plot [data]="data" [layout]="layout"></plotly-plot>
       </div>
     </div>
+  </div> -->
+  <div class="ag-theme-alpine my-5">
+    <ag-grid-angular  style="height: 540px;" [rowData]="featureRowData$" [columnDefs]="featureColumnDefs"
+      [defaultColDef]="defaultColDef" [animateRows]="true" [gridOptions]="gridOptions"
+      (gridReady)="onFeatureGridReady($event)">
+    </ag-grid-angular>
   </div>
+
+  <div class="ag-theme-alpine d-flex justify-content-center my-5">
+    <ag-grid-angular  style="height: 415px; width: 50%;" [rowData]="metricRowData$" [columnDefs]="metricColumnDefs"
+      [defaultColDef]="defaultColDef" [animateRows]="true"
+      (gridReady)="onMetricsGridReady($event)">
+    </ag-grid-angular>
+  </div>
+  <div class="ag-theme-alpine d-flex justify-content-center my-5">
+    <ag-grid-angular style="height: 200px; width: 70%;" [rowData]="f1ScoreRowData$" [columnDefs]="f1ScoreColumnDefs"
+      [defaultColDef]="defaultColDef" [animateRows]="true"
+      (gridReady)="onF1ScoreGridReady($event)">
+    </ag-grid-angular>
+  </div>
+
+  <div class="ag-theme-alpine d-flex justify-content-center my-5">
+    <ag-grid-angular c  style="height: 200px; width: 60%;" [rowData]="ambiguityLevelRowData$" [columnDefs]="ambiguityLevelColumnDefs"
+      [defaultColDef]="defaultColDef" [animateRows]="true"
+      (gridReady)="onAmbiguityLevelGridReady($event)">
+    </ag-grid-angular>
+  </div>
+
 </div>

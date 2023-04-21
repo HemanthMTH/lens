@@ -1,0 +1,20 @@
+[
+    {
+        "country": "USA",
+        "not_ambiguous": "60.8%",
+        "very_ambiguous": "18.7%",
+        "somewhat_ambiguous": "27.5%"
+    },
+    {
+        "country": "China",
+        "not_ambiguous": "54.3%",
+        "very_ambiguous": "23.9%",
+        "somewhat_ambiguous": "21.7%"
+    },
+    {
+        "country": "European Union",
+        "not_ambiguous": "65%",
+        "very_ambiguous": "22.5%",
+        "somewhat_ambiguous": "12.5%"
+    }
+]

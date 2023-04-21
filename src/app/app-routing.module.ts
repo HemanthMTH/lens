@@ -6,6 +6,7 @@ import { DataComponent } from './components/data/data.component'
 import { AmbiguityComponent } from './components/ambiguity/ambiguity.component';
 import { KeywordComponent } from './components/keyword/keyword.component';
 import { KeyInformationComponent } from './components/key-information/key-information.component';
+import { MLAnalysisComponent } from './components/mlanalysis/mlanalysis.component';
 
 const routes: Routes = [
   { path: '', pathMatch: 'full', redirectTo: 'home' },
@@ -33,6 +34,11 @@ const routes: Routes = [
     path: 'key_information',
     component: KeyInformationComponent,
   },
+  {
+    path: 'ml_analysis',
+    component: MLAnalysisComponent,
+  },
+  
 ];
 
 @NgModule({

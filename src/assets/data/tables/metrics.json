@@ -1,0 +1,50 @@
+[
+    {
+        "policy_features": "Coherence Score",
+        "min": 0.13,
+        "avg": 0.35,
+        "max": 0.92
+    },
+    {
+        "policy_features": "Freq. of Imprecise Words",
+        "min": 0,
+        "avg": 0.02,
+        "max": 0.2
+    },
+    {
+        "policy_features": "Freq. of Connective Words",
+        "min": 0.01,
+        "avg": 0.04,
+        "max": 0.08
+    },
+    {
+        "policy_features": "Reading Complexity",
+        "min": 4.24,
+        "avg": 11.40,
+        "max": 21.73
+    },
+    {
+        "policy_features": "Reading Time (Min)",
+        "min": 2,
+        "avg": 12.67,
+        "max": 107
+    },
+    {
+        "policy_features": "Entropy",
+        "min": 5.41,
+        "avg": 7.97,
+        "max": 10.29
+    },
+    {
+        "policy_features": "Freq. of Unique Words",
+        "min": 0.10,
+        "avg": 0.30,
+        "max": 0.67
+    },
+    {
+        "policy_features": "Correct Grammar",
+        "min": 0,
+        "avg": 0.25,
+        "max": 1.06
+    }
+]

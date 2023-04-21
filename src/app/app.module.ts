@@ -20,6 +20,7 @@ import { PdfViewerModule } from 'ng2-pdf-viewer';
 import { AgGridModule } from 'ag-grid-angular';
 import { KeyInformationComponent } from './components/key-information/key-information.component';
 import { NgSelectModule } from '@ng-select/ng-select';
+import { MLAnalysisComponent } from './components/mlanalysis/mlanalysis.component';
 
 
 PlotlyModule.plotlyjs = PlotlyJS;
@@ -31,7 +32,8 @@ PlotlyModule.plotlyjs = PlotlyJS;
     DataComponent,
     AmbiguityComponent,
     KeywordComponent,
-    KeyInformationComponent
+    KeyInformationComponent,
+    MLAnalysisComponent
   ],
   imports: [
     BrowserModule,

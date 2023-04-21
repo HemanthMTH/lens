@@ -1,0 +1,20 @@
+[
+    {
+        "ambiguity_class": "Not Ambiguous",
+        "number_of_policies": 283,
+        "random_forrest_classifier": 0.86,
+        "logistic_regression": 0.77
+    },
+    {
+        "ambiguity_class": "Somewhat Ambiguous",
+        "number_of_policies": 90,
+        "random_forrest_classifier": 0.67,
+        "logistic_regression": 0.72
+    },
+    {
+        "ambiguity_class": "Very Ambiguous",
+        "number_of_policies": 89,
+        "random_forrest_classifier": 0.67,
+        "logistic_regression": 0.69
+    }
+]

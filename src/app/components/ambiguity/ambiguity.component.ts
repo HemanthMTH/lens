@@ -1,8 +1,15 @@
 import { Component } from '@angular/core';
-import { PageEvent } from '@angular/material/paginator';
+
 import { ColDef, GridOptions, GridReadyEvent } from 'ag-grid-community';
-import { Ambiguity } from 'src/app/models/ambiguity';
+import { Ambiguity, Model } from 'src/app/models/ambiguity';
 import ambiguityData from '../../../assets/data/ambiguity_data.json';
+import featuresData from '../../../assets/data/tables/policy_features.json';
+import metricData from '../../../assets/data/tables/metrics.json';
+import f1ScoreData from '../../../assets/data/tables/f1scores.json';
+import ambiguityLevelData from '../../../assets/data/tables/ambiguity_levels.json';
+// import { Papa } from 'ngx-papaparse';
+// import testData from '../../../assets/data/model/test.json'
+// import trainData from '../../../assets/data/model/train.json'
 
 @Component({
     selector: 'app-ambiguity',
@@ -11,6 +18,7 @@ import ambiguityData from '../../../assets/data/ambiguity_data.json';
 })
 export class AmbiguityComponent {
     dataSource: Ambiguity[] = [];
+    features: Model[] = [];
    
 
     attributeData = [
@@ -82,7 +90,107 @@ export class AmbiguityComponent {
             field: 'spelling_errors',
         },
     ];
+
+    public featureColumnDefs: ColDef[] = [
+        {
+            field: 'name',
+            headerName: 'Company NAame Score',
+            pinned: 'left',
+            width: 250,
+        },
+        {
+            headerName: 'Coherence Score',
+            field: 'coherence_score',
+        },
+        {
+            field: 'entropy',
+        },
+        {
+            headerName: 'Reading Time',
+            field: 'reading_time',
+        },
+        {
+            headerName: 'Reading Level',
+            field: 'fkgl',
+        },
+        {
+            headerName: 'Imprecise Words',
+            field: 'imprecise_words',
+        },
+        {
+            headerName: 'Connective Words',
+            field: 'connective_words',
+        },
+        {
+            headerName: 'Correct Grammar',
+            field: 'spelling_errors',
+        },
+    ];
+
+    public metricColumnDefs: ColDef[] = [
+        {
+            headerName: 'Policy Features',
+            field: 'policy_features',
+        },
+        {
+            headerName: 'Min Value',
+            field: 'min',
+            width: 150,
+        },
+        {
+            headerName: 'Average Value',
+            field: 'avg',
+            width: 150,
+        },
+        {
+            headerName: 'Max Value',
+            field: 'max',
+            width: 150,
+        },
+    ];
+    public f1ScoreColumnDefs: ColDef[] = [
+        {
+            headerName: 'Ambiguity Class',
+            field: 'ambiguity_class',
+        },
+        {
+            headerName: 'No. of Policies',
+            field: 'number_of_policies',
+        },
+        {
+            headerName: 'Random Forrest Classifier',
+            field: 'random_forrest_classifier',
+        },
+        {
+            headerName: 'Logistic Regression',
+            field: 'logistic_regression',
+        },
+    ];
+
+    public ambiguityLevelColumnDefs: ColDef[] = [
+        {
+            headerName: 'Manufacturer Country',
+            field: 'country',
+        },
+        {
+            headerName: 'Not Ambiguous',
+            field: 'not_ambiguous',
+        },
+        {
+            headerName: 'Very Ambiguous',
+            field: 'very_ambiguous',
+        },
+        {
+            headerName: ' Somewhat Ambiguous',
+            field: 'somewhat_ambiguous',
+        },
+    ];
+
     rowData$!: any[];
+    featureRowData$!: any[];
+    metricRowData$!: any[];
+    f1ScoreRowData$!: any[];
+    ambiguityLevelRowData$!: any[];
     defaultColDef: ColDef = {
         sortable: true,
         filter: true,
@@ -94,9 +202,30 @@ export class AmbiguityComponent {
 
     constructor() {
         this.dataSource = ambiguityData;
+        this.features = featuresData;
     }
 
     onGridReady(params: GridReadyEvent) {
         this.rowData$ = ambiguityData;
+    }
+
+    onFeatureGridReady(params: GridReadyEvent) {
+        this.featureRowData$ = featuresData;
+        params.api.sizeColumnsToFit()
+    }
+
+    onMetricsGridReady(params: GridReadyEvent) {
+        this.metricRowData$ = metricData;
+        params.api.sizeColumnsToFit()
+    }
+
+    onF1ScoreGridReady(params: GridReadyEvent) {
+        this.f1ScoreRowData$ = f1ScoreData;
+        params.api.sizeColumnsToFit()
+    }
+
+    onAmbiguityLevelGridReady(params: GridReadyEvent) {
+        this.ambiguityLevelRowData$ = ambiguityLevelData;
+        params.api.sizeColumnsToFit()
     }
 }

@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Eco4lifehome",
+        "coherence_score": 0.72,
+        "entropy": 10.29,
+        "unique_words": 0.27,
+        "reading_time": 7,
+        "fkgl": 15.10,
+        "imprecise_words": 0.01,
+        "connective_words": 0.01,
+        "spelling_errors": 0.52
+    },
+    {
+        "name": "Nooie",
+        "coherence_score": 0.70,
+        "entropy": 5.49,
+        "unique_words": 0.67,
+        "reading_time": 9,
+        "fkgl": 4.59,
+        "imprecise_words": 0.02,
+        "connective_words": 0.03,
+        "spelling_errors": 0.31
+    },
+    {
+        "name": "Fdt",
+        "coherence_score": 0.92,
+        "entropy": 6.86,
+        "unique_words": 0.34,
+        "reading_time": 3,
+        "fkgl": 5.89,
+        "imprecise_words": 0.01,
+        "connective_words": 0.02,
+        "spelling_errors": 0.15
+    },
+    {
+        "name": "Axis",
+        "coherence_score": 0.42,
+        "entropy": 5.41,
+        "unique_words": 0.54,
+        "reading_time": 4,
+        "fkgl": 5.34,
+        "imprecise_words": 0.01,
+        "connective_words": 0.01,
+        "spelling_errors": 0.14
+    },
+    {
+        "name": "Mobvoi",
+        "coherence_score": 0.25,
+        "entropy": 7.26,
+        "unique_words": 0.45,
+        "reading_time": 6,
+        "fkgl": 4.24,
+        "imprecise_words": 0.01,
+        "connective_words": 0.04,
+        "spelling_errors": 0.18
+    },
+    {
+        "name": "Alarmlock",
+        "coherence_score": 0.81,
+        "entropy": 7.14,
+        "unique_words": 0.52,
+        "reading_time": 2,
+        "fkgl": 5.76,
+        "imprecise_words": 0.01,
+        "connective_words": 0.01,
+        "spelling_errors": 0.27
+    },
+    {
+        "name": "Evapolar",
+        "coherence_score": 0.22,
+        "entropy": 8.55,
+        "unique_words": 0.56,
+        "reading_time": 6,
+        "fkgl": 13.39,
+        "imprecise_words": 0.01,
+        "connective_words": 0.05,
+        "spelling_errors": 0.32
+    },
+    {
+        "name": "Cablematters",
+        "coherence_score": 0.74,
+        "entropy": 7.01,
+        "unique_words": 0.37,
+        "reading_time": 3,
+        "fkgl": 6.43,
+        "imprecise_words": 0.01,
+        "connective_words": 0.05,
+        "spelling_errors": 0.31
+    },
+    {
+        "name": "Bulbrite",
+        "coherence_score": 0.8,
+        "entropy": 7.94,
+        "unique_words": 0.4,
+        "reading_time": 5,
+        "fkgl": 5.96,
+        "imprecise_words": 0.02,
+        "connective_words": 0.04,
+        "spelling_errors": 0.52
+    },
+    {
+        "name": "Airivo",
+        "coherence_score": 0.61,
+        "entropy": 7.88,
+        "unique_words": 0.5,
+        "reading_time": 3,
+        "fkgl": 6.16,
+        "imprecise_words": 0.01,
+        "connective_words": 0.04,
+        "spelling_errors": 0.26
+    },
+    {
+        "name": "Luxproducts",
+        "coherence_score": 0.55,
+        "entropy": 7.41,
+        "unique_words": 0.44,
+        "reading_time": 2,
+        "fkgl": 4.38,
+        "imprecise_words": 0.01,
+        "connective_words": 0.04,
+        "spelling_errors": 0.19
+    },
+    {
+        "name": "Adero",
+        "coherence_score": 0.58,
+        "entropy": 7.56,
+        "unique_words": 0.45,
+        "reading_time": 2,
+        "fkgl": 4.77,
+        "imprecise_words": 0.01,
+        "connective_words": 0.05,
+        "spelling_errors": 0.21
+    }
+]
