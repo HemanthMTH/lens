@@ -114,14 +114,9 @@
     analyze the data. By using this table as a reference, it becomes possible to quickly identify and locate specific
     URLs that are of interest, allowing for more targeted analysis and visualization.</p>
 
-  <div class="ag-theme-alpine my-5" >
-    <ag-grid-angular  #agGrid
-      style="height: 520px;"
-      [rowData]="rowData$"
-      [columnDefs]="columnDefs"
-      [defaultColDef]="defaultColDef"
-      [animateRows]="true"
-      [gridOptions]="gridOptions"
+  <div class="ag-theme-alpine my-5">
+    <ag-grid-angular #agGrid style="height: 520px;" [rowData]="rowData$" [columnDefs]="columnDefs"
+      [defaultColDef]="defaultColDef" [animateRows]="true" [gridOptions]="gridOptions"
       (gridReady)="onGridReady($event)">
     </ag-grid-angular>
   </div>
@@ -147,6 +142,11 @@
     different manufacturers based on a selected range, enabling users to make informed decisions based on their specific
     needs and requirements.
   </p>
+  <div class="alert alert-info text-center mt-2 custom" role="alert">
+    <i class="fa fa-info-circle me-2"></i>
+    <span><strong>Note: </strong>Select subset of policies here in the below form for comparison (to check similarity
+      scores).</span>
+  </div>
 
 
   <div class="d-flex justify-content-center mt-5">
@@ -187,6 +187,18 @@
       </div>
     </div>
   </div>
+  <p class="lead">
+    Word embeddings exist in very high dimensionality, mak-
+    ing it impossible to visualize how words occupy the embed-
+    ding space. Hence, we used the Principal Component Analysis
+    (PCA) method to reduce the dimensionality of word embed-
+    dings and visualized them in a 2D space. The chart below gave similar indications that there were three
+    groups: one with an average similarity score of 0 to 92% with
+    other policies, the second with an average score greater than
+    92% and less than 97%, and the third group whose average
+    similarity was more significant than others, i.e., greater than
+    97% on average.
+  </p>
 
   <div class="container mt-5 text-center">
     <div class="row d-flex justify-content-center">
@@ -195,9 +207,11 @@
       </div>
     </div>
   </div>
-  
-  
+
+
 </div>
-<div *ngIf="isLoading" class="spinner-border" role="status">
-  <span class="visually-hidden">Loading...</span>
+<div *ngIf="isLoading" class="d-flex justify-content-center align-items-center" style="height: 100vh;">
+  <div class="spinner-border text-primary" role="status">
+    <span class="visually-hidden">Loading...</span>
+  </div>
 </div>

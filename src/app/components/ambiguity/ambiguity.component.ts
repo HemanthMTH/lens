@@ -63,6 +63,7 @@ export class AmbiguityComponent {
     public columnDefs: ColDef[] = [
         {
             field: 'url',
+            headerName: 'URL',
             pinned: 'left',
             width: 250,
         },
@@ -94,7 +95,7 @@ export class AmbiguityComponent {
     public featureColumnDefs: ColDef[] = [
         {
             field: 'name',
-            headerName: 'Company NAame Score',
+            headerName: 'Company Name',
             pinned: 'left',
             width: 250,
         },

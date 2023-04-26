@@ -20,6 +20,15 @@
             </div>
         </div>
     </div>
+    <p class="lead">We found that some device categories, such as smart cameras, lights, watches, sensors, and home
+        devices, were more prevalent than others like smart gaming equipment, projectors, body scanners, and mounts.
+        Fewer options were available in the latter categories, and our analysis showed that their privacy policies were
+        significantly worse than those with more manufacturers. This could be due to monopolistic conditions leading to
+        less effort in policy development. A clear correlation was observed between the number of manufacturers and
+        privacy policy quality. Our analysis also identified significant gaps in the information provided by smart
+        device privacy policies, particularly among European manufacturers, where 60% didn't mention how they handle
+        data collected from devices. This highlights the need for better policies that inform users about data
+        collection practices.</p>
     <p class="lead">
         The following chart depicts the distribution of privacy policies in different countries based on whether or not
         they contain the device name.
@@ -50,6 +59,10 @@
         Charts shown below illustrates the updates made on each device type privacy policy over the years. Red line in
         both the charts depicts as a boundary to check updates on policies before and after GDPR | CCPA happened.
     </p>
+    <div class="alert alert-info text-center mt-2 custom" role="alert">
+        <i class="fa fa-info-circle me-2"></i>
+        <span><strong>Note: </strong>Red boundary line in the below charts represents the year when GDPR happened</span>
+    </div>
 
     <ng-select [items]="devices" bindLabel="name" placeholder="Select Device Type" (change)="onDeviceTypeChange($event)"
         [(ngModel)]="selectedDevice">
@@ -65,7 +78,8 @@
             </div>
         </div>
     </div>
-    <p class="lead">We observed that around 88% of policies were revised following the introduction of GDPR and CCPA in 2018. This
+    <p class="lead">We observed that around 88% of policies were revised following the introduction of GDPR and CCPA in
+        2018. This
         could be due to manufacturers recognizing the importance of incorporating new guidelines and responsibilities
         brought about by GDPR and CCPA, resulting in a surge of updates to privacy policies. The results emphasize the
         significance of policy updates and the necessity of keeping policies current with the most recent laws and

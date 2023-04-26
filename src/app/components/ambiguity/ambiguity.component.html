@@ -9,41 +9,82 @@
     to work well for our dataset.
 
   </p>
-  <p class="lead">Our research concentrated on how ambiguity affects the effectiveness of classification methods.We found that these
+  <p class="lead">Our research concentrated on how ambiguity affects the effectiveness of classification methods.We
+    found that these
     algorithms were less accurate for highly nebulous programs, as they have less well-defined conditions and
     guidelines. Our results highlighted the importance of policy nebulosity as a factor affecting classification models'
     performance, suggesting further research is needed to improve algorithms that can handle nebulous programs.</p>
 
-  <div class="ag-theme-alpine my-5">
-    <ag-grid-angular #agGrid style="height: 540px;" [rowData]="rowData$" [columnDefs]="columnDefs"
-      [defaultColDef]="defaultColDef" [animateRows]="true" [gridOptions]="gridOptions"
-      (gridReady)="onGridReady($event)">
-    </ag-grid-angular>
-  </div>
-
+  <p class="lead">This study utilized conventional methods to assess policy document similarity, revealing that 97% of
+    policies are
+    similar with minimal metric variation. A small portion of outliers (3%) prompted the development of new metrics to
+    evaluate ambiguity in policies are shown below in the grid.</p>
+  <h4 class="text-center">Policy Features of outliers</h4>
   <div class="ag-theme-alpine my-5">
     <ag-grid-angular style="height: 540px;" [rowData]="featureRowData$" [columnDefs]="featureColumnDefs"
       [defaultColDef]="defaultColDef" [animateRows]="true" [gridOptions]="gridOptions"
       (gridReady)="onFeatureGridReady($event)">
     </ag-grid-angular>
   </div>
-
+  <p class="lead">
+    Below grid shows policy features of 462 different companies, including Coherence Score, Entropy, Frequency of Unique
+    Words,
+    Reading Complexity, Reading Time, Frequency of Imprecise Words, Frequency of Connective Words, and Correct Grammar.
+    The results demonstrate that each company has unique scores for these features, indicating the clarity and
+    informativeness of their policies. Companies with higher coherence, reading complexity, and correct grammar scores
+    tend to have better, easier-to-understand policies, while those with lower scores may have less clear,
+    harder-to-comprehend policies.</p>
+  <h4 class="text-center">Policy Features of privacy policies of various websites</h4>
+  <div class="ag-theme-alpine my-5">
+    <ag-grid-angular #agGrid style="height: 540px;" [rowData]="rowData$" [columnDefs]="columnDefs"
+      [defaultColDef]="defaultColDef" [animateRows]="true" [gridOptions]="gridOptions"
+      (gridReady)="onGridReady($event)">
+    </ag-grid-angular>
+  </div>
+  <p class="lead">The analysis reveals varying scores for policy features among companies, as shown in the grid below.
+    Coherence scores
+    range from 0.13 to 0.92, entropy from 5.41 to 10.29, Frequency of Unique Words from 0.1 to 0.67, and Reading
+    Complexity from 4.24 to 21.73. Reading times vary between 2 and 107 minutes, while the frequency of imprecise words
+    ranges from 0 to 0.02, connective words from 0.01 to 0.08, and correct grammar scores from 0 to 1.06.</p>
+  <h4 class="text-center"> Min, Average and Max Feature values extracted from our corpus</h4>
   <div class="ag-theme-alpine d-flex justify-content-center my-5">
     <ag-grid-angular style="height: 415px; width: 50%;" [rowData]="metricRowData$" [columnDefs]="metricColumnDefs"
       [defaultColDef]="defaultColDef" [animateRows]="true" (gridReady)="onMetricsGridReady($event)">
     </ag-grid-angular>
   </div>
+  <p class="lead">The classification of policy texts becomes more difficult for ambiguous policies, as evidenced by a
+    decrease in F1
+    scores from 86% to 67% with increasing ambiguity (shown below). Logistic regression also saw a drop in F1 scores
+    from
+    77% to 69% for ambiguous policies. Classification algorithms struggle with accuracy when dealing with highly
+    ambiguous policies. The accuracy of these models varies across ambiguity categories, and further research is
+    required to develop algorithms that can effectively classify ambiguous policies.</p>
+  <h4 class="text-center"> F1-score of Random Forrest Classifier for each Ambiguity
+    Class</h4>
   <div class="ag-theme-alpine d-flex justify-content-center my-5">
     <ag-grid-angular style="height: 200px; width: 70%;" [rowData]="f1ScoreRowData$" [columnDefs]="f1ScoreColumnDefs"
       [defaultColDef]="defaultColDef" [animateRows]="true" (gridReady)="onF1ScoreGridReady($event)">
     </ag-grid-angular>
   </div>
 
+  <p class="lead">We found that almost all smart-connected car policies were classified as very ambiguous, indicating a
+    need for clearer information. Our analysis showed EU privacy policies to be less ambiguous than those in the US and
+    China, likely due to stricter data privacy laws like GDPR. We categorized policies into three ambiguity levels:
+    not-ambiguous, somewhat-ambiguous, and very-ambiguous. The EU had the highest percentage of not-ambiguous policies
+    (65.8%), while China had the lowest (54.3%). The US had the most somewhat-ambiguous policies (27.5%), with the EU
+    having the least (12.5%). In the very-ambiguous category, China had the highest percentage (23.9%), and the US had
+    the lowest (18.7%) as shown below.</p>
+  <h4 class="text-center"> Percentage of Ambiguity Level across Manufacturers</h4>
   <div class="ag-theme-alpine d-flex justify-content-center my-5">
     <ag-grid-angular style="height: 200px; width: 60%;" [rowData]="ambiguityLevelRowData$"
       [columnDefs]="ambiguityLevelColumnDefs" [defaultColDef]="defaultColDef" [animateRows]="true"
       (gridReady)="onAmbiguityLevelGridReady($event)">
     </ag-grid-angular>
   </div>
-
+  <p class="lead">Overall, the results suggest that companies need to pay
+    more attention to the level of ambiguity in their privacy policies, particularly for smart-connected cars. The
+    findings also
+    highlight the need for stricter regulations and guidelines to
+    ensure that privacy policies are more transparent and easier
+    to understand for users.</p>
 </div>

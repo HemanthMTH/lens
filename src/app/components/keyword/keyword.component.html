@@ -1,17 +1,29 @@
 <div class="container my-5">
   <h2 class="fw-bold text-center">Keyword Analysis</h2>
-  <p class="lead">This section details the keyword analysis that was conducted in the study to gain insights into the
-    privacy policies of various smart devices. We conducted a keyword analysis of multiple smart device privacy policies
-    and grouped the keywords into ten distinct groups to identify trends and patterns. We then analyzed the frequency of
-    these groups across all the devices studied to gain a comprehensive understanding of the current state of privacy
-    policies in the smart device industry. Then extracted relevant keywords from each policy and obtained the Maximum,
-    Minimum, and Average values for each group across all devices studied. This allowed them to gain valuable insights
-    into the privacy practices of different smart devices.</p>
+  <p class="lead">In this section, we explore keyword analysis performed in our study to better understand the privacy
+    policies of different smart devices. By examining keyword frequency within distinct groups across all devices, we
+    identified trends and patterns that offer valuable insights into the current state of privacy policies in the smart
+    device sector. We conducted a keyword analysis of 462 smart device privacy policies
+    and grouped the keywords into ten distinct groups to identify trends and patterns as shown in the grid below. </p>
+  <h4 class="text-center">Distinct Keyword Groups and Their Frequency in 462 Smart Device Privacy Policies</h4>
   <div class="ag-theme-alpine my-5">
     <ag-grid-angular #agGrid style="height: 540px;" [rowData]="rowData$" [columnDefs]="columnDefs"
       [defaultColDef]="defaultColDef" [animateRows]="true" [gridOptions]="gridOptions"
       (gridReady)="onGridReady($event)">
     </ag-grid-angular>
+  </div>
+  <p class="lead"> We then analyzed the frequency of
+    these groups across all the devices studied to gain a comprehensive understanding of the current state of privacy
+    policies in the smart device industry. Then extracted relevant keywords from each policy and obtained the Maximum,
+    Minimum, and Average values for each group across all devices studied, refer chart for better illustration. This
+    allowed them to gain valuable insights
+    into the privacy practices of different smart devices.</p>
+
+  <div class="alert alert-info text-center mt-2 custom" role="alert">
+    <i class="fa fa-info-circle me-2"></i>
+    <span><strong>Note: </strong>If you want to explore more on each keyword, click on their respective bars, you will
+      see pair of bar charts illustrating Minimum, Average and Maximum for each device type in two different cases,
+      namely policies with device mentioned and policies without mentioning devices </span>
   </div>
 
   <div class="container mt-5 text-center">
@@ -31,4 +43,7 @@
       </div>
     </div>
   </div>
+  <p class="lead">Overall, it can be observed that policies that mention devices provide a higher keyword count, which
+    helps users navigate the information repeatedly, contributing to better controls
+    for users, privacy regulations, and transparency</p>
 </div>
