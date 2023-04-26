@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
     styleUrls: ['./home.component.scss'],
 })
 export class HomeComponent {
-    src = '../../../assets/paper.pdf';
+    devices: number = 24;
+    policies: number = 638;
 }

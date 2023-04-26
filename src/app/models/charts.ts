@@ -5,8 +5,8 @@ export interface GroupedAttributeData {
     mean: number;
     median?: number;
     q1_value?: number;
-    q3_value?: number
-  }
+    q3_value?: number;
+}
 
 export interface BarChartInput {
     x: number[] | string[];
@@ -18,13 +18,15 @@ export interface BarChartInput {
     marker?: Marker;
     colorscale?: string;
     hovertemplate?: string;
+    text?: any;
+    hoverinfo?: any;
 }
 
-export interface Marker{
-  color: any[];
-  colorscale?: string,
-  cmin?: number,
-  cmax?: number,
-  reversescale?: boolean
+export interface Marker {
+    color: any[];
+    colorscale?: string;
+    cmin?: number;
+    cmax?: number;
+    reversescale?: boolean;
+    showscale?: boolean;
 }
-

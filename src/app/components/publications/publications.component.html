@@ -1,0 +1,16 @@
+<div class="container">
+    <h2 class="research-title">Research Papers</h2>
+    <ng-select [items]="papers" [placeholder]="'Select a paper'" [appendTo]="'body'" [virtualScroll]="true"
+               [virtualScrollItemSize]="40" [(ngModel)]="selectedPaper" class="paper-select">
+      <ng-template ng-option-tmp let-item="item">
+        <div class="d-flex justify-content-between align-items-center">
+          <div>{{ item.title }}</div>
+          <small>{{ item.year }}</small>
+        </div>
+      </ng-template>
+    </ng-select>
+    <div class="paper-details" *ngIf="selectedPaper">
+      <pdf-viewer [src]="selectedPaper.pdfUrl" [show-all]="true" [style]="{ height: '90vh' }"></pdf-viewer>
+    </div>
+  </div>
+  

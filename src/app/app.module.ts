@@ -21,6 +21,8 @@ import { AgGridModule } from 'ag-grid-angular';
 import { KeyInformationComponent } from './components/key-information/key-information.component';
 import { NgSelectModule } from '@ng-select/ng-select';
 import { MLAnalysisComponent } from './components/mlanalysis/mlanalysis.component';
+import { MembersComponent } from './components/members/members.component';
+import { PublicationsComponent } from './components/publications/publications.component';
 
 
 PlotlyModule.plotlyjs = PlotlyJS;
@@ -33,7 +35,9 @@ PlotlyModule.plotlyjs = PlotlyJS;
     AmbiguityComponent,
     KeywordComponent,
     KeyInformationComponent,
-    MLAnalysisComponent
+    MLAnalysisComponent,
+    MembersComponent,
+    PublicationsComponent
   ],
   imports: [
     BrowserModule,

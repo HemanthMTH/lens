@@ -5,8 +5,8 @@
 </nav> -->
 
 
-
-<nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-color: #54b3f7;">
+<!-- 
+<nav class="navbar navbar-expand-lg navbar-light custom-navbar mb-3">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">PrivacyLens</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
@@ -15,38 +15,77 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#home" routerLink="/home">Home</a>
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" aria-current="page" routerLink="/home">Home</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#data" routerLink="/data">Data</a>
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" routerLink="/data">Data</a>
         </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle"  id="navbarDropdown" role="button" data-bs-toggle="dropdown"
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" routerLink="/publications">Publications</a>
+        </li>
+        <li class="nav-item dropdown" routerLinkActive="active">
+          <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
             aria-expanded="false">
             Charts
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="#similarity" routerLink="/similarity">Similarity</a></li>
-            <li><a class="dropdown-item" href="#ambiguity" routerLink="/ambiguity">Ambiguity</a></li>
-            <!-- <li>
-              <hr class="dropdown-divider">
-            </li> -->
-            <li><a class="dropdown-item" href="#keyword" routerLink="/keyword">Keyword Analysis</a></li>
-            <li><a class="dropdown-item" href="#key_information" routerLink="/key_information">Key Information</a></li>
-            <li><a class="dropdown-item" href="#ml_analysis" routerLink="/ml_analysis">ML Analysis</a></li>
+            <li><a class="dropdown-item" routerLink="/similarity">Similarity</a></li>
+            <li><a class="dropdown-item" routerLink="/ambiguity">Ambiguity</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" routerLink="/keyword">Keyword Analysis</a></li>
+            <li><a class="dropdown-item" routerLink="/key_information">Key Information</a></li>
+            <li><a class="dropdown-item" routerLink="/ml_analysis">ML Analysis</a></li>
           </ul>
         </li>
-        <!-- <li class="nav-item">
-          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-        </li> -->
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" routerLink="/members">Members</a>
+        </li>
       </ul>
-      <!-- <form class="d-flex">
-        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success" type="submit">Search</button>
-      </form> -->
+    </div>
+    
+  </div>
+</nav> -->
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light custom-navbar mb-3">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">PrivacyLens</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" aria-current="page" routerLink="/home">Home</a>
+        </li>
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" routerLink="/data">Data</a>
+        </li>
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" routerLink="/publications">Publications</a>
+        </li>
+        <li class="nav-item dropdown" routerLinkActive="active">
+          <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
+            aria-expanded="false">
+            Charts
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" routerLink="/similarity">Similarity</a></li>
+            <li><a class="dropdown-item" routerLink="/ambiguity">Ambiguity</a></li>
+            <!-- <li><hr class="dropdown-divider"></li> -->
+            <li><a class="dropdown-item" routerLink="/keyword">Keyword Analysis</a></li>
+            <li><a class="dropdown-item" routerLink="/key_information">Key Information</a></li>
+            <li><a class="dropdown-item" routerLink="/ml_analysis">ML Analysis</a></li>
+          </ul>
+        </li>
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" routerLink="/members">Members</a>
+        </li>
+      </ul>
     </div>
   </div>
 </nav>
+
 
 <router-outlet></router-outlet>

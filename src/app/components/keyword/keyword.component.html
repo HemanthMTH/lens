@@ -1,13 +1,15 @@
 <div class="container my-5">
   <h2 class="fw-bold text-center">Keyword Analysis</h2>
-  <div class="ag-theme-alpine my-5" >
-    <ag-grid-angular  #agGrid
-      style="height: 540px;"
-      [rowData]="rowData$"
-      [columnDefs]="columnDefs"
-      [defaultColDef]="defaultColDef"
-      [animateRows]="true"
-      [gridOptions]="gridOptions"
+  <p class="lead">This section details the keyword analysis that was conducted in the study to gain insights into the
+    privacy policies of various smart devices. We conducted a keyword analysis of multiple smart device privacy policies
+    and grouped the keywords into ten distinct groups to identify trends and patterns. We then analyzed the frequency of
+    these groups across all the devices studied to gain a comprehensive understanding of the current state of privacy
+    policies in the smart device industry. Then extracted relevant keywords from each policy and obtained the Maximum,
+    Minimum, and Average values for each group across all devices studied. This allowed them to gain valuable insights
+    into the privacy practices of different smart devices.</p>
+  <div class="ag-theme-alpine my-5">
+    <ag-grid-angular #agGrid style="height: 540px;" [rowData]="rowData$" [columnDefs]="columnDefs"
+      [defaultColDef]="defaultColDef" [animateRows]="true" [gridOptions]="gridOptions"
       (gridReady)="onGridReady($event)">
     </ag-grid-angular>
   </div>

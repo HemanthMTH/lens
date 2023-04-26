@@ -1,10 +1,34 @@
 <div class="container my-5">
+    <h2>Holistic ML Analysis and Mozilla Evaluation</h2>
+    <p class="lead">This section is about our machine learning analysis and assessment of a dataset called the "Mozilla
+        not found"
+        dataset, which contains information on specific IoT devices and their privacy policies. The analysis involved
+        extracting various features from the policies, such as coherence score, entropy, reading level, and others, to
+        gain insights into the privacy policies of these devices. The analysis also involved a keyword analysis of these
+        policies to obtain values related to Opt-Out, Data, Data Security, First-party collection, and others, which
+        were used to create the final dataset. To achieve high accuracy in the classification model, the analysis opted
+        for logistic regression, which proved to be highly effective. The resulting dataset was created based on the
+        "like'' or "dislike" ratings of the devices' privacy policies evaluated against the Mozilla not found project's
+        standards. The analysis provides valuable insights into the privacy policies of these IoT devices, which could
+        be useful in improving the compliance of these devices with privacy standards.</p>
+    <p class="lead">The chart shown below illustrates the feature importance analysis of the logistic regression model,
+        revealing the top
+        three influential factors that affect the classification, namely Third Party Collection, Access/Edit/Delete, and
+        User Choice.</p>
     <div class="container mt-5 text-center">
         <div class="row d-flex justify-content-center">
             <div class="col-auto">
                 <plotly-plot [data]="data" [layout]="layout"></plotly-plot>
             </div>
         </div>
+    </div>
+    <p class="lead"> Below grid presents the results of our logistic regression based classification model,
+        indicating a remarkable accuracy rate of 93.5%. This highlights the effectiveness of logistic regression in
+        precisely predicting the acceptability of privacy policies, based on the evaluation conducted by Mozilla.</p>
+    <div class="ag-theme-alpine d-flex justify-content-center my-5">
+        <ag-grid-angular c style="height: 155px; width: 70%;" [rowData]="rowData$" [columnDefs]="columnDefs"
+            [defaultColDef]="defaultColDef" [animateRows]="true" (gridReady)="onGridReady($event)">
+        </ag-grid-angular>
     </div>
     <div class="container mt-5 text-center">
         <div class="row d-flex justify-content-center">

@@ -7,6 +7,8 @@ import { AmbiguityComponent } from './components/ambiguity/ambiguity.component';
 import { KeywordComponent } from './components/keyword/keyword.component';
 import { KeyInformationComponent } from './components/key-information/key-information.component';
 import { MLAnalysisComponent } from './components/mlanalysis/mlanalysis.component';
+import { MembersComponent } from './components/members/members.component';
+import { PublicationsComponent } from './components/publications/publications.component';
 
 const routes: Routes = [
   { path: '', pathMatch: 'full', redirectTo: 'home' },
@@ -37,6 +39,14 @@ const routes: Routes = [
   {
     path: 'ml_analysis',
     component: MLAnalysisComponent,
+  },
+  {
+    path: 'members',
+    component: MembersComponent,
+  },
+  {
+    path: 'publications',
+    component: PublicationsComponent,
   },
   
 ];

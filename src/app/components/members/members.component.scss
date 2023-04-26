@@ -1,0 +1,23 @@
+.container {
+  margin-top: 2rem;
+}
+
+.card {
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  }
+
+  transition: all 0.3s ease;
+}
+
+.card-title {
+  min-height: 48px;
+  font-family: 'Arial', sans-serif;
+}
+
+.card-text {
+  font-family: 'Arial', sans-serif;
+}
+
+
