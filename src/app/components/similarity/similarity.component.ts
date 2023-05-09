@@ -5,7 +5,7 @@ import { DataItem, Series } from '@swimlane/ngx-charts';
 import * as umap from 'umap-js';
 import * as dfd from 'danfojs';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
-import { PageEvent } from '@angular/material/paginator';
+
 
 import _heatmapData from '../../../assets/data/heatmap.json';
 import embedData from '../../../assets/data/embed.json';

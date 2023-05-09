@@ -1,4 +1,4 @@
-<div class="container">
+<!-- <div class="container">
     <h2 class="research-title">Research Papers</h2>
     <ng-select [items]="papers" [placeholder]="'Select a paper'" [appendTo]="'body'" [virtualScroll]="true"
                [virtualScrollItemSize]="40" [(ngModel)]="selectedPaper" class="paper-select">
@@ -12,5 +12,10 @@
     <div class="paper-details" *ngIf="selectedPaper">
       <pdf-viewer [src]="selectedPaper.pdfUrl" [show-all]="true" [style]="{ height: '90vh' }"></pdf-viewer>
     </div>
+  </div> -->
+
+  <div class="alert alert-info text-center mt-2 custom" role="alert">
+    <i class="fa fa-info-circle me-2"></i>
+    <span><strong>Not yet published</strong>
+      </span>
   </div>
-  
