@@ -30,6 +30,7 @@
 .container.custom {
   position: relative;
   z-index: 10;
+
 }
 
 .card.bg-gradient-custom {
@@ -45,4 +46,22 @@
 }
 .fw-bold {
   font-size: xx-large;
+}
+
+.container-text {
+  margin-bottom: auto;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 700;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  color: #f8f9fa;
+}
+
+.subtitle {
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  color: #adb5bd;
 }

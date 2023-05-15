@@ -23,6 +23,8 @@ import { NgSelectModule } from '@ng-select/ng-select';
 import { MLAnalysisComponent } from './components/mlanalysis/mlanalysis.component';
 import { MembersComponent } from './components/members/members.component';
 import { PublicationsComponent } from './components/publications/publications.component';
+import { DatasetComponent } from './components/dataset/dataset.component';
+import { PrivacyPolicyComponent } from './components/privacy-policy/privacy-policy.component';
 
 
 PlotlyModule.plotlyjs = PlotlyJS;
@@ -37,7 +39,9 @@ PlotlyModule.plotlyjs = PlotlyJS;
     KeyInformationComponent,
     MLAnalysisComponent,
     MembersComponent,
-    PublicationsComponent
+    PublicationsComponent,
+    DatasetComponent,
+    PrivacyPolicyComponent
   ],
   imports: [
     BrowserModule,

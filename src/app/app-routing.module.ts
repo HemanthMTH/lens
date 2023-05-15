@@ -8,8 +8,9 @@ import { KeywordComponent } from './components/keyword/keyword.component';
 import { KeyInformationComponent } from './components/key-information/key-information.component';
 import { MLAnalysisComponent } from './components/mlanalysis/mlanalysis.component';
 import { MembersComponent } from './components/members/members.component';
-import { PublicationsComponent } from './components/publications/publications.component';;
-
+import { PublicationsComponent } from './components/publications/publications.component';
+import { DatasetComponent } from './components/dataset/dataset.component';
+import { PrivacyPolicyComponent } from './components/privacy-policy/privacy-policy.component';
 const routes: Routes = [
     { path: '', pathMatch: 'full', redirectTo: 'home' },
     {
@@ -47,6 +48,14 @@ const routes: Routes = [
     {
         path: 'publications',
         component: PublicationsComponent,
+    },
+    {
+        path: 'dataset',
+        component: DatasetComponent,
+    },
+    {
+        path: 'privacy_policy',
+        component: PrivacyPolicyComponent,
     },
 ];
 

@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
     styleUrls: ['./publications.component.scss'],
 })
 export class PublicationsComponent {
-    papers = [{ title: 'Privacy Lens', pdfUrl: '../../../assets/paper.pdf' }];
+    papers = [{ title: 'Sample', pdfUrl: '../../../assets/sample.pdf' }];
 
     selectedPaper: { title: string; pdfUrl: string } | null = null;
 }

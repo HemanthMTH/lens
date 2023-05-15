@@ -6,8 +6,7 @@ import * as umap from 'umap-js';
 import * as dfd from 'danfojs';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 
-
-import _heatmapData from '../../../assets/data/heatmap.json';
+import _heatmapData from '../../../assets/data/heat.json';
 import embedData from '../../../assets/data/embed.json';
 import similarityData from '../../../assets/data/similarity_data.json';
 import { AgGridAngular } from 'ag-grid-angular';
@@ -17,6 +16,17 @@ import {
     GridOptions,
     GridReadyEvent,
 } from 'ag-grid-community';
+
+
+interface HeatMapEntry {
+    name: string;
+    value: number;
+  }
+  
+  interface HeatMapPolicy {
+    name: string;
+    series: HeatMapEntry[];
+  }
 
 @Component({
     selector: 'app-charts',
@@ -41,20 +51,36 @@ export class SimilarityComponent {
     });
     outOfBound: boolean;
     submitted: boolean;
+    showChart: boolean;
     isLoading: boolean = true;
+
     // Plotly heatmap
     _data: any[] = [];
+    hmData: HeatMapPolicy[] = [];
     layout: any = {
-        title: 'Heatmap that represents the similarities in policies among various manufactures',
+        title: 'Heatmap that represents the similarities in policies among various manufacturers',
         width: 1000,
         height: 800,
-    };
+        xaxis: {
+          tickmode: 'array',
+          tickvals: [],
+          showticklabels: false,
+          title: 'Websites',
+        },
+        yaxis: {
+          tickmode: 'array',
+          tickvals: [],
+          showticklabels: false,
+          title: 'Websites',
+        },
+      };
+      
     config: any = {
         responsive: true,
     };
 
     // Dynamic heatmap
-    view: [number, number] = [1000, 800];
+    view: [number, number] = [700, 500];
     showXAxis = true;
     showYAxis = true;
     showXAxisLabel = true;
@@ -110,7 +136,12 @@ export class SimilarityComponent {
         suppressHorizontalScroll: true,
     };
 
+    selectedWebsites: HeatMapPolicy[] = [];
+    chartHeatmapData: Series[] = [];
+
     constructor(private fb: FormBuilder) {
+        this.hmData = _heatmapData as HeatMapPolicy[];
+        
         this.prepareData();
         this.heatMapForm.valueChanges.subscribe((x) => {
             this.outOfBound = true
@@ -162,13 +193,16 @@ export class SimilarityComponent {
     preparePlotlyHeatMap(): void {
         this._data = [
             {
-                z: _heatmapData.map((policy: { series: any[] }) =>
-                    policy.series.map((entry) => entry.value)
-                ),
-                type: 'heatmap',
-                hovertemplate: 'X: %{x}, Y: %{y} => Similarity score: %{z}<extra></extra>',
+              z: this.hmData.map((policy: HeatMapPolicy) =>
+                  policy.series.map((entry: HeatMapEntry) => entry.value)
+              ),
+              x: this.hmData.map((policy: HeatMapPolicy) => policy.name),
+              y: this.hmData.length > 0 ? this.hmData[0].series.map((entry: HeatMapEntry) => entry.name) : [],
+              type: 'heatmap',
+              hovertemplate: 'X: %{x}, Y: %{y} => Similarity score: %{z}<extra></extra>',
             },
-        ];
+          ];    
+          
     }
 
     getUMAPVector(): number[][] {
@@ -213,41 +247,55 @@ export class SimilarityComponent {
         return new dfd.DataFrame(parsedData);
     }
 
-    prepareHeatMapData(minValue: number, maxValue: number): void {
-        for (let i = minValue; i < maxValue + 1; i++) {
-            let series: Series = {
-                name: '',
-                series: [],
-            };
-            series.name = Object.values(similarityData)[i - 1].url;
-            let data: DataItem[] = [];
-            for (let j = minValue; j < maxValue + 1; j++) {
-                let item: DataItem = {
-                    name: '',
-                    value: '',
-                };
-                item.name = Object.values(similarityData)[j - 1].url;
+    // prepareHeatMapData(minValue: number, maxValue: number): void {
+    //     for (let i = minValue; i < maxValue + 1; i++) {
+    //         let series: Series = {
+    //             name: '',
+    //             series: [],
+    //         };
+    //         series.name = Object.values(similarityData)[i - 1].url;
+    //         let data: DataItem[] = [];
+    //         for (let j = minValue; j < maxValue + 1; j++) {
+    //             let item: DataItem = {
+    //                 name: '',
+    //                 value: '',
+    //             };
+    //             item.name = Object.values(similarityData)[j - 1].url;
 
-                item.value =
-                    Object.values(_heatmapData[i].series[j])[1] == null
-                        ? 0
-                        : (Object.values(
-                              _heatmapData[i].series[j]
-                          )[1] as number);
-                data.push(item);
-            }
-            series.series = data;
-            this.heatMapChartData.push(series);
-        }
+    //             item.value =
+    //                 Object.values(_heatmapData[i].series[j])[1] == null
+    //                     ? 0
+    //                     : (Object.values(
+    //                           _heatmapData[i].series[j]
+    //                       )[1] as number);
+    //             data.push(item);
+    //         }
+    //         series.series = data;
+    //         this.heatMapChartData.push(series);
+    //     }
+    // }
+
+    onWebsiteChange(param: HeatMapPolicy[]): void {
+        this.selectedWebsites = param;
+        this.updateHeatmapData();
+        this.showChart = this.selectedWebsites.length > 1;
     }
 
-    onSubmit(params: any): void {
-        this.heatMapChartData = [];
-        this.submitted = true;
-        this.prepareHeatMapData(params.value.min, params.value.max);
-    }
+    updateHeatmapData() {
+        this.chartHeatmapData = this.selectedWebsites.map(website => {
+          return {
+            name: website.name,
+            series: website.series.filter(seriesItem => 
+              this.selectedWebsites.some(selectedWebsite => selectedWebsite.name === seriesItem.name)
+            )
+          };
+        });
+      }
 
-    onMapSelect(event: any): void {
-        console.log(event);
-    }
+    // onSubmit(params: any): void {
+    //     this.heatMapChartData = [];
+    //     this.submitted = true;
+    //     this.prepareHeatMapData(params.value.min, params.value.max);
+    // }
+
 }

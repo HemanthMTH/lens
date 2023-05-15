@@ -4,7 +4,7 @@ interface Member {
     name: string;
     affiliation: string;
     position: string;
-    website?: string;
+    website: string;
     imagePath: string;
 }
 
@@ -16,21 +16,21 @@ interface Member {
 export class MembersComponent implements OnInit {
     members: Member[] = [
         {
-            name: 'Dr. Roberto Yus',
+            name: 'Roberto Yus',
             affiliation: 'University of Maryland, Baltimore County',
             position: 'Assistant Professor',
             imagePath: '../../../assets/img/dr_yus.png',
             website: 'https://robertoyus.com/',
         },
         {
-            name: 'Dr. Tim Finin',
+            name: 'Tim Finin',
             affiliation: 'University of Maryland, Baltimore County',
             position: 'Professor',
             imagePath: '../../../assets/img/dr_finin.jpg',
             website: 'https://redirect.cs.umbc.edu/~finin/',
         },
         {
-            name: 'Dr. Primal Pappachan',
+            name: 'Primal Pappachan',
             affiliation: 'Penn State University',
             position: 'Postdoctoral Scholar',
             imagePath: '../../../assets/img/dr_primal.png',
@@ -42,12 +42,14 @@ export class MembersComponent implements OnInit {
             affiliation: 'University of Maryland, Baltimore County',
             position: 'Ph.D Student',
             imagePath: '../../../assets/img/aamir.jpg',
+            website: 'https://www.linkedin.com/in/aamir-hamid-99b41317b/',
         },
         {
             name: 'Hemanth Reddy Samidi',
             affiliation: 'University of Maryland, Baltimore County',
             position: 'MS Student',
             imagePath: '../../../assets/img/hemanth.jpg',
+            website: 'https://www.linkedin.com/in/hemanth-reddy-samidi-4077a316a/',
         },
     ];
 
