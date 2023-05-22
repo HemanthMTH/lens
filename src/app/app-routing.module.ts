@@ -11,6 +11,8 @@ import { MembersComponent } from './components/members/members.component';
 import { PublicationsComponent } from './components/publications/publications.component';
 import { DatasetComponent } from './components/dataset/dataset.component';
 import { PrivacyPolicyComponent } from './components/privacy-policy/privacy-policy.component';
+import { SimilarityTextComponent } from './components/similarity-text/similarity-text.component';
+import { FeaturesComponent } from './components/features/features.component';
 const routes: Routes = [
     { path: '', pathMatch: 'full', redirectTo: 'home' },
     {
@@ -18,7 +20,7 @@ const routes: Routes = [
         component: HomeComponent,
     },
     {
-        path: 'similarity',
+        path: 'comparison',
         component: SimilarityComponent,
     },
     {
@@ -56,6 +58,16 @@ const routes: Routes = [
     {
         path: 'privacy_policy',
         component: PrivacyPolicyComponent,
+    },
+
+    {
+        path: 'similarity',
+        component: SimilarityTextComponent,
+    },
+
+    {
+        path: 'features',
+        component: FeaturesComponent,
     },
 ];
 

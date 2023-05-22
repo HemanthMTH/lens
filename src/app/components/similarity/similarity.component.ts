@@ -16,6 +16,8 @@ import {
     GridOptions,
     GridReadyEvent,
 } from 'ag-grid-community';
+import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
+import { ModalComponent } from '../modal/modal.component';
 
 
 interface HeatMapEntry {
@@ -58,7 +60,7 @@ export class SimilarityComponent {
     _data: any[] = [];
     hmData: HeatMapPolicy[] = [];
     layout: any = {
-        title: 'Heatmap that represents the similarities in policies among various manufacturers',
+        title: 'Heatmap that represents the similarities in privacy policies among various websites',
         width: 1000,
         height: 800,
         xaxis: {
@@ -139,7 +141,7 @@ export class SimilarityComponent {
     selectedWebsites: HeatMapPolicy[] = [];
     chartHeatmapData: Series[] = [];
 
-    constructor(private fb: FormBuilder) {
+    constructor(private fb: FormBuilder, private modalService: NgbModal) {
         this.hmData = _heatmapData as HeatMapPolicy[];
         
         this.prepareData();
@@ -159,6 +161,11 @@ export class SimilarityComponent {
         this.isLoading = false;
     }
 
+    open() {
+        const modalRef = this.modalService.open(ModalComponent, { size: 'lg' });
+        modalRef.componentInstance.name = 'Modal';
+    }
+    
     onGridReady(params: GridReadyEvent) {
         this.rowData$ = this.dataSource;
         const gridApi: GridApi = params.api;

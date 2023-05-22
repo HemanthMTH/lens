@@ -3,7 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { NgbModalModule, NgbModule, NgbTooltipModule } from '@ng-bootstrap/ng-bootstrap';
 import { SimilarityComponent } from './components/similarity/similarity.component';
 import { HomeComponent } from './components/home/home.component';
 import { DataComponent } from './components/data/data.component';
@@ -25,6 +25,9 @@ import { MembersComponent } from './components/members/members.component';
 import { PublicationsComponent } from './components/publications/publications.component';
 import { DatasetComponent } from './components/dataset/dataset.component';
 import { PrivacyPolicyComponent } from './components/privacy-policy/privacy-policy.component';
+import { SimilarityTextComponent } from './components/similarity-text/similarity-text.component';
+import { FeaturesComponent } from './components/features/features.component';
+import { ModalComponent } from './components/modal/modal.component';
 
 
 PlotlyModule.plotlyjs = PlotlyJS;
@@ -41,7 +44,10 @@ PlotlyModule.plotlyjs = PlotlyJS;
     MembersComponent,
     PublicationsComponent,
     DatasetComponent,
-    PrivacyPolicyComponent
+    PrivacyPolicyComponent,
+    SimilarityTextComponent,
+    FeaturesComponent,
+    ModalComponent
   ],
   imports: [
     BrowserModule,
@@ -56,6 +62,8 @@ PlotlyModule.plotlyjs = PlotlyJS;
     MatPaginatorModule,
     PdfViewerModule,
     AgGridModule,
+    NgbTooltipModule,
+    NgbModalModule,
     NgSelectModule  
   ],
   providers: [],

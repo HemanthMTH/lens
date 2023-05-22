@@ -1,1 +1,29 @@
-<p>dataset works!</p>
+<div class="container my-5">
+    <p class="lead">
+        Our dataset presents an interesting exploration into the privacy policies of various
+        websites, with a particular focus on the types of devices they cater to. The device categories range from
+        general to miscellaneous, representing the diversity in the digital ecosystem.
+
+        Interestingly, a significant number of websites do not explicitly mention devices in their privacy policies.
+        This highlights an area of potential improvement, as transparency about device-specific data collection and use
+        is an essential aspect of user trust and regulatory compliance.
+
+        The dataset also captures various other privacy-related keywords, including 'First Party Collection', 'Third
+        Party Collection', 'OPT-OUT', 'User Choice', and more. 
+    </p>
+
+    <h2 class="fw-bold text-center">Stats about the collected dataset</h2>
+
+    <!-- <h4 class="mt-3">Device Mentions in Privacy Policy</h4> -->
+
+    <div class="container mt-5 text-center">
+        <div class="row d-flex justify-content-around">
+            <div class="col-md-7">
+                <plotly-plot [data]="data" [layout]="layout"></plotly-plot>
+            </div>
+            <div class="col-md-5">
+                <plotly-plot [data]="pieData" [layout]="pieLayout"></plotly-plot>
+            </div>
+        </div>
+    </div>
+</div>

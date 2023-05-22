@@ -1,0 +1,86 @@
+<div class="container my-5">
+    <p class="lead">
+        As the concept of text similarity is somewhat vague, we need to establish a definition within the context of
+        this
+        example. Following that, we will examine two distinct methods for determining similarity, along with their
+        respective advantages and disadvantages.
+    </p>
+    <h3 class="fw-bold lead">What Is Text Similarity?</h3>
+    <p class="lead">
+        Our first step is to define what we mean by similarity. We’ll do this by
+        starting with two examples.
+    </p>
+    <p class="lead">
+        Let’s consider the sentences:
+    </p>
+    <ul class="lead">
+        <li>The teacher gave his speech to an empty room</li>
+        <li>There was almost nobody when the professor was talking</li>
+    </ul>
+    <p class="lead">
+        Although they convey a very similar meaning, they are written in a
+        completely different way. In fact, the two sentences just have one word
+        in common (“the”), and not a really significant one at that.
+    </p>
+    <p class="lead">
+        Nevertheless, it’s safe to say that we’d want an ideal similarity
+        algorithm to return a high score for this pair.
+    </p>
+    <p class="lead">
+        Now let’s change the sentences a little bit:
+    </p>
+    <ul class="lead">
+        <li>The teacher gave his speech to an empty a full room</li>
+        <li>There was almost nobody when the professor was talking</li>
+    </ul>
+    <p class="lead">
+        We only changed two words, yet the two sentences now have an opposite
+        meaning.
+    </p>
+    <p class="lead">
+        When we want to compute similarity based on meaning, we call it semantic
+        text similarity. Due to the complexities of natural language, this is a
+        very complex task to accomplish, and it’s still an active research area.
+        In any case, most modern methods to compute similarity try to take the
+        semantics into account to some extent.
+    </p>
+    <p class="lead">
+        However, this may not always be needed. Traditional text similarity
+        methods only work on a lexical level, that is, using only the words in
+        the sentence. These were mostly developed before the rise of deep
+        learning but can still be used today. They are faster to implement and
+        run and can provide a better trade-off depending on the use case.
+    </p>
+    <h3 class="fw-bold lead">Document Vectors</h3>
+    <p class="lead">
+        The traditional approach to compute text similarity between documents is to do
+        so by transforming the input documents into real-valued vectors.The goal is
+        to have a vector space where similar documents are “close”, according to a chosen similarity measure.
+    </p>
+    <p class="lead">
+        This approach takes the name of the Vector Space Model, and it’s very convenient because it allows us to use
+        simple
+        linear algebra to compute similarities. We just have to define two things:
+
+    </p>
+    <ul class="lead">
+        <li>A way of transforming documents into vectors
+        </li>
+        <li>A similarity measure for vectors
+        </li>
+    </ul>
+
+    <h3 class="fw-bold lead">Word Embeddings</h3>
+
+    <p class="lead">Word embeddings are high-dimensional vectors that represent words. We can create them in an
+        unsupervised way from a collection of documents, in general using neural networks, by analyzing all the contexts
+        in
+        which the word occurs.</p>
+    <p class="lead">This results in vectors that are similar (according to cosine similarity) for words that appear in
+        similar contexts, and thus have a similar meaning. For example, since the words “teacher” and “professor” can
+        sometimes be used interchangeably, their embeddings will be close together.</p>
+    <p class="lead">For this reason, using word embeddings can enable us to handle synonyms or words with similar
+        meaning
+        in the computation of similarity, which we couldn’t do by using word frequencies.</p>
+
+</div>

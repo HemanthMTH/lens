@@ -37,8 +37,7 @@ export class KeywordComponent {
     data: BarChartInput[] = [];
     layout = {
         barmode: 'group',
-        title: 'Grouped Horizontal Bar Chart',
-        xaxis: { title: 'Attribute Values' },
+        xaxis: { title: 'Frequency' },
         yaxis: {
             tickmode: 'linear',
             tickangle: 45,

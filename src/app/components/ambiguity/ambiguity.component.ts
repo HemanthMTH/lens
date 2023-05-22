@@ -75,6 +75,10 @@ export class AmbiguityComponent {
             field: 'entropy',
         },
         {
+            headerName: 'Unique Words',
+            field: 'unique_words',
+        },
+        {
             headerName: 'Reading Time',
             field: 'reading_time',
         },
@@ -105,6 +109,10 @@ export class AmbiguityComponent {
         },
         {
             field: 'entropy',
+        },
+        {
+            headerName: 'Unique Words',
+            field: 'unique_words',
         },
         {
             headerName: 'Reading Time',

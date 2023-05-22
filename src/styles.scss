@@ -15,6 +15,7 @@ body {
 .p, .lead {
   font-weight: 370;
   font-family: 'Arial', sans-serif;
+  font-size:large;
   text-align: justify;
 }
 
@@ -29,4 +30,9 @@ h4 {
   font-family: 'Arial', sans-serif;
   font-weight: 600;
   text-align: center;
+}
+
+.tooltip-inner {
+  max-width: 450px;
+  text-align: justify;
 }
