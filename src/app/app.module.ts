@@ -28,6 +28,8 @@ import { PrivacyPolicyComponent } from './components/privacy-policy/privacy-poli
 import { SimilarityTextComponent } from './components/similarity-text/similarity-text.component';
 import { FeaturesComponent } from './components/features/features.component';
 import { ModalComponent } from './components/modal/modal.component';
+import { BibtexCitationComponent } from './components/bibtex-citation/bibtex-citation.component';
+import { PaperComponent } from './components/paper/paper.component';
 
 
 PlotlyModule.plotlyjs = PlotlyJS;
@@ -47,7 +49,9 @@ PlotlyModule.plotlyjs = PlotlyJS;
     PrivacyPolicyComponent,
     SimilarityTextComponent,
     FeaturesComponent,
-    ModalComponent
+    ModalComponent,
+    BibtexCitationComponent,
+    PaperComponent
   ],
   imports: [
     BrowserModule,
