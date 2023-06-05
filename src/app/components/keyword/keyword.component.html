@@ -38,6 +38,7 @@
       their respective bars. This will show you the distribution by smart device category.</span>
   </div>
   <div *ngIf="!!this.type" class="container mt-5 text-center">
+    <h3>{{currentKeyword}}</h3>
     <div class="row d-flex justify-content-center">
       <div class="col-auto">
         <plotly-plot [data]="results_data" [layout]="device_results_layout"></plotly-plot>

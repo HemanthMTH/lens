@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class HomeComponent {
     devices: number = 24;
-    policies: number = 638;
+    policies: number = 1200;
 
     lastUpdatedDate1: Date = new Date();
     lastUpdatedDate2: Date = new Date();

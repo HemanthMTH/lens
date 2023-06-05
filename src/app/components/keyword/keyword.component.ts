@@ -1,30 +1,30 @@
 import { Component, ViewChild } from '@angular/core';
-import { BarChartInput, GroupedAttributeData } from 'src/app/models/charts';
+import { AgGridAngular } from 'ag-grid-angular';
+import { ColDef, GridOptions, GridReadyEvent } from 'ag-grid-community';
+import { BarChartInput } from 'src/app/models/charts';
 import { Keyword, KeywordType, Results } from 'src/app/models/keywords';
 import keywordData from '../../../assets/data/keyword_analysis_data.json';
-import legislationData from '../../../assets/data/keywords/no_device/legislation.json';
-import policyChangeData from '../../../assets/data/keywords/no_device/policy_change.json';
-import noDeviceLegislationData from '../../../assets/data/keywords/device/legislation_device.json';
-import noDevicePolicyChangeData from '../../../assets/data/keywords/device/policy_change_device.json';
-import firstPartyCollectionData from '../../../assets/data/keywords/no_device/first_party_collection.json';
-import noDeviceFirstPartyCollectionData from '../../../assets/data/keywords/device/first_party_collection_device.json';
-import thirdPartyCollectionData from '../../../assets/data/keywords/no_device/third_party_collection.json';
-import noDeviceThirdPartyCollectionData from '../../../assets/data/keywords/device/third_party_collection_device.json';
-import userChoiceData from '../../../assets/data/keywords/no_device/user_choice.json';
-import noDeviceUserChoiceData from '../../../assets/data/keywords/device/user_choice_device.json';
-import dataSecurityData from '../../../assets/data/keywords/no_device/user_choice.json';
-import noDeviceDataSecurityData from '../../../assets/data/keywords/device/user_choice_device.json';
-import optOutData from '../../../assets/data/keywords/no_device/optout.json';
-import noDeviceOptOutData from '../../../assets/data/keywords/device/optout_device.json';
-import doNotTrackData from '../../../assets/data/keywords/no_device/do_not_track.json';
-import noDeviceDoNotTrackData from '../../../assets/data/keywords/device/do_not_track_device.json';
-import accessEditDeleteData from '../../../assets/data/keywords/no_device/access_edit_delete.json';
+import keywordMetrics from '../../../assets/data/keyword_metrics.json';
 import noDeviceAccessEditDeleteData from '../../../assets/data/keywords/device/access_edit_delete_device.json';
-import dataKeywordData from '../../../assets/data/keywords/no_device/access_edit_delete.json';
-import noDeviceDataKeywordData from '../../../assets/data/keywords/device/access_edit_delete_device.json';
-import { ColDef, GridOptions, GridReadyEvent } from 'ag-grid-community';
-import { AgGridAngular } from 'ag-grid-angular';
-
+import dataKeywordData from '../../../assets/data/keywords/device/data_mentioned.json';
+import dataSecurityData from '../../../assets/data/keywords/device/data_security_device.json';
+import noDeviceDoNotTrackData from '../../../assets/data/keywords/device/do_not_track_device.json';
+import noDeviceFirstPartyCollectionData from '../../../assets/data/keywords/device/first_party_collection_device.json';
+import noDeviceLegislationData from '../../../assets/data/keywords/device/legislation_device.json';
+import noDeviceOptOutData from '../../../assets/data/keywords/device/optout_device.json';
+import noDevicePolicyChangeData from '../../../assets/data/keywords/device/policy_change_device.json';
+import noDeviceThirdPartyCollectionData from '../../../assets/data/keywords/device/third_party_collection_device.json';
+import noDeviceUserChoiceData from '../../../assets/data/keywords/device/user_choice_device.json';
+import accessEditDeleteData from '../../../assets/data/keywords/no_device/access_edit_delete.json';
+import noDeviceDataKeywordData from '../../../assets/data/keywords/no_device/data_not_mentioned.json';
+import noDeviceDataSecurityData from '../../../assets/data/keywords/no_device/data_security.json';
+import doNotTrackData from '../../../assets/data/keywords/no_device/do_not_track.json';
+import firstPartyCollectionData from '../../../assets/data/keywords/no_device/first_party_collection.json';
+import legislationData from '../../../assets/data/keywords/no_device/legislation.json';
+import optOutData from '../../../assets/data/keywords/no_device/optout.json';
+import policyChangeData from '../../../assets/data/keywords/no_device/policy_change.json';
+import thirdPartyCollectionData from '../../../assets/data/keywords/no_device/third_party_collection.json';
+import userChoiceData from '../../../assets/data/keywords/no_device/user_choice.json';
 @Component({
     selector: 'app-keyword',
     templateUrl: './keyword.component.html',
@@ -34,6 +34,7 @@ export class KeywordComponent {
     @ViewChild(AgGridAngular) agGrid!: AgGridAngular;
 
     dataSource: Keyword[];
+    currentKeyword: string;
     data: BarChartInput[] = [];
     layout = {
         barmode: 'group',
@@ -53,7 +54,7 @@ export class KeywordComponent {
     no_device_results_data: BarChartInput[] = [];
     device_results_layout = {
         barmode: 'stack',
-        title: 'Mentioned Devices',
+        title: 'Not Mentioned Devices',
         xaxis: { title: 'Device Type' },
         yaxis: {
             tickmode: 'linear',
@@ -65,7 +66,7 @@ export class KeywordComponent {
     };
     results_layout = {
         barmode: 'stack',
-        title: 'Not Mentioned Devices',
+        title: 'Mentioned Devices',
         xaxis: { title: 'Device Type' },
         yaxis: {
             tickmode: 'linear',
@@ -128,12 +129,7 @@ export class KeywordComponent {
     public defaultColDef: ColDef = {
         sortable: true,
         filter: true,
-        // cellStyle: {
-        //     display: 'flex',
-        //     justifyContent: 'center',
-        //     alignItems: 'center',
-        //     textAlign: 'center',
-        // },
+        
     };
     gridOptions: GridOptions = {
         pagination: true,
@@ -147,44 +143,25 @@ export class KeywordComponent {
             (t) => t != 'url'
         );
 
-        const result: GroupedAttributeData[] = properties.map((property) => {
-            const values = this.dataSource.map(
-                (item) => item[property as keyof Keyword]
-            );
-            const sum = values.reduce(
-                (total, value) => Number(total) + Number(value),
-                0
-            );
-            const mean = Number(sum) / values.length;
-
-            const min = Math.min(...values.map((t) => Number(t)));
-            const max = Math.max(...values.map((t) => Number(t)));
-            return {
-                group_name: property,
-                minimum: min,
-                maximum: max,
-                mean: mean,
-            };
-        });
 
         this.data = [
             {
-                x: result.map((d) => d.mean),
-                y: result.map((d) => d.group_name),
-                name: 'Mean',
+                x: keywordMetrics.map((d) => d.median),
+                y: keywordMetrics.map((d) => d.group_name),
+                name: 'Median',
                 type: 'bar',
                 orientation: 'h',
             },
             {
-                x: result.map((d) => d.maximum),
-                y: result.map((d) => d.group_name),
+                x: keywordMetrics.map((d) => d.maximum),
+                y: keywordMetrics.map((d) => d.group_name),
                 name: 'Maximum',
                 type: 'bar',
                 orientation: 'h',
             },
             {
-                x: result.map((d) => d.minimum),
-                y: result.map((d) => d.group_name),
+                x: keywordMetrics.map((d) => d.minimum),
+                y: keywordMetrics.map((d) => d.group_name),
                 name: 'Minimum',
                 type: 'bar',
                 orientation: 'h',
@@ -197,7 +174,19 @@ export class KeywordComponent {
     }
 
     onBarClick(param: any) {
-        const keyword = param.points[0].label;
+        const value = param.points[0].label;
+        this.currentKeyword = value;
+        const reverseKeywordType = (value: string) => {
+            const keywordTypes = Object.keys(KeywordType).filter(k => isNaN(Number(k)));
+            for(let key of keywordTypes){
+                if(KeywordType[key as keyof typeof KeywordType] === value){
+                    return key;
+                }
+            }
+            throw new Error('No matching enum key found');
+        };
+        let keyword = reverseKeywordType(value);
+        
         for (const key in KeywordType) {
             if (key === keyword) {
                 Object.entries(KeywordType).forEach((element) => {
@@ -264,7 +253,7 @@ export class KeywordComponent {
             case KeywordType.user_choice:
                 return [userChoiceData, noDeviceUserChoiceData];
             case KeywordType.data_security:
-                return [dataSecurityData, noDeviceDataSecurityData]; //done
+                return [noDeviceDataSecurityData, dataSecurityData];
             case KeywordType.opt_out:
                 return [optOutData, noDeviceOptOutData];
             case KeywordType.do_not_track:
@@ -272,7 +261,7 @@ export class KeywordComponent {
             case KeywordType.access_edit_delete:
                 return [accessEditDeleteData, noDeviceAccessEditDeleteData];
             case KeywordType.data:
-                return [dataKeywordData, noDeviceDataKeywordData];
+                return [noDeviceDataKeywordData, dataKeywordData];
             default:
                 throw new Error('Unknown Keyword');
         }

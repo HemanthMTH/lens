@@ -64,10 +64,10 @@ export enum KeywordType{
     data_security = 'Data Security',
     first_party_collection = 'First Party Collection',
     third_party_collection = 'Third Party Collection',
-    opt_out= 'OPTOUT',
+    opt_out= 'Opt-Out',
     user_choice= 'User Choice',
     data = 'Data',
     legislation = 'Legislation',
-    access_edit_delete = 'Access-Edit-Delete',
-    policy_change = 'policy_change',
+    access_edit_delete = 'Access/Edit/Delete',
+    policy_change = 'Policy Change',
   }

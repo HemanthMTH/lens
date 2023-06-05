@@ -1,0 +1,72 @@
+[
+    {
+        "group_name": "Third Party Collection",
+        "key": "third_party_collection",
+        "minimum": 0,
+        "maximum": 74,
+        "median": 5
+    },
+    {
+        "group_name": "First Party Collection",
+        "key":"first_party_collection",
+        "minimum": 0.0,
+        "maximum": 120.0,
+        "median": 53.0
+    },
+    {
+        "group_name": "Do Not Track",
+        "key":"do_not_track",
+        "minimum": 0,
+        "maximum": 4,
+        "median": 0
+    },
+    {
+        "group_name": "Data Security",
+        "key": "data_security",
+        "minimum": 0,
+        "maximum": 50,
+        "median": 7
+    },
+    {
+        "group_name": "User Choice",
+        "key": "user_choice",
+        "minimum": 0,
+        "maximum": 38,
+        "median": 2
+    },
+    {
+        "group_name": "Data",
+        "key": "data",
+        "minimum": 0.0,
+        "maximum": 92.0,
+        "median": 9.0
+    },
+    {
+        "group_name": "Legislation",
+        "key": "legislation",
+        "minimum": 0,
+        "maximum": 28,
+        "median": 0
+    },
+    {
+        "group_name": "Access/Edit/Delete",
+        "key": "access_edit_delete",
+        "minimum": 0.0,
+        "maximum": 72.0,
+        "median": 8.0
+    },
+    {
+        "group_name": "Policy Change",
+        "key": "policy_change",
+        "minimum": 0,
+        "maximum": 30,
+        "median": 4
+    },
+    {
+        "group_name": "Opt-Out",
+        "key": "opt_out",
+        "minimum": 0,
+        "maximum": 30,
+        "median": 1
+    }
+]

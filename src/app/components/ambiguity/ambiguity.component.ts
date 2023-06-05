@@ -3,10 +3,10 @@ import { Component } from '@angular/core';
 import { ColDef, GridOptions, GridReadyEvent } from 'ag-grid-community';
 import { Ambiguity, Model } from 'src/app/models/ambiguity';
 import ambiguityData from '../../../assets/data/ambiguity_data.json';
-import featuresData from '../../../assets/data/tables/policy_features.json';
-import metricData from '../../../assets/data/tables/metrics.json';
-import f1ScoreData from '../../../assets/data/tables/f1scores.json';
 import ambiguityLevelData from '../../../assets/data/tables/ambiguity_levels.json';
+import f1ScoreData from '../../../assets/data/tables/f1scores.json';
+import metricData from '../../../assets/data/tables/metrics.json';
+import featuresData from '../../../assets/data/tables/policy_features.json';
 // import { Papa } from 'ngx-papaparse';
 // import testData from '../../../assets/data/model/test.json'
 // import trainData from '../../../assets/data/model/train.json'
@@ -79,7 +79,11 @@ export class AmbiguityComponent {
             field: 'unique_words',
         },
         {
-            headerName: 'Reading Time',
+            headerName: 'Reading Level',
+            field: 'fkgl',
+        },
+        {
+            headerName: 'Reading Time (mins)',
             field: 'reading_time',
         },
         {

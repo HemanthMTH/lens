@@ -1,9 +1,9 @@
 import { Component, OnInit } from '@angular/core';
-import _data from '../../../assets/data/grouped_data.json';
-import mentioned_data from '../../../assets/data/grouped_mentioned_data.json';
-import countryData from '../../../assets/data/countries.json';
 import { BarChartInput } from 'src/app/models/charts';
 import { CountryInfo } from 'src/app/models/key-info';
+import countryData from '../../../assets/data/countries.json';
+import _data from '../../../assets/data/grouped_data.json';
+import mentioned_data from '../../../assets/data/grouped_mentioned_data.json';
 
 @Component({
     selector: 'app-dataset',
@@ -53,7 +53,7 @@ export class DatasetComponent implements OnInit {
         this.data = [
             {
                 x: _data.map((d) => d.category),
-                y: _data.map((d) => d.websites.length),
+                y: _data.map((d) => d.size),
                 type: 'bar',
                 marker: {
                     color: _data.map((d) => d.websites.length),
