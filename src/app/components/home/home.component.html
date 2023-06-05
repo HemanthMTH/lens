@@ -1,32 +1,5 @@
 <div class="background-image">
   <div class="overlay"></div>
-  <!-- <div class="container custom">
-    <div class="row justify-content-center align-items-center mt-4">
-      <div class="col-12 text-center">
-        <h1 class="text-white title">PrivacyLens</h1>
-        <h4 class="text-white subtitle">Automatic collection and analysis of privacy policies of Smart Devices</h4>
-      </div>
-    </div>
-    <div class="row justify-content-center align-items-start mt-5">
-      <div class="col">
-        <div class="card bg-gradient-custom h-100">
-          <div class="card-body d-flex flex-column justify-content-center align-items-center">
-            <span class="fw-bold text-white">{{devices}}</span>
-            <h4 class="text-white mb-3"> Smart Devices analyzed so far</h4>
-          </div>
-        </div>
-      </div>
-      <div class="col">
-        <div class="card bg-gradient-custom h-100">
-          <div class="card-body d-flex flex-column justify-content-center align-items-center">
-            <span class="fw-bold text-white">{{policies}}</span>
-            <h4 class="text-white mb-3"> Privacy Policies analyzed so far</h4>
-          </div>
-        </div>
-      </div>
-    </div>
-
-  </div> -->
 
   <div class="container custom">
     <div class="row justify-content-center align-items-center mt-4">
@@ -35,14 +8,14 @@
         <h4 class="text-white subtitle">Automatic collection and analysis of privacy policies of Smart Devices</h4>
       </div>
     </div>
-    <div class="row justify-content-center align-items-start mt-5">
+    <div class="row justify-content-center align-items-start mt-3">
       <div class="col">
         <div class="card bg-gradient-custom h-100">
           <div class="card-body d-flex flex-column justify-content-center align-items-center">
             <span class="fw-bold text-white">{{devices}}</span>
             <h4 class="text-white mb-3"> Smart Devices analyzed so far</h4>
             <!-- Added "last updated" information -->
-            <p class="text-white mt-2">Last updated on: {{lastUpdatedDate1 | date:'short'}}</p>
+            <p class="text-white mt-2">Last updated on: {{lastUpdatedDate | date:'short'}}</p>
           </div>
         </div>
       </div>
@@ -52,7 +25,17 @@
             <span class="fw-bold text-white">{{policies}}</span>
             <h4 class="text-white mb-3">Privacy Policies analyzed so far</h4>
             <!-- Added "last updated" information -->
-            <p class="text-white mt-2">Last updated on: {{lastUpdatedDate2 | date:'short'}}</p>
+            <p class="text-white mt-2">Last updated on: {{lastUpdatedDate | date:'short'}}</p>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card bg-gradient-custom h-100">
+          <div class="card-body d-flex flex-column justify-content-center align-items-center">
+            <span class="fw-bold text-white">{{collected}}</span>
+            <h4 class="text-white mb-3"> Privacy Policies collected so far</h4>
+            <!-- Added "last updated" information -->
+            <p class="text-white mt-2">Last updated on: {{lastUpdatedDate | date:'short'}}</p>
           </div>
         </div>
       </div>
