@@ -1,0 +1,400 @@
+[
+    {
+        "device_name": "Miscellaneous",
+        "data": [
+            {
+                "year": 2015,
+                "count": 1
+            },
+            {
+                "year": 2018,
+                "count": 1
+            },
+            {
+                "year": 2020,
+                "count": 2
+            },
+            {
+                "year": 2021,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "device_name": "Smart Camera",
+        "data": [
+            {
+                "year": 2008,
+                "count": 1
+            },
+            {
+                "year": 2016,
+                "count": 1
+            },
+            {
+                "year": 2017,
+                "count": 1
+            },
+            {
+                "year": 2018,
+                "count": 2
+            },
+            {
+                "year": 2019,
+                "count": 2
+            },
+            {
+                "year": 2020,
+                "count": 2
+            },
+            {
+                "year": 2021,
+                "count": 1
+            },
+            {
+                "year": 2022,
+                "count": 2
+            }
+        ]
+    },
+    {
+        "device_name": "Smart Connected Vehicle",
+        "data": [
+            {
+                "year": 2020,
+                "count": 1
+            },
+            {
+                "year": 2021,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "device_name": "Smart Doorbell",
+        "data": [
+            {
+                "year": 2018,
+                "count": 1
+            },
+            {
+                "year": 2019,
+                "count": 1
+            },
+            {
+                "year": 2020,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "device_name": "Smart Entertainment Devices",
+        "data": [
+            {
+                "year": 2020,
+                "count": 1
+            },
+            {
+                "year": 2021,
+                "count": 3
+            },
+            {
+                "year": 2022,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "device_name": "Smart Health Tracker",
+        "data": [
+            {
+                "year": 2012,
+                "count": 1
+            },
+            {
+                "year": 2017,
+                "count": 2
+            },
+            {
+                "year": 2019,
+                "count": 1
+            },
+            {
+                "year": 2021,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "device_name": "Smart Home Device",
+        "data": [
+            {
+                "year": 2003,
+                "count": 2
+            },
+            {
+                "year": 2011,
+                "count": 3
+            },
+            {
+                "year": 2012,
+                "count": 1
+            },
+            {
+                "year": 2016,
+                "count": 1
+            },
+            {
+                "year": 2017,
+                "count": 2
+            },
+            {
+                "year": 2018,
+                "count": 5
+            },
+            {
+                "year": 2019,
+                "count": 2
+            },
+            {
+                "year": 2020,
+                "count": 9
+            },
+            {
+                "year": 2021,
+                "count": 4
+            },
+            {
+                "year": 2022,
+                "count": 3
+            }
+        ]
+    },
+    {
+        "device_name": "Smart Light",
+        "data": [
+            {
+                "year": 2005,
+                "count": 1
+            },
+            {
+                "year": 2014,
+                "count": 1
+            },
+            {
+                "year": 2015,
+                "count": 2
+            },
+            {
+                "year": 2017,
+                "count": 1
+            },
+            {
+                "year": 2018,
+                "count": 2
+            },
+            {
+                "year": 2019,
+                "count": 5
+            },
+            {
+                "year": 2022,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "device_name": "Smart Lock",
+        "data": [
+            {
+                "year": 2017,
+                "count": 1
+            },
+            {
+                "year": 2019,
+                "count": 1
+            },
+            {
+                "year": 2020,
+                "count": 2
+            },
+            {
+                "year": 2021,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "device_name": "Smart Monitor",
+        "data": [
+            {
+                "year": 2017,
+                "count": 1
+            },
+            {
+                "year": 2018,
+                "count": 2
+            },
+            {
+                "year": 2019,
+                "count": 2
+            },
+            {
+                "year": 2020,
+                "count": 1
+            },
+            {
+                "year": 2021,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "device_name": "Smart Networking",
+        "data": [
+            {
+                "year": 2018,
+                "count": 1
+            },
+            {
+                "year": 2020,
+                "count": 1
+            },
+            {
+                "year": 2022,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "device_name": "Smart Scales",
+        "data": [
+            {
+                "year": 2019,
+                "count": 1
+            },
+            {
+                "year": 2020,
+                "count": 2
+            }
+        ]
+    },
+    {
+        "device_name": "Smart Security",
+        "data": [
+            {
+                "year": 2015,
+                "count": 1
+            },
+            {
+                "year": 2016,
+                "count": 1
+            },
+            {
+                "year": 2020,
+                "count": 2
+            },
+            {
+                "year": 2021,
+                "count": 1
+            },
+            {
+                "year": 2022,
+                "count": 2
+            }
+        ]
+    },
+    {
+        "device_name": "Smart Sensor",
+        "data": [
+            {
+                "year": 2019,
+                "count": 1
+            },
+            {
+                "year": 2020,
+                "count": 3
+            },
+            {
+                "year": 2022,
+                "count": 3
+            }
+        ]
+    },
+    {
+        "device_name": "Smart Speaker",
+        "data": [
+            {
+                "year": 2015,
+                "count": 1
+            },
+            {
+                "year": 2018,
+                "count": 2
+            },
+            {
+                "year": 2020,
+                "count": 3
+            },
+            {
+                "year": 2022,
+                "count": 2
+            }
+        ]
+    },
+    {
+        "device_name": "Smart Thermostat",
+        "data": [
+            {
+                "year": 2018,
+                "count": 1
+            },
+            {
+                "year": 2020,
+                "count": 2
+            },
+            {
+                "year": 2022,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "device_name": "Smart Tv",
+        "data": [
+            {
+                "year": 2018,
+                "count": 1
+            },
+            {
+                "year": 2020,
+                "count": 3
+            }
+        ]
+    },
+    {
+        "device_name": "Smart Watch",
+        "data": [
+            {
+                "year": 2015,
+                "count": 1
+            },
+            {
+                "year": 2016,
+                "count": 1
+            },
+            {
+                "year": 2020,
+                "count": 3
+            },
+            {
+                "year": 2021,
+                "count": 3
+            },
+            {
+                "year": 2022,
+                "count": 2
+            }
+        ]
+    }
+]

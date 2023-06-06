@@ -1,9 +1,5 @@
 import { Component } from '@angular/core';
-import deviceData from '../../../assets/data/device_type.json';
-import countryData from '../../../assets/data/countries.json';
-import distributedData from '../../../assets/data/country_dist_device.json';
-import updateData from '../../../assets/data/mentioned.json';
-import noMentionUpdateData from '../../../assets/data/no_mention.json';
+import { BarChartInput } from 'src/app/models/charts';
 import {
     CountryInfo,
     DeviceInfo,
@@ -12,7 +8,11 @@ import {
     UpdateData,
     devices,
 } from 'src/app/models/key-info';
-import { BarChartInput } from 'src/app/models/charts';
+import countryData from '../../../assets/data/countries.json';
+import distributedData from '../../../assets/data/country_dist_device.json';
+import deviceData from '../../../assets/data/device_type.json';
+import updateData from '../../../assets/data/mentioned1.json';
+import noMentionUpdateData from '../../../assets/data/not_mentioned1.json';
 //import { ChartType } from 'angular-google-charts';
 
 @Component({
@@ -72,7 +72,7 @@ export class KeyInformationComponent {
 
     public graph = {
         layout: {
-            title: 'Device mentioned',
+            title: 'Explicit mention of smart device',
             xaxis: {
                 tickvals: this.dates,
                 ticktext: this.dates.map((t) => String(t)),
@@ -85,8 +85,8 @@ export class KeyInformationComponent {
             shapes: [
                 {
                     type: 'line',
-                    x0: 2017,
-                    x1: 2017,
+                    x0: 2018,
+                    x1: 2018,
                     xref: 'x',
                     y0: 0,
                     y1: 1,
@@ -108,7 +108,7 @@ export class KeyInformationComponent {
     };
     public graph2 = {
         layout: {
-            title: 'Device not mentioned',
+            title: 'No explicit mention of smart device',
             xaxis: {
                 tickvals: this.dates,
                 ticktext: this.dates.map((t) => String(t)),
@@ -121,8 +121,8 @@ export class KeyInformationComponent {
             shapes: [
                 {
                     type: 'line',
-                    x0: 2017,
-                    x1: 2017,
+                    x0: 2018,
+                    x1: 2018,
                     xref: 'x',
                     y0: 0,
                     y1: 1,
@@ -146,8 +146,8 @@ export class KeyInformationComponent {
         this.countries = countryData.map((t) => t.country);
         this.deviceData = this.getDeviceData(deviceData);
         this.countryData = this.getCountryData(countryData);
-        this.updates = this.transformUpdateData(updateData);
-        this.noMentionUpdates = this.transformUpdateData(noMentionUpdateData);
+        this.updates = updateData;
+        this.noMentionUpdates = noMentionUpdateData;
         this.selectedCountry = this.countries[30];
         this.selectedDevice = this.devices[0];
         this.onDeviceTypeChange(this.selectedDevice);
@@ -262,31 +262,31 @@ export class KeyInformationComponent {
         }
     }
 
-    transformUpdateData(inputData: UpdateData[]): OutputData[] {
-        const groupedData: { [key: string]: { [key: number]: number } } = {};
+    // transformUpdateData(inputData: UpdateData[]): OutputData[] {
+    //     const groupedData: { [key: string]: { [key: number]: number } } = {};
 
-        inputData.forEach((item) => {
-            const deviceGroup = groupedData[item.device_name] || {};
-            const yearCount = deviceGroup[item.year] || 0;
-            deviceGroup[item.year] = yearCount + 1;
+    //     inputData.forEach((item) => {
+    //         const deviceGroup = groupedData[item.device_name] || {};
+    //         const yearCount = deviceGroup[item.year] || 0;
+    //         deviceGroup[item.year] = yearCount + 1;
 
-            groupedData[item.device_name] = deviceGroup;
-        });
+    //         groupedData[item.device_name] = deviceGroup;
+    //     });
 
-        const outputData: OutputData[] = Object.entries(groupedData).map(
-            ([device, years]) => {
-                const data = Object.entries(years).map(([year, count]) => ({
-                    year: parseInt(year),
-                    count: count,
-                }));
+    //     const outputData: OutputData[] = Object.entries(groupedData).map(
+    //         ([device, years]) => {
+    //             const data = Object.entries(years).map(([year, count]) => ({
+    //                 year: parseInt(year),
+    //                 count: count,
+    //             }));
 
-                return {
-                    device_name: device,
-                    data,
-                };
-            }
-        );
+    //             return {
+    //                 device_name: device,
+    //                 data,
+    //             };
+    //         }
+    //     );
 
-        return outputData;
-    }
+    //     return outputData;
+    // }
 }
