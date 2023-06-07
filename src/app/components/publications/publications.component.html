@@ -34,7 +34,7 @@
 </div> -->
 
 
-<div class="container">
+<div class="container mt-5">
   <!-- <div class="d-flex justify-content-between mb-4">
     <img src="../../../assets/img/dams_logo.png" alt="DAMS Logo" class="mr-2" style="height: 50px;">
     <img src="../../../assets/img/umbc_logo.png" alt="Logo" class="mr-2" style="height: 50px;">
@@ -63,7 +63,7 @@
     at UMBC.
   </p> -->
 
-  <h2 class="research-title">Publications</h2>
+  <!-- <h2 class="research-title">Publications</h2>
 
   <ng-select [items]="papers" [placeholder]="'Select a paper'" [appendTo]="'body'" [virtualScroll]="true"
     [virtualScrollItemSize]="40" [(ngModel)]="selectedPaper" class="paper-select">
@@ -73,9 +73,9 @@
         <small>{{ item.year }}</small>
       </div>
     </ng-template>
-  </ng-select>
+  </ng-select> -->
 
-  <div *ngIf="selectedPaper" class="my-3">
+  <!-- <div *ngIf="selectedPaper" class="my-3">
     <p class="lead"> If you use the dataset for your research project, please consider citing the paper:</p>
     <app-bibtex-citation [entryType]="'article'" [citationKey]="'paper'" [title]="selectedPaper.title"
       [author]="'Author Name'" [journal]="'Journal Name'" [volume]="1" [num]="1" [pages]="'1-10'"
@@ -88,5 +88,5 @@
 
   <div class="paper-details" *ngIf="selectedPaper">
     <pdf-viewer [src]="selectedPaper.pdfUrl" [show-all]="true" [style]="{ height: '90vh' }"></pdf-viewer>
-  </div>
+  </div> -->
 </div>
