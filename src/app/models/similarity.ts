@@ -1,22 +1,10 @@
 export class Similarity {
     reference: number;
     url: string;
-    policy_text: string;
-    policy_text_processed: string;
-    policy_text_gensim: string[];
 
-    constructor(
-        reference: number,
-        url: string,
-        policy_text: string,
-        policy_text_processed: string,
-        policy_text_gensim: string
-    ) {
-        this.reference = reference;
+    constructor( reference: number, url: string) {
         this.url = url;
-        this.policy_text = policy_text;
-        this.policy_text_processed = policy_text_processed;
-        this.policy_text_gensim = this.prepare(policy_text_gensim);
+        this.reference = reference;
     }
 
     prepare(text: string): string[] {

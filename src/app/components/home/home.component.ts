@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
     styleUrls: ['./home.component.scss'],
 })
 export class HomeComponent {
-    devices: number = 24;
+    devices: number = 7300;
     policies: number = 1200;
     collected: number = 1200;
 

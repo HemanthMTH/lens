@@ -1,14 +1,12 @@
 import { Component, ViewChild } from '@angular/core';
 import { PolicyData, Similarity } from 'src/app/models/similarity';
 
-import { DataItem, Series } from '@swimlane/ngx-charts';
-import * as umap from 'umap-js';
-import * as dfd from 'danfojs';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
+import { DataItem, Series } from '@swimlane/ngx-charts';
+import * as dfd from 'danfojs';
+import * as umap from 'umap-js';
 
-import _heatmapData from '../../../assets/data/heat.json';
-import embedData from '../../../assets/data/embed.json';
-import similarityData from '../../../assets/data/similarity_data.json';
+import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
 import { AgGridAngular } from 'ag-grid-angular';
 import {
     ColDef,
@@ -16,19 +14,20 @@ import {
     GridOptions,
     GridReadyEvent,
 } from 'ag-grid-community';
-import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
+import embedData from '../../../assets/data/embed.json';
+import _heatmapData from '../../../assets/data/heat.json';
+import similarityData from '../../../assets/data/similarity_data.json';
 import { ModalComponent } from '../modal/modal.component';
-
 
 interface HeatMapEntry {
     name: string;
     value: number;
-  }
-  
-  interface HeatMapPolicy {
+}
+
+interface HeatMapPolicy {
     name: string;
     series: HeatMapEntry[];
-  }
+}
 
 @Component({
     selector: 'app-charts',
@@ -64,19 +63,19 @@ export class SimilarityComponent {
         width: 1000,
         height: 800,
         xaxis: {
-          tickmode: 'array',
-          tickvals: [],
-          showticklabels: false,
-          title: 'Websites',
+            tickmode: 'array',
+            tickvals: [],
+            showticklabels: false,
+            title: 'Websites',
         },
         yaxis: {
-          tickmode: 'array',
-          tickvals: [],
-          showticklabels: false,
-          title: 'Websites',
+            tickmode: 'array',
+            tickvals: [],
+            showticklabels: false,
+            title: 'Websites',
         },
-      };
-      
+    };
+
     config: any = {
         responsive: true,
     };
@@ -143,7 +142,7 @@ export class SimilarityComponent {
 
     constructor(private fb: FormBuilder, private modalService: NgbModal) {
         this.hmData = _heatmapData as HeatMapPolicy[];
-        
+
         this.prepareData();
         this.heatMapForm.valueChanges.subscribe((x) => {
             this.outOfBound = true
@@ -165,7 +164,7 @@ export class SimilarityComponent {
         const modalRef = this.modalService.open(ModalComponent, { size: 'lg' });
         modalRef.componentInstance.name = 'Modal';
     }
-    
+
     onGridReady(params: GridReadyEvent) {
         this.rowData$ = this.dataSource;
         const gridApi: GridApi = params.api;
@@ -174,15 +173,7 @@ export class SimilarityComponent {
 
     prepareData(): void {
         similarityData.forEach((element: any, index: number) => {
-            this.dataSource.push(
-                new Similarity(
-                    index + 1,
-                    element.url,
-                    element.policy_text,
-                    element.policy_text_processed,
-                    element.policy_text_gensim
-                )
-            );
+            this.dataSource.push(new Similarity(index + 1, element.url));
         });
     }
 
@@ -200,16 +191,21 @@ export class SimilarityComponent {
     preparePlotlyHeatMap(): void {
         this._data = [
             {
-              z: this.hmData.map((policy: HeatMapPolicy) =>
-                  policy.series.map((entry: HeatMapEntry) => entry.value)
-              ),
-              x: this.hmData.map((policy: HeatMapPolicy) => policy.name),
-              y: this.hmData.length > 0 ? this.hmData[0].series.map((entry: HeatMapEntry) => entry.name) : [],
-              type: 'heatmap',
-              hovertemplate: 'X: %{x}, Y: %{y} => Similarity score: %{z}<extra></extra>',
+                z: this.hmData.map((policy: HeatMapPolicy) =>
+                    policy.series.map((entry: HeatMapEntry) => entry.value)
+                ),
+                x: this.hmData.map((policy: HeatMapPolicy) => policy.name),
+                y:
+                    this.hmData.length > 0
+                        ? this.hmData[0].series.map(
+                              (entry: HeatMapEntry) => entry.name
+                          )
+                        : [],
+                type: 'heatmap',
+                hovertemplate:
+                    'X: %{x}, Y: %{y} => Similarity score: %{z}<extra></extra>',
             },
-          ];    
-          
+        ];
     }
 
     getUMAPVector(): number[][] {
@@ -289,20 +285,22 @@ export class SimilarityComponent {
     }
 
     updateHeatmapData() {
-        this.chartHeatmapData = this.selectedWebsites.map(website => {
-          return {
-            name: website.name,
-            series: website.series.filter(seriesItem => 
-              this.selectedWebsites.some(selectedWebsite => selectedWebsite.name === seriesItem.name)
-            )
-          };
+        this.chartHeatmapData = this.selectedWebsites.map((website) => {
+            return {
+                name: website.name,
+                series: website.series.filter((seriesItem) =>
+                    this.selectedWebsites.some(
+                        (selectedWebsite) =>
+                            selectedWebsite.name === seriesItem.name
+                    )
+                ),
+            };
         });
-      }
+    }
 
     // onSubmit(params: any): void {
     //     this.heatMapChartData = [];
     //     this.submitted = true;
     //     this.prepareHeatMapData(params.value.min, params.value.max);
     // }
-
 }

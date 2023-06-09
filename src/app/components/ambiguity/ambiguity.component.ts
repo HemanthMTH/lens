@@ -7,6 +7,7 @@ import ambiguityLevelData from '../../../assets/data/tables/ambiguity_levels.jso
 import f1ScoreData from '../../../assets/data/tables/f1scores.json';
 import metricData from '../../../assets/data/tables/metrics.json';
 import featuresData from '../../../assets/data/tables/policy_features.json';
+
 // import { Papa } from 'ngx-papaparse';
 // import testData from '../../../assets/data/model/test.json'
 // import trainData from '../../../assets/data/model/train.json'
@@ -95,7 +96,7 @@ export class AmbiguityComponent {
             field: 'connective_words',
         },
         {
-            headerName: 'Spelling Errors',
+            headerName: 'Grammatical Errors',
             field: 'spelling_errors',
         },
     ];

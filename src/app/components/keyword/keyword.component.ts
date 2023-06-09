@@ -3,7 +3,6 @@ import { AgGridAngular } from 'ag-grid-angular';
 import { ColDef, GridOptions, GridReadyEvent } from 'ag-grid-community';
 import { BarChartInput } from 'src/app/models/charts';
 import { Keyword, KeywordType, Results } from 'src/app/models/keywords';
-import keywordData from '../../../assets/data/keyword_analysis_data.json';
 import keywordMetrics from '../../../assets/data/keyword_metrics.json';
 import noDeviceAccessEditDeleteData from '../../../assets/data/keywords/device/access_edit_delete_device.json';
 import dataKeywordData from '../../../assets/data/keywords/device/data_mentioned.json';
@@ -25,6 +24,7 @@ import optOutData from '../../../assets/data/keywords/no_device/optout.json';
 import policyChangeData from '../../../assets/data/keywords/no_device/policy_change.json';
 import thirdPartyCollectionData from '../../../assets/data/keywords/no_device/third_party_collection.json';
 import userChoiceData from '../../../assets/data/keywords/no_device/user_choice.json';
+import keywordData from '../../../assets/explore/keywords.json';
 @Component({
     selector: 'app-keyword',
     templateUrl: './keyword.component.html',

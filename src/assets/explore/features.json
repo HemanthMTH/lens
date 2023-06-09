@@ -2695,17 +2695,6 @@
         "spelling_errors": 0.303030303030303
     },
     {
-        "url": "http://www.irobot.co.uk.com",
-        "coherence_score": 0.2875735025304873,
-        "entropy": 8.599735213994832,
-        "unique_words": 0.18886380737396538,
-        "reading_time": 26,
-        "fkgl": 12.541018241718017,
-        "imprecise_words": 0.02,
-        "connective_words": 0.04,
-        "spelling_errors": 0.5631067961165048
-    },
-    {
         "url": "http://www.irobot.com",
         "coherence_score": 0.2806417603169022,
         "entropy": 8.542120248221966,
@@ -3377,17 +3366,6 @@
         "spelling_errors": 0.3846153846153846
     },
     {
-        "url": "http://www.osram.com",
-        "coherence_score": 0.2782728295697985,
-        "entropy": 8.28153964679369,
-        "unique_words": 0.10207370796174922,
-        "reading_time": 43,
-        "fkgl": 11.25433731807831,
-        "imprecise_words": 0.01,
-        "connective_words": 0.03,
-        "spelling_errors": 0.41800643086816724
-    },
-    {
         "url": "http://www.osram.us.com",
         "coherence_score": 0.2865696160220623,
         "entropy": 7.896838174975416,
@@ -3707,17 +3685,6 @@
         "spelling_errors": 0.15384615384615385
     },
     {
-        "url": "http://www.schluter.co.uk.com",
-        "coherence_score": 0.26660263710965115,
-        "entropy": 8.170604764765383,
-        "unique_words": 0.214051048774324,
-        "reading_time": 19,
-        "fkgl": 8.977027920272803,
-        "imprecise_words": 0.02,
-        "connective_words": 0.04,
-        "spelling_errors": 0.6511627906976745
-    },
-    {
         "url": "http://www.schluter.com",
         "coherence_score": 0.2571132023976258,
         "entropy": 8.347387380818272,
@@ -3837,17 +3804,6 @@
         "imprecise_words": 0.02,
         "connective_words": 0.05,
         "spelling_errors": 0.5932203389830508
-    },
-    {
-        "url": "http://www.somfy.com.au.com",
-        "coherence_score": 0.2595968814797789,
-        "entropy": 8.208286549207173,
-        "unique_words": 0.2678371311169219,
-        "reading_time": 13,
-        "fkgl": 11.669504567528104,
-        "imprecise_words": 0.02,
-        "connective_words": 0.03,
-        "spelling_errors": 0.3380281690140845
     },
     {
         "url": "http://www.somfy.me.com",
@@ -4345,28 +4301,6 @@
         "spelling_errors": 0.5172413793103448
     },
     {
-        "url": "http://www.westinghousehomeware.com",
-        "coherence_score": 0.28490383078395787,
-        "entropy": 8.329184825101029,
-        "unique_words": 0.2379585326953748,
-        "reading_time": 15,
-        "fkgl": 14.607086914107867,
-        "imprecise_words": 0.02,
-        "connective_words": 0.03,
-        "spelling_errors": 0.20779220779220775
-    },
-    {
-        "url": "http://www.westinghouselighting.com",
-        "coherence_score": 0.30790118007511325,
-        "entropy": 7.2473766473404,
-        "unique_words": 0.38778877887788776,
-        "reading_time": 3,
-        "fkgl": 9.636511231768342,
-        "imprecise_words": 0.01,
-        "connective_words": 0.03,
-        "spelling_errors": 0.44999999999999996
-    },
-    {
         "url": "http://www.westinghouselighting.eu.com",
         "coherence_score": 0.29057211034612657,
         "entropy": 7.887032273071318,
@@ -4431,17 +4365,6 @@
         "imprecise_words": 0.02,
         "connective_words": 0.04,
         "spelling_errors": 0.6282051282051282
-    },
-    {
-        "url": "http://www.yitechnology.ru.com",
-        "coherence_score": 0.2676856911281388,
-        "entropy": 8.2283244101979,
-        "unique_words": 0.18857015788303313,
-        "reading_time": 21,
-        "fkgl": 12.84738089620723,
-        "imprecise_words": 0.02,
-        "connective_words": 0.05,
-        "spelling_errors": 0.2934782608695652
     },
     {
         "url": "http://www.ylighting.com",
@@ -4651,17 +4574,6 @@
         "imprecise_words": 0.01,
         "connective_words": 0.03,
         "spelling_errors": 0.5797101449275363
-    },
-    {
-        "url": "http://www.getawair.com",
-        "coherence_score": 0.26945351209142754,
-        "entropy": 8.079573324176366,
-        "unique_words": 0.23210702341137124,
-        "reading_time": 14,
-        "fkgl": 11.59365822583214,
-        "imprecise_words": 0.02,
-        "connective_words": 0.04,
-        "spelling_errors": 0.488
     },
     {
         "url": "http://www.evehome.com",
