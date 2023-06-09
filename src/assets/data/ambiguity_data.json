@@ -5041,11 +5041,11 @@
       "url": "www.cacagoo.com",
       "coherence_score": 0.2290373912,
       "entropy": 7.310344,
-      "unique_words": 7.269983,
+      "unique_words": 0.37,
       "reading_time": 3,
-      "fkgl": 0.05,
-      "imprecise_words": 7.310344,
-      "connective_words": 0.37426,
+      "fkgl": 7.26,
+      "imprecise_words": 0.02,
+      "connective_words": 0.05,
       "spelling_errors": 0.27
     },
     {
