@@ -7,9 +7,9 @@ import {
     ICellRendererParams,
 } from 'ag-grid-community';
 import { ProductData } from 'src/app/models/data';
-import _data from '../../../assets/dataset/combined.json';
-import featureData from '../../../assets/dataset/features.json';
-import keywordData from '../../../assets/dataset/keywords.json';
+import _data from '../../../assets/explore/combined.json';
+import featureData from '../../../assets/explore/features.json';
+import keywordData from '../../../assets/explore/keywords.json';
 import { BooleanCellRendererComponent } from '../boolean-cell-renderer/boolean-cell-renderer.component';
 import { ButtonRendererComponent } from '../button/button.component';
 import { FeatureModalComponent } from '../feature-modal/feature-modal.component';
@@ -50,7 +50,7 @@ export class DataComponent {
         },
         { field: 'country' },
         {
-            headerName: 'Mentioned?',
+            headerName: 'Mentioned Device?',
             headerTooltip: 'Explicit mention of Device Type Name in Policy',
             field: 'mentioned',
             cellRenderer: 'booleanCellRenderer',
@@ -71,7 +71,6 @@ export class DataComponent {
     defaultColDef: ColDef = {
         sortable: true,
         filter: true,
-        flex: 1,
         minWidth: 100,
         resizable: true,
     };

@@ -15,7 +15,7 @@ import { Feature, FeatureType } from 'src/app/models/data';
       <div class="container">
         <div class="row row-cols-3 g-4">
           <div class="col" *ngFor="let key of objectKeys(features)">
-            <div class="card h-100" [ngStyle]="{'background-color': getGradientColor(getKeywordValue(key))}">
+            <div class="card h-100" >
               <div class="card-header">{{ getKeywordLabel(key) }}</div>
               <div class="card-body">
                 <p class="card-text">{{ getKeywordValue(key) }}</p>
@@ -43,6 +43,7 @@ export class KeywordModalComponent implements OnInit {
     this.minValue = this.getMinValue();
     this.maxValue = this.getMaxValue();
   }
+  //[ngStyle]="{'background-color': getGradientColor(getKeywordValue(key))}"
 
   objectKeys(item: Feature) {
     return Object.keys(item).filter(key => key !== 'url'); // Exclude 'url' key

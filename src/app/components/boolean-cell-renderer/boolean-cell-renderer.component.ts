@@ -4,26 +4,29 @@ import { ICellRendererAngularComp } from 'ag-grid-angular';
 @Component({
     selector: 'app-boolean-cell-renderer',
     template: `
-        <div class="container">
-            <span class="value" [ngClass]="params.value ? 'true' : 'false'">{{ params.value ? 'Yes' : 'No' }}</span>
+        <div class="container" [ngClass]="params.value ? 'true' : 'false'">
+            <span class="value">{{ params.value ? 'Yes' : 'No' }}</span>
         </div>
     `,
     styles: [`
         .container {
+            display: block;
+            width: 100%;
+            height: 100%;
+            color: #fff;
             display: flex;
             justify-content: center;
             align-items: center;
         }
+        .container.true {
+            background: #4CAF50;
+        }
+        .container.false {
+            background: #F44336;
+        }
         .value {
             padding: 0.5rem;
             border-radius: 0.25rem;
-            color: #fff;
-        }
-        .value.true {
-            background: #28a745;
-        }
-        .value.false {
-            background: #dc3545;
         }
     `]
 })
