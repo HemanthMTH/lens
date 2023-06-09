@@ -35,6 +35,7 @@ import { SimilarityComponent } from './components/similarity/similarity.componen
 import { PolicyTextModalComponent } from './components/policy-text-modal/policy-text-modal.component';
 import { BooleanCellRendererComponent } from './components/boolean-cell-renderer/boolean-cell-renderer.component';
 import { KeywordModalComponent } from './components/keyword-modal/keyword-modal.component';
+import { UrlRendererComponent } from './components/url-renderer/url-renderer.component';
 
 PlotlyModule.plotlyjs = PlotlyJS;
 @NgModule({
@@ -60,7 +61,8 @@ PlotlyModule.plotlyjs = PlotlyJS;
     ButtonRendererComponent,
     PolicyTextModalComponent,
     BooleanCellRendererComponent,
-    KeywordModalComponent
+    KeywordModalComponent,
+    UrlRendererComponent
   ],
   imports: [
     BrowserModule,

@@ -1,6 +1,6 @@
 [
     {
-        "url": "3plususa.com",
+        "url": "http://www.3plususa.com",
         "coherence_score": 0.28619960284340984,
         "entropy": 8.027778500768864,
         "unique_words": 0.37630662020905925,
@@ -11,7 +11,7 @@
         "spelling_errors": 0.32258064516129037
     },
     {
-        "url": "aeotec.com",
+        "url": "http://www.aeotec.com",
         "coherence_score": 0.2618434862695057,
         "entropy": 8.723242871367809,
         "unique_words": 0.23426346528228423,
@@ -22,7 +22,7 @@
         "spelling_errors": 0.32307692307692304
     },
     {
-        "url": "aipersmart.com",
+        "url": "http://www.aipersmart.com",
         "coherence_score": 0.31507900065880495,
         "entropy": 7.465283577132579,
         "unique_words": 0.3442028985507246,
@@ -33,7 +33,7 @@
         "spelling_errors": 0.08333333333333337
     },
     {
-        "url": "airthereal.com",
+        "url": "http://www.airthereal.com",
         "coherence_score": 0.28568045600519126,
         "entropy": 7.843115385599794,
         "unique_words": 0.32483612527312455,
@@ -44,7 +44,7 @@
         "spelling_errors": 0.23529411764705888
     },
     {
-        "url": "aiwa.co",
+        "url": "http://www.aiwa.co.com",
         "coherence_score": 0.26580303745067413,
         "entropy": 7.910073550553582,
         "unique_words": 0.3621291448516579,
@@ -55,7 +55,7 @@
         "spelling_errors": 0.2857142857142857
     },
     {
-        "url": "alexapure.com",
+        "url": "http://www.alexapure.com",
         "coherence_score": 0.3150790006588049,
         "entropy": 7.492053155868277,
         "unique_words": 0.35518474374255066,
@@ -66,7 +66,7 @@
         "spelling_errors": 0.0714285714285714
     },
     {
-        "url": "alfredinc.com",
+        "url": "http://www.alfredinc.com",
         "coherence_score": 0.3111388634587902,
         "entropy": 7.385985235651618,
         "unique_words": 0.36363636363636365,
@@ -77,7 +77,7 @@
         "spelling_errors": 0.11111111111111116
     },
     {
-        "url": "aluratek.com",
+        "url": "http://www.aluratek.com",
         "coherence_score": 0.27786248173175115,
         "entropy": 7.714423384514968,
         "unique_words": 0.43658210947930576,
@@ -88,7 +88,7 @@
         "spelling_errors": 0.3870967741935484
     },
     {
-        "url": "ambientweather.com",
+        "url": "http://www.ambientweather.com",
         "coherence_score": 0.26790275047005385,
         "entropy": 8.123440986060158,
         "unique_words": 0.22262011339898538,
@@ -99,7 +99,7 @@
         "spelling_errors": 0.48453608247422686
     },
     {
-        "url": "americanlifetime.com",
+        "url": "http://www.americanlifetime.com",
         "coherence_score": 0.2711822143284453,
         "entropy": 8.472403475716364,
         "unique_words": 0.22901402553904124,
@@ -110,7 +110,7 @@
         "spelling_errors": 0.29729729729729726
     },
     {
-        "url": "ao.com",
+        "url": "http://www.ao.com",
         "coherence_score": 0.26875809581304844,
         "entropy": 8.520882669652789,
         "unique_words": 0.17861675126903553,
@@ -121,7 +121,7 @@
         "spelling_errors": 0.575091575091575
     },
     {
-        "url": "aquasound.eu",
+        "url": "http://www.aquasound.eu.com",
         "coherence_score": 0.2588234588089104,
         "entropy": 7.382116409685228,
         "unique_words": 0.3388116308470291,
@@ -132,7 +132,7 @@
         "spelling_errors": 0.40909090909090906
     },
     {
-        "url": "arboleaf.com",
+        "url": "http://www.arboleaf.com",
         "coherence_score": 0.2843134036598355,
         "entropy": 7.830765708499331,
         "unique_words": 0.31480194579569143,
@@ -143,7 +143,7 @@
         "spelling_errors": 0.32352941176470584
     },
     {
-        "url": "arc.lighting",
+        "url": "http://www.arc.lighting.com",
         "coherence_score": 0.3164557918597251,
         "entropy": 7.405870262820127,
         "unique_words": 0.41467576791808874,
@@ -154,7 +154,7 @@
         "spelling_errors": 0.42105263157894735
     },
     {
-        "url": "ardwolf.com",
+        "url": "http://www.ardwolf.com",
         "coherence_score": 0.2712559016842707,
         "entropy": 7.213724155754201,
         "unique_words": 0.3951473136915078,
@@ -165,7 +165,7 @@
         "spelling_errors": 0.5333333333333333
     },
     {
-        "url": "asinw.com",
+        "url": "http://www.asinw.com",
         "coherence_score": 0.25372433137112976,
         "entropy": 7.62822794058464,
         "unique_words": 0.3544137022397892,
@@ -176,7 +176,7 @@
         "spelling_errors": 0.5384615384615384
     },
     {
-        "url": "atomismart.com",
+        "url": "http://www.atomismart.com",
         "coherence_score": 0.2744368138430854,
         "entropy": 8.126867644546374,
         "unique_words": 0.2684478371501272,
@@ -187,7 +187,7 @@
         "spelling_errors": 0.3555555555555555
     },
     {
-        "url": "atomiusa.com",
+        "url": "http://www.atomiusa.com",
         "coherence_score": 0.2744368138430854,
         "entropy": 8.106108176593452,
         "unique_words": 0.2664389410760034,
@@ -198,7 +198,7 @@
         "spelling_errors": 0.3780487804878049
     },
     {
-        "url": "audioengineusa.com",
+        "url": "http://www.audioengineusa.com",
         "coherence_score": 0.26912600239169926,
         "entropy": 8.163827264698366,
         "unique_words": 0.29831718510963795,
@@ -209,7 +209,7 @@
         "spelling_errors": 0.3448275862068966
     },
     {
-        "url": "avantree.com",
+        "url": "http://www.avantree.com",
         "coherence_score": 0.29890571894076196,
         "entropy": 7.595537879346371,
         "unique_words": 0.37790697674418605,
@@ -220,7 +220,7 @@
         "spelling_errors": 0.4444444444444444
     },
     {
-        "url": "bbqdragon.com",
+        "url": "http://www.bbqdragon.com",
         "coherence_score": 0.2940713542591625,
         "entropy": 7.789911492912976,
         "unique_words": 0.2448706512042819,
@@ -231,7 +231,7 @@
         "spelling_errors": 0.27450980392156865
     },
     {
-        "url": "bellevuewa.gov",
+        "url": "http://www.bellevuewa.gov.com",
         "coherence_score": 0.24647531489968633,
         "entropy": 7.63231744675908,
         "unique_words": 0.3380281690140845,
@@ -242,7 +242,7 @@
         "spelling_errors": 0.5813953488372092
     },
     {
-        "url": "bossaudio.com",
+        "url": "http://www.bossaudio.com",
         "coherence_score": 0.27294197314485696,
         "entropy": 8.992472471119363,
         "unique_words": 0.29741151611199157,
@@ -253,7 +253,7 @@
         "spelling_errors": 0.7374301675977654
     },
     {
-        "url": "bucanim.com",
+        "url": "http://www.bucanim.com",
         "coherence_score": 0.27604739879854157,
         "entropy": 7.909263074627857,
         "unique_words": 0.5653710247349824,
@@ -264,7 +264,7 @@
         "spelling_errors": 0.25
     },
     {
-        "url": "buddy.com",
+        "url": "http://www.buddy.com",
         "coherence_score": 0.254248916522213,
         "entropy": 7.776177076670301,
         "unique_words": 0.24180734856007943,
@@ -275,7 +275,7 @@
         "spelling_errors": 0.4181818181818182
     },
     {
-        "url": "buythermopro.com",
+        "url": "http://www.buythermopro.com",
         "coherence_score": 0.2663284522124132,
         "entropy": 7.98901176048588,
         "unique_words": 0.36654275092936806,
@@ -286,7 +286,7 @@
         "spelling_errors": 0.23076923076923073
     },
     {
-        "url": "cadetheat.com",
+        "url": "http://www.cadetheat.com",
         "coherence_score": 0.29409588632976874,
         "entropy": 7.718738458954173,
         "unique_words": 0.34133790737564323,
@@ -297,7 +297,7 @@
         "spelling_errors": 0.5416666666666667
     },
     {
-        "url": "canary.is",
+        "url": "http://www.canary.is.com",
         "coherence_score": 0.2738970201246326,
         "entropy": 8.25776387744717,
         "unique_words": 0.21888185654008438,
@@ -308,7 +308,7 @@
         "spelling_errors": 0.618705035971223
     },
     {
-        "url": "candyhouse.co",
+        "url": "http://www.candyhouse.co.com",
         "coherence_score": 0.2658030374506742,
         "entropy": 7.910727079114991,
         "unique_words": 0.36355710549258935,
@@ -319,7 +319,7 @@
         "spelling_errors": 0.25
     },
     {
-        "url": "colzer.com",
+        "url": "http://www.colzer.com",
         "coherence_score": 0.2774718604502372,
         "entropy": 7.136455887603688,
         "unique_words": 0.43956043956043955,
@@ -330,7 +330,7 @@
         "spelling_errors": 0.23076923076923073
     },
     {
-        "url": "cookperfect.com",
+        "url": "http://www.cookperfect.com",
         "coherence_score": 0.26834145538554116,
         "entropy": 8.12664583229756,
         "unique_words": 0.23161551823972207,
@@ -341,7 +341,7 @@
         "spelling_errors": 0.29166666666666663
     },
     {
-        "url": "cubetracker.com",
+        "url": "http://www.cubetracker.com",
         "coherence_score": 0.2728243375000868,
         "entropy": 8.26126620583252,
         "unique_words": 0.25947635795232515,
@@ -352,7 +352,7 @@
         "spelling_errors": 0.7419354838709677
     },
     {
-        "url": "dazonehome.com",
+        "url": "http://www.dazonehome.com",
         "coherence_score": 0.26834304990630026,
         "entropy": 8.279378119085402,
         "unique_words": 0.23776223776223776,
@@ -363,7 +363,7 @@
         "spelling_errors": 0.265625
     },
     {
-        "url": "decibelelectronics.com",
+        "url": "http://www.decibelelectronics.com",
         "coherence_score": 0.31588500116890766,
         "entropy": 7.795883569703719,
         "unique_words": 0.325,
@@ -374,7 +374,7 @@
         "spelling_errors": 0.07692307692307687
     },
     {
-        "url": "designersftn.com",
+        "url": "http://www.designersftn.com",
         "coherence_score": 0.2856765852390434,
         "entropy": 8.06886610431994,
         "unique_words": 0.25137614678899084,
@@ -385,7 +385,7 @@
         "spelling_errors": 0.453125
     },
     {
-        "url": "diamondkinetics.com",
+        "url": "http://www.diamondkinetics.com",
         "coherence_score": 0.28379754239096366,
         "entropy": 8.202364219148773,
         "unique_words": 0.3107007061379685,
@@ -396,7 +396,7 @@
         "spelling_errors": 0.4347826086956522
     },
     {
-        "url": "diysecuritycameraworld.com",
+        "url": "http://www.diysecuritycameraworld.com",
         "coherence_score": 0.2426955056262638,
         "entropy": 8.06166418480428,
         "unique_words": 0.5107033639143731,
@@ -407,7 +407,7 @@
         "spelling_errors": 0.5064935064935066
     },
     {
-        "url": "durabasics.com",
+        "url": "http://www.durabasics.com",
         "coherence_score": 0.3150790006588049,
         "entropy": 7.4375309932497835,
         "unique_words": 0.3425814234016888,
@@ -418,7 +418,7 @@
         "spelling_errors": 0.07692307692307687
     },
     {
-        "url": "eatsmartproducts.com",
+        "url": "http://www.eatsmartproducts.com",
         "coherence_score": 0.2992484954421602,
         "entropy": 8.028112230833887,
         "unique_words": 0.2535091450446618,
@@ -429,7 +429,7 @@
         "spelling_errors": 0.5757575757575757
     },
     {
-        "url": "eco4lifehome.com",
+        "url": "http://www.eco4lifehome.com",
         "coherence_score": 0.48237538044246675,
         "entropy": 10.297218546843286,
         "unique_words": 0.2732166890982503,
@@ -440,7 +440,7 @@
         "spelling_errors": 0.11325966850828728
     },
     {
-        "url": "ecoxgear.com",
+        "url": "http://www.ecoxgear.com",
         "coherence_score": 0.28228285998310376,
         "entropy": 7.435823824757595,
         "unique_words": 0.28808290155440414,
@@ -451,7 +451,7 @@
         "spelling_errors": 0.5
     },
     {
-        "url": "en.golfbuddy.com",
+        "url": "http://www.en.golfbuddy.com",
         "coherence_score": 0.24694015635408145,
         "entropy": 7.9667502105842365,
         "unique_words": 0.2598992080633549,
@@ -462,7 +462,7 @@
         "spelling_errors": 0.5192307692307692
     },
     {
-        "url": "en.polkaudio.com",
+        "url": "http://www.en.polkaudio.com",
         "coherence_score": 0.2760261294567314,
         "entropy": 8.158780570243989,
         "unique_words": 0.2412488174077578,
@@ -473,7 +473,7 @@
         "spelling_errors": 0.5
     },
     {
-        "url": "energizerconnect.com",
+        "url": "http://www.energizerconnect.com",
         "coherence_score": 0.2769429935622195,
         "entropy": 8.427932315072107,
         "unique_words": 0.3252879868348875,
@@ -484,7 +484,7 @@
         "spelling_errors": 0.4464285714285714
     },
     {
-        "url": "eonon.com",
+        "url": "http://www.eonon.com",
         "coherence_score": 0.3120668909582228,
         "entropy": 7.400750319785535,
         "unique_words": 0.4405940594059406,
@@ -495,7 +495,7 @@
         "spelling_errors": 0.2857142857142857
     },
     {
-        "url": "escali.com",
+        "url": "http://www.escali.com",
         "coherence_score": 0.26412266676553275,
         "entropy": 7.13055458208264,
         "unique_words": 0.4069097888675624,
@@ -506,7 +506,7 @@
         "spelling_errors": 0.5185185185185186
     },
     {
-        "url": "esquireelectronicsltd.com",
+        "url": "http://www.esquireelectronicsltd.com",
         "coherence_score": 0.2823376124024845,
         "entropy": 7.784097135645664,
         "unique_words": 0.2744135297326787,
@@ -517,7 +517,7 @@
         "spelling_errors": 0.574468085106383
     },
     {
-        "url": "evapolar.com",
+        "url": "http://www.evapolar.com",
         "coherence_score": 0.24590129970545233,
         "entropy": 8.559819148068987,
         "unique_words": 0.5603448275862069,
@@ -528,7 +528,7 @@
         "spelling_errors": 0.20588235294117652
     },
     {
-        "url": "ezee.com",
+        "url": "http://www.ezee.com",
         "coherence_score": 0.31724227458594145,
         "entropy": 7.592090088044597,
         "unique_words": 0.3551296505073281,
@@ -539,7 +539,7 @@
         "spelling_errors": 0.21739130434782605
     },
     {
-        "url": "family1st.io",
+        "url": "http://www.family1st.io.com",
         "coherence_score": 0.27052074240185686,
         "entropy": 7.640727129103274,
         "unique_words": 0.4105793450881612,
@@ -550,7 +550,7 @@
         "spelling_errors": 0.21052631578947367
     },
     {
-        "url": "fdt.us",
+        "url": "http://www.fdt.us.com",
         "coherence_score": 0.7723016145279309,
         "entropy": 6.865988913828261,
         "unique_words": 0.3424908424908425,
@@ -561,7 +561,7 @@
         "spelling_errors": 0.19999999999999996
     },
     {
-        "url": "flameking.com",
+        "url": "http://www.flameking.com",
         "coherence_score": 0.2845943835034789,
         "entropy": 8.419825359698532,
         "unique_words": 0.23527361449982573,
@@ -572,7 +572,7 @@
         "spelling_errors": 0.6788990825688073
     },
     {
-        "url": "furrion.com",
+        "url": "http://www.furrion.com",
         "coherence_score": 0.2878330060271578,
         "entropy": 8.002868720793412,
         "unique_words": 0.2775144813059505,
@@ -583,7 +583,7 @@
         "spelling_errors": 0.4698795180722891
     },
     {
-        "url": "getfittrack.com",
+        "url": "http://www.getfittrack.com",
         "coherence_score": 0.2587137792516926,
         "entropy": 8.710465918967495,
         "unique_words": 0.21650279545016388,
@@ -594,7 +594,7 @@
         "spelling_errors": 0.6050156739811912
     },
     {
-        "url": "getpivo.com",
+        "url": "http://www.getpivo.com",
         "coherence_score": 0.2867811828810683,
         "entropy": 7.517757509061251,
         "unique_words": 0.32688588007736946,
@@ -605,7 +605,7 @@
         "spelling_errors": 0.607843137254902
     },
     {
-        "url": "getwellue.com",
+        "url": "http://www.getwellue.com",
         "coherence_score": 0.2841418580398483,
         "entropy": 7.903446211385539,
         "unique_words": 0.34363636363636363,
@@ -616,7 +616,7 @@
         "spelling_errors": 0.6222222222222222
     },
     {
-        "url": "goibright.com",
+        "url": "http://www.goibright.com",
         "coherence_score": 0.2805923896691454,
         "entropy": 8.017234773696556,
         "unique_words": 0.2819492789656887,
@@ -627,7 +627,7 @@
         "spelling_errors": 0.3055555555555556
     },
     {
-        "url": "greatergoods.com",
+        "url": "http://www.greatergoods.com",
         "coherence_score": 0.27001503477593414,
         "entropy": 8.489599480480777,
         "unique_words": 0.259719222462203,
@@ -638,7 +638,7 @@
         "spelling_errors": 0.4786324786324786
     },
     {
-        "url": "handsfreehealth.com",
+        "url": "http://www.handsfreehealth.com",
         "coherence_score": 0.2697473016959296,
         "entropy": 8.444671393022475,
         "unique_words": 0.2112144832788534,
@@ -649,7 +649,7 @@
         "spelling_errors": 0.6344827586206896
     },
     {
-        "url": "hisenseme.com",
+        "url": "http://www.hisenseme.com",
         "coherence_score": 0.2781140529761253,
         "entropy": 7.460234002513924,
         "unique_words": 0.31948565776458954,
@@ -660,7 +660,7 @@
         "spelling_errors": 0.18518518518518523
     },
     {
-        "url": "homeseer.com",
+        "url": "http://www.homeseer.com",
         "coherence_score": 0.26912126236813255,
         "entropy": 8.547453952744512,
         "unique_words": 0.33137359700694813,
@@ -671,7 +671,7 @@
         "spelling_errors": 0.5949367088607596
     },
     {
-        "url": "homezonesecurity.com",
+        "url": "http://www.homezonesecurity.com",
         "coherence_score": 0.2682021555969304,
         "entropy": 8.462420737372245,
         "unique_words": 0.17909486229666613,
@@ -682,7 +682,7 @@
         "spelling_errors": 0.5502392344497608
     },
     {
-        "url": "huddlecamhd.com",
+        "url": "http://www.huddlecamhd.com",
         "coherence_score": 0.2783109413304413,
         "entropy": 7.944732899506155,
         "unique_words": 0.3591800356506239,
@@ -693,7 +693,7 @@
         "spelling_errors": 0.6341463414634146
     },
     {
-        "url": "hughesautoformers.com",
+        "url": "http://www.hughesautoformers.com",
         "coherence_score": 0.2928829988020989,
         "entropy": 7.904664088548701,
         "unique_words": 0.3412969283276451,
@@ -704,7 +704,7 @@
         "spelling_errors": 0.28260869565217395
     },
     {
-        "url": "idevicesinc.com",
+        "url": "http://www.idevicesinc.com",
         "coherence_score": 0.27406412047455975,
         "entropy": 8.448271212928553,
         "unique_words": 0.22110983981693363,
@@ -715,7 +715,7 @@
         "spelling_errors": 0.6141732283464567
     },
     {
-        "url": "ignisalert.com",
+        "url": "http://www.ignisalert.com",
         "coherence_score": 0.2868901331945457,
         "entropy": 7.918132878744621,
         "unique_words": 0.2595300261096606,
@@ -726,7 +726,7 @@
         "spelling_errors": 0.5342465753424658
     },
     {
-        "url": "ihealthlabs.com",
+        "url": "http://www.ihealthlabs.com",
         "coherence_score": 0.27270320557507594,
         "entropy": 8.44000642419955,
         "unique_words": 0.23714213326577147,
@@ -737,7 +737,7 @@
         "spelling_errors": 0.36448598130841126
     },
     {
-        "url": "invoxia.com",
+        "url": "http://www.invoxia.com",
         "coherence_score": 0.27190637613917557,
         "entropy": 7.790223218995346,
         "unique_words": 0.3952738990332975,
@@ -748,7 +748,7 @@
         "spelling_errors": 0.303030303030303
     },
     {
-        "url": "iproven.com",
+        "url": "http://www.iproven.com",
         "coherence_score": 0.3006984347480596,
         "entropy": 8.025924735409964,
         "unique_words": 0.23918174665617625,
@@ -759,7 +759,7 @@
         "spelling_errors": 0.5087719298245614
     },
     {
-        "url": "keenhome.io",
+        "url": "http://www.keenhome.io.com",
         "coherence_score": 0.28430724583771244,
         "entropy": 7.609159157022601,
         "unique_words": 0.30601092896174864,
@@ -770,7 +770,7 @@
         "spelling_errors": 0.5714285714285714
     },
     {
-        "url": "kiddesigns.com",
+        "url": "http://www.kiddesigns.com",
         "coherence_score": 0.276199404797043,
         "entropy": 7.5947933868196715,
         "unique_words": 0.39655172413793105,
@@ -781,7 +781,7 @@
         "spelling_errors": 0.2857142857142857
     },
     {
-        "url": "kuled.com",
+        "url": "http://www.kuled.com",
         "coherence_score": 0.2803556153226424,
         "entropy": 8.34348883602986,
         "unique_words": 0.35923076923076924,
@@ -792,7 +792,7 @@
         "spelling_errors": 0.6274509803921569
     },
     {
-        "url": "lamotte.com",
+        "url": "http://www.lamotte.com",
         "coherence_score": 0.2798318792918293,
         "entropy": 7.889229758423376,
         "unique_words": 0.310632383599722,
@@ -803,7 +803,7 @@
         "spelling_errors": 0.5070422535211268
     },
     {
-        "url": "landairsea.com",
+        "url": "http://www.landairsea.com",
         "coherence_score": 0.2833037740059645,
         "entropy": 7.795152994217141,
         "unique_words": 0.3438566552901024,
@@ -814,7 +814,7 @@
         "spelling_errors": 0.8301886792452831
     },
     {
-        "url": "legrand.us",
+        "url": "http://www.legrand.us.com",
         "coherence_score": 0.2855456296618407,
         "entropy": 8.443688013323255,
         "unique_words": 0.2036175710594315,
@@ -825,7 +825,7 @@
         "spelling_errors": 0.7405660377358491
     },
     {
-        "url": "life.tenergy.com",
+        "url": "http://www.life.tenergy.com",
         "coherence_score": 0.28746607657102713,
         "entropy": 7.650809272899234,
         "unique_words": 0.3606217616580311,
@@ -836,7 +836,7 @@
         "spelling_errors": 0.25806451612903225
     },
     {
-        "url": "limagehomeproducts.com",
+        "url": "http://www.limagehomeproducts.com",
         "coherence_score": 0.26354364485919024,
         "entropy": 7.74629822670614,
         "unique_words": 0.3609172482552343,
@@ -847,7 +847,7 @@
         "spelling_errors": 0.3055555555555556
     },
     {
-        "url": "loftilla.com",
+        "url": "http://www.loftilla.com",
         "coherence_score": 0.2843134036598355,
         "entropy": 7.857577578254952,
         "unique_words": 0.3166894664842681,
@@ -858,7 +858,7 @@
         "spelling_errors": 0.3055555555555556
     },
     {
-        "url": "logistimatics.com",
+        "url": "http://www.logistimatics.com",
         "coherence_score": 0.21327815068062983,
         "entropy": 7.984197648190841,
         "unique_words": 0.2554880896777207,
@@ -869,7 +869,7 @@
         "spelling_errors": 0.4339622641509434
     },
     {
-        "url": "loocam.com",
+        "url": "http://www.loocam.com",
         "coherence_score": 0.2892515666968001,
         "entropy": 7.583984287066272,
         "unique_words": 0.40726817042606517,
@@ -880,7 +880,7 @@
         "spelling_errors": 0.1428571428571429
     },
     {
-        "url": "m.costway.com",
+        "url": "http://www.m.costway.com",
         "coherence_score": 0.28547146414802427,
         "entropy": 7.849077691964959,
         "unique_words": 0.2877959927140255,
@@ -891,7 +891,7 @@
         "spelling_errors": 0.2790697674418605
     },
     {
-        "url": "markwort.com",
+        "url": "http://www.markwort.com",
         "coherence_score": 0.29526913087950996,
         "entropy": 7.543394405161853,
         "unique_words": 0.3934010152284264,
@@ -902,7 +902,7 @@
         "spelling_errors": 0.43999999999999995
     },
     {
-        "url": "matrackinc.com",
+        "url": "http://www.matrackinc.com",
         "coherence_score": 0.28223984637867877,
         "entropy": 7.699683050282512,
         "unique_words": 0.399529964747356,
@@ -913,7 +913,7 @@
         "spelling_errors": 0.13636363636363635
     },
     {
-        "url": "meater.com",
+        "url": "http://www.meater.com",
         "coherence_score": 0.27432089381397384,
         "entropy": 8.067980036959074,
         "unique_words": 0.21514992109416098,
@@ -924,7 +924,7 @@
         "spelling_errors": 0.4841269841269841
     },
     {
-        "url": "menafn.com",
+        "url": "http://www.menafn.com",
         "coherence_score": 0.2633073915516052,
         "entropy": 8.241950946582158,
         "unique_words": 0.29706546275395035,
@@ -935,7 +935,7 @@
         "spelling_errors": 0.5474452554744526
     },
     {
-        "url": "mi.com",
+        "url": "http://www.mi.com",
         "coherence_score": 0.2832426969983618,
         "entropy": 8.200683089214579,
         "unique_words": 0.20937363118703461,
@@ -946,7 +946,7 @@
         "spelling_errors": 0.6368715083798883
     },
     {
-        "url": "minoston.com",
+        "url": "http://www.minoston.com",
         "coherence_score": 0.2829142967345618,
         "entropy": 7.00040414515096,
         "unique_words": 0.4410958904109589,
@@ -957,7 +957,7 @@
         "spelling_errors": 0.4545454545454546
     },
     {
-        "url": "moderndevice.com",
+        "url": "http://www.moderndevice.com",
         "coherence_score": 0.4118689943964446,
         "entropy": 6.379410274002257,
         "unique_words": 0.14099468855625302,
@@ -968,7 +968,7 @@
         "spelling_errors": 0.23809523809523814
     },
     {
-        "url": "molekule.com",
+        "url": "http://www.molekule.com",
         "coherence_score": 0.2513520006587434,
         "entropy": 9.062802715441835,
         "unique_words": 0.16568569746909947,
@@ -979,7 +979,7 @@
         "spelling_errors": 0.4776632302405498
     },
     {
-        "url": "momentumcam.com",
+        "url": "http://www.momentumcam.com",
         "coherence_score": 0.28619960284340984,
         "entropy": 8.233142357566267,
         "unique_words": 0.38124452234881684,
@@ -990,7 +990,7 @@
         "spelling_errors": 0.33333333333333337
     },
     {
-        "url": "mountingdreamonline.com",
+        "url": "http://www.mountingdreamonline.com",
         "coherence_score": 0.28345494944772687,
         "entropy": 7.6495956922179325,
         "unique_words": 0.31961471103327493,
@@ -1001,7 +1001,7 @@
         "spelling_errors": 0.3571428571428571
     },
     {
-        "url": "mrcool.com",
+        "url": "http://www.mrcool.com",
         "coherence_score": 0.2993304248091506,
         "entropy": 7.767676288611522,
         "unique_words": 0.31235247836349334,
@@ -1012,7 +1012,7 @@
         "spelling_errors": 0.25
     },
     {
-        "url": "myinnotech.com",
+        "url": "http://www.myinnotech.com",
         "coherence_score": 0.27506076100727556,
         "entropy": 7.787814861866145,
         "unique_words": 0.27969121140142517,
@@ -1023,7 +1023,7 @@
         "spelling_errors": 0.6363636363636364
     },
     {
-        "url": "naxa.com",
+        "url": "http://www.naxa.com",
         "coherence_score": 0.2782155659816009,
         "entropy": 7.3562187241210175,
         "unique_words": 0.43636363636363634,
@@ -1034,7 +1034,7 @@
         "spelling_errors": 0.0625
     },
     {
-        "url": "neatorobotics.com",
+        "url": "http://www.neatorobotics.com",
         "coherence_score": 0.2617548160362664,
         "entropy": 8.42445141545632,
         "unique_words": 0.17934205871949063,
@@ -1045,7 +1045,7 @@
         "spelling_errors": 0.30841121495327106
     },
     {
-        "url": "news.samsung.com",
+        "url": "http://www.news.samsung.com",
         "coherence_score": 0.7478904100839783,
         "entropy": 5.491893798261824,
         "unique_words": 0.6736842105263158,
@@ -1056,7 +1056,7 @@
         "spelling_errors": 0.0
     },
     {
-        "url": "nooie.com",
+        "url": "http://www.nooie.com",
         "coherence_score": 0.28726322370157964,
         "entropy": 7.983690327906729,
         "unique_words": 0.27466793168880455,
@@ -1067,7 +1067,7 @@
         "spelling_errors": 0.4285714285714286
     },
     {
-        "url": "nutrichefkitchen.com",
+        "url": "http://www.nutrichefkitchen.com",
         "coherence_score": 0.2724781056658295,
         "entropy": 8.085475389520312,
         "unique_words": 0.32846288720046757,
@@ -1078,7 +1078,7 @@
         "spelling_errors": 0.5555555555555556
     },
     {
-        "url": "nyko.com",
+        "url": "http://www.nyko.com",
         "coherence_score": 0.3168688344820838,
         "entropy": 7.751417416500225,
         "unique_words": 0.351024208566108,
@@ -1089,7 +1089,7 @@
         "spelling_errors": 0.3902439024390244
     },
     {
-        "url": "ojelectronics.com",
+        "url": "http://www.ojelectronics.com",
         "coherence_score": 0.26254548133148126,
         "entropy": 8.02124924069688,
         "unique_words": 0.29128580134064597,
@@ -1100,7 +1100,7 @@
         "spelling_errors": 0.35820895522388063
     },
     {
-        "url": "owllabs.com",
+        "url": "http://www.owllabs.com",
         "coherence_score": 0.31187159905502415,
         "entropy": 8.25960967714558,
         "unique_words": 0.18290190735694822,
@@ -1111,7 +1111,7 @@
         "spelling_errors": 0.515625
     },
     {
-        "url": "pavlok.com",
+        "url": "http://www.pavlok.com",
         "coherence_score": 0.2914003648400212,
         "entropy": 7.902008050529183,
         "unique_words": 0.16590320653256324,
@@ -1122,7 +1122,7 @@
         "spelling_errors": 0.2149532710280374
     },
     {
-        "url": "perfectaire.us",
+        "url": "http://www.perfectaire.us.com",
         "coherence_score": 0.28651116205800925,
         "entropy": 7.607326479040913,
         "unique_words": 0.3304647160068847,
@@ -1133,7 +1133,7 @@
         "spelling_errors": 0.3846153846153846
     },
     {
-        "url": "perfectprime.com",
+        "url": "http://www.perfectprime.com",
         "coherence_score": 0.31507900065880484,
         "entropy": 7.402043684321944,
         "unique_words": 0.34074074074074073,
@@ -1144,7 +1144,7 @@
         "spelling_errors": 0.07692307692307687
     },
     {
-        "url": "polaroid.tech",
+        "url": "http://www.polaroid.tech.com",
         "coherence_score": 0.29316526692837225,
         "entropy": 6.837143651928216,
         "unique_words": 0.4906832298136646,
@@ -1155,7 +1155,7 @@
         "spelling_errors": 0.19999999999999996
     },
     {
-        "url": "probreeze.com",
+        "url": "http://www.probreeze.com",
         "coherence_score": 0.28230101336498226,
         "entropy": 7.699299068919153,
         "unique_words": 0.3078902229845626,
@@ -1166,7 +1166,7 @@
         "spelling_errors": 0.3870967741935484
     },
     {
-        "url": "ptzoptics.com",
+        "url": "http://www.ptzoptics.com",
         "coherence_score": 0.27310897419587576,
         "entropy": 7.944732899506155,
         "unique_words": 0.3591800356506239,
@@ -1177,7 +1177,7 @@
         "spelling_errors": 0.6341463414634146
     },
     {
-        "url": "pureenrichment.com",
+        "url": "http://www.pureenrichment.com",
         "coherence_score": 0.4540838669336461,
         "entropy": 8.058710916453958,
         "unique_words": 0.2750984251968504,
@@ -1188,7 +1188,7 @@
         "spelling_errors": 0.360655737704918
     },
     {
-        "url": "rachio.com",
+        "url": "http://www.rachio.com",
         "coherence_score": 0.2770448774592535,
         "entropy": 8.004709006335053,
         "unique_words": 0.23285322359396435,
@@ -1199,7 +1199,7 @@
         "spelling_errors": 0.6699029126213591
     },
     {
-        "url": "renpho.com",
+        "url": "http://www.renpho.com",
         "coherence_score": 0.293692081296588,
         "entropy": 7.859883711887917,
         "unique_words": 0.2716049382716049,
@@ -1210,7 +1210,7 @@
         "spelling_errors": 0.6153846153846154
     },
     {
-        "url": "reolink.com",
+        "url": "http://www.reolink.com",
         "coherence_score": 0.2761524061689361,
         "entropy": 8.240108823688372,
         "unique_words": 0.25865800865800864,
@@ -1221,7 +1221,7 @@
         "spelling_errors": 0.5317460317460317
     },
     {
-        "url": "ring.com",
+        "url": "http://www.ring.com",
         "coherence_score": 0.3440230568613284,
         "entropy": 8.159390745576871,
         "unique_words": 0.27741283476503287,
@@ -1232,7 +1232,7 @@
         "spelling_errors": 0.24242424242424243
     },
     {
-        "url": "rivaaudio.com",
+        "url": "http://www.rivaaudio.com",
         "coherence_score": 0.3007437699289637,
         "entropy": 8.467139190069155,
         "unique_words": 0.21240166589541878,
@@ -1243,7 +1243,7 @@
         "spelling_errors": 0.4866666666666667
     },
     {
-        "url": "rollibot.com",
+        "url": "http://www.rollibot.com",
         "coherence_score": 0.30811398480407004,
         "entropy": 8.076637128878485,
         "unique_words": 0.25884634028114395,
@@ -1254,7 +1254,7 @@
         "spelling_errors": 0.5697674418604651
     },
     {
-        "url": "runlesswire.com",
+        "url": "http://www.runlesswire.com",
         "coherence_score": 0.29394583456955925,
         "entropy": 7.745793154419171,
         "unique_words": 0.3900134952766532,
@@ -1265,7 +1265,7 @@
         "spelling_errors": 0.3793103448275862
     },
     {
-        "url": "saki.us",
+        "url": "http://www.saki.us.com",
         "coherence_score": 0.31113886345879027,
         "entropy": 7.473409819727591,
         "unique_words": 0.3496420047732697,
@@ -1276,7 +1276,7 @@
         "spelling_errors": 0.07692307692307687
     },
     {
-        "url": "sense.com",
+        "url": "http://www.sense.com",
         "coherence_score": 0.28160239275028015,
         "entropy": 8.062446616018404,
         "unique_words": 0.3173913043478261,
@@ -1287,7 +1287,7 @@
         "spelling_errors": 0.5869565217391304
     },
     {
-        "url": "shieldgps.co",
+        "url": "http://www.shieldgps.co.com",
         "coherence_score": 0.2577958680096645,
         "entropy": 8.184582184136502,
         "unique_words": 0.21838134430727024,
@@ -1298,7 +1298,7 @@
         "spelling_errors": 0.6546762589928057
     },
     {
-        "url": "shop.diesel.com",
+        "url": "http://www.shop.diesel.com",
         "coherence_score": 0.2600148545987304,
         "entropy": 8.600737738345472,
         "unique_words": 0.17964842075175075,
@@ -1309,7 +1309,7 @@
         "spelling_errors": 0.44385026737967914
     },
     {
-        "url": "shotscope.com",
+        "url": "http://www.shotscope.com",
         "coherence_score": 0.2714310900337256,
         "entropy": 8.256118251480283,
         "unique_words": 0.2605710155402963,
@@ -1320,7 +1320,7 @@
         "spelling_errors": 0.594059405940594
     },
     {
-        "url": "simplisafe.com",
+        "url": "http://www.simplisafe.com",
         "coherence_score": 0.28506917059959147,
         "entropy": 8.449272559348762,
         "unique_words": 0.18078552175587215,
@@ -1331,7 +1331,7 @@
         "spelling_errors": 0.592964824120603
     },
     {
-        "url": "smart.360.com",
+        "url": "http://www.smart.360.com",
         "coherence_score": 0.2823270894395192,
         "entropy": 7.97493998466684,
         "unique_words": 0.2730679156908665,
@@ -1342,7 +1342,7 @@
         "spelling_errors": 0.6219512195121951
     },
     {
-        "url": "smartro.co",
+        "url": "http://www.smartro.co.com",
         "coherence_score": 0.2737074146990819,
         "entropy": 7.321071469294617,
         "unique_words": 0.42033898305084744,
@@ -1353,7 +1353,7 @@
         "spelling_errors": 0.1428571428571429
     },
     {
-        "url": "smartwatch.pw",
+        "url": "http://www.smartwatch.pw.com",
         "coherence_score": 0.25505774303645035,
         "entropy": 7.439742731295237,
         "unique_words": 0.3875181422351234,
@@ -1364,7 +1364,7 @@
         "spelling_errors": 0.33333333333333337
     },
     {
-        "url": "sonoff.tech",
+        "url": "http://www.sonoff.tech.com",
         "coherence_score": 0.30857198876683845,
         "entropy": 7.229169396383138,
         "unique_words": 0.4526112185686654,
@@ -1375,7 +1375,7 @@
         "spelling_errors": 0.4
     },
     {
-        "url": "spyassociates.com",
+        "url": "http://www.spyassociates.com",
         "coherence_score": 0.2632758543820938,
         "entropy": 8.347743874665284,
         "unique_words": 0.23405500292568754,
@@ -1386,7 +1386,7 @@
         "spelling_errors": 0.5581395348837209
     },
     {
-        "url": "spytec.com",
+        "url": "http://www.spytec.com",
         "coherence_score": 0.272276288619484,
         "entropy": 7.740462558321645,
         "unique_words": 0.29008109794135994,
@@ -1397,7 +1397,7 @@
         "spelling_errors": 0.29032258064516125
     },
     {
-        "url": "sunbatech.com",
+        "url": "http://www.sunbatech.com",
         "coherence_score": 0.2666467735821799,
         "entropy": 7.4044658655712485,
         "unique_words": 0.38461538461538464,
@@ -1408,7 +1408,7 @@
         "spelling_errors": 0.5
     },
     {
-        "url": "tectectec.com",
+        "url": "http://www.tectectec.com",
         "coherence_score": 0.2983225615321317,
         "entropy": 7.639971703825038,
         "unique_words": 0.4596774193548387,
@@ -1419,7 +1419,7 @@
         "spelling_errors": 0.30000000000000004
     },
     {
-        "url": "tempi.fi",
+        "url": "http://www.tempi.fi.com",
         "coherence_score": 0.28219860430263427,
         "entropy": 7.441436545567973,
         "unique_words": 0.31780055917986955,
@@ -1430,7 +1430,7 @@
         "spelling_errors": 0.20833333333333337
     },
     {
-        "url": "topgreener.com",
+        "url": "http://www.topgreener.com",
         "coherence_score": 0.2910761978856293,
         "entropy": 7.312441333324345,
         "unique_words": 0.3311897106109325,
@@ -1441,7 +1441,7 @@
         "spelling_errors": 0.36
     },
     {
-        "url": "tracki.com",
+        "url": "http://www.tracki.com",
         "coherence_score": 0.2786637736437761,
         "entropy": 8.006552161908067,
         "unique_words": 0.21093995598868281,
@@ -1452,7 +1452,7 @@
         "spelling_errors": 0.26388888888888884
     },
     {
-        "url": "trackimo.com",
+        "url": "http://www.trackimo.com",
         "coherence_score": 0.27080383826559473,
         "entropy": 8.03102601274557,
         "unique_words": 0.20823170731707316,
@@ -1463,7 +1463,7 @@
         "spelling_errors": 0.25
     },
     {
-        "url": "tracmo.eu",
+        "url": "http://www.tracmo.eu.com",
         "coherence_score": 0.28902441984434685,
         "entropy": 8.116106589199097,
         "unique_words": 0.21771523178807947,
@@ -1474,7 +1474,7 @@
         "spelling_errors": 0.3855421686746988
     },
     {
-        "url": "trifo.com",
+        "url": "http://www.trifo.com",
         "coherence_score": 0.31523434646843584,
         "entropy": 7.567809544476742,
         "unique_words": 0.2978369384359401,
@@ -1485,7 +1485,7 @@
         "spelling_errors": 0.3928571428571429
     },
     {
-        "url": "turbolock.com",
+        "url": "http://www.turbolock.com",
         "coherence_score": 0.2805017021033861,
         "entropy": 8.030206896498076,
         "unique_words": 0.23740726278797344,
@@ -1496,7 +1496,7 @@
         "spelling_errors": 0.5113636363636364
     },
     {
-        "url": "uk.diesel.com",
+        "url": "http://www.uk.diesel.com",
         "coherence_score": 0.25243612429867973,
         "entropy": 7.888235619773194,
         "unique_words": 0.34665747760165405,
@@ -1507,7 +1507,7 @@
         "spelling_errors": 0.1333333333333333
     },
     {
-        "url": "uk.yamaha.com",
+        "url": "http://www.uk.yamaha.com",
         "coherence_score": 0.2612102446578196,
         "entropy": 8.307133545456347,
         "unique_words": 0.22421295111338624,
@@ -1518,7 +1518,7 @@
         "spelling_errors": 0.5548387096774193
     },
     {
-        "url": "us.sengled.com",
+        "url": "http://www.us.sengled.com",
         "coherence_score": 0.26585922120031064,
         "entropy": 7.753157007904785,
         "unique_words": 0.3799359658484525,
@@ -1529,7 +1529,7 @@
         "spelling_errors": 0.33333333333333337
     },
     {
-        "url": "us.yalehome.com",
+        "url": "http://www.us.yalehome.com",
         "coherence_score": 0.30153531190769167,
         "entropy": 7.191816596636769,
         "unique_words": 0.44719101123595506,
@@ -1540,7 +1540,7 @@
         "spelling_errors": 0.6363636363636364
     },
     {
-        "url": "vackertboende.com",
+        "url": "http://www.vackertboende.com",
         "coherence_score": 0.26800400123308055,
         "entropy": 8.055826265863745,
         "unique_words": 0.2974212034383954,
@@ -1551,7 +1551,7 @@
         "spelling_errors": 0.30434782608695654
     },
     {
-        "url": "venstar.com",
+        "url": "http://www.venstar.com",
         "coherence_score": 0.2998109173389498,
         "entropy": 7.761152141473804,
         "unique_words": 0.2625064466219701,
@@ -1562,7 +1562,7 @@
         "spelling_errors": 0.4473684210526315
     },
     {
-        "url": "victrola.com",
+        "url": "http://www.victrola.com",
         "coherence_score": 0.2843604169283249,
         "entropy": 7.598916168324772,
         "unique_words": 0.3961290322580645,
@@ -1573,7 +1573,7 @@
         "spelling_errors": 0.33333333333333337
     },
     {
-        "url": "wagz.com",
+        "url": "http://www.wagz.com",
         "coherence_score": 0.2623274007812204,
         "entropy": 8.44129629587821,
         "unique_words": 0.26018396846254926,
@@ -1584,7 +1584,7 @@
         "spelling_errors": 0.24
     },
     {
-        "url": "wansview.com",
+        "url": "http://www.wansview.com",
         "coherence_score": 0.27699350990244626,
         "entropy": 8.161602169580107,
         "unique_words": 0.2100108813928183,
@@ -1595,7 +1595,7 @@
         "spelling_errors": 0.5
     },
     {
-        "url": "wearenomodo.com",
+        "url": "http://www.wearenomodo.com",
         "coherence_score": 0.2984327259055549,
         "entropy": 7.4273289175742505,
         "unique_words": 0.35355892648774795,
@@ -1606,7 +1606,7 @@
         "spelling_errors": 0.31034482758620685
     },
     {
-        "url": "web.skygolf.com",
+        "url": "http://www.web.skygolf.com",
         "coherence_score": 0.2722934029896513,
         "entropy": 8.467335140143444,
         "unique_words": 0.17754318618042225,
@@ -1617,7 +1617,7 @@
         "spelling_errors": 0.4606060606060606
     },
     {
-        "url": "westinghouseacpower.com",
+        "url": "http://www.westinghouseacpower.com",
         "coherence_score": 0.30362434341096073,
         "entropy": 7.238985878138057,
         "unique_words": 0.3880597014925373,
@@ -1628,7 +1628,7 @@
         "spelling_errors": 0.44999999999999996
     },
     {
-        "url": "www.1byone.com",
+        "url": "http://www.www.1byone.com",
         "coherence_score": 0.2965952296513007,
         "entropy": 8.307369962485007,
         "unique_words": 0.2989304812834225,
@@ -1639,7 +1639,7 @@
         "spelling_errors": 0.41666666666666663
     },
     {
-        "url": "www.aarons.com",
+        "url": "http://www.www.aarons.com",
         "coherence_score": 0.2810244518925691,
         "entropy": 8.334878626771724,
         "unique_words": 0.2325096754986603,
@@ -1650,7 +1650,7 @@
         "spelling_errors": 0.4444444444444444
     },
     {
-        "url": "www.abcotechbrand.com",
+        "url": "http://www.www.abcotechbrand.com",
         "coherence_score": 0.26580303745067413,
         "entropy": 7.930925254175759,
         "unique_words": 0.36254295532646047,
@@ -1661,7 +1661,7 @@
         "spelling_errors": 0.3125
     },
     {
-        "url": "www.ablegrid.com",
+        "url": "http://www.www.ablegrid.com",
         "coherence_score": 0.2803556153226424,
         "entropy": 8.228569863935164,
         "unique_words": 0.3515358361774744,
@@ -1672,7 +1672,7 @@
         "spelling_errors": 0.35
     },
     {
-        "url": "www.ablenetinc.com",
+        "url": "http://www.www.ablenetinc.com",
         "coherence_score": 0.26944496153714237,
         "entropy": 8.441970443610156,
         "unique_words": 0.2191044776119403,
@@ -1683,7 +1683,7 @@
         "spelling_errors": 0.4122807017543859
     },
     {
-        "url": "www.accessorypower.com",
+        "url": "http://www.www.accessorypower.com",
         "coherence_score": 0.2843696534018809,
         "entropy": 7.780937858923466,
         "unique_words": 0.2690233672857999,
@@ -1694,7 +1694,7 @@
         "spelling_errors": 0.6823529411764706
     },
     {
-        "url": "www.acurite.com",
+        "url": "http://www.www.acurite.com",
         "coherence_score": 0.2547746062143053,
         "entropy": 8.825488848661024,
         "unique_words": 0.21859126312224855,
@@ -1705,7 +1705,7 @@
         "spelling_errors": 0.5202312138728324
     },
     {
-        "url": "www.adt.com",
+        "url": "http://www.www.adt.com",
         "coherence_score": 0.2340909878853986,
         "entropy": 8.667639728382959,
         "unique_words": 0.23572097378277154,
@@ -1716,7 +1716,7 @@
         "spelling_errors": 0.5286624203821656
     },
     {
-        "url": "www.agptek.com",
+        "url": "http://www.www.agptek.com",
         "coherence_score": 0.26274628308588854,
         "entropy": 8.850513881427329,
         "unique_words": 0.2892864841560681,
@@ -1727,7 +1727,7 @@
         "spelling_errors": 0.3356164383561644
     },
     {
-        "url": "www.airoasis.com",
+        "url": "http://www.www.airoasis.com",
         "coherence_score": 0.28019470278421355,
         "entropy": 8.918458725168463,
         "unique_words": 0.2431269870955676,
@@ -1738,7 +1738,7 @@
         "spelling_errors": 0.472972972972973
     },
     {
-        "url": "www.alarmlock.com",
+        "url": "http://www.www.alarmlock.com",
         "coherence_score": 0.7267666589742597,
         "entropy": 7.140251929160919,
         "unique_words": 0.5288135593220339,
@@ -1749,7 +1749,7 @@
         "spelling_errors": 0.5526315789473684
     },
     {
-        "url": "www.alcidae.com",
+        "url": "http://www.www.alcidae.com",
         "coherence_score": 0.2784219208392055,
         "entropy": 7.971612278800488,
         "unique_words": 0.2774358974358974,
@@ -1760,7 +1760,7 @@
         "spelling_errors": 0.29824561403508776
     },
     {
-        "url": "www.alencorpasia.com",
+        "url": "http://www.www.alencorpasia.com",
         "coherence_score": 0.2770224191030912,
         "entropy": 8.06096408696025,
         "unique_words": 0.35497124075595726,
@@ -1771,7 +1771,7 @@
         "spelling_errors": 0.6428571428571428
     },
     {
-        "url": "www.allaboutadapters.com",
+        "url": "http://www.www.allaboutadapters.com",
         "coherence_score": 0.2984960945555658,
         "entropy": 7.621548362189937,
         "unique_words": 0.4479553903345725,
@@ -1782,7 +1782,7 @@
         "spelling_errors": 0.40909090909090906
     },
     {
-        "url": "www.alpinecom.net",
+        "url": "http://www.www.alpinecom.net.com",
         "coherence_score": 0.29811385414515285,
         "entropy": 7.8919624064521114,
         "unique_words": 0.2980093676814988,
@@ -1793,7 +1793,7 @@
         "spelling_errors": 0.38636363636363635
     },
     {
-        "url": "www.amaryllo.us",
+        "url": "http://www.www.amaryllo.us.com",
         "coherence_score": 0.2681365251349076,
         "entropy": 8.322317199779945,
         "unique_words": 0.2527127355796688,
@@ -1804,7 +1804,7 @@
         "spelling_errors": 0.5403225806451613
     },
     {
-        "url": "www.americanwaterheater.com",
+        "url": "http://www.www.americanwaterheater.com",
         "coherence_score": 0.2786978236512123,
         "entropy": 8.498890206992513,
         "unique_words": 0.19661563255439163,
@@ -1815,7 +1815,7 @@
         "spelling_errors": 0.5522388059701493
     },
     {
-        "url": "www.amertac.com",
+        "url": "http://www.www.amertac.com",
         "coherence_score": 0.2857049839911501,
         "entropy": 8.027735580819241,
         "unique_words": 0.3183673469387755,
@@ -1826,7 +1826,7 @@
         "spelling_errors": 0.5540540540540541
     },
     {
-        "url": "www.amirtec.com",
+        "url": "http://www.www.amirtec.com",
         "coherence_score": 0.28051070226378627,
         "entropy": 7.4703186455669695,
         "unique_words": 0.2945007235890014,
@@ -1837,7 +1837,7 @@
         "spelling_errors": 0.06666666666666665
     },
     {
-        "url": "www.anker.com",
+        "url": "http://www.www.anker.com",
         "coherence_score": 0.2745794162037285,
         "entropy": 8.69759585398369,
         "unique_words": 0.2746972594008923,
@@ -1848,7 +1848,7 @@
         "spelling_errors": 0.6217948717948718
     },
     {
-        "url": "www.annke.com",
+        "url": "http://www.www.annke.com",
         "coherence_score": 0.2643824902351036,
         "entropy": 7.4299643138091955,
         "unique_words": 0.3524390243902439,
@@ -1859,7 +1859,7 @@
         "spelling_errors": 0.35
     },
     {
-        "url": "www.arlo.com",
+        "url": "http://www.www.arlo.com",
         "coherence_score": 0.27128202678983243,
         "entropy": 8.410962200417735,
         "unique_words": 0.22985244040862657,
@@ -1870,7 +1870,7 @@
         "spelling_errors": 0.6569767441860466
     },
     {
-        "url": "www.astrogaming.com",
+        "url": "http://www.www.astrogaming.com",
         "coherence_score": 0.2745288983823594,
         "entropy": 8.03025716399923,
         "unique_words": 0.3083864118895966,
@@ -1881,7 +1881,7 @@
         "spelling_errors": 0.40476190476190477
     },
     {
-        "url": "www.averusa.com",
+        "url": "http://www.www.averusa.com",
         "coherence_score": 0.3177868148717182,
         "entropy": 7.522766544086096,
         "unique_words": 0.2823920265780731,
@@ -1892,7 +1892,7 @@
         "spelling_errors": 0.6153846153846154
     },
     {
-        "url": "www.axis.com",
+        "url": "http://www.www.axis.com",
         "coherence_score": 0.5829604826267922,
         "entropy": 5.418344260769942,
         "unique_words": 0.543859649122807,
@@ -1903,7 +1903,7 @@
         "spelling_errors": 0.4137931034482759
     },
     {
-        "url": "www.bagotte.com",
+        "url": "http://www.www.bagotte.com",
         "coherence_score": 0.27496686240418355,
         "entropy": 8.192710957717921,
         "unique_words": 0.3264864864864865,
@@ -1914,7 +1914,7 @@
         "spelling_errors": 0.5
     },
     {
-        "url": "www.baldwinhardware.com",
+        "url": "http://www.www.baldwinhardware.com",
         "coherence_score": 0.3084912672524044,
         "entropy": 7.205897060793525,
         "unique_words": 0.42946058091286304,
@@ -1925,7 +1925,7 @@
         "spelling_errors": 0.5789473684210527
     },
     {
-        "url": "www.belkin.com",
+        "url": "http://www.www.belkin.com",
         "coherence_score": 0.2704147092357619,
         "entropy": 8.543604712469362,
         "unique_words": 0.19888,
@@ -1936,7 +1936,7 @@
         "spelling_errors": 0.5561224489795918
     },
     {
-        "url": "www.bissell.eu",
+        "url": "http://www.www.bissell.eu.com",
         "coherence_score": 0.28406089321827926,
         "entropy": 6.993792292038535,
         "unique_words": 0.4529262086513995,
@@ -1947,7 +1947,7 @@
         "spelling_errors": 0.7391304347826086
     },
     {
-        "url": "www.bisselldirect.co.uk",
+        "url": "http://www.www.bisselldirect.co.uk.com",
         "coherence_score": 0.2582273905848954,
         "entropy": 8.36833118457431,
         "unique_words": 0.28342245989304815,
@@ -1958,7 +1958,7 @@
         "spelling_errors": 0.504
     },
     {
-        "url": "www.blackfire.com",
+        "url": "http://www.www.blackfire.com",
         "coherence_score": 0.271559427281321,
         "entropy": 8.446107849837974,
         "unique_words": 0.1793600721045516,
@@ -1969,7 +1969,7 @@
         "spelling_errors": 0.6142131979695431
     },
     {
-        "url": "www.blueguardinnovations.com",
+        "url": "http://www.www.blueguardinnovations.com",
         "coherence_score": 0.2877222157616303,
         "entropy": 7.183584538861588,
         "unique_words": 0.4363256784968685,
@@ -1980,7 +1980,7 @@
         "spelling_errors": 0.44999999999999996
     },
     {
-        "url": "www.bobsweep.com",
+        "url": "http://www.www.bobsweep.com",
         "coherence_score": 0.2849538753303052,
         "entropy": 8.181865960337898,
         "unique_words": 0.22432045779685264,
@@ -1991,7 +1991,7 @@
         "spelling_errors": 0.4526315789473684
     },
     {
-        "url": "www.bogen.com",
+        "url": "http://www.www.bogen.com",
         "coherence_score": 0.2830933370907467,
         "entropy": 8.044842451101927,
         "unique_words": 0.24392041267501843,
@@ -2002,7 +2002,7 @@
         "spelling_errors": 0.3728813559322034
     },
     {
-        "url": "www.bose.com",
+        "url": "http://www.www.bose.com",
         "coherence_score": 0.2674956547142749,
         "entropy": 8.570375593817719,
         "unique_words": 0.16240725474031328,
@@ -2013,7 +2013,7 @@
         "spelling_errors": 0.5118110236220472
     },
     {
-        "url": "www.bracketron.com",
+        "url": "http://www.www.bracketron.com",
         "coherence_score": 0.26132244099647417,
         "entropy": 8.504050333385072,
         "unique_words": 0.24319785018474974,
@@ -2024,7 +2024,7 @@
         "spelling_errors": 0.6714285714285715
     },
     {
-        "url": "www.brewbench.co",
+        "url": "http://www.www.brewbench.co.com",
         "coherence_score": 0.27608576916526656,
         "entropy": 8.019222968929892,
         "unique_words": 0.356839422259983,
@@ -2035,7 +2035,7 @@
         "spelling_errors": 0.6
     },
     {
-        "url": "www.brickhousesecurity.com",
+        "url": "http://www.www.brickhousesecurity.com",
         "coherence_score": 0.26429237366132974,
         "entropy": 8.595574814116695,
         "unique_words": 0.2391644908616188,
@@ -2046,7 +2046,7 @@
         "spelling_errors": 0.6265060240963856
     },
     {
-        "url": "www.brizlabs.com",
+        "url": "http://www.www.brizlabs.com",
         "coherence_score": 0.2658030374506742,
         "entropy": 7.895789791306021,
         "unique_words": 0.36467486818980666,
@@ -2057,7 +2057,7 @@
         "spelling_errors": 0.25
     },
     {
-        "url": "www.brookstone.com",
+        "url": "http://www.www.brookstone.com",
         "coherence_score": 0.2807477834366713,
         "entropy": 8.234856152466879,
         "unique_words": 0.258681785967399,
@@ -2068,7 +2068,7 @@
         "spelling_errors": 0.5102040816326531
     },
     {
-        "url": "www.brytonsport.com",
+        "url": "http://www.www.brytonsport.com",
         "coherence_score": 0.31303239005840494,
         "entropy": 8.191214877528687,
         "unique_words": 0.21602288984263232,
@@ -2079,7 +2079,7 @@
         "spelling_errors": 0.41509433962264153
     },
     {
-        "url": "www.cablesdirectonline.com",
+        "url": "http://www.www.cablesdirectonline.com",
         "coherence_score": 0.28728216860132505,
         "entropy": 7.3461836714922075,
         "unique_words": 0.4476987447698745,
@@ -2090,7 +2090,7 @@
         "spelling_errors": 0.1875
     },
     {
-        "url": "www.cacagoo.com",
+        "url": "http://www.www.cacagoo.com",
         "coherence_score": 0.2740989734153192,
         "entropy": 7.310343556700501,
         "unique_words": 0.3742603550295858,
@@ -2101,7 +2101,7 @@
         "spelling_errors": 0.21739130434782605
     },
     {
-        "url": "www.cambridgeaudio.com",
+        "url": "http://www.www.cambridgeaudio.com",
         "coherence_score": 0.2717263170907849,
         "entropy": 7.986686528751589,
         "unique_words": 0.15159574468085107,
@@ -2112,7 +2112,7 @@
         "spelling_errors": 0.2946428571428571
     },
     {
-        "url": "www.campark.net",
+        "url": "http://www.www.campark.net.com",
         "coherence_score": 0.2873347101970558,
         "entropy": 7.562933830598999,
         "unique_words": 0.453125,
@@ -2123,7 +2123,7 @@
         "spelling_errors": 0.30000000000000004
     },
     {
-        "url": "www.chamberlain.com",
+        "url": "http://www.www.chamberlain.com",
         "coherence_score": 0.28036184106939144,
         "entropy": 8.316540968956765,
         "unique_words": 0.1855108877721943,
@@ -2134,7 +2134,7 @@
         "spelling_errors": 0.3697478991596639
     },
     {
-        "url": "www.citizenwatch.com",
+        "url": "http://www.www.citizenwatch.com",
         "coherence_score": 0.2757316190914161,
         "entropy": 8.328453690677533,
         "unique_words": 0.1785592932381923,
@@ -2145,7 +2145,7 @@
         "spelling_errors": 0.6325581395348837
     },
     {
-        "url": "www.contixo.com",
+        "url": "http://www.www.contixo.com",
         "coherence_score": 0.29425977317331087,
         "entropy": 7.502610551406808,
         "unique_words": 0.4091580502215657,
@@ -2156,7 +2156,7 @@
         "spelling_errors": 0.09999999999999998
     },
     {
-        "url": "www.ctronics.com",
+        "url": "http://www.www.ctronics.com",
         "coherence_score": 0.2878333621339303,
         "entropy": 7.625913302516123,
         "unique_words": 0.33210671573137074,
@@ -2167,7 +2167,7 @@
         "spelling_errors": 0.5094339622641509
     },
     {
-        "url": "www.cyberacoustics.com",
+        "url": "http://www.www.cyberacoustics.com",
         "coherence_score": 0.279243084310366,
         "entropy": 8.69210901818959,
         "unique_words": 0.32864378165447383,
@@ -2178,7 +2178,7 @@
         "spelling_errors": 0.6408450704225352
     },
     {
-        "url": "www.deenkee.com",
+        "url": "http://www.www.deenkee.com",
         "coherence_score": 0.2857554785217974,
         "entropy": 8.199699196557894,
         "unique_words": 0.327203893996755,
@@ -2189,7 +2189,7 @@
         "spelling_errors": 0.47663551401869164
     },
     {
-        "url": "www.dlink.com",
+        "url": "http://www.www.dlink.com",
         "coherence_score": 0.2805871825525424,
         "entropy": 8.34932145441607,
         "unique_words": 0.2329680800381134,
@@ -2200,7 +2200,7 @@
         "spelling_errors": 0.5396825396825398
     },
     {
-        "url": "www.dodocool.com",
+        "url": "http://www.www.dodocool.com",
         "coherence_score": 0.2811371359489095,
         "entropy": 7.973930161008421,
         "unique_words": 0.26518847006651886,
@@ -2211,7 +2211,7 @@
         "spelling_errors": 0.6142857142857143
     },
     {
-        "url": "www.dualav.com",
+        "url": "http://www.www.dualav.com",
         "coherence_score": 0.2766989987203692,
         "entropy": 7.865129192929739,
         "unique_words": 0.3430830039525692,
@@ -2222,7 +2222,7 @@
         "spelling_errors": 0.6307692307692307
     },
     {
-        "url": "www.eaton.com",
+        "url": "http://www.www.eaton.com",
         "coherence_score": 0.2652364694274122,
         "entropy": 8.613328306122984,
         "unique_words": 0.1636480411046885,
@@ -2233,7 +2233,7 @@
         "spelling_errors": 0.6151419558359621
     },
     {
-        "url": "www.eccomum.com",
+        "url": "http://www.www.eccomum.com",
         "coherence_score": 0.2811371359489095,
         "entropy": 7.971886080856194,
         "unique_words": 0.26486246672582076,
@@ -2244,7 +2244,7 @@
         "spelling_errors": 0.619718309859155
     },
     {
-        "url": "www.elecrow.com",
+        "url": "http://www.www.elecrow.com",
         "coherence_score": 0.2752525229222894,
         "entropy": 7.920432535168592,
         "unique_words": 0.2969661610268378,
@@ -2255,7 +2255,7 @@
         "spelling_errors": 0.22857142857142854
     },
     {
-        "url": "www.emerson.com",
+        "url": "http://www.www.emerson.com",
         "coherence_score": 0.26054514419844205,
         "entropy": 8.646101158895183,
         "unique_words": 0.18152958152958154,
@@ -2266,7 +2266,7 @@
         "spelling_errors": 0.49122807017543857
     },
     {
-        "url": "www.emersonradio.com",
+        "url": "http://www.www.emersonradio.com",
         "coherence_score": 0.2772231108034642,
         "entropy": 7.684756790979845,
         "unique_words": 0.33695652173913043,
@@ -2277,7 +2277,7 @@
         "spelling_errors": 0.835820895522388
     },
     {
-        "url": "www.etekcity.com",
+        "url": "http://www.www.etekcity.com",
         "coherence_score": 0.26629936946072796,
         "entropy": 8.458654425549193,
         "unique_words": 0.16735679779158041,
@@ -2288,7 +2288,7 @@
         "spelling_errors": 0.5393700787401574
     },
     {
-        "url": "www.eurilighting.com",
+        "url": "http://www.www.eurilighting.com",
         "coherence_score": 0.28772029860744935,
         "entropy": 7.2586648444047315,
         "unique_words": 0.39384116693679094,
@@ -2299,7 +2299,7 @@
         "spelling_errors": 0.2727272727272727
     },
     {
-        "url": "www.everexceed.com",
+        "url": "http://www.www.everexceed.com",
         "coherence_score": 0.2793482991867648,
         "entropy": 8.02255169597073,
         "unique_words": 0.33374844333748444,
@@ -2310,7 +2310,7 @@
         "spelling_errors": 0.23076923076923073
     },
     {
-        "url": "www.evertechusa.com",
+        "url": "http://www.www.evertechusa.com",
         "coherence_score": 0.2765773251008707,
         "entropy": 7.717550608237467,
         "unique_words": 0.39880239520958083,
@@ -2321,7 +2321,7 @@
         "spelling_errors": 0.3877551020408163
     },
     {
-        "url": "www.ezviz.eu",
+        "url": "http://www.www.ezviz.eu.com",
         "coherence_score": 0.28105270653701464,
         "entropy": 7.852298569905669,
         "unique_words": 0.2872727272727273,
@@ -2332,7 +2332,7 @@
         "spelling_errors": 0.38181818181818183
     },
     {
-        "url": "www.feit.com",
+        "url": "http://www.www.feit.com",
         "coherence_score": 0.2698628882800779,
         "entropy": 8.157839652621073,
         "unique_words": 0.26085315213288035,
@@ -2343,7 +2343,7 @@
         "spelling_errors": 0.3584905660377359
     },
     {
-        "url": "www.fibaro.com",
+        "url": "http://www.www.fibaro.com",
         "coherence_score": 0.2633389545718926,
         "entropy": 7.741933555429268,
         "unique_words": 0.31010452961672474,
@@ -2354,7 +2354,7 @@
         "spelling_errors": 0.3835616438356164
     },
     {
-        "url": "www.filtrete.com",
+        "url": "http://www.www.filtrete.com",
         "coherence_score": 0.2608047450926695,
         "entropy": 8.496384315410817,
         "unique_words": 0.15553665107046646,
@@ -2365,7 +2365,7 @@
         "spelling_errors": 0.6908212560386473
     },
     {
-        "url": "www.fitbit.com",
+        "url": "http://www.www.fitbit.com",
         "coherence_score": 0.26614307582582736,
         "entropy": 8.303422286051708,
         "unique_words": 0.19280261723009814,
@@ -2376,7 +2376,7 @@
         "spelling_errors": 0.4701492537313433
     },
     {
-        "url": "www.flir.eu",
+        "url": "http://www.www.flir.eu.com",
         "coherence_score": 0.2757572806325016,
         "entropy": 8.690385354285734,
         "unique_words": 0.168527441532495,
@@ -2387,7 +2387,7 @@
         "spelling_errors": 0.45049504950495045
     },
     {
-        "url": "www.flycatcher.toys",
+        "url": "http://www.www.flycatcher.toys.com",
         "coherence_score": 0.2622556873797782,
         "entropy": 8.346317970983977,
         "unique_words": 0.23811118553248492,
@@ -2398,7 +2398,7 @@
         "spelling_errors": 0.6046511627906976
     },
     {
-        "url": "www.foscam.com",
+        "url": "http://www.www.foscam.com",
         "coherence_score": 0.27095764872956474,
         "entropy": 8.2685500721611,
         "unique_words": 0.2541473125414731,
@@ -2409,7 +2409,7 @@
         "spelling_errors": 0.3709677419354839
     },
     {
-        "url": "www.friedrich.com",
+        "url": "http://www.www.friedrich.com",
         "coherence_score": 0.28699718090663795,
         "entropy": 8.130356210002825,
         "unique_words": 0.24157095220452018,
@@ -2420,7 +2420,7 @@
         "spelling_errors": 0.4383561643835616
     },
     {
-        "url": "www.functionaldevices.com",
+        "url": "http://www.www.functionaldevices.com",
         "coherence_score": 0.29292138255356115,
         "entropy": 7.760822921989887,
         "unique_words": 0.4025974025974026,
@@ -2431,7 +2431,7 @@
         "spelling_errors": 0.2962962962962963
     },
     {
-        "url": "www.garadget.com",
+        "url": "http://www.www.garadget.com",
         "coherence_score": 0.289598727197662,
         "entropy": 7.733785385787233,
         "unique_words": 0.3305860805860806,
@@ -2442,7 +2442,7 @@
         "spelling_errors": 0.46808510638297873
     },
     {
-        "url": "www.geappliances.com",
+        "url": "http://www.www.geappliances.com",
         "coherence_score": 0.2779467617812582,
         "entropy": 8.58290243672329,
         "unique_words": 0.10765986003259514,
@@ -2453,7 +2453,7 @@
         "spelling_errors": 0.48344370860927155
     },
     {
-        "url": "www.gelighting.com",
+        "url": "http://www.www.gelighting.com",
         "coherence_score": 0.28766381426622767,
         "entropy": 8.18070077417172,
         "unique_words": 0.2733785822021116,
@@ -2464,7 +2464,7 @@
         "spelling_errors": 0.42592592592592593
     },
     {
-        "url": "www.geovision.com.tw",
+        "url": "http://www.www.geovision.com.tw.com",
         "coherence_score": 0.27711696956926246,
         "entropy": 7.376816314520787,
         "unique_words": 0.36030341340075855,
@@ -2475,7 +2475,7 @@
         "spelling_errors": 0.36363636363636365
     },
     {
-        "url": "www.getnexar.com",
+        "url": "http://www.www.getnexar.com",
         "coherence_score": 0.2600589676935051,
         "entropy": 8.475438288794715,
         "unique_words": 0.20884309937754883,
@@ -2486,7 +2486,7 @@
         "spelling_errors": 0.36274509803921573
     },
     {
-        "url": "www.getqardio.com",
+        "url": "http://www.www.getqardio.com",
         "coherence_score": 0.27059332363224625,
         "entropy": 8.41357961107794,
         "unique_words": 0.20819248359514814,
@@ -2497,7 +2497,7 @@
         "spelling_errors": 0.5
     },
     {
-        "url": "www.gledopto.eu",
+        "url": "http://www.www.gledopto.eu.com",
         "coherence_score": 0.2707041565926617,
         "entropy": 8.08318903350998,
         "unique_words": 0.20540540540540542,
@@ -2508,7 +2508,7 @@
         "spelling_errors": 0.47619047619047616
     },
     {
-        "url": "www.govee.com",
+        "url": "http://www.www.govee.com",
         "coherence_score": 0.2472649130396504,
         "entropy": 7.323807765009684,
         "unique_words": 0.5256410256410257,
@@ -2519,7 +2519,7 @@
         "spelling_errors": 0.3846153846153846
     },
     {
-        "url": "www.gridconnect.com",
+        "url": "http://www.www.gridconnect.com",
         "coherence_score": 0.2603748557196316,
         "entropy": 7.67630210357616,
         "unique_words": 0.2971246006389776,
@@ -2530,7 +2530,7 @@
         "spelling_errors": 0.603448275862069
     },
     {
-        "url": "www.guardiantechnologies.com",
+        "url": "http://www.www.guardiantechnologies.com",
         "coherence_score": 0.2695266663100932,
         "entropy": 8.535648915425082,
         "unique_words": 0.25,
@@ -2541,7 +2541,7 @@
         "spelling_errors": 0.49572649572649574
     },
     {
-        "url": "www.hamptonproducts.com",
+        "url": "http://www.www.hamptonproducts.com",
         "coherence_score": 0.2833339781319774,
         "entropy": 8.138755756188683,
         "unique_words": 0.22919375812743822,
@@ -2552,7 +2552,7 @@
         "spelling_errors": 0.5061728395061729
     },
     {
-        "url": "www.heimvision.com",
+        "url": "http://www.www.heimvision.com",
         "coherence_score": 0.27735646977050493,
         "entropy": 7.533306075963353,
         "unique_words": 0.3598654708520179,
@@ -2563,7 +2563,7 @@
         "spelling_errors": 0.4
     },
     {
-        "url": "www.homezoneliving.com",
+        "url": "http://www.www.homezoneliving.com",
         "coherence_score": 0.28640673275058803,
         "entropy": 8.481460158674835,
         "unique_words": 0.1772784019975031,
@@ -2574,7 +2574,7 @@
         "spelling_errors": 0.5373831775700935
     },
     {
-        "url": "www.honeywellstore.com",
+        "url": "http://www.www.honeywellstore.com",
         "coherence_score": 0.2722229523491471,
         "entropy": 8.200595807303293,
         "unique_words": 0.22633863965267728,
@@ -2585,7 +2585,7 @@
         "spelling_errors": 0.5480769230769231
     },
     {
-        "url": "www.hubbell.com",
+        "url": "http://www.www.hubbell.com",
         "coherence_score": 0.26951278043268917,
         "entropy": 8.980616582739449,
         "unique_words": 0.17375042502550153,
@@ -2596,7 +2596,7 @@
         "spelling_errors": 0.4580152671755725
     },
     {
-        "url": "www.icstation.com",
+        "url": "http://www.www.icstation.com",
         "coherence_score": 0.23446266237131558,
         "entropy": 7.908750075145202,
         "unique_words": 0.43261608154020387,
@@ -2607,7 +2607,7 @@
         "spelling_errors": 0.7010309278350515
     },
     {
-        "url": "www.igloohome.co",
+        "url": "http://www.www.igloohome.co.com",
         "coherence_score": 0.3021861502699391,
         "entropy": 7.977077257803222,
         "unique_words": 0.26485037963376507,
@@ -2618,7 +2618,7 @@
         "spelling_errors": 0.34782608695652173
     },
     {
-        "url": "www.imartine.com",
+        "url": "http://www.www.imartine.com",
         "coherence_score": 0.3150790006588049,
         "entropy": 7.403261053549026,
         "unique_words": 0.3399014778325123,
@@ -2629,7 +2629,7 @@
         "spelling_errors": 0.07692307692307687
     },
     {
-        "url": "www.instalock.com",
+        "url": "http://www.www.instalock.com",
         "coherence_score": 0.26241016487136337,
         "entropy": 8.021957332871478,
         "unique_words": 0.3626373626373626,
@@ -2640,7 +2640,7 @@
         "spelling_errors": 0.4
     },
     {
-        "url": "www.insteon.com",
+        "url": "http://www.www.insteon.com",
         "coherence_score": 0.2748543426836953,
         "entropy": 8.171588805194846,
         "unique_words": 0.23389830508474577,
@@ -2651,7 +2651,7 @@
         "spelling_errors": 0.46464646464646464
     },
     {
-        "url": "www.intermatic.com",
+        "url": "http://www.www.intermatic.com",
         "coherence_score": 0.29935238202358394,
         "entropy": 7.782215890627845,
         "unique_words": 0.36933461909353904,
@@ -2662,7 +2662,7 @@
         "spelling_errors": 0.5818181818181818
     },
     {
-        "url": "www.invoxia.com",
+        "url": "http://www.www.invoxia.com",
         "coherence_score": 0.27574374899900944,
         "entropy": 7.790223218995346,
         "unique_words": 0.3952738990332975,
@@ -2673,7 +2673,7 @@
         "spelling_errors": 0.303030303030303
     },
     {
-        "url": "www.irobot.co.uk",
+        "url": "http://www.www.irobot.co.uk.com",
         "coherence_score": 0.2875735025304873,
         "entropy": 8.599735213994832,
         "unique_words": 0.18886380737396538,
@@ -2684,7 +2684,7 @@
         "spelling_errors": 0.5631067961165048
     },
     {
-        "url": "www.irobot.com",
+        "url": "http://www.www.irobot.com",
         "coherence_score": 0.2806417603169022,
         "entropy": 8.542120248221966,
         "unique_words": 0.1873231465761177,
@@ -2695,7 +2695,7 @@
         "spelling_errors": 0.6103286384976525
     },
     {
-        "url": "www.jidetech.com",
+        "url": "http://www.www.jidetech.com",
         "coherence_score": 0.31507900065880484,
         "entropy": 7.411393789058281,
         "unique_words": 0.3465982028241335,
@@ -2706,7 +2706,7 @@
         "spelling_errors": 0.08333333333333337
     },
     {
-        "url": "www.johnsonoutdoors.com",
+        "url": "http://www.www.johnsonoutdoors.com",
         "coherence_score": 0.26476172109664076,
         "entropy": 8.763864191897278,
         "unique_words": 0.1816893424036281,
@@ -2717,7 +2717,7 @@
         "spelling_errors": 0.4145077720207254
     },
     {
-        "url": "www.kasasmart.com",
+        "url": "http://www.www.kasasmart.com",
         "coherence_score": 0.2944782182257061,
         "entropy": 8.05805289110092,
         "unique_words": 0.2788065843621399,
@@ -2728,7 +2728,7 @@
         "spelling_errors": 0.611764705882353
     },
     {
-        "url": "www.kenmore.com",
+        "url": "http://www.www.kenmore.com",
         "coherence_score": 0.2600059785315345,
         "entropy": 8.60404559111222,
         "unique_words": 0.19726667865491818,
@@ -2739,7 +2739,7 @@
         "spelling_errors": 0.4505494505494505
     },
     {
-        "url": "www.kensington.com",
+        "url": "http://www.www.kensington.com",
         "coherence_score": 0.27078018794795067,
         "entropy": 8.184797509679592,
         "unique_words": 0.2468916518650089,
@@ -2750,7 +2750,7 @@
         "spelling_errors": 0.4526315789473684
     },
     {
-        "url": "www.keystonehtg.com",
+        "url": "http://www.www.keystonehtg.com",
         "coherence_score": 0.2829274895426338,
         "entropy": 8.116826300759016,
         "unique_words": 0.1959905038248483,
@@ -2761,7 +2761,7 @@
         "spelling_errors": 0.5775862068965517
     },
     {
-        "url": "www.kinsahealth.co",
+        "url": "http://www.www.kinsahealth.co.com",
         "coherence_score": 0.3004646232697113,
         "entropy": 7.420258746513625,
         "unique_words": 0.5354107648725213,
@@ -2772,7 +2772,7 @@
         "spelling_errors": 0.3529411764705882
     },
     {
-        "url": "www.kitchenaid.com",
+        "url": "http://www.www.kitchenaid.com",
         "coherence_score": 0.2815776167823972,
         "entropy": 8.313942465881967,
         "unique_words": 0.17852270512570648,
@@ -2783,7 +2783,7 @@
         "spelling_errors": 0.5732484076433121
     },
     {
-        "url": "www.kleintools.com",
+        "url": "http://www.www.kleintools.com",
         "coherence_score": 0.271559427281321,
         "entropy": 8.446107849837974,
         "unique_words": 0.1793600721045516,
@@ -2794,7 +2794,7 @@
         "spelling_errors": 0.6142131979695431
     },
     {
-        "url": "www.koogeek.com",
+        "url": "http://www.www.koogeek.com",
         "coherence_score": 0.273510946664813,
         "entropy": 8.115431232652568,
         "unique_words": 0.23212083847102344,
@@ -2805,7 +2805,7 @@
         "spelling_errors": 0.6065573770491803
     },
     {
-        "url": "www.korehealth.com",
+        "url": "http://www.www.korehealth.com",
         "coherence_score": 0.25125387166864094,
         "entropy": 7.9760110607447015,
         "unique_words": 0.30973986690865096,
@@ -2816,7 +2816,7 @@
         "spelling_errors": 0.5454545454545454
     },
     {
-        "url": "www.kospet.com",
+        "url": "http://www.www.kospet.com",
         "coherence_score": 0.2911663198201558,
         "entropy": 7.981110194769089,
         "unique_words": 0.328110599078341,
@@ -2827,7 +2827,7 @@
         "spelling_errors": 0.45999999999999996
     },
     {
-        "url": "www.ktaxon.com",
+        "url": "http://www.www.ktaxon.com",
         "coherence_score": 0.26509292408848,
         "entropy": 7.263595148458431,
         "unique_words": 0.4718162839248434,
@@ -2838,7 +2838,7 @@
         "spelling_errors": 0.375
     },
     {
-        "url": "www.kwikset.com",
+        "url": "http://www.www.kwikset.com",
         "coherence_score": 0.30241131788442527,
         "entropy": 7.272233855324839,
         "unique_words": 0.42359767891682787,
@@ -2849,7 +2849,7 @@
         "spelling_errors": 0.5555555555555556
     },
     {
-        "url": "www.lacrossetechnology.com",
+        "url": "http://www.www.lacrossetechnology.com",
         "coherence_score": 0.2611930433065837,
         "entropy": 7.699619319519784,
         "unique_words": 0.31607006854531605,
@@ -2860,7 +2860,7 @@
         "spelling_errors": 0.6111111111111112
     },
     {
-        "url": "www.landwindhealth.com",
+        "url": "http://www.www.landwindhealth.com",
         "coherence_score": 0.28258987352953585,
         "entropy": 7.441152809662009,
         "unique_words": 0.4424131627056673,
@@ -2871,7 +2871,7 @@
         "spelling_errors": 0.6923076923076923
     },
     {
-        "url": "www.ledvance.com",
+        "url": "http://www.www.ledvance.com",
         "coherence_score": 0.264705498626239,
         "entropy": 8.229125957919537,
         "unique_words": 0.1410025706940874,
@@ -2882,7 +2882,7 @@
         "spelling_errors": 0.45622119815668205
     },
     {
-        "url": "www.lemfo.com",
+        "url": "http://www.www.lemfo.com",
         "coherence_score": 0.2870058385764051,
         "entropy": 8.096809778719226,
         "unique_words": 0.49570552147239266,
@@ -2893,7 +2893,7 @@
         "spelling_errors": 0.0625
     },
     {
-        "url": "www.letsfit.com",
+        "url": "http://www.www.letsfit.com",
         "coherence_score": 0.28733649643651643,
         "entropy": 8.372752559404464,
         "unique_words": 0.1844181459566075,
@@ -2904,7 +2904,7 @@
         "spelling_errors": 0.36363636363636365
     },
     {
-        "url": "www.leviton.com",
+        "url": "http://www.www.leviton.com",
         "coherence_score": 0.17619631761264257,
         "entropy": 9.120415306106327,
         "unique_words": 0.275897861739672,
@@ -2915,7 +2915,7 @@
         "spelling_errors": 0.4774774774774775
     },
     {
-        "url": "www.levoit.com",
+        "url": "http://www.www.levoit.com",
         "coherence_score": 0.26629936946072796,
         "entropy": 8.464699509948506,
         "unique_words": 0.16859361518550475,
@@ -2926,7 +2926,7 @@
         "spelling_errors": 0.5396825396825398
     },
     {
-        "url": "www.lifx.com",
+        "url": "http://www.www.lifx.com",
         "coherence_score": 0.28946756973682797,
         "entropy": 7.390743277988803,
         "unique_words": 0.5440729483282675,
@@ -2937,7 +2937,7 @@
         "spelling_errors": 0.33333333333333337
     },
     {
-        "url": "www.lightkiwi.com",
+        "url": "http://www.www.lightkiwi.com",
         "coherence_score": 0.2714250264330068,
         "entropy": 7.436021662694194,
         "unique_words": 0.3859416445623342,
@@ -2948,7 +2948,7 @@
         "spelling_errors": 0.7027027027027026
     },
     {
-        "url": "www.lightninggps.com",
+        "url": "http://www.www.lightninggps.com",
         "coherence_score": 0.30223092547491615,
         "entropy": 7.808762740993669,
         "unique_words": 0.3263888888888889,
@@ -2959,7 +2959,7 @@
         "spelling_errors": 0.5681818181818181
     },
     {
-        "url": "www.link2home.com",
+        "url": "http://www.www.link2home.com",
         "coherence_score": 0.2624029420842974,
         "entropy": 7.9422045891588064,
         "unique_words": 0.26680851063829786,
@@ -2970,7 +2970,7 @@
         "spelling_errors": 0.5688073394495412
     },
     {
-        "url": "www.linkind.com",
+        "url": "http://www.www.linkind.com",
         "coherence_score": 0.29125987867171016,
         "entropy": 7.55545703387025,
         "unique_words": 0.4094076655052265,
@@ -2981,7 +2981,7 @@
         "spelling_errors": 0.4285714285714286
     },
     {
-        "url": "www.linksys.com",
+        "url": "http://www.www.linksys.com",
         "coherence_score": 0.286836917413913,
         "entropy": 8.548988493487236,
         "unique_words": 0.1989795918367347,
@@ -2992,7 +2992,7 @@
         "spelling_errors": 0.565
     },
     {
-        "url": "www.lumens.com.tw",
+        "url": "http://www.www.lumens.com.tw.com",
         "coherence_score": 0.29482479902048064,
         "entropy": 8.262070561829256,
         "unique_words": 0.2978142076502732,
@@ -3003,7 +3003,7 @@
         "spelling_errors": 0.5542168674698795
     },
     {
-        "url": "www.macromatic.com",
+        "url": "http://www.www.macromatic.com",
         "coherence_score": 0.27772424486764014,
         "entropy": 7.207823159446549,
         "unique_words": 0.577639751552795,
@@ -3014,7 +3014,7 @@
         "spelling_errors": 0.23529411764705888
     },
     {
-        "url": "www.magellangps.com",
+        "url": "http://www.www.magellangps.com",
         "coherence_score": 0.2817375661122191,
         "entropy": 7.644665040570938,
         "unique_words": 0.3112094395280236,
@@ -3025,7 +3025,7 @@
         "spelling_errors": 0.4545454545454546
     },
     {
-        "url": "www.mamibot.com",
+        "url": "http://www.www.mamibot.com",
         "coherence_score": 0.2781665993899326,
         "entropy": 8.042966104800424,
         "unique_words": 0.28647781934794225,
@@ -3036,7 +3036,7 @@
         "spelling_errors": 0.4769230769230769
     },
     {
-        "url": "www.maxximastyle.com",
+        "url": "http://www.www.maxximastyle.com",
         "coherence_score": 0.22822185978763465,
         "entropy": 7.621699211422185,
         "unique_words": 0.4982758620689655,
@@ -3047,7 +3047,7 @@
         "spelling_errors": 0.0625
     },
     {
-        "url": "www.megawise.com",
+        "url": "http://www.www.megawise.com",
         "coherence_score": 0.31507900065880484,
         "entropy": 7.3347258432348585,
         "unique_words": 0.3268053855569155,
@@ -3058,7 +3058,7 @@
         "spelling_errors": 0.0714285714285714
     },
     {
-        "url": "www.meidongaudio.com",
+        "url": "http://www.www.meidongaudio.com",
         "coherence_score": 0.29832256153213177,
         "entropy": 7.659427013635472,
         "unique_words": 0.4159178433889602,
@@ -3069,7 +3069,7 @@
         "spelling_errors": 0.3076923076923077
     },
     {
-        "url": "www.mieleusa.com",
+        "url": "http://www.www.mieleusa.com",
         "coherence_score": 0.25972073496600656,
         "entropy": 8.900857342398462,
         "unique_words": 0.14670777013674807,
@@ -3080,7 +3080,7 @@
         "spelling_errors": 0.4779874213836478
     },
     {
-        "url": "www.milfra.com",
+        "url": "http://www.www.milfra.com",
         "coherence_score": 0.28993316308037487,
         "entropy": 7.468139545622541,
         "unique_words": 0.37236842105263157,
@@ -3091,7 +3091,7 @@
         "spelling_errors": 0.29032258064516125
     },
     {
-        "url": "www.milocks.com",
+        "url": "http://www.www.milocks.com",
         "coherence_score": 0.27849250889925375,
         "entropy": 7.31116826706069,
         "unique_words": 0.35244755244755244,
@@ -3102,7 +3102,7 @@
         "spelling_errors": 0.43999999999999995
     },
     {
-        "url": "www.milwaukeetool.com",
+        "url": "http://www.www.milwaukeetool.com",
         "coherence_score": 0.2782660470979835,
         "entropy": 8.661704179704678,
         "unique_words": 0.23306389530408006,
@@ -3113,7 +3113,7 @@
         "spelling_errors": 0.5333333333333333
     },
     {
-        "url": "www.mitsubishicomfort.com",
+        "url": "http://www.www.mitsubishicomfort.com",
         "coherence_score": 0.29856263996518917,
         "entropy": 8.34601858717103,
         "unique_words": 0.1931842847840243,
@@ -3124,7 +3124,7 @@
         "spelling_errors": 0.5
     },
     {
-        "url": "www.mobvoi.com",
+        "url": "http://www.www.mobvoi.com",
         "coherence_score": 0.23918448968776213,
         "entropy": 7.264329251331363,
         "unique_words": 0.453382084095064,
@@ -3135,7 +3135,7 @@
         "spelling_errors": 0.3465346534653465
     },
     {
-        "url": "www.montecarlofans.com",
+        "url": "http://www.www.montecarlofans.com",
         "coherence_score": 0.2821920622764437,
         "entropy": 7.81864533393907,
         "unique_words": 0.3423076923076923,
@@ -3146,7 +3146,7 @@
         "spelling_errors": 0.40384615384615385
     },
     {
-        "url": "www.movado.com",
+        "url": "http://www.www.movado.com",
         "coherence_score": 0.2715743385401033,
         "entropy": 8.865499335753974,
         "unique_words": 0.1725704843540225,
@@ -3157,7 +3157,7 @@
         "spelling_errors": 0.6215596330275229
     },
     {
-        "url": "www.mpfproducts.com",
+        "url": "http://www.www.mpfproducts.com",
         "coherence_score": 0.28715920646512794,
         "entropy": 8.225853993938586,
         "unique_words": 0.3690922730682671,
@@ -3168,7 +3168,7 @@
         "spelling_errors": 0.4642857142857143
     },
     {
-        "url": "www.mpglobalproducts.com",
+        "url": "http://www.www.mpglobalproducts.com",
         "coherence_score": 0.2870461464754139,
         "entropy": 7.792510706335077,
         "unique_words": 0.3485981308411215,
@@ -3179,7 +3179,7 @@
         "spelling_errors": 0.4358974358974359
     },
     {
-        "url": "www.mysimplysmarthome.com",
+        "url": "http://www.www.mysimplysmarthome.com",
         "coherence_score": 0.2620272275664189,
         "entropy": 8.238207545190322,
         "unique_words": 0.3329326923076923,
@@ -3190,7 +3190,7 @@
         "spelling_errors": 0.49056603773584906
     },
     {
-        "url": "www.myzone.org",
+        "url": "http://www.www.myzone.org.com",
         "coherence_score": 0.27180834380982377,
         "entropy": 8.684444221818168,
         "unique_words": 0.15594208727126482,
@@ -3201,7 +3201,7 @@
         "spelling_errors": 0.4304635761589404
     },
     {
-        "url": "www.nautilus.com",
+        "url": "http://www.www.nautilus.com",
         "coherence_score": 0.27747420596331696,
         "entropy": 8.51605143592995,
         "unique_words": 0.12391178177597215,
@@ -3212,7 +3212,7 @@
         "spelling_errors": 0.4765625
     },
     {
-        "url": "www.nec.com",
+        "url": "http://www.www.nec.com",
         "coherence_score": 0.2869886469594246,
         "entropy": 7.860332356026709,
         "unique_words": 0.3628246753246753,
@@ -3223,7 +3223,7 @@
         "spelling_errors": 0.5555555555555556
     },
     {
-        "url": "www.netwifiworks.com",
+        "url": "http://www.www.netwifiworks.com",
         "coherence_score": 0.28131221175909876,
         "entropy": 8.033973437072335,
         "unique_words": 0.3162853297442799,
@@ -3234,7 +3234,7 @@
         "spelling_errors": 0.5333333333333333
     },
     {
-        "url": "www.newhousehardware.com",
+        "url": "http://www.www.newhousehardware.com",
         "coherence_score": 0.2809936639835152,
         "entropy": 7.090721270739512,
         "unique_words": 0.5046439628482973,
@@ -3245,7 +3245,7 @@
         "spelling_errors": 0.6428571428571428
     },
     {
-        "url": "www.nexiahome.com",
+        "url": "http://www.www.nexiahome.com",
         "coherence_score": 0.260948566660328,
         "entropy": 8.451228357083806,
         "unique_words": 0.2571118937957193,
@@ -3256,7 +3256,7 @@
         "spelling_errors": 0.21818181818181814
     },
     {
-        "url": "www.nsiindustries.com",
+        "url": "http://www.www.nsiindustries.com",
         "coherence_score": 0.27847945077487524,
         "entropy": 7.715731647616929,
         "unique_words": 0.37305699481865284,
@@ -3267,7 +3267,7 @@
         "spelling_errors": 0.6285714285714286
     },
     {
-        "url": "www.oculus.com",
+        "url": "http://www.www.oculus.com",
         "coherence_score": 0.2995480951058104,
         "entropy": 7.960760547496429,
         "unique_words": 0.24273412271259417,
@@ -3278,7 +3278,7 @@
         "spelling_errors": 0.7560975609756098
     },
     {
-        "url": "www.oemdd.com",
+        "url": "http://www.www.oemdd.com",
         "coherence_score": 0.2695233937407777,
         "entropy": 7.709969213718334,
         "unique_words": 0.34581881533101044,
@@ -3289,7 +3289,7 @@
         "spelling_errors": 0.3125
     },
     {
-        "url": "www.ohmkat.com",
+        "url": "http://www.www.ohmkat.com",
         "coherence_score": 0.2627436295651789,
         "entropy": 7.908252286531213,
         "unique_words": 0.36538461538461536,
@@ -3300,7 +3300,7 @@
         "spelling_errors": 0.25
     },
     {
-        "url": "www.olympus.co.uk",
+        "url": "http://www.www.olympus.co.uk.com",
         "coherence_score": 0.26326415128075187,
         "entropy": 8.355063165690082,
         "unique_words": 0.15719579987646695,
@@ -3311,7 +3311,7 @@
         "spelling_errors": 0.5994962216624685
     },
     {
-        "url": "www.optimustracker.com",
+        "url": "http://www.www.optimustracker.com",
         "coherence_score": 0.23858041431023186,
         "entropy": 8.520358836857415,
         "unique_words": 0.32521489971346706,
@@ -3322,7 +3322,7 @@
         "spelling_errors": 0.2727272727272727
     },
     {
-        "url": "www.optoma.co.uk",
+        "url": "http://www.www.optoma.co.uk.com",
         "coherence_score": 0.2732107823500212,
         "entropy": 8.224106271450484,
         "unique_words": 0.21281039684381528,
@@ -3333,7 +3333,7 @@
         "spelling_errors": 0.6021505376344086
     },
     {
-        "url": "www.oraclelights.com",
+        "url": "http://www.www.oraclelights.com",
         "coherence_score": 0.28798031562298254,
         "entropy": 8.263236303452656,
         "unique_words": 0.4033546325878594,
@@ -3344,7 +3344,7 @@
         "spelling_errors": 0.5
     },
     {
-        "url": "www.orfeldtech.com",
+        "url": "http://www.www.orfeldtech.com",
         "coherence_score": 0.2836426017306487,
         "entropy": 7.531004680816441,
         "unique_words": 0.4942528735632184,
@@ -3355,7 +3355,7 @@
         "spelling_errors": 0.3846153846153846
     },
     {
-        "url": "www.osram.com",
+        "url": "http://www.www.osram.com",
         "coherence_score": 0.2782728295697985,
         "entropy": 8.28153964679369,
         "unique_words": 0.10207370796174922,
@@ -3366,7 +3366,7 @@
         "spelling_errors": 0.41800643086816724
     },
     {
-        "url": "www.osram.us",
+        "url": "http://www.www.osram.us.com",
         "coherence_score": 0.2865696160220623,
         "entropy": 7.896838174975416,
         "unique_words": 0.3455938697318008,
@@ -3377,7 +3377,7 @@
         "spelling_errors": 0.34090909090909094
     },
     {
-        "url": "www.outdoortechnology.com",
+        "url": "http://www.www.outdoortechnology.com",
         "coherence_score": 0.2995779132681587,
         "entropy": 7.7056949093947855,
         "unique_words": 0.38421052631578945,
@@ -3388,7 +3388,7 @@
         "spelling_errors": 0.5357142857142857
     },
     {
-        "url": "www.ozeri.com",
+        "url": "http://www.www.ozeri.com",
         "coherence_score": 0.32305400854436495,
         "entropy": 7.01210803297148,
         "unique_words": 0.44155844155844154,
@@ -3399,7 +3399,7 @@
         "spelling_errors": 0.6428571428571428
     },
     {
-        "url": "www.paradigmhw.com",
+        "url": "http://www.www.paradigmhw.com",
         "coherence_score": 0.2911442906815732,
         "entropy": 7.575071877683417,
         "unique_words": 0.3503562945368171,
@@ -3410,7 +3410,7 @@
         "spelling_errors": 0.13043478260869568
     },
     {
-        "url": "www.pdp.com",
+        "url": "http://www.www.pdp.com",
         "coherence_score": 0.27956623828554145,
         "entropy": 8.172280332847889,
         "unique_words": 0.2562179234109751,
@@ -3421,7 +3421,7 @@
         "spelling_errors": 0.5540540540540541
     },
     {
-        "url": "www.pelco.com",
+        "url": "http://www.www.pelco.com",
         "coherence_score": 0.2811988032631888,
         "entropy": 8.477274231549632,
         "unique_words": 0.20118237190970978,
@@ -3432,7 +3432,7 @@
         "spelling_errors": 0.4012345679012346
     },
     {
-        "url": "www.petfon.com",
+        "url": "http://www.www.petfon.com",
         "coherence_score": 0.2838736044752576,
         "entropy": 8.031577393576178,
         "unique_words": 0.2747603833865815,
@@ -3443,7 +3443,7 @@
         "spelling_errors": 0.5542168674698795
     },
     {
-        "url": "www.pettouchid.com",
+        "url": "http://www.www.pettouchid.com",
         "coherence_score": 0.2658030374506742,
         "entropy": 7.936671912071231,
         "unique_words": 0.36646499567847884,
@@ -3454,7 +3454,7 @@
         "spelling_errors": 0.23076923076923073
     },
     {
-        "url": "www.philex.com",
+        "url": "http://www.www.philex.com",
         "coherence_score": 0.2792915689144977,
         "entropy": 7.6844906148073395,
         "unique_words": 0.2980332829046899,
@@ -3465,7 +3465,7 @@
         "spelling_errors": 0.3111111111111111
     },
     {
-        "url": "www.pivoi.com",
+        "url": "http://www.www.pivoi.com",
         "coherence_score": 0.3303662534699246,
         "entropy": 7.731497293267031,
         "unique_words": 0.4664586583463339,
@@ -3476,7 +3476,7 @@
         "spelling_errors": 0.475
     },
     {
-        "url": "www.powrui.com",
+        "url": "http://www.www.powrui.com",
         "coherence_score": 0.30925542528316086,
         "entropy": 6.982206723096061,
         "unique_words": 0.4224343675417661,
@@ -3487,7 +3487,7 @@
         "spelling_errors": 0.125
     },
     {
-        "url": "www.primeline.net",
+        "url": "http://www.www.primeline.net.com",
         "coherence_score": 0.267679667111086,
         "entropy": 7.801949847473106,
         "unique_words": 0.41371158392434987,
@@ -3498,7 +3498,7 @@
         "spelling_errors": 0.7307692307692308
     },
     {
-        "url": "www.rabbitair.com",
+        "url": "http://www.www.rabbitair.com",
         "coherence_score": 0.2788064099642617,
         "entropy": 8.192774120929009,
         "unique_words": 0.29827315541601257,
@@ -3509,7 +3509,7 @@
         "spelling_errors": 0.5
     },
     {
-        "url": "www.rca.com",
+        "url": "http://www.www.rca.com",
         "coherence_score": 0.27736787614800923,
         "entropy": 8.242698546382295,
         "unique_words": 0.29559164733178656,
@@ -3520,7 +3520,7 @@
         "spelling_errors": 0.4
     },
     {
-        "url": "www.renogy.com",
+        "url": "http://www.www.renogy.com",
         "coherence_score": 0.2731881793326585,
         "entropy": 8.137168997250079,
         "unique_words": 0.2706122448979592,
@@ -3531,7 +3531,7 @@
         "spelling_errors": 0.39743589743589747
     },
     {
-        "url": "www.resideo.com",
+        "url": "http://www.www.resideo.com",
         "coherence_score": 0.2847310774315731,
         "entropy": 8.276877508268617,
         "unique_words": 0.19080717488789237,
@@ -3542,7 +3542,7 @@
         "spelling_errors": 0.725
     },
     {
-        "url": "www.revoamerica.com",
+        "url": "http://www.www.revoamerica.com",
         "coherence_score": 0.2729924940509547,
         "entropy": 7.32998067165743,
         "unique_words": 0.3374880153403643,
@@ -3553,7 +3553,7 @@
         "spelling_errors": 0.42105263157894735
     },
     {
-        "url": "www.toyota.com",
+        "url": "http://www.www.toyota.com",
         "coherence_score": 0.281992138880521,
         "entropy": 7.7673605190431525,
         "unique_words": 0.2719242902208202,
@@ -3564,7 +3564,7 @@
         "spelling_errors": 0.5921052631578947
     },
     {
-        "url": "www.vw.com",
+        "url": "http://www.www.vw.com",
         "coherence_score": 0.2502276611256251,
         "entropy": 8.24815084720924,
         "unique_words": 0.18453131567885667,
@@ -3575,7 +3575,7 @@
         "spelling_errors": 0.5923566878980892
     },
     {
-        "url": "mygarage.honda.com",
+        "url": "http://www.mygarage.honda.com",
         "coherence_score": 0.2678989938099473,
         "entropy": 8.409329677250382,
         "unique_words": 0.19803017602682313,
@@ -3586,7 +3586,7 @@
         "spelling_errors": 0.5934959349593496
     },
     {
-        "url": "www.bmw.pl",
+        "url": "http://www.www.bmw.pl.com",
         "coherence_score": 0.3021073934665973,
         "entropy": 8.434982577496353,
         "unique_words": 0.16014593030569882,
@@ -3597,7 +3597,7 @@
         "spelling_errors": 0.6421052631578947
     },
     {
-        "url": "www.nissanusa.com",
+        "url": "http://www.www.nissanusa.com",
         "coherence_score": 0.2566860595315342,
         "entropy": 8.507962631387098,
         "unique_words": 0.1906869688385269,
@@ -3608,7 +3608,7 @@
         "spelling_errors": 0.7474226804123711
     },
     {
-        "url": "www.gm.com",
+        "url": "http://www.www.gm.com",
         "coherence_score": 0.28532120758844626,
         "entropy": 8.466241976545215,
         "unique_words": 0.1737127817075177,
@@ -3619,7 +3619,7 @@
         "spelling_errors": 0.7094972067039106
     },
     {
-        "url": "myuconnect.fiat.com",
+        "url": "http://www.myuconnect.fiat.com",
         "coherence_score": 0.24632327977540802,
         "entropy": 7.57289316552854,
         "unique_words": 0.3383742911153119,
@@ -3630,7 +3630,7 @@
         "spelling_errors": 0.40625
     },
     {
-        "url": "www.ford.com",
+        "url": "http://www.www.ford.com",
         "coherence_score": 0.2653354905671404,
         "entropy": 8.763436625219187,
         "unique_words": 0.12740953669259383,
@@ -3641,7 +3641,7 @@
         "spelling_errors": 0.7239709443099274
     },
     {
-        "url": "www.robertshaw.com",
+        "url": "http://www.www.robertshaw.com",
         "coherence_score": 0.3120604441343869,
         "entropy": 7.564920100829072,
         "unique_words": 0.378343949044586,
@@ -3652,7 +3652,7 @@
         "spelling_errors": 0.375
     },
     {
-        "url": "www.samotech.co.uk",
+        "url": "http://www.www.samotech.co.uk.com",
         "coherence_score": 0.311388014741086,
         "entropy": 8.297074700744004,
         "unique_words": 0.32381843706130087,
@@ -3663,7 +3663,7 @@
         "spelling_errors": 0.4883720930232558
     },
     {
-        "url": "www.sanus.com",
+        "url": "http://www.www.sanus.com",
         "coherence_score": 0.28863857125404635,
         "entropy": 8.332641595787216,
         "unique_words": 0.2188679245283019,
@@ -3674,7 +3674,7 @@
         "spelling_errors": 0.7783783783783784
     },
     {
-        "url": "www.satco.com",
+        "url": "http://www.www.satco.com",
         "coherence_score": 0.29886171426154745,
         "entropy": 7.427286948210634,
         "unique_words": 0.369727047146402,
@@ -3685,7 +3685,7 @@
         "spelling_errors": 0.15384615384615385
     },
     {
-        "url": "www.schluter.co.uk",
+        "url": "http://www.www.schluter.co.uk.com",
         "coherence_score": 0.26660263710965115,
         "entropy": 8.170604764765383,
         "unique_words": 0.214051048774324,
@@ -3696,7 +3696,7 @@
         "spelling_errors": 0.6511627906976745
     },
     {
-        "url": "www.schluter.com",
+        "url": "http://www.www.schluter.com",
         "coherence_score": 0.2571132023976258,
         "entropy": 8.347387380818272,
         "unique_words": 0.22481415021789286,
@@ -3707,7 +3707,7 @@
         "spelling_errors": 0.3448275862068966
     },
     {
-        "url": "www.seamtechnic.com",
+        "url": "http://www.www.seamtechnic.com",
         "coherence_score": 0.2784390924848431,
         "entropy": 7.72864275381005,
         "unique_words": 0.33733013589128696,
@@ -3718,7 +3718,7 @@
         "spelling_errors": 0.4117647058823529
     },
     {
-        "url": "www.securifi.com",
+        "url": "http://www.www.securifi.com",
         "coherence_score": 0.2720928941084245,
         "entropy": 7.591144097149413,
         "unique_words": 0.3146687697160883,
@@ -3729,7 +3729,7 @@
         "spelling_errors": 0.28205128205128205
     },
     {
-        "url": "www.security.org",
+        "url": "http://www.www.security.org.com",
         "coherence_score": 0.28722299150403596,
         "entropy": 8.425590983063893,
         "unique_words": 0.257185628742515,
@@ -3740,7 +3740,7 @@
         "spelling_errors": 0.41000000000000003
     },
     {
-        "url": "www.seismicaudiospeakers.com",
+        "url": "http://www.www.seismicaudiospeakers.com",
         "coherence_score": 0.28994264198009245,
         "entropy": 7.848292835143882,
         "unique_words": 0.3235724743777452,
@@ -3751,7 +3751,7 @@
         "spelling_errors": 0.62
     },
     {
-        "url": "www.sensorpush.com",
+        "url": "http://www.www.sensorpush.com",
         "coherence_score": 0.2785932029641976,
         "entropy": 8.11395899643036,
         "unique_words": 0.20809932013006208,
@@ -3762,7 +3762,7 @@
         "spelling_errors": 0.3894736842105263
     },
     {
-        "url": "www.sifely.com",
+        "url": "http://www.www.sifely.com",
         "coherence_score": 0.2905492783580398,
         "entropy": 7.838667909893061,
         "unique_words": 0.2996742671009772,
@@ -3773,7 +3773,7 @@
         "spelling_errors": 0.39583333333333337
     },
     {
-        "url": "www.signstek.com",
+        "url": "http://www.www.signstek.com",
         "coherence_score": 0.2772549579014172,
         "entropy": 7.706085020305994,
         "unique_words": 0.2796803652968037,
@@ -3784,7 +3784,7 @@
         "spelling_errors": 0.6799999999999999
     },
     {
-        "url": "www.skagen.com",
+        "url": "http://www.www.skagen.com",
         "coherence_score": 0.26352213072770936,
         "entropy": 8.683522138586254,
         "unique_words": 0.21290659245086102,
@@ -3795,7 +3795,7 @@
         "spelling_errors": 0.39572192513368987
     },
     {
-        "url": "www.smartake.net",
+        "url": "http://www.www.smartake.net.com",
         "coherence_score": 0.28757227514194034,
         "entropy": 7.959421939675396,
         "unique_words": 0.4220994475138122,
@@ -3806,7 +3806,7 @@
         "spelling_errors": 0.19999999999999996
     },
     {
-        "url": "www.smarteyegroup.com",
+        "url": "http://www.www.smarteyegroup.com",
         "coherence_score": 0.2924199387614572,
         "entropy": 7.913237360748974,
         "unique_words": 0.32413350449293965,
@@ -3817,7 +3817,7 @@
         "spelling_errors": 0.5932203389830508
     },
     {
-        "url": "www.somfy.com.au",
+        "url": "http://www.www.somfy.com.au.com",
         "coherence_score": 0.2595968814797789,
         "entropy": 8.208286549207173,
         "unique_words": 0.2678371311169219,
@@ -3828,7 +3828,7 @@
         "spelling_errors": 0.3380281690140845
     },
     {
-        "url": "www.somfy.me",
+        "url": "http://www.www.somfy.me.com",
         "coherence_score": 0.2582871696589586,
         "entropy": 8.150106628269914,
         "unique_words": 0.26258040105940217,
@@ -3839,7 +3839,7 @@
         "spelling_errors": 0.44047619047619047
     },
     {
-        "url": "www.sonos.com",
+        "url": "http://www.www.sonos.com",
         "coherence_score": 0.2726347171202569,
         "entropy": 8.529776004438347,
         "unique_words": 0.15040360873694206,
@@ -3850,7 +3850,7 @@
         "spelling_errors": 0.5863192182410424
     },
     {
-        "url": "www.soundaround.co.nz",
+        "url": "http://www.www.soundaround.co.nz.com",
         "coherence_score": 0.3002532887053382,
         "entropy": 7.210413947783495,
         "unique_words": 0.46578366445916114,
@@ -3861,7 +3861,7 @@
         "spelling_errors": 0.6111111111111112
     },
     {
-        "url": "www.spracht.com",
+        "url": "http://www.www.spracht.com",
         "coherence_score": 0.2696533317244476,
         "entropy": 8.283799084515572,
         "unique_words": 0.3435953820780649,
@@ -3872,7 +3872,7 @@
         "spelling_errors": 0.16470588235294115
     },
     {
-        "url": "www.stealthcam.com",
+        "url": "http://www.www.stealthcam.com",
         "coherence_score": 0.30179918118265553,
         "entropy": 8.173797463445835,
         "unique_words": 0.3439450686641698,
@@ -3883,7 +3883,7 @@
         "spelling_errors": 0.2931034482758621
     },
     {
-        "url": "www.stelpro.com",
+        "url": "http://www.www.stelpro.com",
         "coherence_score": 0.30541794338892914,
         "entropy": 7.901507272826704,
         "unique_words": 0.2679355783308931,
@@ -3894,7 +3894,7 @@
         "spelling_errors": 0.26315789473684215
     },
     {
-        "url": "www.sunlite.com",
+        "url": "http://www.www.sunlite.com",
         "coherence_score": 0.28488331807947354,
         "entropy": 7.529052497246097,
         "unique_words": 0.3706896551724138,
@@ -3905,7 +3905,7 @@
         "spelling_errors": 0.19999999999999996
     },
     {
-        "url": "www.suntouch.com",
+        "url": "http://www.www.suntouch.com",
         "coherence_score": 0.2803708459995214,
         "entropy": 8.701526255990268,
         "unique_words": 0.1938026150814974,
@@ -3916,7 +3916,7 @@
         "spelling_errors": 0.7330960854092528
     },
     {
-        "url": "www.suunto.com",
+        "url": "http://www.www.suunto.com",
         "coherence_score": 0.2731718514811606,
         "entropy": 8.278079841296776,
         "unique_words": 0.1850687622789784,
@@ -3927,7 +3927,7 @@
         "spelling_errors": 0.4295774647887324
     },
     {
-        "url": "www.taylorscales.com",
+        "url": "http://www.www.taylorscales.com",
         "coherence_score": 0.2650294446307823,
         "entropy": 7.9549162076056446,
         "unique_words": 0.22671156004489337,
@@ -3938,7 +3938,7 @@
         "spelling_errors": 0.6288659793814433
     },
     {
-        "url": "www.technaxx.de",
+        "url": "http://www.www.technaxx.de.com",
         "coherence_score": 0.2612286611545382,
         "entropy": 7.852608176351269,
         "unique_words": 0.27961819202695115,
@@ -3949,7 +3949,7 @@
         "spelling_errors": 0.46031746031746035
     },
     {
-        "url": "www.tekcoplus.com",
+        "url": "http://www.www.tekcoplus.com",
         "coherence_score": 0.31507900065880484,
         "entropy": 7.416182785765071,
         "unique_words": 0.33653846153846156,
@@ -3960,7 +3960,7 @@
         "spelling_errors": 0.19047619047619047
     },
     {
-        "url": "www.tempdrop.com",
+        "url": "http://www.www.tempdrop.com",
         "coherence_score": 0.2778262445413138,
         "entropy": 8.184633535644059,
         "unique_words": 0.2432560340747752,
@@ -3971,7 +3971,7 @@
         "spelling_errors": 0.3076923076923077
     },
     {
-        "url": "www.tesvor.com",
+        "url": "http://www.www.tesvor.com",
         "coherence_score": 0.28082014307469577,
         "entropy": 7.6768957593896765,
         "unique_words": 0.30749354005167956,
@@ -3982,7 +3982,7 @@
         "spelling_errors": 0.3142857142857143
     },
     {
-        "url": "www.themagicteam.com",
+        "url": "http://www.www.themagicteam.com",
         "coherence_score": 0.3255291442139673,
         "entropy": 7.812971902063044,
         "unique_words": 0.4648493543758967,
@@ -3993,7 +3993,7 @@
         "spelling_errors": 0.43999999999999995
     },
     {
-        "url": "www.thesimple.com",
+        "url": "http://www.www.thesimple.com",
         "coherence_score": 0.27634969195655246,
         "entropy": 8.33570816318998,
         "unique_words": 0.24318594791035736,
@@ -4004,7 +4004,7 @@
         "spelling_errors": 0.2786885245901639
     },
     {
-        "url": "www.thetileapp.com",
+        "url": "http://www.www.thetileapp.com",
         "coherence_score": 0.2609523798372836,
         "entropy": 8.634535071405177,
         "unique_words": 0.1719662556781311,
@@ -4015,7 +4015,7 @@
         "spelling_errors": 0.5585284280936456
     },
     {
-        "url": "www.thetrackr.com",
+        "url": "http://www.www.thetrackr.com",
         "coherence_score": 0.25196141451608983,
         "entropy": 8.107260991124832,
         "unique_words": 0.2653284671532847,
@@ -4026,7 +4026,7 @@
         "spelling_errors": 0.43103448275862066
     },
     {
-        "url": "www.thewireszone.com",
+        "url": "http://www.www.thewireszone.com",
         "coherence_score": 0.299877213069771,
         "entropy": 7.819551314659817,
         "unique_words": 0.45987654320987653,
@@ -4037,7 +4037,7 @@
         "spelling_errors": 0.3157894736842105
     },
     {
-        "url": "www.thomassci.com",
+        "url": "http://www.www.thomassci.com",
         "coherence_score": 0.27488232043358624,
         "entropy": 8.272563511672303,
         "unique_words": 0.2456820585125132,
@@ -4048,7 +4048,7 @@
         "spelling_errors": 0.6067415730337078
     },
     {
-        "url": "www.timechant.com",
+        "url": "http://www.www.timechant.com",
         "coherence_score": 0.29645319073819676,
         "entropy": 7.736123119038867,
         "unique_words": 0.3809024134312697,
@@ -4059,7 +4059,7 @@
         "spelling_errors": 0.3846153846153846
     },
     {
-        "url": "www.timesbird.com",
+        "url": "http://www.www.timesbird.com",
         "coherence_score": 0.31113886345879027,
         "entropy": 7.636026450444299,
         "unique_words": 0.35206422018348627,
@@ -4070,7 +4070,7 @@
         "spelling_errors": 0.1333333333333333
     },
     {
-        "url": "www.timex.com",
+        "url": "http://www.www.timex.com",
         "coherence_score": 0.27818461476880846,
         "entropy": 7.423022750981591,
         "unique_words": 0.45818815331010454,
@@ -4081,7 +4081,7 @@
         "spelling_errors": 0.4545454545454546
     },
     {
-        "url": "www.toguard.cc",
+        "url": "http://www.www.toguard.cc.com",
         "coherence_score": 0.29279273207286005,
         "entropy": 7.527091314131204,
         "unique_words": 0.4561717352415027,
@@ -4092,7 +4092,7 @@
         "spelling_errors": 0.30000000000000004
     },
     {
-        "url": "www.tomshine.com",
+        "url": "http://www.www.tomshine.com",
         "coherence_score": 0.28075118634593743,
         "entropy": 7.796652718464501,
         "unique_words": 0.39766702014846234,
@@ -4103,7 +4103,7 @@
         "spelling_errors": 0.5555555555555556
     },
     {
-        "url": "www.torchstar.us",
+        "url": "http://www.www.torchstar.us.com",
         "coherence_score": 0.2725825876177649,
         "entropy": 7.7107258677302015,
         "unique_words": 0.3565536205316224,
@@ -4114,7 +4114,7 @@
         "spelling_errors": 0.3389830508474576
     },
     {
-        "url": "www.tpro.com",
+        "url": "http://www.www.tpro.com",
         "coherence_score": 0.26580303745067413,
         "entropy": 7.906601866430568,
         "unique_words": 0.3660245183887916,
@@ -4125,7 +4125,7 @@
         "spelling_errors": 0.23076923076923073
     },
     {
-        "url": "www.trailtech.net",
+        "url": "http://www.www.trailtech.net.com",
         "coherence_score": 0.26895978305000073,
         "entropy": 8.499822222576684,
         "unique_words": 0.1737056016964128,
@@ -4136,7 +4136,7 @@
         "spelling_errors": 0.6536585365853659
     },
     {
-        "url": "www.trendnet.com",
+        "url": "http://www.www.trendnet.com",
         "coherence_score": 0.2816038594312483,
         "entropy": 7.790580391065429,
         "unique_words": 0.44596443228454175,
@@ -4147,7 +4147,7 @@
         "spelling_errors": 0.33333333333333337
     },
     {
-        "url": "www.tribit.com",
+        "url": "http://www.www.tribit.com",
         "coherence_score": 0.3063667048516847,
         "entropy": 7.613846835167084,
         "unique_words": 0.3893229166666667,
@@ -4158,7 +4158,7 @@
         "spelling_errors": 0.3125
     },
     {
-        "url": "www.ubibot.com",
+        "url": "http://www.www.ubibot.com",
         "coherence_score": 0.2737248192479931,
         "entropy": 8.17431471627516,
         "unique_words": 0.2251497005988024,
@@ -4169,7 +4169,7 @@
         "spelling_errors": 0.3504273504273504
     },
     {
-        "url": "www.ultimateears.com",
+        "url": "http://www.www.ultimateears.com",
         "coherence_score": 0.2745288983823594,
         "entropy": 8.020988644378036,
         "unique_words": 0.3094601817210048,
@@ -4180,7 +4180,7 @@
         "spelling_errors": 0.368421052631579
     },
     {
-        "url": "www.uprightpose.com",
+        "url": "http://www.www.uprightpose.com",
         "coherence_score": 0.29200399135332733,
         "entropy": 8.189154615699659,
         "unique_words": 0.27153476169654567,
@@ -4191,7 +4191,7 @@
         "spelling_errors": 0.5
     },
     {
-        "url": "www.vantrue.net",
+        "url": "http://www.www.vantrue.net.com",
         "coherence_score": 0.2995092797586943,
         "entropy": 7.672799009098169,
         "unique_words": 0.4205128205128205,
@@ -4202,7 +4202,7 @@
         "spelling_errors": 0.33333333333333337
     },
     {
-        "url": "www.viewsonic.com",
+        "url": "http://www.www.viewsonic.com",
         "coherence_score": 0.27592093216974667,
         "entropy": 7.796689908950578,
         "unique_words": 0.3608156028368794,
@@ -4213,7 +4213,7 @@
         "spelling_errors": 0.34375
     },
     {
-        "url": "www.viper.com",
+        "url": "http://www.www.viper.com",
         "coherence_score": 0.2802557010637206,
         "entropy": 7.919637395503545,
         "unique_words": 0.3564273789649416,
@@ -4224,7 +4224,7 @@
         "spelling_errors": 0.6190476190476191
     },
     {
-        "url": "www.viribright.com",
+        "url": "http://www.www.viribright.com",
         "coherence_score": 0.24841706615747117,
         "entropy": 8.272847505564776,
         "unique_words": 0.27195357833655703,
@@ -4235,7 +4235,7 @@
         "spelling_errors": 0.48684210526315785
     },
     {
-        "url": "www.visiontechshop.com",
+        "url": "http://www.www.visiontechshop.com",
         "coherence_score": 0.2725825876177649,
         "entropy": 7.742383559900817,
         "unique_words": 0.35967302452316074,
@@ -4246,7 +4246,7 @@
         "spelling_errors": 0.3846153846153846
     },
     {
-        "url": "www.vivehealth.com",
+        "url": "http://www.www.vivehealth.com",
         "coherence_score": 0.28330972618002637,
         "entropy": 7.806422718048603,
         "unique_words": 0.3666061705989111,
@@ -4257,7 +4257,7 @@
         "spelling_errors": 0.575
     },
     {
-        "url": "www.vivint.com",
+        "url": "http://www.www.vivint.com",
         "coherence_score": 0.35377599322828457,
         "entropy": 7.938775933934087,
         "unique_words": 0.25036460865337873,
@@ -4268,7 +4268,7 @@
         "spelling_errors": 0.4328358208955224
     },
     {
-        "url": "www.vornado.com",
+        "url": "http://www.www.vornado.com",
         "coherence_score": 0.2864365185692643,
         "entropy": 7.994436830403592,
         "unique_words": 0.22072330654420208,
@@ -4279,7 +4279,7 @@
         "spelling_errors": 0.4246575342465754
     },
     {
-        "url": "www.wahoofitness.com",
+        "url": "http://www.www.wahoofitness.com",
         "coherence_score": 0.3152355183442609,
         "entropy": 7.30232182474866,
         "unique_words": 0.19867183176535694,
@@ -4290,7 +4290,7 @@
         "spelling_errors": 0.18181818181818177
     },
     {
-        "url": "www.warmlyyours.com",
+        "url": "http://www.www.warmlyyours.com",
         "coherence_score": 0.2791937069235223,
         "entropy": 7.07791939293272,
         "unique_words": 0.5142857142857142,
@@ -4301,7 +4301,7 @@
         "spelling_errors": 0.11111111111111116
     },
     {
-        "url": "www.watts.com",
+        "url": "http://www.www.watts.com",
         "coherence_score": 0.28037084599952145,
         "entropy": 8.693220147756671,
         "unique_words": 0.19411870828071442,
@@ -4312,7 +4312,7 @@
         "spelling_errors": 0.7347670250896057
     },
     {
-        "url": "www.wejupit.com",
+        "url": "http://www.www.wejupit.com",
         "coherence_score": 0.2958414711726495,
         "entropy": 7.811474298007436,
         "unique_words": 0.3752665245202559,
@@ -4323,7 +4323,7 @@
         "spelling_errors": 0.5172413793103448
     },
     {
-        "url": "www.westinghousehomeware.com",
+        "url": "http://www.www.westinghousehomeware.com",
         "coherence_score": 0.28490383078395787,
         "entropy": 8.329184825101029,
         "unique_words": 0.2379585326953748,
@@ -4334,7 +4334,7 @@
         "spelling_errors": 0.20779220779220775
     },
     {
-        "url": "www.westinghouselighting.com",
+        "url": "http://www.www.westinghouselighting.com",
         "coherence_score": 0.30790118007511325,
         "entropy": 7.2473766473404,
         "unique_words": 0.38778877887788776,
@@ -4345,7 +4345,7 @@
         "spelling_errors": 0.44999999999999996
     },
     {
-        "url": "www.westinghouselighting.eu",
+        "url": "http://www.www.westinghouselighting.eu.com",
         "coherence_score": 0.29057211034612657,
         "entropy": 7.887032273071318,
         "unique_words": 0.191891211281793,
@@ -4356,7 +4356,7 @@
         "spelling_errors": 0.802547770700637
     },
     {
-        "url": "www.whirlpool.com",
+        "url": "http://www.www.whirlpool.com",
         "coherence_score": 0.2815776167823972,
         "entropy": 8.322966469436397,
         "unique_words": 0.17900509204857032,
@@ -4367,7 +4367,7 @@
         "spelling_errors": 0.5949367088607596
     },
     {
-        "url": "www.wisenetlife.com",
+        "url": "http://www.www.wisenetlife.com",
         "coherence_score": 0.23781022881462804,
         "entropy": 8.85128338892561,
         "unique_words": 0.1827956989247312,
@@ -4378,7 +4378,7 @@
         "spelling_errors": 0.40528634361233484
     },
     {
-        "url": "www.withings.com",
+        "url": "http://www.www.withings.com",
         "coherence_score": 0.26048365963991865,
         "entropy": 8.311459951630123,
         "unique_words": 0.28352799033427306,
@@ -4389,7 +4389,7 @@
         "spelling_errors": 0.4736842105263158
     },
     {
-        "url": "www.xenon.cn",
+        "url": "http://www.www.xenon.cn.com",
         "coherence_score": 0.309363433889318,
         "entropy": 8.126774007251788,
         "unique_words": 0.2870327641901246,
@@ -4400,7 +4400,7 @@
         "spelling_errors": 0.5223880597014925
     },
     {
-        "url": "www.xmarto.com",
+        "url": "http://www.www.xmarto.com",
         "coherence_score": 0.3042469201981935,
         "entropy": 8.101972002827049,
         "unique_words": 0.24612941643509328,
@@ -4411,7 +4411,7 @@
         "spelling_errors": 0.6282051282051282
     },
     {
-        "url": "www.yitechnology.ru",
+        "url": "http://www.www.yitechnology.ru.com",
         "coherence_score": 0.2676856911281388,
         "entropy": 8.2283244101979,
         "unique_words": 0.18857015788303313,
@@ -4422,7 +4422,7 @@
         "spelling_errors": 0.2934782608695652
     },
     {
-        "url": "www.ylighting.com",
+        "url": "http://www.www.ylighting.com",
         "coherence_score": 0.28495121952348845,
         "entropy": 8.4717826051729,
         "unique_words": 0.20084001527300496,
@@ -4433,7 +4433,7 @@
         "spelling_errors": 0.535031847133758
     },
     {
-        "url": "www.zetronix.com",
+        "url": "http://www.www.zetronix.com",
         "coherence_score": 0.2580143928452451,
         "entropy": 8.637715602477,
         "unique_words": 0.24454951405306016,
@@ -4444,7 +4444,7 @@
         "spelling_errors": 0.6167664670658682
     },
     {
-        "url": "www.zimtown.com",
+        "url": "http://www.www.zimtown.com",
         "coherence_score": 0.2658771524084823,
         "entropy": 7.264971871711084,
         "unique_words": 0.4698544698544699,
@@ -4455,7 +4455,7 @@
         "spelling_errors": 0.375
     },
     {
-        "url": "www.zkteco.com",
+        "url": "http://www.www.zkteco.com",
         "coherence_score": 0.2623331984572939,
         "entropy": 7.782032910983617,
         "unique_words": 0.3507853403141361,
@@ -4466,7 +4466,7 @@
         "spelling_errors": 0.26086956521739135
     },
     {
-        "url": "www.zmodo.com",
+        "url": "http://www.www.zmodo.com",
         "coherence_score": 0.2782405128867794,
         "entropy": 7.692609979721439,
         "unique_words": 0.28378378378378377,
@@ -4477,7 +4477,7 @@
         "spelling_errors": 0.47619047619047616
     },
     {
-        "url": "wyze.com",
+        "url": "http://www.wyze.com",
         "coherence_score": 0.27566329092100167,
         "entropy": 8.155887281128273,
         "unique_words": 0.2601452370781717,
@@ -4488,7 +4488,7 @@
         "spelling_errors": 0.6190476190476191
     },
     {
-        "url": "xoombot.com",
+        "url": "http://www.xoombot.com",
         "coherence_score": 0.2658030374506742,
         "entropy": 7.953149836600382,
         "unique_words": 0.3606694560669456,
@@ -4499,7 +4499,7 @@
         "spelling_errors": 0.2142857142857143
     },
     {
-        "url": "yirsur.com",
+        "url": "http://www.yirsur.com",
         "coherence_score": 0.2679126583957787,
         "entropy": 7.949719822660774,
         "unique_words": 0.2906356137797186,
@@ -4510,7 +4510,7 @@
         "spelling_errors": 0.17948717948717952
     },
     {
-        "url": "netatmo.com",
+        "url": "http://www.netatmo.com",
         "coherence_score": 0.26344393856757875,
         "entropy": 8.40288721359392,
         "unique_words": 0.13729534613897126,
@@ -4521,7 +4521,7 @@
         "spelling_errors": 0.6481481481481481
     },
     {
-        "url": "eufylife.com",
+        "url": "http://www.eufylife.com",
         "coherence_score": 0.26772570383488914,
         "entropy": 8.276842782210965,
         "unique_words": 0.23695388349514562,
@@ -4532,7 +4532,7 @@
         "spelling_errors": 0.5
     },
     {
-        "url": "nest.com",
+        "url": "http://www.nest.com",
         "coherence_score": 0.2820334438736726,
         "entropy": 8.173636459538772,
         "unique_words": 0.26130295478818083,
@@ -4543,7 +4543,7 @@
         "spelling_errors": 0.6633663366336633
     },
     {
-        "url": "august.com",
+        "url": "http://www.august.com",
         "coherence_score": 0.2693463492310511,
         "entropy": 8.258194106846727,
         "unique_words": 0.17333333333333334,
@@ -4554,7 +4554,7 @@
         "spelling_errors": 0.6428571428571428
     },
     {
-        "url": "irobot.com",
+        "url": "http://www.irobot.com",
         "coherence_score": 0.2816910744665201,
         "entropy": 8.324327483824629,
         "unique_words": 0.13979957936409748,
@@ -4565,7 +4565,7 @@
         "spelling_errors": 0.6829268292682926
     },
     {
-        "url": "ecovacs.com",
+        "url": "http://www.ecovacs.com",
         "coherence_score": 0.27610761507496173,
         "entropy": 8.394872627243045,
         "unique_words": 0.19570319552265752,
@@ -4576,7 +4576,7 @@
         "spelling_errors": 0.5210084033613445
     },
     {
-        "url": "lg.com",
+        "url": "http://www.lg.com",
         "coherence_score": 0.27767155029984697,
         "entropy": 8.082063109885688,
         "unique_words": 0.21778350515463918,
@@ -4587,7 +4587,7 @@
         "spelling_errors": 0.5935483870967742
     },
     {
-        "url": "tp-link.com",
+        "url": "http://www.tp-link.com",
         "coherence_score": 0.2926599636495519,
         "entropy": 8.822528125707853,
         "unique_words": 0.1650357339197361,
@@ -4598,7 +4598,7 @@
         "spelling_errors": 0.6494845360824743
     },
     {
-        "url": "philips-hue.com",
+        "url": "http://www.philips-hue.com",
         "coherence_score": 0.26264639075594765,
         "entropy": 8.591323753440099,
         "unique_words": 0.16710422683118928,
@@ -4609,7 +4609,7 @@
         "spelling_errors": 0.6436781609195402
     },
     {
-        "url": "logitech.com",
+        "url": "http://www.logitech.com",
         "coherence_score": 0.26719458190327694,
         "entropy": 7.980661043435395,
         "unique_words": 0.29758883248730966,
@@ -4620,7 +4620,7 @@
         "spelling_errors": 0.8032786885245902
     },
     {
-        "url": "plumelabs.com",
+        "url": "http://www.plumelabs.com",
         "coherence_score": 0.281092290204778,
         "entropy": 7.858438386725087,
         "unique_words": 0.2986789201608271,
@@ -4631,7 +4631,7 @@
         "spelling_errors": 0.5797101449275363
     },
     {
-        "url": "getawair.com",
+        "url": "http://www.getawair.com",
         "coherence_score": 0.26945351209142754,
         "entropy": 8.079573324176366,
         "unique_words": 0.23210702341137124,
@@ -4642,7 +4642,7 @@
         "spelling_errors": 0.488
     },
     {
-        "url": "evehome.com",
+        "url": "http://www.evehome.com",
         "coherence_score": 0.29112407627982556,
         "entropy": 7.070446966187477,
         "unique_words": 0.521865889212828,
@@ -4653,7 +4653,7 @@
         "spelling_errors": 0.875
     },
     {
-        "url": "ascensiadiabetes.com",
+        "url": "http://www.ascensiadiabetes.com",
         "coherence_score": 0.2616625227356453,
         "entropy": 8.56728530204789,
         "unique_words": 0.16046991995868837,
@@ -4664,7 +4664,7 @@
         "spelling_errors": 0.340080971659919
     },
     {
-        "url": "nanit.com",
+        "url": "http://www.nanit.com",
         "coherence_score": 0.26594473819564424,
         "entropy": 8.602208599860372,
         "unique_words": 0.19494021833304453,
@@ -4675,7 +4675,7 @@
         "spelling_errors": 0.6363636363636364
     },
     {
-        "url": "nespresso.com",
+        "url": "http://www.nespresso.com",
         "coherence_score": 0.27110729862878735,
         "entropy": 8.04159073856702,
         "unique_words": 0.23417721518987342,
@@ -4686,7 +4686,7 @@
         "spelling_errors": 0.7806451612903226
     },
     {
-        "url": "getroost.com",
+        "url": "http://www.getroost.com",
         "coherence_score": 0.2820278859824116,
         "entropy": 8.061695232690004,
         "unique_words": 0.18715015818934047,
@@ -4697,7 +4697,7 @@
         "spelling_errors": 0.9217877094972067
     },
     {
-        "url": "schlage.com",
+        "url": "http://www.schlage.com",
         "coherence_score": 0.2711763482734081,
         "entropy": 8.197015567222039,
         "unique_words": 0.2179520926559621,
@@ -4708,7 +4708,7 @@
         "spelling_errors": 0.6728395061728395
     },
     {
-        "url": "adheretech.com",
+        "url": "http://www.adheretech.com",
         "coherence_score": 0.2725602109049828,
         "entropy": 8.18505006076614,
         "unique_words": 0.22830310880829016,
@@ -4719,7 +4719,7 @@
         "spelling_errors": 0.7551020408163265
     },
     {
-        "url": "store.getawair.com",
+        "url": "http://www.store.getawair.com",
         "coherence_score": 0.26945351209142754,
         "entropy": 8.085074380810118,
         "unique_words": 0.23254259939859673,
@@ -4730,7 +4730,7 @@
         "spelling_errors": 0.544
     },
     {
-        "url": "sleepnumber.com",
+        "url": "http://www.sleepnumber.com",
         "coherence_score": 0.3050368469951073,
         "entropy": 7.207752941527376,
         "unique_words": 0.3821782178217822,
@@ -4741,7 +4741,7 @@
         "spelling_errors": 0.7777777777777778
     },
     {
-        "url": "bosch-home.com",
+        "url": "http://www.bosch-home.com",
         "coherence_score": 0.2952076625402931,
         "entropy": 8.600218128983595,
         "unique_words": 0.19681876606683804,
@@ -4752,7 +4752,7 @@
         "spelling_errors": 0.6182572614107884
     },
     {
-        "url": "support.fossilgroup.com",
+        "url": "http://www.support.fossilgroup.com",
         "coherence_score": 0.27277710066239946,
         "entropy": 8.147917898465591,
         "unique_words": 0.20313666915608664,
@@ -4763,7 +4763,7 @@
         "spelling_errors": 0.5609756097560976
     },
     {
-        "url": "onepeloton.com",
+        "url": "http://www.onepeloton.com",
         "coherence_score": 0.27383005921267006,
         "entropy": 8.300687064691967,
         "unique_words": 0.22834872979214782,
@@ -4774,7 +4774,7 @@
         "spelling_errors": 0.8189655172413793
     },
     {
-        "url": "deeper.eu",
+        "url": "http://www.deeper.eu.com",
         "coherence_score": 0.29003354656022345,
         "entropy": 7.696763553354327,
         "unique_words": 0.37655601659751037,
@@ -4785,7 +4785,7 @@
         "spelling_errors": 0.8431372549019608
     },
     {
-        "url": "clickandgrow.com",
+        "url": "http://www.clickandgrow.com",
         "coherence_score": 0.31113886345879027,
         "entropy": 7.626643228235994,
         "unique_words": 0.33860759493670883,
@@ -4796,7 +4796,7 @@
         "spelling_errors": 0.4117647058823529
     },
     {
-        "url": "phyn.com",
+        "url": "http://www.phyn.com",
         "coherence_score": 0.26715877338915206,
         "entropy": 7.86669395735289,
         "unique_words": 0.249008373732922,
@@ -4807,7 +4807,7 @@
         "spelling_errors": 0.4375
     },
     {
-        "url": "policy.netgear.com",
+        "url": "http://www.policy.netgear.com",
         "coherence_score": 0.3026467894260549,
         "entropy": 7.504699437362945,
         "unique_words": 0.27567195037904896,
@@ -4818,7 +4818,7 @@
         "spelling_errors": 0.8448275862068966
     },
     {
-        "url": "mimiq.io",
+        "url": "http://www.mimiq.io.com",
         "coherence_score": 0.27636644802352384,
         "entropy": 8.471294302220414,
         "unique_words": 0.17306724802951534,
@@ -4829,7 +4829,7 @@
         "spelling_errors": 0.7907949790794979
     },
     {
-        "url": "renogy.com",
+        "url": "http://www.renogy.com",
         "coherence_score": 0.29431578915356194,
         "entropy": 7.981169862883735,
         "unique_words": 0.23385300668151449,
@@ -4840,7 +4840,7 @@
         "spelling_errors": 0.6491228070175439
     },
     {
-        "url": "bulbrite.com",
+        "url": "http://www.bulbrite.com",
         "coherence_score": 0.4884309746,
         "entropy": 7.943610242,
         "unique_words": 0.4033519553,
@@ -4851,7 +4851,7 @@
         "spelling_errors": 0.5357142857
     },
     {
-        "url": "https://digilifeinc.com/",
+        "url": "http://www.https://digilifeinc.com/",
         "coherence_score": 0.2877032419,
         "entropy": 7.4863670562,
         "unique_words": 0.4239864865,
@@ -4862,7 +4862,7 @@
         "spelling_errors": 0.0555555556
     },
     {
-        "url": "e-novia.it",
+        "url": "http://www.e-novia.it.com",
         "coherence_score": 0.2503926628,
         "entropy": 7.9552404523,
         "unique_words": 0.417697431,
@@ -4873,7 +4873,7 @@
         "spelling_errors": 0.2380952381
     },
     {
-        "url": "facegraph.com",
+        "url": "http://www.facegraph.com",
         "coherence_score": 0.3603952786,
         "entropy": 7.8424249014,
         "unique_words": 0.4237967914,
@@ -4884,7 +4884,7 @@
         "spelling_errors": 0.4285714286
     },
     {
-        "url": "www.unbeatengroup.com",
+        "url": "http://www.www.unbeatengroup.com",
         "coherence_score": 0.2829066859,
         "entropy": 7.5907460865,
         "unique_words": 0.3433476395,
@@ -4895,7 +4895,7 @@
         "spelling_errors": 0.48
     },
     {
-        "url": "www.broan-nutone.com",
+        "url": "http://www.www.broan-nutone.com",
         "coherence_score": 0.2751388605,
         "entropy": 8.2033685148,
         "unique_words": 0.2250146113,
@@ -4906,7 +4906,7 @@
         "spelling_errors": 0.3684210526
     },
     {
-        "url": "www.hisense-usa.com",
+        "url": "http://www.www.hisense-usa.com",
         "coherence_score": 0.2423005276,
         "entropy": 8.1148560424,
         "unique_words": 0.2318326834,
@@ -4917,7 +4917,7 @@
         "spelling_errors": 0.2830188679
     },
     {
-        "url": "www.luxproducts.com",
+        "url": "http://www.www.luxproducts.com",
         "coherence_score": 0.3809909705,
         "entropy": 7.4106863824,
         "unique_words": 0.4474226804,
@@ -4928,7 +4928,7 @@
         "spelling_errors": 0.303030303
     },
     {
-        "url": "www.sharpnecdisplays.com",
+        "url": "http://www.www.sharpnecdisplays.com",
         "coherence_score": 0.3119646757,
         "entropy": 8.3702440569,
         "unique_words": 0.2224915172,
@@ -4939,7 +4939,7 @@
         "spelling_errors": 0.5683060109
     },
     {
-        "url": "www.olympus-ims.com",
+        "url": "http://www.www.olympus-ims.com",
         "coherence_score": 0.3068464777,
         "entropy": 7.0520732216,
         "unique_words": 0.3929961089,
@@ -4950,7 +4950,7 @@
         "spelling_errors": 0.65
     },
     {
-        "url": "www.pepper-jobs.com",
+        "url": "http://www.www.pepper-jobs.com",
         "coherence_score": 0.2525618905,
         "entropy": 7.8747984275,
         "unique_words": 0.3642030276,
@@ -4961,7 +4961,7 @@
         "spelling_errors": 0.25
     },
     {
-        "url": "www.hyundaiusa.com",
+        "url": "http://www.www.hyundaiusa.com",
         "coherence_score": 0.2809892781,
         "entropy": 7.6674569401,
         "unique_words": 0.2038271963,
@@ -4972,7 +4972,7 @@
         "spelling_errors": 0.0
     },
     {
-        "url": "www.u-tec.com",
+        "url": "http://www.www.u-tec.com",
         "coherence_score": 0.2784490437,
         "entropy": 7.8283232412,
         "unique_words": 0.2959442332,
@@ -4983,7 +4983,7 @@
         "spelling_errors": 0.4603174603
     },
     {
-        "url": "www.umidigi.com",
+        "url": "http://www.www.umidigi.com",
         "coherence_score": 0.3856025351,
         "entropy": 6.9628950922,
         "unique_words": 0.3339960239,
@@ -4994,7 +4994,7 @@
         "spelling_errors": 0.347826087
     },
     {
-        "url": "ecobee.com",
+        "url": "http://www.ecobee.com",
         "coherence_score": 0.2935839453,
         "entropy": 8.7943327325,
         "unique_words": 0.2051074834,
@@ -5005,7 +5005,7 @@
         "spelling_errors": 0.3984063745
     },
     {
-        "url": "www.yitechnology.com",
+        "url": "http://www.www.yitechnology.com",
         "coherence_score": 0.2642948752,
         "entropy": 8.2283244102,
         "unique_words": 0.1885701579,
@@ -5016,7 +5016,7 @@
         "spelling_errors": 0.2934782609
     },
     {
-        "url": "Bosch-home.com",
+        "url": "http://www.Bosch-home.com",
         "coherence_score": 0.2854515437,
         "entropy": 8.600218129,
         "unique_words": 0.1968187661,

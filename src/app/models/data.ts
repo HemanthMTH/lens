@@ -5,6 +5,7 @@ export interface ProductData {
     category: string;
     policy_text: string;
     mentioned: boolean;
+    policy_url?: string | null;
     keywords?: Keyword;
     features?: Feature;
 }

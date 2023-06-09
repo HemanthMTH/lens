@@ -7,14 +7,16 @@ import {
     ICellRendererParams,
 } from 'ag-grid-community';
 import { ProductData } from 'src/app/models/data';
-import _data from '../../../assets/explore/combined.json';
+// import _data from '../../../assets/explore/combined.json';
 import featureData from '../../../assets/explore/features.json';
 import keywordData from '../../../assets/explore/keywords.json';
+import _data from '../../../assets/explore/new.json';
 import { BooleanCellRendererComponent } from '../boolean-cell-renderer/boolean-cell-renderer.component';
 import { ButtonRendererComponent } from '../button/button.component';
 import { FeatureModalComponent } from '../feature-modal/feature-modal.component';
 import { KeywordModalComponent } from '../keyword-modal/keyword-modal.component';
 import { PolicyTextModalComponent } from '../policy-text-modal/policy-text-modal.component';
+import { UrlRendererComponent } from '../url-renderer/url-renderer.component';
 
 @Component({
     selector: 'app-data',
@@ -43,10 +45,11 @@ export class DataComponent {
                 label: 'Click',
             },
         },
-        { field: 'manufacturer', pinned: 'left', },
+        { field: 'manufacturer', pinned: 'left' },
         {
             headerName: 'Manufacturer URL',
             field: 'manufacturer_url',
+            cellRenderer: 'urlRenderer',
         },
         { field: 'country' },
         {
@@ -56,6 +59,11 @@ export class DataComponent {
             cellRenderer: 'booleanCellRenderer',
         },
         { field: 'category' },
+        {
+            headerName: 'Privacy Policy URL',
+            field: 'policy_url',
+            cellRenderer: 'urlRenderer',
+        },
         {
             headerName: 'Privacy Policy',
             headerTooltip: 'Click to view the privacy policy',
@@ -79,6 +87,7 @@ export class DataComponent {
     frameworkComponents = {
         buttonRenderer: ButtonRendererComponent,
         booleanCellRenderer: BooleanCellRendererComponent,
+        urlRenderer: UrlRendererComponent,
     };
 
     constructor(private modalService: NgbModal) {
