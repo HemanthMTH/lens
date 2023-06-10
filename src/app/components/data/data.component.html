@@ -2,18 +2,62 @@
   <i class="fa fa-info-circle me-2"></i>
   <span><strong>Work in progress:</strong> The APIs to explore the dataset are unavailable at the moment.</span>
 </div> -->
-<div style="height: 100vh" class="ag-theme-alpine">
-  <ag-grid-angular
-      style="width: 100%; height: 100%"
-      [rowData]="rowData"
-      [columnDefs]="columnDefs"
-      
-      [frameworkComponents]="frameworkComponents"
-      [defaultColDef]="defaultColDef"
-      [animateRows]="true"
-      [paginationAutoPageSize]="true"
-      [pagination]="true"
-      (gridReady)="onGridReady($event)"
-  >
-  </ag-grid-angular>
+<div style="height: 50vh" class="ag-theme-alpine">
+    <ag-grid-angular
+        style="width: 100%; height: 100%"
+        [rowData]="rowData"
+        [columnDefs]="columnDefs"
+        [frameworkComponents]="frameworkComponents"
+        [defaultColDef]="defaultColDef"
+        [animateRows]="true"
+        [paginationAutoPageSize]="true"
+        [pagination]="true"
+        (gridReady)="onGridReady($event)"
+    >
+    </ag-grid-angular>
+</div>
+<div class="alert alert-info d-flex justify-content-center" role="alert">
+    <p class="lead">
+        <strong>Note:</strong> Select desired manufacturer URLs from the dropdown list to view feature and keyword
+        details for the selected.
+    </p>
+</div>
+<ng-select
+    class="my-3 highlighted-select"
+    [items]="rowData"
+    bindLabel="manufacturer_url"
+    placeholder="Select websites"
+    [multiple]="true"
+    (change)="onChange($event)"
+>
+</ng-select>
+
+<div *ngIf="showFeatures" style="height: 50vh" class="ag-theme-alpine my-5">
+    <ag-grid-angular
+        #agGrid
+        style="width: 100%; height: 100%"
+        [rowData]="featureRowData$"
+        [columnDefs]="featureColumnDefs"
+        [defaultColDef]="defaultColDef"
+        [animateRows]="true"
+        [paginationAutoPageSize]="true"
+        [pagination]="true"
+        (gridReady)="onSecondGridReady($event)"
+    >
+    </ag-grid-angular>
+</div>
+
+<div *ngIf="showFeatures" style="height: 50vh" class="ag-theme-alpine my-5">
+    <ag-grid-angular
+        #agGrid
+        style="width: 100%; height: 100%"
+        [rowData]="keywordRowData$"
+        [columnDefs]="keywordColumnDefs"
+        [defaultColDef]="defaultColDef"
+        [animateRows]="true"
+        [paginationAutoPageSize]="true"
+        [pagination]="true"
+        (gridReady)="onSecondGridReady($event)"
+    >
+    </ag-grid-angular>
 </div>
