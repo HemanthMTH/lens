@@ -130,6 +130,19 @@
         "policy_change": 40
     },
     {
+        "url": "http://www.ecovacs.com",
+        "do_not_track": 0,
+        "data_security": 22,
+        "first_party_collection": 318,
+        "third_party_collection": 44,
+        "opt_out": 17,
+        "user_choice": 14,
+        "data": 216,
+        "legislation": 14,
+        "access_edit_delete": 59,
+        "policy_change": 26
+    },
+    {
         "url": "http://www.ao.com",
         "do_not_track": 0,
         "data_security": 28,
@@ -5525,6 +5538,19 @@
         "policy_change": 4
     },
     {
+        "url": "http://www.facegraph.com",
+        "do_not_track": 0,
+        "data_security": 1,
+        "first_party_collection": 14,
+        "third_party_collection": 0,
+        "opt_out": 0,
+        "user_choice": 0,
+        "data": 12,
+        "legislation": 0,
+        "access_edit_delete": 5,
+        "policy_change": 0
+    },
+    {
         "url": "http://www.onepeloton.com",
         "do_not_track": 5,
         "data_security": 12,
@@ -5614,6 +5640,19 @@
         "legislation": 0,
         "access_edit_delete": 25,
         "policy_change": 10
+    },
+    {
+        "url": "https://norbit.com/",
+        "do_not_track": 0,
+        "data_security": 58,
+        "first_party_collection": 189,
+        "third_party_collection": 19,
+        "opt_out": 8,
+        "user_choice": 9,
+        "data": 375,
+        "legislation": 5,
+        "access_edit_delete": 35,
+        "policy_change": 6
     },
     {
         "url": "http://www.bulbrite.com",
