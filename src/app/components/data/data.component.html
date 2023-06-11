@@ -16,17 +16,17 @@
     >
     </ag-grid-angular>
 </div>
-<div class="alert alert-info d-flex justify-content-center" role="alert">
+<div class="alert alert-info d-flex justify-content-center my-2" style="padding:2px" role="alert">
     <p class="lead">
         <strong>Note:</strong> Select desired manufacturer URLs from the dropdown list to view feature and keyword
-        details for the selected.
+        details for the selected. Scroll down for keywords.
     </p>
 </div>
 <ng-select
     class="my-3 highlighted-select"
     [items]="rowData"
     bindLabel="manufacturer_url"
-    placeholder="Select websites"
+    placeholder="Select Manufacturers"
     [multiple]="true"
     (change)="onChange($event)"
 >

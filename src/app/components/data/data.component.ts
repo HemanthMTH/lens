@@ -7,10 +7,10 @@ import {
     ICellRendererParams,
 } from 'ag-grid-community';
 import { Feature, Keyword, ProductData } from 'src/app/models/data';
-// import _data from '../../../assets/explore/combined.json';
-import featureData from '../../../assets/explore/features.json';
-import keywordData from '../../../assets/explore/keywords.json';
-import _data from '../../../assets/explore/new.json';
+
+import featureData from '../../../assets/explore/prod_features.json';
+import keywordData from '../../../assets/explore/prod_keywords.json';
+import _data from '../../../assets/explore/smart_products.json';
 import { BooleanCellRendererComponent } from '../boolean-cell-renderer/boolean-cell-renderer.component';
 import { ButtonRendererComponent } from '../button/button.component';
 import { FeatureModalComponent } from '../feature-modal/feature-modal.component';
@@ -153,7 +153,7 @@ export class DataComponent {
             field: 'connective_words',
         },
         {
-            headerName: 'Correct Grammar',
+            headerName: 'Grammatical Errors',
             field: 'spelling_errors',
         },
     ];
