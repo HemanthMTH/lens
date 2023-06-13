@@ -41,8 +41,8 @@ export class DatasetComponent implements OnInit {
         yaxis: {
             title: 'Percentage',
         },
-        width: 800,
-        height: 500,
+        width: 1000,
+        height: 600,
     };
 
     constructor() {
@@ -56,7 +56,7 @@ export class DatasetComponent implements OnInit {
                 y: _data.map((d) => d.size),
                 type: 'bar',
                 marker: {
-                    color: _data.map((d) => d.websites.length),
+                    color: _data.map((d) => d.size),
                     colorscale: 'Viridis',
                     showscale: true,
                 },

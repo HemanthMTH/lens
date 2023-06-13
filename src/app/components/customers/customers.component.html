@@ -1,0 +1,90 @@
+<div class="container my-5">
+    <h2 class="fw-bold text-center">
+        PrivacyLens: Empowering Users to Understand IoT Privacy Policies
+    </h2>
+    <p class="lead">
+        At PrivacyLens, we believe in the power of transparency. We give users
+        the information they need to make an informed decision when purchasing
+        an Internet of Things (IoT) device. Through our innovative platform,
+        users can assess the privacy keywords of a range of IoT devices based on
+        the information extracted from their privacy policies.
+    </p>
+
+    <p class="lead">
+        Our analysis provides a comprehensive view of the different privacy
+        attributes (like First/Third Party Collection, Legislation, User Choice,
+        Access/Edit/Delete, Do Not Track, Data Security, Data, legislation,
+        Policy Change, Opt-Out ) mentioned in the privacy policies of various
+        IoT devices. Refer the grid below to see our analysis results.
+    </p>
+    <div
+        class="alert alert-info d-flex justify-content-center my-2"
+        role="alert"
+    >
+        <p class="lead">
+            <strong>FYI:</strong> If you wish to sort the values of a
+            specific column (keyword), simply click on the corresponding header
+            in the grid below. To filter and refine the contents of any column,
+            hover over the desired column to reveal a menu bar, which you can
+            use to set your filtering criteria.
+        </p>
+    </div>
+
+    <div style="height: 50vh" class="ag-theme-alpine my-5">
+        <ag-grid-angular
+            #agGrid
+            style="width: 100%; height: 100%"
+            [rowData]="rowData$"
+            [columnDefs]="columnDefs"
+            [defaultColDef]="defaultColDef"
+            [animateRows]="true"
+            [gridOptions]="gridOptions"
+            (gridReady)="onGridReady($event)"
+        >
+        </ag-grid-angular>
+    </div>
+
+    <p class="lead">
+        Are you particularly interested in a specific privacy attribute? Let's
+        say, the "First Party Collection" attribute, you can observe its data in
+        the chart below. This chart shows the max, mean, min frequency of terms
+        for each data management keywords.
+    </p>
+
+    <div class="container mt-5 text-center">
+        <div class="row d-flex justify-content-center">
+            <div class="col-auto">
+                <plotly-plot
+                    [data]="data"
+                    [layout]="layout"
+                    (plotlyClick)="onBarClick($event)"
+                ></plotly-plot>
+            </div>
+        </div>
+    </div>
+    <div class="alert alert-info text-center mt-2 custom" role="alert">
+        <i class="fa fa-info-circle me-2"></i>
+        <span
+            ><strong>Note: </strong>If you want to explore further the frequency
+            of terms for a specific category, click on their respective bars.
+            This will show you the distribution by smart device category.</span
+        >
+    </div>
+    <div *ngIf="!!this.type" class="container mt-5 text-center">
+        <h3>{{ currentKeyword }}</h3>
+        <div class="row d-flex justify-content-center">
+            <div class="col-auto">
+                <plotly-plot
+                    [data]="results_data"
+                    [layout]="device_results_layout"
+                ></plotly-plot>
+            </div>
+            <div class="col-auto">
+                <plotly-plot
+                    [data]="no_device_results_data"
+                    [layout]="results_layout"
+                ></plotly-plot>
+            </div>
+        </div>
+    </div>
+</div>

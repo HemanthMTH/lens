@@ -1,0 +1,50 @@
+[
+    {
+        "policy_features": "Coherence Score",
+        "min": 0.17619631761264257,
+        "max": 0.923016145279309,
+        "avg": 0.28734075094715483
+    },
+    {
+        "policy_features": "Entropy",
+        "min": 5.418344260769942,
+        "max": 10.297218546843286,
+        "avg": 7.903273895217932
+    },
+    {
+        "policy_features": "Freq. of Unique Words",
+        "min": 0.10765986003259514,
+        "max": 0.6879432624,
+        "avg": 0.2968288777259344
+    },
+    {
+        "policy_features": "Reading Time (Min)",
+        "min": 1,
+        "max": 66,
+        "avg": 12.53491124260355
+    },
+    {
+        "policy_features": "Reading Level",
+        "min": 4.240749169869048,
+        "max": 1349.1752623949,
+        "avg": 13.991824194942788
+    },
+    {
+        "policy_features": "Freq. of Imprecise Words",
+        "min": 0.0,
+        "max": 0.05,
+        "avg": 0.018319526627218672
+    },
+    {
+        "policy_features": "Freq. of Connective Words",
+        "min": 0.0,
+        "max": 0.08,
+        "avg": 0.03712426035502952
+    },
+    {
+        "policy_features": "Grammatical Errors",
+        "min": 0.0,
+        "max": 0.9217877094972067,
+        "avg": 0.23838362212077577
+    }
+]

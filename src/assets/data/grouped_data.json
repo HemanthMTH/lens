@@ -1,607 +1,130 @@
 [
   {
-    "category": "Miscellanious",
-    "size": 15,
-    "websites": [
-      "ambientweather.com",
-      "life.tenergy.com",
-      "www.functionaldevices.com",
-      "www.kleintools.com",
-      "www.mpfproducts.com",
-      "www.renogy.com",
-      "www.robertshaw.com",
-      "www.soundaround.co.nz",
-      "www.eccomum.com",
-      "www.johnsonoutdoors.com",
-      "www.kensington.com",
-      "www.lacrossetechnology.com",
-      "www.milwaukeetool.com",
-      "www.uprightpose.com"
-    ]
+      "category": "Smart Air Conditioner",
+      "size": 20
   },
   {
-    "category": "Smart Body Scanners",
-    "size": 1,
-    "websites": [
-      "facegraph.com.html.txt"
-    ]
+      "category": "Smart Entertainment Device",
+      "size": 52
   },
   {
-    "category": "Smart Camera",
-    "size": 37,
-    "websites": [
-      "eonon.com",
-      "huddlecamhd.com",
-      "loocam.com",
-      "momentumcam.com",
-      "naxa.com",
-      "owllabs.com",
-      "ptzoptics.com",
-      "wansview.com",
-      "www.annke.com",
-      "www.averusa.com",
-      "www.axis.com",
-      "www.emersonradio.com",
-      "www.everexceed.com",
-      "www.geovision.com.tw",
-      "www.lumens.com.tw",
-      "www.olympus-ims.com",
-      "www.olympus.co.uk",
-      "www.philex.com",
-      "www.stealthcam.com",
-      "www.toguard.cc",
-      "www.vantrue.net",
-      "www.wisenetlife.com",
-      "logitech.com",
-      "fdt.us",
-      "heath-zenith.com",
-      "homezonesecurity.com",
-      "perfectprime.com",
-      "reolink.com",
-      "simplisafe.com",
-      "spyassociates.com",
-      "sunbatech.com",
-      "www.adt.com",
-      "www.amaryllo.us",
-      "www.arlo.com",
-      "www.hamptonproducts.com",
-      "nanit.com",
-      "www.getnexar.com"
-    ]
+      "category": "Smart Home Device",
+      "size": 156
   },
   {
-    "category": "Smart Connected Vehicle",
-    "size": 10,
-    "websites": [
-      "www.gm.com",
-      "myuconnect.fiat.com",
-      "www.toyota.com",
-      "www.vw.com",
-      "mygarage.honda.com",
-      "www.bmw.pl",
-      "www.nissanusa.com",
-      "www.hyundaiusa.com",
-      "www.ford.com"
-    ]
+      "category": "Robot Vacuum Cleaner",
+      "size": 16
   },
   {
-    "category": "Smart Doorbell",
-    "size": 8,
-    "websites": [
-      "energizerconnect.com",
-      "www.ezviz.eu",
-      "www.heimvision.com",
-      "www.newhousehardware.com",
-      "www.ohmkat.com",
-      "www.thewireszone.com",
-      "nooie.com"
-    ]
+      "category": "Smart Thermometer",
+      "size": 34
   },
   {
-    "category": "Smart Entertainment Devices",
-    "size": 10,
-    "websites": [
-      "alexapure.com",
-      "decibelelectronics.com",
-      "uk.yamaha.com",
-      "www.astrogaming.com",
-      "www.dualav.com",
-      "www.flycatcher.toys",
-      "avantree.com",
-      "www.bose.com",
-      "www.oculus.com"
-    ]
+      "category": "Smart Health Tracker",
+      "size": 32
   },
   {
-    "category": "Smart Fitness Equipments",
-    "size": 3,
-    "websites": [
-      "www.paradigmhw.com",
-      "www.nautilus.com",
-      "onepeloton.com"
-    ]
+      "category": "Smart Bracelet",
+      "size": 8
   },
   {
-    "category": "Smart Gaming",
-    "size": 1,
-    "websites": [
-      "nyko.com"
-    ]
+      "category": "Smart Air Purifier",
+      "size": 28
   },
   {
-    "category": "Smart Health Tracker",
-    "size": 18,
-    "websites": [
-      "3plususa.com",
-      "diamondkinetics.com",
-      "invoxia.com",
-      "wagz.com",
-      "www.meidongaudio.com",
-      "www.ozeri.com",
-      "www.pettouchid.com",
-      "www.viper.com",
-      "cubetracker.com",
-      "logistimatics.com",
-      "www.global-view.net",
-      "www.myzone.org",
-      "www.pdp.com",
-      "www.petfon.com",
-      "www.thetileapp.com",
-      "www.trailtech.net",
-      "noorbit.com",
-      "mimiq.io",
-      "www.thetrackr.com"
-    ]
+      "category": "Smart Thermostat",
+      "size": 25
   },
   {
-    "category": "Smart Home Device",
-    "size": 117,
-    "websites": [
-      "ardwolf.com",
-      "aeotec.com",
-      "aipersmart.com",
-      "airthereal.com",
-      "aluratek.com",
-      "asinw.com",
-      "audioengineusa.com",
-      "bellevuewa.gov",
-      "buddy.com",
-      "colzer.com",
-      "dazonehome.com",
-      "durabasics.com",
-      "eatsmartproducts.com",
-      "escali.com",
-      "evapolar.com",
-      "homeseer.com",
-      "hughesautoformers.com",
-      "kuled.com",
-      "mrcool.com",
-      "neatorobotics.com",
-      "nutrichefkitchen.com",
-      "pavlok.com",
-      "probreeze.com",
-      "pureenrichment.com",
-      "saki.us",
-      "sense.com",
-      "smart.360.com",
-      "us.yalehome.com",
-      "victrola.com",
-      "westinghouseacpower.com",
-      "www.accessorypower.com",
-      "www.airoasis.com",
-      "www.alencorpasia.com",
-      "www.allaboutadapters.com",
-      "www.amirtec.com",
-      "www.baldwinhardware.com",
-      "www.belkin.com",
-      "www.contixo.com",
-      "www.govee.com",
-      "www.gridconnect.com",
-      "www.guardiantechnologies.com",
-      "www.icstation.com",
-      "www.imartine.com",
-      "www.kenmore.com",
-      "www.koogeek.com",
-      "www.lightkiwi.com",
-      "www.megawise.com",
-      "www.mieleusa.com",
-      "www.milfra.com",
-      "www.milocks.com",
-      "www.mitsubishicomfort.com",
-      "www.mysimplysmarthome.com",
-      "www.orfeldtech.com",
-      "www.pepper-jobs.com",
-      "www.powrui.com",
-      "www.primeline.net",
-      "www.samotech.co.uk",
-      "www.somfy.com.au",
-      "www.somfy.me",
-      "www.tesvor.com",
-      "www.vornado.com",
-      "www.westinghousehomeware.com",
-      "lg.com",
-      "evehome.com",
-      "bosch-home.com",
-      "atomiusa.com",
-      "e-novia.it",
-      "ezee.com",
-      "idevicesinc.com",
-      "keenhome.io",
-      "m.costway.com",
-      "menafn.com",
-      "minoston.com",
-      "molekule.com",
-      "rachio.com",
-      "ring.com",
-      "rollibot.com",
-      "sonoff.tech",
-      "topgreener.com",
-      "trifo.com",
-      "www.unbeatengroup.com",
-      "www.alcidae.com",
-      "www.americanwaterheater.com",
-      "www.anker.com",
-      "www.bagotte.com",
-      "www.bissell.eu",
-      "www.bisselldirect.co.uk",
-      "www.bobsweep.com",
-      "www.broan-nutone.com",
-      "www.brookstone.com",
-      "www.cacagoo.com",
-      "www.chamberlain.com",
-      "www.deenkee.com",
-      "www.dlink.com",
-      "www.filtrete.com",
-      "www.friedrich.com",
-      "www.geappliances.com",
-      "www.homezoneliving.com",
-      "www.irobot.co.uk",
-      "www.irobot.com",
-      "www.kitchenaid.com",
-      "www.leviton.com",
-      "www.levoit.com",
-      "www.link2home.com",
-      "www.macromatic.com",
-      "www.mamibot.com",
-      "www.montecarlofans.com",
-      "www.rabbitair.com",
-      "www.whirlpool.com",
-      "irobot.com",
-      "ecovacs.com",
-      "tp-link.com",
-      "nespresso.com",
-      "sleepnumber.com"
-    ]
+      "category": "Smart Connected Vehicle",
+      "size": 16
   },
   {
-    "category": "Smart Light",
-    "size": 37,
-    "websites": [
-      "ao.com",
-      "bulbrite.com.html.txt",
-      "digilife.app",
-      "lamotte.com",
-      "landairsea.com",
-      "limagehomeproducts.com",
-      "www.eurilighting.com",
-      "www.gledopto.eu",
-      "www.ktaxon.com",
-      "www.ledvance.com",
-      "www.linkind.com",
-      "www.maxximastyle.com",
-      "www.oraclelights.com",
-      "www.osram.com",
-      "www.osram.us",
-      "www.pivoi.com",
-      "www.satco.com",
-      "www.sunlite.com",
-      "www.tomshine.com",
-      "www.torchstar.us",
-      "www.westinghouselighting.com",
-      "www.westinghouselighting.eu",
-      "atomismart.com",
-      "designersftn.com",
-      "goibright.com",
-      "mi.com",
-      "runlesswire.com",
-      "tracmo.eu",
-      "us.sengled.com",
-      "www.amertac.com",
-      "www.brizlabs.com",
-      "www.feit.com",
-      "www.gelighting.com",
-      "www.kasasmart.com",
-      "www.lifx.com",
-      "www.viribright.com",
-      "www.ylighting.com",
-      "philips-hue.com"
-    ]
+      "category": "Smart Fitness Equipment",
+      "size": 12
   },
   {
-    "category": "Smart Location Tracker",
-    "size": 15,
-    "websites": [
-      "shieldgps.co",
-      "www.invoxia.com",
-      "www.link-labs.com",
-      "www.magellangps.com",
-      "family1st.io",
-      "matrackinc.com",
-      "shotscope.com",
-      "spy-spot.com",
-      "spytec.com",
-      "tracki.com",
-      "trackimo.com",
-      "www.ablegrid.com",
-      "www.bracketron.com",
-      "www.brytonsport.com",
-      "www.lightninggps.com",
-      "www.optimustracker.com"
-    ]
+      "category": "Smart Light",
+      "size": 41
   },
   {
-    "category": "Smart Lock",
-    "size": 13,
-    "websites": [
-      "alfredinc.com",
-      "candyhouse.co",
-      "turbolock.com",
-      "www.alarmlock.com",
-      "www.instalock.com",
-      "www.kwikset.com",
-      "www.signstek.com",
-      "www.wejupit.com",
-      "schlage.com",
-      "www.igloohome.co",
-      "www.sifely.com",
-      "www.u-tec.com",
-      "august.com"
-    ]
+      "category": "Smart Body Scanner",
+      "size": 17
   },
   {
-    "category": "Smart Monitor",
-    "size": 23,
-    "websites": [
-      "bbqdragon.com",
-      "buythermopro.com",
-      "cookperfect.com",
-      "greatergoods.com",
-      "ihealthlabs.com",
-      "iproven.com",
-      "smartro.co",
-      "tempi.fi",
-      "www.brickhousesecurity.com",
-      "www.garadget.com",
-      "www.thomassci.com",
-      "www.vivehealth.com",
-      "deeper.eu",
-      "getwellue.com",
-      "handsfreehealth.com",
-      "meater.com",
-      "www.acurite.com",
-      "www.blueguardinnovations.com",
-      "www.kinsahealth.co",
-      "www.landwindhealth.com",
-      "www.tempdrop.com",
-      "www.withings.com",
-      "ascensiadiabetes.com",
-      "adheretech.com"
-    ]
+      "category": "Smart Camera",
+      "size": 60
   },
   {
-    "category": "Smart Mount",
-    "size": 1,
-    "websites": [
-      "getpivo.com",
-      "mountingdreamonline.com"
-    ]
+      "category": "Smart Alarm Clock",
+      "size": 9
   },
   {
-    "category": "Smart Networking",
-    "size": 8,
-    "websites": [
-      "www.linksys.com",
-      "www.netwifiworks.com",
-      "www.nsiindustries.com",
-      "www.trendnet.com",
-      "ignisalert.com",
-      "www.dodocool.com",
-      "www.securifi.com",
-      "policy.netgear.com"
-    ]
+      "category": "Smart Bulb",
+      "size": 16
   },
   {
-    "category": "Smart Projector",
-    "size": 2,
-    "websites": [
-      "www.optoma.co.uk",
-      "www.viewsonic.com"
-    ]
+      "category": "Smart Lock",
+      "size": 23
   },
   {
-    "category": "Smart Scale",
-    "size": 16,
-    "websites": [
-      "arc.lighting",
-      "bucanim.com",
-      "getfittrack.com",
-      "loftilla.com",
-      "vackertboende.com",
-      "www.smartake.net",
-      "www.visiontechshop.com",
-      "www.zimtown.com",
-      "arboleaf.com",
-      "flameking.com",
-      "myinnotech.com",
-      "renpho.com",
-      "www.1byone.com",
-      "www.etekcity.com",
-      "www.getqardio.com",
-      "www.taylorscales.com"
-    ]
+      "category": "Smart Scale",
+      "size": 29
   },
   {
-    "category": "Smart Security",
-    "size": 22,
-    "websites": [
-      "canary.is",
-      "www.alpinecom.net",
-      "www.cablesdirectonline.com",
-      "www.campark.net",
-      "www.ctronics.com",
-      "www.evertechusa.com",
-      "www.jidetech.com",
-      "www.pelco.com",
-      "www.revoamerica.com",
-      "www.security.org",
-      "www.zetronix.com",
-      "www.zkteco.com",
-      "diysecuritycameraworld.com",
-      "eco4lifehome.com",
-      "www.foscam.com",
-      "www.seamtechnic.com",
-      "www.smarteyegroup.com",
-      "www.vivint.com",
-      "www.xmarto.com",
-      "www.yitechnology.ru",
-      "getroost.com",
-      "www.yitechnology.com/"
-    ]
+      "category": "Smart Video Doorbell",
+      "size": 7
   },
   {
-    "category": "Smart Sensor",
-    "size": 31,
-    "websites": [
-      "markwort.com",
-      "moderndevice.com",
-      "www.ablenetinc.com",
-      "www.brewbench.co",
-      "www.elecrow.com",
-      "www.emerson.com",
-      "www.hubbell.com",
-      "www.insteon.com",
-      "www.intermatic.com",
-      "www.tekcoplus.com",
-      "www.themagicteam.com",
-      "www.xenon.cn",
-      "eufylife.com",
-      "www.eaton.com",
-      "www.fibaro.com",
-      "www.flir.eu",
-      "www.honeywellstore.com",
-      "www.oemdd.com",
-      "www.sensorpush.com",
-      "www.suntouch.com",
-      "www.ubibot.com",
-      "www.watts.com",
-      "www.zmodo.com",
-      "wyze.com",
-      "netatmo.com",
-      "nest.com",
-      "plumelabs.com",
-      "getawair.com",
-      "store.getawair.com",
-      "phyn.com",
-      "renogy.com"
-    ]
+      "category": "Smart Watch",
+      "size": 34
   },
   {
-    "category": "Smart Speaker",
-    "size": 19,
-    "websites": [
-      "aiwa.co",
-      "bossaudio.com",
-      "ecoxgear.com",
-      "en.polkaudio.com",
-      "legrand.us",
-      "wearenomodo.com",
-      "www.abcotechbrand.com",
-      "www.blackfire.com",
-      "www.bogen.com",
-      "www.cyberacoustics.com",
-      "www.outdoortechnology.com",
-      "www.seismicaudiospeakers.com",
-      "www.spracht.com",
-      "www.tpro.com",
-      "www.tribit.com",
-      "rivaaudio.com",
-      "www.cambridgeaudio.com",
-      "www.sonos.com",
-      "www.ultimateears.com"
-    ]
+      "category": "Smart Speaker",
+      "size": 36
   },
   {
-    "category": "Smart Thermostat",
-    "size": 15,
-    "websites": [
-      "ojelectronics.com",
-      "www.keystonehtg.com",
-      "www.mpglobalproducts.com",
-      "www.nexiahome.com",
-      "www.resideo.com",
-      "www.schluter.co.uk",
-      "www.warmlyyours.com",
-      "cadetheat.com",
-      "perfectaire.us",
-      "venstar.com",
-      "www.luxproducts.com",
-      "www.schluter.com",
-      "www.stelpro.com",
-      "www.thesimple.com",
-      "ecobee.com"
-    ]
+      "category": "Smart Sensor",
+      "size": 45
   },
   {
-    "category": "Smart TV",
-    "size": 10,
-    "websites": [
-      "esquireelectronicsltd.com",
-      "furrion.com",
-      "hisenseme.com",
-      "polaroid.tech",
-      "www.hisense-usa.com",
-      "www.sharpnecdisplays.com",
-      "www.nec.com",
-      "www.rca.com",
-      "aquasound.eu",
-      "www.sanus.com"
-    ]
+      "category": "Smart Mount",
+      "size": 10
   },
   {
-    "category": "Smart Watch",
-    "size": 30,
-    "websites": [
-      "americanlifetime.com",
-      "kiddesigns.com",
-      "smartwatch.pw",
-      "web.skygolf.com",
-      "www.aarons.com",
-      "www.agptek.com",
-      "www.kospet.com",
-      "www.lemfo.com",
-      "www.skagen.com",
-      "www.technaxx.de",
-      "www.timechant.com",
-      "www.timex.com",
-      "xoombot.com",
-      "yirsur.com",
-      "support.fossilgroup.com",
-      "en.golfbuddy.com",
-      "news.samsung.com",
-      "shop.diesel.com",
-      "tectectec.com",
-      "uk.diesel.com",
-      "www.citizenwatch.com",
-      "www.fitbit.com",
-      "www.korehealth.com",
-      "www.letsfit.com",
-      "www.mobvoi.com",
-      "www.movado.com",
-      "www.suunto.com",
-      "www.umidigi.com.html.txt",
-      "www.wahoofitness.com",
-      "www.timesbird.com",
-      "clickandgrow.com"
-    ]
+      "category": "Smart Location Tracker",
+      "size": 28
+  },
+  {
+      "category": "Smart Projector",
+      "size": 6
+  },
+  {
+      "category": "Miscellanious",
+      "size": 15
+  },
+  {
+      "category": "Smart TV",
+      "size": 10
+  },
+  {
+      "category": "Smart Monitor",
+      "size": 24
+  },
+  {
+      "category": "Smart Security",
+      "size": 20
+  },
+  {
+      "category": "Smart Doorbell",
+      "size": 7
+  },
+  {
+      "category": "Smart Networking",
+      "size": 8
+  },
+  {
+      "category": "Smart Gaming",
+      "size": 1
   }
 ]

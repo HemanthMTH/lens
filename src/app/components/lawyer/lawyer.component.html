@@ -1,0 +1,315 @@
+<div class="container my-5">
+    <p class="lead">
+        Our study reveals intriguing insights into the landscape of IoT privacy
+        policies. Through the use of data visualization charts, we will guide
+        you through our findings, aiding your understanding of how these
+        insights can help craft or revise more comprehensive and legally robust
+        privacy policies.
+    </p>
+    <h2 class="fw-bold">Comparing Privacy Policies to find similarities</h2>
+    <p class="lead">
+        Calculating the resemblance between a pair of textual documents is a
+        frequent undertaking in natural language processing, featuring numerous
+        real-world uses (e.g., order search engine outcomes or suggest related
+        material to users). By comparing privacy policies we can explore which
+        devices have similar privacy policies, or outlier devices with privacy
+        policies that are significantly different from others of the same type.
+    </p>
+
+    <p class="lead">
+        To learn more about text similarity
+        <a
+            (click)="open()"
+            style="cursor: pointer; color: #00aaff; text-decoration: none"
+            >click here.</a
+        >
+    </p>
+
+    <p class="lead">
+        Below is a table containing a list of URLs serves as a useful reference
+        for further visualizations. The table provides a comprehensive list of
+        all the URLs that have been loaded dynamically, making it easy to access
+        and analyze the data. By using this table as a reference, it becomes
+        possible to quickly identify and locate specific URLs that are of
+        interest, allowing for more targeted analysis and visualization.
+    </p>
+
+    <div style="height: 50vh" class="ag-theme-alpine my-5">
+        <ag-grid-angular
+            #agGrid
+            style="width: 100%; height: 100%"
+            [rowData]="rowData$"
+            [columnDefs]="columnDefs"
+            [defaultColDef]="defaultColDef"
+            [animateRows]="true"
+            [paginationAutoPageSize]="true"
+            [pagination]="true"
+            (gridReady)="onGridReady($event)"
+        >
+        </ag-grid-angular>
+    </div>
+
+    <div class="alert alert-info text-center mt-2 custom" role="alert">
+        <p class="lead">
+            Select multiple websites from the below dropdown list to compare
+            their privacy policy text similarity using a heatmap chart. The
+            chart displays the websites on both axes, and the color intensity
+            represents the similarity score between them. A higher similarity
+            score indicates a closer relationship between the privacy policies
+            of the websites. You can select or deselect websites to update the
+            heatmap dynamically. You will see the chart once you select at least
+            two items form the dropdown list.
+        </p>
+    </div>
+
+    <ng-select
+        class="mb-3 highlighted-select"
+        [items]="hmData"
+        bindLabel="name"
+        placeholder="Select websites"
+        [multiple]="true"
+        [(ngModel)]="selectedWebsites"
+        (change)="onWebsiteChange($event)"
+    >
+    </ng-select>
+
+    <div *ngIf="selectedWebsites.length > 1" class="container mt-5 text-center">
+        <div class="row d-flex justify-content-center">
+            <div class="col-auto">
+                <ngx-charts-heat-map
+                    [results]="chartHeatmapData"
+                    [view]="view"
+                    [showLegend]="true"
+                    [legend]="legend"
+                    [showXAxisLabel]="showXAxisLabel"
+                    [showYAxisLabel]="showYAxisLabel"
+                    [xAxis]="xAxis"
+                    [yAxis]="yAxis"
+                    [xAxisLabel]="xAxisLabelH"
+                    [yAxisLabel]="yAxisLabelH"
+                    [scheme]="customColor"
+                >
+                </ngx-charts-heat-map>
+            </div>
+        </div>
+    </div>
+
+    <p class="lead">
+        Our next visualization will show you the unique features of different
+        company policies. We will use several key factors to do this, such as
+        how easy the policy is to understand, how often it uses unique words,
+        and how long it takes to read (explained details in the below table). We
+        will also show you how these factors vary across different companies'
+        privacy policies. This will help you see where each company excels or
+        falls short in its privacy policy. The chart allows for a quick
+        comparison, offering insights into how each company tailors its policy,
+        and where there's room for improvement.
+    </p>
+    <h2 class="fw-bold">Ambiguity analysis</h2>
+
+    <div class="card mb-3">
+        <div class="card-body">
+            <p class="card-text lead">
+                Our framework captures the <i>ambiguity</i> of a policy by
+                extracting the following features using a supervised learning
+                algorithm:
+            </p>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item lead">
+                    1. Coherence score
+                    <i
+                        class="fas fa-info-circle"
+                        ngbTooltip="How easily the topics are understood
+            by people can be determined using the coherence score
+            in topic modeling. In simplest terms, a coherence score is like a 'makes sense' score for a piece of
+            text. It tells us how well the different parts of the text fit together. If the ideas in the text
+            smoothly flow from one to another and everything seems related, the text has high coherence. But if the
+            text jumps around from one idea to another without clear connections, it has low coherence. It's a way
+            for computers to grade the quality of a text, similar to how a teacher might grade an essay."
+                        placement="right"
+                    ></i>
+                </li>
+                <li class="list-group-item lead">
+                    2. Entropy
+                    <i
+                        class="fas fa-info-circle"
+                        ngbTooltip="A statistical quantity called the entropy of a
+            language gauges, in a sense, how much information is
+            generated on average for each letter in a text in that
+            language. In simpler terms, it defines the uncertainty or
+            disorder in a text document. The uncertainty of the meaning of textual terms is expressed
+            in two ways: the meaning we get from it and the context
+            in which it is utilized.
+            Entropy was computed by iterating over the policy document
+            characters and noting the frequency of occurrence
+            of each one."
+                        placement="right"
+                    ></i>
+                </li>
+                <li class="list-group-item lead">
+                    3. Frequency of Unique Words
+                    <i
+                        class="fas fa-info-circle"
+                        ngbTooltip="The goal of the privacy
+          policy document is to provide consumers with relevant
+          and crucial information about how their data is used
+          and if they have control over that data. This knowledge
+          is conveyed using specialized technical jargon which
+          can sometimes be hard to comprehend based on the
+          context. The bounds of certain learning categories are
+          being pushed by these unusual words, and the words
+          around them offer crucial context. People usually don’t
+          encounter low-frequency words which makes it hard for
+          them to understand and comprehend these works which
+          leads to the argument that unique words require unique
+          instruction, because informational texts integrate
+          vocabulary and concepts, it is hard to completely comprehend
+          the material without a solid understanding of
+          the unique, low-frequency phrases. It is hard to skip
+          through complicated jargon while still having a general
+          understanding of the subject matter; therefore, individuals
+          must have expert-level knowledge of these words
+          in order to grasp the content. The frequency of unique words is a measure of how many different words
+          are used in a piece of text.
+          
+          This measure can tell you a lot about a piece of text. For instance, a text with many unique words might
+          have a rich vocabulary or cover a wide range of topics. A text with few unique words might be more
+          repetitive or focused on a single topic."
+                        placement="right"
+                    ></i>
+                </li>
+                <li class="list-group-item lead">
+                    4. Reading Level
+                    <i
+                        class="fas fa-info-circle"
+                        ngbTooltip="Readability refers to how simple or it is to read something. The readability of a text is determined by
+          how it is presented and the context in which words and phrases in the document are delivered. Additional
+          elements that influence reading are
+          sentence length, sentence structure, and syllable count
+          per word. These aspects work together to determine how
+          well your writing will be comprehended. Readability
+          is crucial since it determines how well a reader understands
+          a piece of text. Policies should be easy to read
+          because they describe the policies and practices of the
+          businesses regarding the data that is gathered from consumers.
+          There are many readability tests which
+          have been devised by linguists and are based on different
+          factors like the vocabulary used, the syntax and the sentence
+          structure. For our study, we used Flesch-Kincaid
+          Grade Level which displays the score in terms of a
+          U.S. grade level."
+                        placement="right"
+                    ></i>
+                </li>
+                <li class="list-group-item lead">
+                    5. Reading Time
+                    <i
+                        class="fas fa-info-circle"
+                        ngbTooltip="Privacy policies
+          are hard to read, rarely read, and don’t help customers
+          make informed decisions due to the fact that they are very
+          lengthy and time-consuming. Reading time is calculated
+          using an individual’s typical reading pace (roughly 238
+          WPM). We used an approach that involved counting
+          all of the words in the document and dividing the total
+          by 238 to produce a decimal number. The minute is
+          the first digit of the decimal number. Then we multiply
+          the second half (the decimal points) by 0.60, these are
+          the seconds. We round up to get a whole number that
+          represents the total reading time of the policy."
+                        placement="right"
+                    ></i>
+                </li>
+                <li class="list-group-item lead">
+                    6. Frequency of Imprecise Words
+                    <i
+                        class="fas fa-info-circle"
+                        ngbTooltip="Some terms are naturally imprecise in the English language. Texts may become unclear if such terms are
+          used frequently. For instance, it may be difficult to understand general terms like 'commonly' or
+          'normally,'' which give an incorrect picture of the service provider’s operations and cause uncertainty
+          in determining the statement’s true meaning."
+                        placement="right"
+                    ></i>
+                </li>
+                <li class="list-group-item lead">
+                    7. Frequency of Connective Words
+                    <i
+                        class="fas fa-info-circle"
+                        ngbTooltip="In the English language,
+          connecting words are used to join clauses or
+          phrases. They are crucial for the creation of coherent
+          sentences. However, overusing connectives makes a text
+          more complicated. The following is an excerpt from a
+          Policy that might be interesting to observe: 'Like most
+          online service providers, we collect information that online
+          services, portable devices, and cloud services typically
+          make available, including the internet browser,
+          Source IP, unique device identifiers, language choice, referring
+          site, the date and time of access, operating system,
+          and mobile network information'. Three times in this
+          phrase, the conjunction 'and' has been used to connect
+          different clauses and reading this sentence is challenging.
+          Research related to textual information suggests
+          counting the number of connective terms to assess the
+          text’s quality in software requirements."
+                        placement="right"
+                    ></i>
+                </li>
+                <li class="list-group-item lead">
+                    8. Correct Grammar
+                    <i
+                        class="fas fa-info-circle"
+                        ngbTooltip="The integrity of a work depends on
+          proper grammar, much as it does on word spelling. Every
+          sentence of a policy document went through the framework
+          to ensure that the grammar was used correctly.
+          Each tokenized text which was produced with the
+          help of NLP is compared to a parse tree to ensure that the
+          Grammar is valid. We track the proportion of sentences
+          with poor grammar in each text relative to the overall
+          number of sentences."
+                        placement="right"
+                    ></i>
+                </li>
+            </ul>
+
+            <p class="card-text lead mt-3">
+                In general, policies with higher coherence, reading complexity,
+                and correct grammar scores tend to have better,
+                easier-to-understand policies, while those with lower scores may
+                have less clear, harder-to-comprehend policies.
+            </p>
+        </div>
+    </div>
+    <h4 class="text-center">
+        Features of privacy policies of various websites
+    </h4>
+    <div style="height: 50vh" class="ag-theme-alpine my-5">
+        <ag-grid-angular
+            style="width: 100%; height: 100%"
+            [rowData]="featureRowData$"
+            [columnDefs]="featureColumnDefs"
+            [defaultColDef]="defaultColDef"
+            [animateRows]="true"
+            [paginationAutoPageSize]="true"
+            [pagination]="true"
+            (gridReady)="onFeatureGridReady($event)"
+        >
+        </ag-grid-angular>
+    </div>
+    <p class="lead">
+        The following table shows the min, average, and max values for each
+        feature for the analyzed dataset.
+    </p>
+    <div style="height: 50vh" class="ag-theme-alpine my-5">
+        <ag-grid-angular
+            style="width: 100%; height: 85%"
+            [rowData]="metricRowData$"
+            [columnDefs]="metricColumnDefs"
+            [defaultColDef]="defaultColDef"
+            [animateRows]="true"
+            (gridReady)="onMetricsGridReady($event)"
+        >
+        </ag-grid-angular>
+    </div>
+</div>

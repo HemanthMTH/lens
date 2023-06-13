@@ -1,200 +1,272 @@
 [
     {
         "country": "Australia",
-        "not_mentioned": 1,
-        "mentioned": 0,
-        "total": 1
+        "not_mentioned": 3.0,
+        "mentioned": 0.0,
+        "total": 3
     },
     {
         "country": "Bangladesh",
-        "not_mentioned": 1,
-        "mentioned": 0,
+        "not_mentioned": 1.0,
+        "mentioned": 0.0,
+        "total": 1
+    },
+    {
+        "country": "Bulgaria",
+        "not_mentioned": 0.0,
+        "mentioned": 1.0,
         "total": 1
     },
     {
         "country": "Canada",
-        "not_mentioned": 2,
-        "mentioned": 3,
-        "total": 5
+        "not_mentioned": 4.0,
+        "mentioned": 7.0,
+        "total": 11
     },
     {
         "country": "China",
-        "not_mentioned": 28,
-        "mentioned": 18,
-        "total": 46
+        "not_mentioned": 107.0,
+        "mentioned": 81.0,
+        "total": 188
+    },
+    {
+        "country": "Croatia",
+        "not_mentioned": 0.0,
+        "mentioned": 1.0,
+        "total": 1
     },
     {
         "country": "Cyprus",
-        "not_mentioned": 1,
-        "mentioned": 0,
+        "not_mentioned": 1.0,
+        "mentioned": 0.0,
         "total": 1
     },
     {
         "country": "Denmark",
-        "not_mentioned": 2,
-        "mentioned": 0,
+        "not_mentioned": 2.0,
+        "mentioned": 0.0,
         "total": 2
     },
     {
-        "country": "Finland",
-        "not_mentioned": 0,
-        "mentioned": 1,
+        "country": "Egypt",
+        "not_mentioned": 0.0,
+        "mentioned": 1.0,
         "total": 1
     },
     {
+        "country": "Finland",
+        "not_mentioned": 0.0,
+        "mentioned": 2.0,
+        "total": 2
+    },
+    {
         "country": "France",
-        "not_mentioned": 7,
-        "mentioned": 3,
+        "not_mentioned": 6.0,
+        "mentioned": 4.0,
         "total": 10
     },
     {
         "country": "Germany",
-        "not_mentioned": 9,
-        "mentioned": 3,
-        "total": 12
+        "not_mentioned": 8.0,
+        "mentioned": 10.0,
+        "total": 18
     },
     {
-        "country": "Hong Kong",
-        "not_mentioned": 7,
-        "mentioned": 0,
-        "total": 7
-    },
-    {
-        "country": "India",
-        "not_mentioned": 0,
-        "mentioned": 1,
+        "country": "Greece",
+        "not_mentioned": 0.0,
+        "mentioned": 1.0,
         "total": 1
     },
     {
+        "country": "Hong Kong",
+        "not_mentioned": 6.0,
+        "mentioned": 3.0,
+        "total": 9
+    },
+    {
+        "country": "India",
+        "not_mentioned": 2.0,
+        "mentioned": 1.0,
+        "total": 3
+    },
+    {
         "country": "Indonesia",
-        "not_mentioned": 1,
-        "mentioned": 0,
+        "not_mentioned": 1.0,
+        "mentioned": 0.0,
+        "total": 1
+    },
+    {
+        "country": "Ireland",
+        "not_mentioned": 1.0,
+        "mentioned": 0.0,
+        "total": 1
+    },
+    {
+        "country": "Italian",
+        "not_mentioned": 1.0,
+        "mentioned": 0.0,
         "total": 1
     },
     {
         "country": "Italy",
-        "not_mentioned": 1,
-        "mentioned": 2,
-        "total": 3
+        "not_mentioned": 2.0,
+        "mentioned": 3.0,
+        "total": 5
     },
     {
         "country": "Japan",
-        "not_mentioned": 9,
-        "mentioned": 5,
-        "total": 14
+        "not_mentioned": 12.0,
+        "mentioned": 9.0,
+        "total": 21
     },
     {
-        "country": "Jordon",
-        "not_mentioned": 0,
-        "mentioned": 1,
+        "country": "Jordan",
+        "not_mentioned": 0.0,
+        "mentioned": 1.0,
+        "total": 1
+    },
+    {
+        "country": "Kuwait",
+        "not_mentioned": 1.0,
+        "mentioned": 0.0,
         "total": 1
     },
     {
         "country": "Lithuania",
-        "not_mentioned": 1,
-        "mentioned": 0,
+        "not_mentioned": 1.0,
+        "mentioned": 0.0,
+        "total": 1
+    },
+    {
+        "country": "Mexico",
+        "not_mentioned": 0.0,
+        "mentioned": 1.0,
         "total": 1
     },
     {
         "country": "Netherlands",
-        "not_mentioned": 0,
-        "mentioned": 2,
-        "total": 2
+        "not_mentioned": 2.0,
+        "mentioned": 5.0,
+        "total": 7
     },
     {
         "country": "New Zealand",
-        "not_mentioned": 1,
-        "mentioned": 0,
+        "not_mentioned": 1.0,
+        "mentioned": 0.0,
         "total": 1
     },
     {
         "country": "Palau",
-        "not_mentioned": 1,
-        "mentioned": 0,
+        "not_mentioned": 1.0,
+        "mentioned": 0.0,
         "total": 1
     },
     {
         "country": "Poland",
-        "not_mentioned": 0,
-        "mentioned": 1,
+        "not_mentioned": 0.0,
+        "mentioned": 1.0,
+        "total": 1
+    },
+    {
+        "country": "Romania",
+        "not_mentioned": 1.0,
+        "mentioned": 0.0,
         "total": 1
     },
     {
         "country": "Russia",
-        "not_mentioned": 0,
-        "mentioned": 2,
-        "total": 2
+        "not_mentioned": 0.0,
+        "mentioned": 1.0,
+        "total": 1
     },
     {
         "country": "Scotland",
-        "not_mentioned": 0,
-        "mentioned": 1,
+        "not_mentioned": 0.0,
+        "mentioned": 1.0,
         "total": 1
     },
     {
         "country": "Singapore",
-        "not_mentioned": 0,
-        "mentioned": 1,
-        "total": 1
-    },
-    {
-        "country": "Slovakia",
-        "not_mentioned": 1,
-        "mentioned": 0,
-        "total": 1
-    },
-    {
-        "country": "South Korean",
-        "not_mentioned": 3,
-        "mentioned": 2,
-        "total": 5
-    },
-    {
-        "country": "Sweden",
-        "not_mentioned": 2,
-        "mentioned": 1,
+        "not_mentioned": 1.0,
+        "mentioned": 2.0,
         "total": 3
     },
     {
+        "country": "Slovakia",
+        "not_mentioned": 1.0,
+        "mentioned": 0.0,
+        "total": 1
+    },
+    {
+        "country": "South Africa",
+        "not_mentioned": 0.0,
+        "mentioned": 1.0,
+        "total": 1
+    },
+    {
+        "country": "South Korea",
+        "not_mentioned": 6.0,
+        "mentioned": 3.0,
+        "total": 9
+    },
+    {
+        "country": "Spain",
+        "not_mentioned": 0.0,
+        "mentioned": 1.0,
+        "total": 1
+    },
+    {
+        "country": "Sweden",
+        "not_mentioned": 3.0,
+        "mentioned": 1.0,
+        "total": 4
+    },
+    {
         "country": "Switzerland",
-        "not_mentioned": 1,
-        "mentioned": 1,
-        "total": 2
+        "not_mentioned": 1.0,
+        "mentioned": 4.0,
+        "total": 5
     },
     {
         "country": "Taiwan",
-        "not_mentioned": 6,
-        "mentioned": 4,
-        "total": 10
+        "not_mentioned": 9.0,
+        "mentioned": 8.0,
+        "total": 17
     },
     {
-        "country": "Taiwan USA",
-        "not_mentioned": 1,
-        "mentioned": 0,
+        "country": "Taiwan-USA",
+        "not_mentioned": 1.0,
+        "mentioned": 1.0,
+        "total": 2
+    },
+    {
+        "country": "Turkey",
+        "not_mentioned": 0.0,
+        "mentioned": 1.0,
         "total": 1
     },
     {
         "country": "UK",
-        "not_mentioned": 6,
-        "mentioned": 2,
-        "total": 8
+        "not_mentioned": 11.0,
+        "mentioned": 9.0,
+        "total": 20
     },
     {
         "country": "USA",
-        "not_mentioned": 164,
-        "mentioned": 148,
-        "total": 312
+        "not_mentioned": 242.0,
+        "mentioned": 239.0,
+        "total": 481
     },
     {
-        "country": "USA- Ireland",
-        "not_mentioned": 0,
-        "mentioned": 1,
+        "country": "USA-Ireland",
+        "not_mentioned": 0.0,
+        "mentioned": 1.0,
         "total": 1
     },
     {
         "country": "Vietnam",
-        "not_mentioned": 0,
-        "mentioned": 1,
+        "not_mentioned": 0.0,
+        "mentioned": 1.0,
         "total": 1
     }
 ]

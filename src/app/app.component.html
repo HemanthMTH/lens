@@ -1,23 +1,37 @@
 <div class="d-flex flex-column min-vh-100">
-  <nav class="navbar navbar-expand-lg navbar-light bg-light custom-navbar mb-3">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="#">PrivacyLens</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
-        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
-          <li class="nav-item" routerLinkActive="active">
-            <a class="nav-link" aria-current="page" routerLink="/home">Home</a>
-          </li>
-          <li class="nav-item" routerLinkActive="active">
-            <a class="nav-link" routerLink="/publications">About</a>
-          </li>
-          <!-- <li class="nav-item" routerLinkActive="active">
+    <nav
+        class="navbar navbar-expand-lg navbar-light bg-light custom-navbar mb-3"
+    >
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">PrivacyLens</a>
+            <button
+                class="navbar-toggler"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+            >
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
+                    <li class="nav-item" routerLinkActive="active">
+                        <a
+                            class="nav-link"
+                            aria-current="page"
+                            routerLink="/home"
+                            >Home</a
+                        >
+                    </li>
+                    <li class="nav-item" routerLinkActive="active">
+                        <a class="nav-link" routerLink="/publications">About</a>
+                    </li>
+                    <!-- <li class="nav-item" routerLinkActive="active">
             <a class="nav-link" routerLink="/members">Team</a>
           </li> -->
-          <!-- <li class="nav-item dropdown" routerLinkActive="active">
+                    <!-- <li class="nav-item dropdown" routerLinkActive="active">
             <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
               aria-expanded="false">
               Dataset
@@ -27,46 +41,115 @@
               <li><a class="dropdown-item" routerLink="/data">Dataset exploration API</a></li>
             </ul>
           </li> -->
-          <li class="nav-item" routerLinkActive="active">
-            <a class="nav-link" routerLink="/dataset">Dataset</a>
-          </li>
+                    <li class="nav-item" routerLinkActive="active">
+                        <a class="nav-link" routerLink="/dataset">Dataset</a>
+                    </li>
 
-          <li class="nav-item" routerLinkActive="active">
-            <a class="nav-link" routerLink="/data">Explore</a>
-          </li>
-          <li class="nav-item dropdown" routerLinkActive="active">
-            <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
-              aria-expanded="false">
-              Analysis
-            </a>
-            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <li><a class="dropdown-item" routerLink="/comparison">Similarity</a></li>
-              <li><a class="dropdown-item" routerLink="/ambiguity">Ambiguity</a></li>
-              <li><a class="dropdown-item" routerLink="/keyword">Keyword Analysis</a></li>
-              <li><a class="dropdown-item" routerLink="/key_information">Key Information</a></li>
-              <li><a class="dropdown-item" routerLink="/ml_analysis">ML Analysis</a></li>
-            </ul>
-          </li>
+                    <li class="nav-item" routerLinkActive="active">
+                        <a class="nav-link" routerLink="/data">Explore</a>
+                    </li>
+                    <li class="nav-item dropdown" routerLinkActive="active">
+                        <a
+                            class="nav-link dropdown-toggle"
+                            id="navbarDropdown"
+                            role="button"
+                            data-bs-toggle="dropdown"
+                            aria-expanded="false"
+                        >
+                            Analysis
+                        </a>
+                        <ul
+                            class="dropdown-menu"
+                            aria-labelledby="navbarDropdown"
+                        >
+                            <li>
+                                <a
+                                    class="dropdown-item"
+                                    routerLink="/comparison"
+                                    >Similarity</a
+                                >
+                            </li>
+                            <li>
+                                <a class="dropdown-item" routerLink="/ambiguity"
+                                    >Ambiguity</a
+                                >
+                            </li>
+                            <li>
+                                <a class="dropdown-item" routerLink="/keyword"
+                                    >Keyword Analysis</a
+                                >
+                            </li>
+                            <li>
+                                <a
+                                    class="dropdown-item"
+                                    routerLink="/key_information"
+                                    >Key Information</a
+                                >
+                            </li>
+                            <li>
+                                <a
+                                    class="dropdown-item"
+                                    routerLink="/ml_analysis"
+                                    >ML Analysis</a
+                                >
+                            </li>
+                        </ul>
+                    </li>
 
-        </ul>
-      </div>
-    </div>
-  </nav>
-
-  <div class="container-fluid flex-grow-1">
-    <router-outlet></router-outlet>
-  </div>
-
-  <footer>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12 text-center">
-          <p>&copy; {{currentYear}} PrivacyLens |
-            <a routerLink="/privacy_policy" style="color: #00AAFF; text-decoration: none;">Privacy Policy</a>
-          </p>
+                    <li class="nav-item dropdown" routerLinkActive="active">
+                        <a
+                            class="nav-link dropdown-toggle"
+                            id="navbarDropdown"
+                            role="button"
+                            data-bs-toggle="dropdown"
+                            aria-expanded="false"
+                        >
+                            New Analysis
+                        </a>
+                        <ul
+                            class="dropdown-menu"
+                            aria-labelledby="navbarDropdown"
+                        >
+                            <li>
+                                <a class="dropdown-item" routerLink="/customer"
+                                    >For IoT Customers</a
+                                >
+                            </li>
+                            <li>
+                                <a class="dropdown-item" routerLink="/lawyer"
+                                    >For Privacy Lawyers</a
+                                >
+                            </li>
+                            <li>
+                                <a class="dropdown-item" routerLink="/regulator"
+                                    >For Data Privacy Regulators</a
+                                >
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
         </div>
-      </div>
-    </div>
-  </footer>
+    </nav>
 
+    <div class="container-fluid flex-grow-1">
+        <router-outlet></router-outlet>
+    </div>
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <p>
+                        &copy; {{ currentYear }} PrivacyLens |
+                        <a
+                            routerLink="/privacy_policy"
+                            style="color: #00aaff; text-decoration: none"
+                            >Privacy Policy</a
+                        >
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
 </div>

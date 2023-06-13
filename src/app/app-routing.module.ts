@@ -1,18 +1,20 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { HomeComponent } from './components/home/home.component';
-import { SimilarityComponent } from './components/similarity/similarity.component';
-import { DataComponent } from './components/data/data.component';
 import { AmbiguityComponent } from './components/ambiguity/ambiguity.component';
-import { KeywordComponent } from './components/keyword/keyword.component';
-import { KeyInformationComponent } from './components/key-information/key-information.component';
-import { MLAnalysisComponent } from './components/mlanalysis/mlanalysis.component';
-import { MembersComponent } from './components/members/members.component';
-import { PublicationsComponent } from './components/publications/publications.component';
+import { CustomersComponent } from './components/customers/customers.component';
+import { DataComponent } from './components/data/data.component';
 import { DatasetComponent } from './components/dataset/dataset.component';
-import { PrivacyPolicyComponent } from './components/privacy-policy/privacy-policy.component';
-import { SimilarityTextComponent } from './components/similarity-text/similarity-text.component';
 import { FeaturesComponent } from './components/features/features.component';
+import { HomeComponent } from './components/home/home.component';
+import { KeyInformationComponent } from './components/key-information/key-information.component';
+import { KeywordComponent } from './components/keyword/keyword.component';
+import { LawyerComponent } from './components/lawyer/lawyer.component';
+import { MembersComponent } from './components/members/members.component';
+import { MLAnalysisComponent } from './components/mlanalysis/mlanalysis.component';
+import { PrivacyPolicyComponent } from './components/privacy-policy/privacy-policy.component';
+import { PublicationsComponent } from './components/publications/publications.component';
+import { RegulatorComponent } from './components/regulator/regulator.component';
+import { SimilarityComponent } from './components/similarity/similarity.component';
 const routes: Routes = [
     { path: '', pathMatch: 'full', redirectTo: 'home' },
     {
@@ -59,15 +61,24 @@ const routes: Routes = [
         path: 'privacy_policy',
         component: PrivacyPolicyComponent,
     },
-
-    {
-        path: 'similarity',
-        component: SimilarityTextComponent,
-    },
-
     {
         path: 'features',
         component: FeaturesComponent,
+    },
+
+    {
+        path: 'lawyer',
+        component: LawyerComponent,
+    },
+
+    {
+        path: 'customer',
+        component: CustomersComponent,
+    },
+
+    {
+        path: 'regulator',
+        component: RegulatorComponent,
     },
 ];
 

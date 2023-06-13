@@ -8,9 +8,9 @@ import {
 } from 'ag-grid-community';
 import { Feature, Keyword, ProductData } from 'src/app/models/data';
 
-import featureData from '../../../assets/explore/prod_features.json';
-import keywordData from '../../../assets/explore/prod_keywords.json';
-import _data from '../../../assets/explore/smart_products.json';
+import featureData from '../../../assets/explore/features.json';
+import keywordData from '../../../assets/explore/keywords.json';
+import _data from '../../../assets/explore/metadata.json';
 import { BooleanCellRendererComponent } from '../boolean-cell-renderer/boolean-cell-renderer.component';
 import { ButtonRendererComponent } from '../button/button.component';
 import { FeatureModalComponent } from '../feature-modal/feature-modal.component';
@@ -36,6 +36,7 @@ export class DataComponent {
                 onClick: this.onKeywordButtonClick.bind(this),
                 label: 'Click',
             },
+            width: 150,
         },
         {
             headerName: 'Features',
@@ -45,12 +46,14 @@ export class DataComponent {
                 onClick: this.onFeatureButtonClick.bind(this),
                 label: 'Click',
             },
+            width: 150,
         },
-        { field: 'manufacturer', pinned: 'left' },
+        { field: 'manufacturer', pinned: 'left', minWidth: 160 },
         {
             headerName: 'Manufacturer URL',
             field: 'manufacturer_url',
             cellRenderer: 'urlRenderer',
+            minWidth: 200,
         },
         { field: 'country' },
         {
@@ -61,12 +64,12 @@ export class DataComponent {
         },
         { field: 'category' },
         {
-            headerName: 'Privacy Policy URL',
+            headerName: 'Policy URL',
             field: 'policy_url',
             cellRenderer: 'urlRenderer',
         },
         {
-            headerName: 'Privacy Policy',
+            headerName: 'Policy',
             headerTooltip: 'Click to view the privacy policy',
             cellRenderer: 'buttonRenderer',
             cellRendererParams: {
@@ -194,7 +197,7 @@ export class DataComponent {
         this.featuresData = this.selected.map((element) => element?.features);
         this.keywordData = this.selected.map((element) => element?.keywords);
         this.featureRowData$ = this.featuresData;
-        this.keywordRowData$ = this.keywordData
+        this.keywordRowData$ = this.keywordData;
         this.showFeatures = this.selected.length > 0;
     }
 
@@ -222,12 +225,12 @@ export class DataComponent {
         modalRef.componentInstance.policyText = params?.data?.policy_text;
     }
 
-    onGridReady(params: GridReadyEvent) {
-        this.gridApi = params.api;
-        params.api.sizeColumnsToFit();
-    }
+    // onGridReady(params: GridReadyEvent) {
+    //     this.gridApi = params.api;
+    //     params.api.sizeColumnsToFit();
+    // }
 
-    onSecondGridReady(params: GridReadyEvent) {
-        params.api.sizeColumnsToFit();
-    }
+    // onSecondGridReady(params: GridReadyEvent) {
+    //     params.api.sizeColumnsToFit();
+    // }
 }

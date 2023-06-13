@@ -15,8 +15,8 @@ import {
     GridReadyEvent,
 } from 'ag-grid-community';
 import embedData from '../../../assets/data/embed.json';
-import _heatmapData from '../../../assets/data/heat.json';
-import similarityData from '../../../assets/data/similarity_data.json';
+import similarityData from '../../../assets/explore/manufacturers.json';
+import _heatmapData from '../../../assets/explore/matrix.json';
 import { ModalComponent } from '../modal/modal.component';
 
 interface HeatMapEntry {

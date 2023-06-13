@@ -16,25 +16,26 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { AmbiguityComponent } from './components/ambiguity/ambiguity.component';
 import { BibtexCitationComponent } from './components/bibtex-citation/bibtex-citation.component';
+import { BooleanCellRendererComponent } from './components/boolean-cell-renderer/boolean-cell-renderer.component';
 import { ButtonRendererComponent } from './components/button/button.component';
+import { CustomersComponent } from './components/customers/customers.component';
 import { DataComponent } from './components/data/data.component';
 import { DatasetComponent } from './components/dataset/dataset.component';
 import { FeatureModalComponent } from './components/feature-modal/feature-modal.component';
 import { FeaturesComponent } from './components/features/features.component';
 import { HomeComponent } from './components/home/home.component';
 import { KeyInformationComponent } from './components/key-information/key-information.component';
+import { KeywordModalComponent } from './components/keyword-modal/keyword-modal.component';
 import { KeywordComponent } from './components/keyword/keyword.component';
+import { LawyerComponent } from './components/lawyer/lawyer.component';
 import { MembersComponent } from './components/members/members.component';
 import { MLAnalysisComponent } from './components/mlanalysis/mlanalysis.component';
 import { ModalComponent } from './components/modal/modal.component';
-import { PaperComponent } from './components/paper/paper.component';
+import { PolicyTextModalComponent } from './components/policy-text-modal/policy-text-modal.component';
 import { PrivacyPolicyComponent } from './components/privacy-policy/privacy-policy.component';
 import { PublicationsComponent } from './components/publications/publications.component';
-import { SimilarityTextComponent } from './components/similarity-text/similarity-text.component';
+import { RegulatorComponent } from './components/regulator/regulator.component';
 import { SimilarityComponent } from './components/similarity/similarity.component';
-import { PolicyTextModalComponent } from './components/policy-text-modal/policy-text-modal.component';
-import { BooleanCellRendererComponent } from './components/boolean-cell-renderer/boolean-cell-renderer.component';
-import { KeywordModalComponent } from './components/keyword-modal/keyword-modal.component';
 import { UrlRendererComponent } from './components/url-renderer/url-renderer.component';
 
 PlotlyModule.plotlyjs = PlotlyJS;
@@ -52,17 +53,18 @@ PlotlyModule.plotlyjs = PlotlyJS;
     PublicationsComponent,
     DatasetComponent,
     PrivacyPolicyComponent,
-    SimilarityTextComponent,
     FeaturesComponent,
     ModalComponent,
     BibtexCitationComponent,
-    PaperComponent,
     FeatureModalComponent,
     ButtonRendererComponent,
     PolicyTextModalComponent,
     BooleanCellRendererComponent,
     KeywordModalComponent,
-    UrlRendererComponent
+    UrlRendererComponent,
+    CustomersComponent,
+    LawyerComponent,
+    RegulatorComponent
   ],
   imports: [
     BrowserModule,

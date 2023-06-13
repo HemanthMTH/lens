@@ -1,0 +1,141 @@
+<div class="container my-5">
+    <h2 class="fw-bold text-center">GDPR's Impact on Privacy Policies</h2>
+    <p class="lead">
+        Welcome to our in-depth exploration of GDPR's impact on privacy
+        policies. With PrivacyLens, we track the evolution of these policies
+        before and after GDPR's implementation by tracking Policy changes over time.
+    </p>
+
+    <h3 class="fw-bold lead">Policy Updates</h3>
+    <p class="lead">
+        In order to keep users informed of changes in data collection and usage,
+        policy updates are crucial. Our analysis categorized policies into two
+        groups - device-specific and non-device-specific. Out of the 462
+        policies analyzed, only 284 indicated when they were last updated.
+        Charts shown below illustrates the updates made on each device type
+        privacy policy over the years. Red line in both the charts depicts as a
+        boundary to check updates on policies before and after GDPR | CCPA
+        happened.
+    </p>
+    <div class="alert alert-info text-center mt-2 custom" role="alert">
+        <i class="fa fa-info-circle me-2"></i>
+        <span
+            ><strong>Note: </strong>Red boundary line in the below charts
+            represents the year when GDPR happened</span
+        >
+    </div>
+
+    <ng-select
+        [items]="devices"
+        bindLabel="name"
+        placeholder="Select Device Type"
+        (change)="onDeviceTypeChange($event)"
+        [(ngModel)]="selectedDevice"
+    >
+    </ng-select>
+    <div *ngIf="!!selectedDevice" class="container my-5 text-center">
+        <div class="row d-flex justify-content-center">
+            <div class="col-auto">
+                <plotly-plot
+                    [data]="timelineData"
+                    [layout]="graph.layout"
+                    [config]="graph.config"
+                ></plotly-plot>
+            </div>
+            <div class="col-auto">
+                <plotly-plot
+                    [data]="noMentionTimelineData"
+                    [layout]="graph2.layout"
+                    [config]="graph.config"
+                ></plotly-plot>
+            </div>
+        </div>
+    </div>
+    <p class="lead">
+        We observed that around 88% of policies were revised following the
+        introduction of GDPR and CCPA in 2018. This could be due to
+        manufacturers recognizing the importance of incorporating new guidelines
+        and responsibilities brought about by GDPR and CCPA, resulting in a
+        surge of updates to privacy policies. The results emphasize the
+        significance of policy updates and the necessity of keeping policies
+        current with the most recent laws and regulations to guarantee the
+        safeguarding and proper management of user data.
+    </p>
+
+    <p class="lead">
+        Here we illustrate the importance of data privacy regulations worldwide,
+        which require websites and devices to comply with strict laws on
+        collecting and storing user data. Failure to comply can result in heavy
+        fines and prosecution. The study investigated privacy policies from
+        different countries and found that the USA was the most prominent
+        manufacturer of IoT devices, with smart home devices being the most
+        common type, followed by China with smart home devices and smart scales.
+        Other countries, including Germany, Japan, France, and the UK, also had
+        a significant contribution to the devices studied.
+    </p>
+    <p class="lead">
+        The chart below represents the distribution of privacy policies into two
+        categories based on whether the name of a smart device is mentioned or
+        not, for each of the smart device types that we analyzed.
+    </p>
+    <div class="container mt-5 text-center">
+        <div class="row d-flex justify-content-center">
+            <div class="col-auto">
+                <plotly-plot
+                    [data]="deviceData"
+                    [layout]="deviceLayout"
+                ></plotly-plot>
+            </div>
+        </div>
+    </div>
+    <p class="lead">
+        We found that some device categories, such as smart cameras, lights,
+        watches, sensors, and home devices, were more prevalent than others like
+        smart gaming equipment, projectors, body scanners, and mounts. Fewer
+        options were available in the latter categories, and our analysis showed
+        that their privacy policies were significantly worse than those with
+        more manufacturers. This could be due to monopolistic conditions leading
+        to less effort in policy development. A clear correlation was observed
+        between the number of manufacturers and privacy policy quality. Our
+        analysis also identified significant gaps in the information provided by
+        smart device privacy policies, particularly among European
+        manufacturers, where 60% didn't mention how they handle data collected
+        from devices. This highlights the need for better policies that inform
+        users about data collection practices.
+    </p>
+    <p class="lead">
+        The following chart depicts the distribution of privacy policies in
+        different countries based on whether or not they contain the device
+        name.
+    </p>
+
+    <div class="container mt-5 text-center">
+        <div class="row d-flex justify-content-center">
+            <div class="col-auto">
+                <plotly-plot
+                    [data]="countryData"
+                    [layout]="countryLayout"
+                ></plotly-plot>
+            </div>
+        </div>
+    </div>
+    <ng-select
+        [items]="countries"
+        bindLabel="name"
+        placeholder="Select country"
+        (change)="onCountryChange($event)"
+        [(ngModel)]="selectedCountry"
+    >
+    </ng-select>
+    <div *ngIf="!!selectedCountry" class="container my-5 text-center">
+        <div class="row d-flex justify-content-center">
+            <div class="col-auto">
+                <plotly-plot
+                    [data]="currentCountryData"
+                    [layout]="barLayout"
+                ></plotly-plot>
+            </div>
+        </div>
+    </div>
+    
+</div>
