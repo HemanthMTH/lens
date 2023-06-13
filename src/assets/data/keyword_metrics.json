@@ -1,72 +1,72 @@
 [
     {
-        "group_name": "Third Party Collection",
-        "key": "third_party_collection",
-        "minimum": 0,
-        "maximum": 74,
-        "median": 5
-    },
-    {
-        "group_name": "First Party Collection",
-        "key":"first_party_collection",
-        "minimum": 0.0,
-        "maximum": 120.0,
-        "median": 53.0
-    },
-    {
         "group_name": "Do Not Track",
-        "key":"do_not_track",
+        "key": "do_not_track",
         "minimum": 0,
-        "maximum": 4,
-        "median": 0
+        "maximum": 8,
+        "mean": 0.8579881656804734
     },
     {
         "group_name": "Data Security",
         "key": "data_security",
         "minimum": 0,
-        "maximum": 50,
-        "median": 7
+        "maximum": 84,
+        "mean": 14.053254437869823
     },
     {
-        "group_name": "User Choice",
-        "key": "user_choice",
+        "group_name": "First Party Collection",
+        "key": "first_party_collection",
         "minimum": 0,
-        "maximum": 38,
-        "median": 2
+        "maximum": 685,
+        "mean": 122.23786982248521
     },
     {
-        "group_name": "Data",
-        "key": "data",
-        "minimum": 0.0,
-        "maximum": 92.0,
-        "median": 9.0
-    },
-    {
-        "group_name": "Legislation",
-        "key": "legislation",
+        "group_name": "Third Party Collection",
+        "key": "third_party_collection",
         "minimum": 0,
-        "maximum": 28,
-        "median": 0
-    },
-    {
-        "group_name": "Access/Edit/Delete",
-        "key": "access_edit_delete",
-        "minimum": 0.0,
-        "maximum": 72.0,
-        "median": 8.0
-    },
-    {
-        "group_name": "Policy Change",
-        "key": "policy_change",
-        "minimum": 0,
-        "maximum": 30,
-        "median": 4
+        "maximum": 214,
+        "mean": 17.266272189349113
     },
     {
         "group_name": "Opt-Out",
         "key": "opt_out",
         "minimum": 0,
-        "maximum": 30,
-        "median": 1
+        "maximum": 38,
+        "mean": 2.230769230769231
+    },
+    {
+        "group_name": "User Choice",
+        "key": "user_choice",
+        "minimum": 0,
+        "maximum": 70,
+        "mean": 6.409467455621302
+    },
+    {
+        "group_name": "Data",
+        "key": "data",
+        "minimum": 0,
+        "maximum": 696,
+        "mean": 112.01893491124261
+    },
+    {
+        "group_name": "Legislation",
+        "key": "legislation",
+        "minimum": 0,
+        "maximum": 76,
+        "mean": 2.698224852071006
+    },
+    {
+        "group_name": "Access/Edit/Delete",
+        "key": "access_edit_delete",
+        "minimum": 0,
+        "maximum": 161,
+        "mean": 23.080473372781064
+    },
+    {
+        "group_name": "Policy Change",
+        "key": "policy_change",
+        "minimum": 0,
+        "maximum": 51,
+        "mean": 7.621301775147929
     }
 ]

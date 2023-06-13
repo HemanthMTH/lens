@@ -7,10 +7,10 @@
         "third_party_collection": 18,
         "opt_out": 0,
         "user_choice": 5,
-        "data": 103,
+        "data": 114,
         "legislation": 0,
         "access_edit_delete": 24,
-        "policy_change": 11
+        "policy_change": 8
     },
     {
         "url": "https://www.lg.com",
@@ -27,33 +27,33 @@
     },
     {
         "url": "https://www.midea.com",
-        "do_not_track": 0,
+        "do_not_track": 2,
         "data_security": 23,
         "first_party_collection": 290,
         "third_party_collection": 23,
         "opt_out": 1,
         "user_choice": 24,
-        "data": 203,
+        "data": 215,
         "legislation": 12,
         "access_edit_delete": 53,
-        "policy_change": 30
+        "policy_change": 21
     },
     {
         "url": "https://www.tcl.com",
-        "do_not_track": 0,
-        "data_security": 36,
+        "do_not_track": 1,
+        "data_security": 31,
         "first_party_collection": 285,
         "third_party_collection": 36,
         "opt_out": 2,
         "user_choice": 27,
-        "data": 330,
+        "data": 446,
         "legislation": 0,
         "access_edit_delete": 36,
-        "policy_change": 14
+        "policy_change": 10
     },
     {
         "url": "https://www.costway.com",
-        "do_not_track": 0,
+        "do_not_track": 5,
         "data_security": 9,
         "first_party_collection": 184,
         "third_party_collection": 19,
@@ -62,72 +62,72 @@
         "data": 129,
         "legislation": 6,
         "access_edit_delete": 18,
-        "policy_change": 7
+        "policy_change": 6
     },
     {
         "url": "https://www.amazon.com",
         "do_not_track": 0,
-        "data_security": 22,
+        "data_security": 21,
         "first_party_collection": 211,
         "third_party_collection": 18,
         "opt_out": 1,
         "user_choice": 6,
-        "data": 163,
+        "data": 155,
         "legislation": 0,
         "access_edit_delete": 56,
-        "policy_change": 21
+        "policy_change": 19
     },
     {
         "url": "https://www.ivationproducts.com",
         "do_not_track": 0,
-        "data_security": 14,
+        "data_security": 13,
         "first_party_collection": 87,
         "third_party_collection": 9,
         "opt_out": 1,
         "user_choice": 2,
-        "data": 59,
+        "data": 81,
         "legislation": 0,
         "access_edit_delete": 23,
-        "policy_change": 7
+        "policy_change": 5
     },
     {
         "url": "https://www.friedrich.com",
-        "do_not_track": 0,
+        "do_not_track": 6,
         "data_security": 18,
         "first_party_collection": 109,
         "third_party_collection": 19,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 83,
+        "data": 101,
         "legislation": 0,
         "access_edit_delete": 24,
-        "policy_change": 11
+        "policy_change": 8
     },
     {
         "url": "https://serenelifehome.com",
-        "do_not_track": 0,
+        "do_not_track": 1,
         "data_security": 25,
         "first_party_collection": 102,
         "third_party_collection": 14,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 57,
+        "data": 60,
         "legislation": 0,
         "access_edit_delete": 34,
-        "policy_change": 20
+        "policy_change": 11
     },
     {
         "url": "https://www.honeywellstore.com",
         "do_not_track": 0,
-        "data_security": 16,
+        "data_security": 15,
         "first_party_collection": 178,
         "third_party_collection": 37,
         "opt_out": 1,
         "user_choice": 5,
-        "data": 137,
+        "data": 132,
         "legislation": 0,
         "access_edit_delete": 30,
-        "policy_change": 9
+        "policy_change": 6
     },
     {
         "url": "https://www.ecobee.com",
@@ -137,10 +137,10 @@
         "third_party_collection": 37,
         "opt_out": 2,
         "user_choice": 11,
-        "data": 230,
+        "data": 294,
         "legislation": 9,
         "access_edit_delete": 75,
-        "policy_change": 31
+        "policy_change": 21
     },
     {
         "url": "https://www.arcticairsystems.com",
@@ -150,36 +150,36 @@
         "third_party_collection": 3,
         "opt_out": 0,
         "user_choice": 4,
-        "data": 52,
+        "data": 60,
         "legislation": 2,
         "access_edit_delete": 13,
-        "policy_change": 5
+        "policy_change": 4
     },
     {
         "url": "https://www.dreo.com",
-        "do_not_track": 0,
-        "data_security": 41,
+        "do_not_track": 5,
+        "data_security": 34,
         "first_party_collection": 334,
         "third_party_collection": 28,
         "opt_out": 11,
         "user_choice": 26,
-        "data": 268,
+        "data": 355,
         "legislation": 34,
         "access_edit_delete": 51,
-        "policy_change": 20
+        "policy_change": 15
     },
     {
         "url": "https://www.dealnews.com",
-        "do_not_track": 0,
-        "data_security": 28,
+        "do_not_track": 3,
+        "data_security": 24,
         "first_party_collection": 209,
         "third_party_collection": 23,
         "opt_out": 2,
         "user_choice": 10,
-        "data": 113,
+        "data": 165,
         "legislation": 1,
         "access_edit_delete": 58,
-        "policy_change": 20
+        "policy_change": 13
     },
     {
         "url": "https://www.geappliances.com",
@@ -189,62 +189,62 @@
         "third_party_collection": 4,
         "opt_out": 0,
         "user_choice": 7,
-        "data": 6,
+        "data": 22,
         "legislation": 0,
         "access_edit_delete": 1,
         "policy_change": 1
     },
     {
         "url": "https://levoit.com",
-        "do_not_track": 0,
-        "data_security": 27,
+        "do_not_track": 5,
+        "data_security": 23,
         "first_party_collection": 246,
         "third_party_collection": 24,
         "opt_out": 2,
         "user_choice": 15,
-        "data": 139,
+        "data": 154,
         "legislation": 2,
         "access_edit_delete": 45,
-        "policy_change": 27
+        "policy_change": 17
     },
     {
         "url": "https://www.delonghi.com",
         "do_not_track": 0,
-        "data_security": 42,
+        "data_security": 33,
         "first_party_collection": 109,
         "third_party_collection": 21,
         "opt_out": 2,
         "user_choice": 15,
-        "data": 106,
+        "data": 202,
         "legislation": 3,
         "access_edit_delete": 31,
-        "policy_change": 14
+        "policy_change": 10
     },
     {
         "url": "https://www.liftmaster.com",
-        "do_not_track": 0,
-        "data_security": 21,
+        "do_not_track": 5,
+        "data_security": 19,
         "first_party_collection": 356,
         "third_party_collection": 50,
         "opt_out": 8,
         "user_choice": 20,
-        "data": 316,
+        "data": 427,
         "legislation": 6,
         "access_edit_delete": 74,
-        "policy_change": 15
+        "policy_change": 12
     },
     {
         "url": "https://ww2.lifeplus.com",
-        "do_not_track": 0,
-        "data_security": 15,
+        "do_not_track": 3,
+        "data_security": 14,
         "first_party_collection": 134,
         "third_party_collection": 13,
         "opt_out": 0,
         "user_choice": 6,
-        "data": 84,
+        "data": 82,
         "legislation": 0,
         "access_edit_delete": 22,
-        "policy_change": 18
+        "policy_change": 11
     },
     {
         "url": "https://www.blackanddecker.com",
@@ -261,29 +261,29 @@
     },
     {
         "url": "https://www.pelonis.com",
-        "do_not_track": 0,
+        "do_not_track": 2,
         "data_security": 24,
         "first_party_collection": 290,
         "third_party_collection": 23,
         "opt_out": 1,
         "user_choice": 24,
-        "data": 192,
+        "data": 204,
         "legislation": 12,
         "access_edit_delete": 49,
-        "policy_change": 29
+        "policy_change": 20
     },
     {
         "url": "https://carrier.huawei.com",
         "do_not_track": 0,
-        "data_security": 30,
+        "data_security": 23,
         "first_party_collection": 78,
         "third_party_collection": 15,
         "opt_out": 1,
         "user_choice": 7,
-        "data": 75,
+        "data": 155,
         "legislation": 0,
         "access_edit_delete": 27,
-        "policy_change": 18
+        "policy_change": 12
     },
     {
         "url": "https://www.rosewill.com",
@@ -293,7 +293,7 @@
         "third_party_collection": 2,
         "opt_out": 0,
         "user_choice": 2,
-        "data": 23,
+        "data": 48,
         "legislation": 0,
         "access_edit_delete": 6,
         "policy_change": 0
@@ -306,10 +306,10 @@
         "third_party_collection": 20,
         "opt_out": 0,
         "user_choice": 6,
-        "data": 39,
+        "data": 40,
         "legislation": 0,
         "access_edit_delete": 12,
-        "policy_change": 8
+        "policy_change": 5
     },
     {
         "url": "https://www.evehome.com",
@@ -319,7 +319,7 @@
         "third_party_collection": 1,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 4,
+        "data": 15,
         "legislation": 0,
         "access_edit_delete": 12,
         "policy_change": 2
@@ -327,28 +327,28 @@
     {
         "url": "https://www.arm.com",
         "do_not_track": 0,
-        "data_security": 28,
+        "data_security": 23,
         "first_party_collection": 110,
         "third_party_collection": 18,
         "opt_out": 0,
         "user_choice": 10,
-        "data": 108,
+        "data": 192,
         "legislation": 2,
         "access_edit_delete": 26,
-        "policy_change": 15
+        "policy_change": 11
     },
     {
         "url": "https://sonoff.tech",
-        "do_not_track": 0,
+        "do_not_track": 3,
         "data_security": 9,
         "first_party_collection": 187,
         "third_party_collection": 15,
         "opt_out": 0,
         "user_choice": 6,
-        "data": 67,
+        "data": 87,
         "legislation": 0,
         "access_edit_delete": 25,
-        "policy_change": 11
+        "policy_change": 8
     },
     {
         "url": "https://www.aqara.com",
@@ -358,7 +358,7 @@
         "third_party_collection": 2,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 26,
+        "data": 30,
         "legislation": 0,
         "access_edit_delete": 0,
         "policy_change": 0
@@ -371,49 +371,49 @@
         "third_party_collection": 6,
         "opt_out": 0,
         "user_choice": 2,
-        "data": 43,
+        "data": 42,
         "legislation": 0,
         "access_edit_delete": 5,
         "policy_change": 1
     },
     {
         "url": "https://www.lutron.com",
-        "do_not_track": 0,
+        "do_not_track": 1,
         "data_security": 11,
         "first_party_collection": 125,
         "third_party_collection": 16,
         "opt_out": 4,
         "user_choice": 4,
-        "data": 81,
+        "data": 109,
         "legislation": 0,
         "access_edit_delete": 21,
-        "policy_change": 21
+        "policy_change": 12
     },
     {
         "url": "https://www.brivo.com",
         "do_not_track": 0,
-        "data_security": 22,
+        "data_security": 18,
         "first_party_collection": 142,
         "third_party_collection": 18,
         "opt_out": 1,
         "user_choice": 4,
-        "data": 71,
+        "data": 92,
         "legislation": 3,
         "access_edit_delete": 25,
-        "policy_change": 11
+        "policy_change": 9
     },
     {
         "url": "https://www.bose.com",
         "do_not_track": 0,
-        "data_security": 29,
+        "data_security": 25,
         "first_party_collection": 275,
         "third_party_collection": 17,
         "opt_out": 15,
         "user_choice": 29,
-        "data": 159,
+        "data": 169,
         "legislation": 3,
         "access_edit_delete": 46,
-        "policy_change": 28
+        "policy_change": 18
     },
     {
         "url": "https://www.hbl.com",
@@ -423,7 +423,7 @@
         "third_party_collection": 1,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 4,
+        "data": 8,
         "legislation": 0,
         "access_edit_delete": 0,
         "policy_change": 0
@@ -436,10 +436,10 @@
         "third_party_collection": 3,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 33,
+        "data": 35,
         "legislation": 0,
         "access_edit_delete": 5,
-        "policy_change": 5
+        "policy_change": 3
     },
     {
         "url": "http://www.rfxcom.com",
@@ -457,67 +457,67 @@
     {
         "url": "https://www.tp-link.com",
         "do_not_track": 0,
-        "data_security": 52,
+        "data_security": 48,
         "first_party_collection": 274,
         "third_party_collection": 27,
         "opt_out": 1,
         "user_choice": 20,
-        "data": 260,
+        "data": 280,
         "legislation": 2,
         "access_edit_delete": 119,
-        "policy_change": 75
+        "policy_change": 46
     },
     {
         "url": "https://www.meross.com",
-        "do_not_track": 0,
-        "data_security": 22,
+        "do_not_track": 1,
+        "data_security": 20,
         "first_party_collection": 171,
         "third_party_collection": 24,
         "opt_out": 0,
         "user_choice": 18,
-        "data": 149,
+        "data": 206,
         "legislation": 3,
         "access_edit_delete": 52,
-        "policy_change": 25
+        "policy_change": 20
     },
     {
         "url": "https://iorein.com",
-        "do_not_track": 0,
+        "do_not_track": 2,
         "data_security": 1,
         "first_party_collection": 62,
         "third_party_collection": 6,
         "opt_out": 2,
         "user_choice": 1,
-        "data": 26,
+        "data": 27,
         "legislation": 0,
         "access_edit_delete": 9,
-        "policy_change": 6
+        "policy_change": 4
     },
     {
         "url": "https://www.broadlink.ae",
         "do_not_track": 0,
-        "data_security": 18,
+        "data_security": 16,
         "first_party_collection": 88,
         "third_party_collection": 8,
         "opt_out": 0,
         "user_choice": 5,
-        "data": 75,
+        "data": 120,
         "legislation": 0,
         "access_edit_delete": 20,
-        "policy_change": 12
+        "policy_change": 8
     },
     {
         "url": "https://www.wemo.com",
-        "do_not_track": 0,
-        "data_security": 27,
+        "do_not_track": 1,
+        "data_security": 21,
         "first_party_collection": 267,
         "third_party_collection": 41,
         "opt_out": 0,
         "user_choice": 11,
-        "data": 175,
+        "data": 195,
         "legislation": 2,
         "access_edit_delete": 35,
-        "policy_change": 22
+        "policy_change": 17
     },
     {
         "url": "https://staminaproducts.com",
@@ -527,72 +527,72 @@
         "third_party_collection": 2,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 19,
+        "data": 22,
         "legislation": 0,
         "access_edit_delete": 6,
-        "policy_change": 4
+        "policy_change": 2
     },
     {
         "url": "https://www.vont.com",
         "do_not_track": 0,
-        "data_security": 12,
+        "data_security": 11,
         "first_party_collection": 87,
         "third_party_collection": 8,
         "opt_out": 2,
         "user_choice": 3,
-        "data": 49,
+        "data": 61,
         "legislation": 4,
         "access_edit_delete": 11,
         "policy_change": 0
     },
     {
         "url": "https://www.teckinhome.com",
-        "do_not_track": 0,
-        "data_security": 6,
+        "do_not_track": 2,
+        "data_security": 4,
         "first_party_collection": 96,
         "third_party_collection": 11,
         "opt_out": 0,
         "user_choice": 4,
-        "data": 46,
+        "data": 48,
         "legislation": 5,
         "access_edit_delete": 13,
-        "policy_change": 6
+        "policy_change": 4
     },
     {
         "url": "https://www.ezlo.com",
-        "do_not_track": 0,
-        "data_security": 35,
+        "do_not_track": 4,
+        "data_security": 29,
         "first_party_collection": 325,
         "third_party_collection": 33,
         "opt_out": 3,
         "user_choice": 12,
-        "data": 241,
+        "data": 264,
         "legislation": 4,
         "access_edit_delete": 41,
-        "policy_change": 16
+        "policy_change": 11
     },
     {
         "url": "https://www.galayou-store.com",
-        "do_not_track": 0,
-        "data_security": 19,
+        "do_not_track": 3,
+        "data_security": 14,
         "first_party_collection": 232,
         "third_party_collection": 40,
         "opt_out": 2,
         "user_choice": 9,
-        "data": 144,
+        "data": 138,
         "legislation": 1,
         "access_edit_delete": 30,
-        "policy_change": 8
+        "policy_change": 6
     },
     {
         "url": "https://aeotec.com",
         "do_not_track": 0,
-        "data_security": 33,
+        "data_security": 22,
         "first_party_collection": 173,
         "third_party_collection": 13,
         "opt_out": 1,
         "user_choice": 24,
-        "data": 151,
+        "data": 285,
         "legislation": 33,
         "access_edit_delete": 26,
         "policy_change": 1
@@ -605,7 +605,7 @@
         "third_party_collection": 1,
         "opt_out": 0,
         "user_choice": 16,
-        "data": 34,
+        "data": 39,
         "legislation": 0,
         "access_edit_delete": 46,
         "policy_change": 3
@@ -618,36 +618,36 @@
         "third_party_collection": 12,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 62,
+        "data": 65,
         "legislation": 0,
         "access_edit_delete": 10,
-        "policy_change": 8
+        "policy_change": 6
     },
     {
         "url": "https://ezvalo.com",
         "do_not_track": 0,
-        "data_security": 9,
+        "data_security": 8,
         "first_party_collection": 41,
         "third_party_collection": 0,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 35,
+        "data": 43,
         "legislation": 1,
         "access_edit_delete": 18,
-        "policy_change": 10
+        "policy_change": 6
     },
     {
         "url": "https://www.belkin.com",
         "do_not_track": 0,
-        "data_security": 23,
+        "data_security": 19,
         "first_party_collection": 255,
         "third_party_collection": 174,
         "opt_out": 4,
         "user_choice": 11,
-        "data": 237,
+        "data": 259,
         "legislation": 1,
         "access_edit_delete": 40,
-        "policy_change": 29
+        "policy_change": 22
     },
     {
         "url": "https://www.sonos.com",
@@ -657,7 +657,7 @@
         "third_party_collection": 0,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 39,
+        "data": 27,
         "legislation": 0,
         "access_edit_delete": 1,
         "policy_change": 0
@@ -670,7 +670,7 @@
         "third_party_collection": 1,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 24,
+        "data": 39,
         "legislation": 0,
         "access_edit_delete": 6,
         "policy_change": 1
@@ -678,15 +678,15 @@
     {
         "url": "https://global.hisense.com",
         "do_not_track": 0,
-        "data_security": 12,
+        "data_security": 10,
         "first_party_collection": 143,
         "third_party_collection": 9,
         "opt_out": 0,
         "user_choice": 2,
-        "data": 242,
+        "data": 255,
         "legislation": 0,
         "access_edit_delete": 28,
-        "policy_change": 12
+        "policy_change": 11
     },
     {
         "url": "https://sunnyhealthfitness.com",
@@ -716,16 +716,16 @@
     },
     {
         "url": "https://shop.avatarcontrols.com",
-        "do_not_track": 0,
-        "data_security": 13,
+        "do_not_track": 1,
+        "data_security": 12,
         "first_party_collection": 64,
         "third_party_collection": 17,
         "opt_out": 0,
         "user_choice": 14,
-        "data": 33,
+        "data": 31,
         "legislation": 0,
         "access_edit_delete": 9,
-        "policy_change": 5
+        "policy_change": 4
     },
     {
         "url": "https://milocks.com",
@@ -735,23 +735,23 @@
         "third_party_collection": 9,
         "opt_out": 1,
         "user_choice": 3,
-        "data": 29,
+        "data": 35,
         "legislation": 0,
         "access_edit_delete": 12,
-        "policy_change": 7
+        "policy_change": 4
     },
     {
         "url": "https://nanoleaf.me",
         "do_not_track": 0,
-        "data_security": 6,
+        "data_security": 4,
         "first_party_collection": 79,
         "third_party_collection": 21,
         "opt_out": 0,
         "user_choice": 10,
-        "data": 83,
+        "data": 105,
         "legislation": 3,
         "access_edit_delete": 10,
-        "policy_change": 6
+        "policy_change": 5
     },
     {
         "url": "https://www.bn-link.com",
@@ -761,7 +761,7 @@
         "third_party_collection": 8,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 29,
+        "data": 31,
         "legislation": 0,
         "access_edit_delete": 8,
         "policy_change": 1
@@ -769,41 +769,41 @@
     {
         "url": "https://www.glocalme.com",
         "do_not_track": 0,
-        "data_security": 28,
+        "data_security": 24,
         "first_party_collection": 111,
         "third_party_collection": 8,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 61,
+        "data": 88,
         "legislation": 2,
         "access_edit_delete": 33,
-        "policy_change": 11
+        "policy_change": 8
     },
     {
         "url": "https://www.irobot.com",
-        "do_not_track": 0,
-        "data_security": 53,
+        "do_not_track": 2,
+        "data_security": 40,
         "first_party_collection": 601,
         "third_party_collection": 53,
         "opt_out": 2,
         "user_choice": 61,
-        "data": 331,
+        "data": 433,
         "legislation": 12,
         "access_edit_delete": 76,
-        "policy_change": 36
+        "policy_change": 27
     },
     {
         "url": "https://us.air-robo.com",
         "do_not_track": 0,
-        "data_security": 18,
+        "data_security": 17,
         "first_party_collection": 129,
         "third_party_collection": 14,
         "opt_out": 0,
         "user_choice": 8,
-        "data": 73,
+        "data": 75,
         "legislation": 2,
         "access_edit_delete": 33,
-        "policy_change": 15
+        "policy_change": 11
     },
     {
         "url": "https://www.asante.com",
@@ -813,23 +813,23 @@
         "third_party_collection": 0,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 25,
+        "data": 26,
         "legislation": 0,
         "access_edit_delete": 10,
-        "policy_change": 11
+        "policy_change": 7
     },
     {
         "url": "https://obodetech.com",
-        "do_not_track": 0,
-        "data_security": 17,
+        "do_not_track": 6,
+        "data_security": 15,
         "first_party_collection": 131,
         "third_party_collection": 25,
         "opt_out": 3,
         "user_choice": 7,
-        "data": 65,
+        "data": 73,
         "legislation": 5,
         "access_edit_delete": 17,
-        "policy_change": 6
+        "policy_change": 4
     },
     {
         "url": "https://www.laresar.us",
@@ -852,23 +852,23 @@
         "third_party_collection": 6,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 48,
+        "data": 49,
         "legislation": 0,
         "access_edit_delete": 27,
-        "policy_change": 17
+        "policy_change": 12
     },
     {
         "url": "https://smart.360.com",
         "do_not_track": 0,
-        "data_security": 32,
+        "data_security": 22,
         "first_party_collection": 69,
         "third_party_collection": 10,
         "opt_out": 0,
         "user_choice": 5,
-        "data": 51,
+        "data": 130,
         "legislation": 0,
         "access_edit_delete": 25,
-        "policy_change": 14
+        "policy_change": 10
     },
     {
         "url": "https://www.dreametech.com",
@@ -878,62 +878,62 @@
         "third_party_collection": 10,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 31,
+        "data": 44,
         "legislation": 0,
         "access_edit_delete": 5,
-        "policy_change": 7
+        "policy_change": 4
     },
     {
         "url": "https://www.viomi.com",
         "do_not_track": 0,
-        "data_security": 39,
+        "data_security": 34,
         "first_party_collection": 199,
         "third_party_collection": 27,
         "opt_out": 0,
         "user_choice": 6,
-        "data": 145,
+        "data": 156,
         "legislation": 0,
         "access_edit_delete": 28,
-        "policy_change": 16
+        "policy_change": 12
     },
     {
         "url": "https://www.deenkee.com",
-        "do_not_track": 0,
+        "do_not_track": 2,
         "data_security": 13,
         "first_party_collection": 120,
         "third_party_collection": 4,
         "opt_out": 0,
         "user_choice": 2,
-        "data": 62,
+        "data": 57,
         "legislation": 0,
         "access_edit_delete": 26,
-        "policy_change": 18
+        "policy_change": 10
     },
     {
         "url": "https://www.ultenic.com",
-        "do_not_track": 0,
+        "do_not_track": 2,
         "data_security": 12,
         "first_party_collection": 149,
         "third_party_collection": 4,
         "opt_out": 2,
         "user_choice": 3,
-        "data": 84,
+        "data": 78,
         "legislation": 0,
         "access_edit_delete": 30,
-        "policy_change": 18
+        "policy_change": 10
     },
     {
         "url": "https://www.eureka.com",
-        "do_not_track": 0,
+        "do_not_track": 2,
         "data_security": 23,
         "first_party_collection": 289,
         "third_party_collection": 23,
         "opt_out": 1,
         "user_choice": 24,
-        "data": 196,
+        "data": 208,
         "legislation": 12,
         "access_edit_delete": 53,
-        "policy_change": 30
+        "policy_change": 21
     },
     {
         "url": "https://lefantlife.com",
@@ -950,68 +950,68 @@
     },
     {
         "url": "https://owners.bobsweep.com",
-        "do_not_track": 0,
+        "do_not_track": 1,
         "data_security": 15,
         "first_party_collection": 194,
         "third_party_collection": 39,
         "opt_out": 0,
         "user_choice": 15,
-        "data": 112,
+        "data": 121,
         "legislation": 0,
         "access_edit_delete": 22,
-        "policy_change": 9
+        "policy_change": 6
     },
     {
         "url": "https://www.ecovacs.com",
         "do_not_track": 0,
-        "data_security": 24,
+        "data_security": 22,
         "first_party_collection": 320,
         "third_party_collection": 28,
         "opt_out": 5,
         "user_choice": 14,
-        "data": 196,
+        "data": 210,
         "legislation": 12,
         "access_edit_delete": 58,
-        "policy_change": 40
+        "policy_change": 26
     },
     {
         "url": "https://www.bagotte.com",
-        "do_not_track": 0,
+        "do_not_track": 2,
         "data_security": 13,
         "first_party_collection": 121,
         "third_party_collection": 4,
         "opt_out": 0,
         "user_choice": 2,
-        "data": 62,
+        "data": 57,
         "legislation": 0,
         "access_edit_delete": 26,
-        "policy_change": 18
+        "policy_change": 10
     },
     {
         "url": "https://www.sensorpush.com",
-        "do_not_track": 0,
+        "do_not_track": 3,
         "data_security": 10,
         "first_party_collection": 192,
         "third_party_collection": 24,
         "opt_out": 1,
         "user_choice": 6,
-        "data": 115,
+        "data": 153,
         "legislation": 0,
         "access_edit_delete": 26,
-        "policy_change": 5
+        "policy_change": 4
     },
     {
         "url": "https://www.typhur.com",
         "do_not_track": 0,
-        "data_security": 25,
+        "data_security": 21,
         "first_party_collection": 108,
         "third_party_collection": 9,
         "opt_out": 3,
         "user_choice": 7,
-        "data": 82,
+        "data": 99,
         "legislation": 0,
         "access_edit_delete": 24,
-        "policy_change": 11
+        "policy_change": 7
     },
     {
         "url": "https://www.kitchenaid.com",
@@ -1034,7 +1034,7 @@
         "third_party_collection": 3,
         "opt_out": 0,
         "user_choice": 2,
-        "data": 24,
+        "data": 27,
         "legislation": 0,
         "access_edit_delete": 0,
         "policy_change": 0
@@ -1042,28 +1042,28 @@
     {
         "url": "https://www.withings.com",
         "do_not_track": 0,
-        "data_security": 30,
+        "data_security": 28,
         "first_party_collection": 200,
         "third_party_collection": 29,
         "opt_out": 0,
         "user_choice": 11,
-        "data": 209,
+        "data": 366,
         "legislation": 8,
         "access_edit_delete": 103,
-        "policy_change": 50
+        "policy_change": 37
     },
     {
         "url": "https://nutrichefkitchen.com",
-        "do_not_track": 0,
+        "do_not_track": 1,
         "data_security": 25,
         "first_party_collection": 102,
         "third_party_collection": 14,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 56,
+        "data": 59,
         "legislation": 0,
         "access_edit_delete": 33,
-        "policy_change": 20
+        "policy_change": 11
     },
     {
         "url": "http://www.szbfour.com",
@@ -1080,16 +1080,16 @@
     },
     {
         "url": "https://www.masimo.com",
-        "do_not_track": 0,
-        "data_security": 54,
+        "do_not_track": 7,
+        "data_security": 40,
         "first_party_collection": 314,
         "third_party_collection": 22,
         "opt_out": 1,
         "user_choice": 21,
-        "data": 166,
+        "data": 208,
         "legislation": 4,
         "access_edit_delete": 46,
-        "policy_change": 9
+        "policy_change": 6
     },
     {
         "url": "https://life.tenergy.com",
@@ -1099,10 +1099,10 @@
         "third_party_collection": 8,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 37,
+        "data": 42,
         "legislation": 0,
         "access_edit_delete": 13,
-        "policy_change": 16
+        "policy_change": 10
     },
     {
         "url": "https://www.safety1st.com",
@@ -1120,28 +1120,28 @@
     {
         "url": "https://www.weber.com",
         "do_not_track": 0,
-        "data_security": 24,
+        "data_security": 20,
         "first_party_collection": 203,
         "third_party_collection": 34,
         "opt_out": 3,
         "user_choice": 14,
-        "data": 154,
+        "data": 207,
         "legislation": 0,
         "access_edit_delete": 47,
-        "policy_change": 17
+        "policy_change": 10
     },
     {
         "url": "https://www.acurite.com",
         "do_not_track": 0,
-        "data_security": 25,
+        "data_security": 22,
         "first_party_collection": 190,
         "third_party_collection": 24,
         "opt_out": 1,
         "user_choice": 3,
-        "data": 131,
+        "data": 155,
         "legislation": 0,
         "access_edit_delete": 71,
-        "policy_change": 10
+        "policy_change": 8
     },
     {
         "url": "https://www.lavatools.co",
@@ -1151,36 +1151,36 @@
         "third_party_collection": 1,
         "opt_out": 0,
         "user_choice": 2,
-        "data": 40,
+        "data": 41,
         "legislation": 1,
         "access_edit_delete": 17,
-        "policy_change": 10
+        "policy_change": 6
     },
     {
         "url": "https://baldr.com",
-        "do_not_track": 0,
+        "do_not_track": 2,
         "data_security": 8,
         "first_party_collection": 62,
         "third_party_collection": 3,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 30,
+        "data": 32,
         "legislation": 0,
         "access_edit_delete": 18,
-        "policy_change": 11
+        "policy_change": 6
     },
     {
         "url": "https://grilleye.com",
         "do_not_track": 0,
-        "data_security": 13,
+        "data_security": 10,
         "first_party_collection": 107,
         "third_party_collection": 25,
         "opt_out": 2,
         "user_choice": 5,
-        "data": 56,
+        "data": 80,
         "legislation": 0,
         "access_edit_delete": 18,
-        "policy_change": 12
+        "policy_change": 7
     },
     {
         "url": "https://www.deltatrak.com",
@@ -1190,7 +1190,7 @@
         "third_party_collection": 5,
         "opt_out": 0,
         "user_choice": 2,
-        "data": 53,
+        "data": 54,
         "legislation": 0,
         "access_edit_delete": 4,
         "policy_change": 1
@@ -1203,10 +1203,10 @@
         "third_party_collection": 2,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 17,
+        "data": 18,
         "legislation": 0,
         "access_edit_delete": 7,
-        "policy_change": 4
+        "policy_change": 3
     },
     {
         "url": "https://juvale.com",
@@ -1216,23 +1216,23 @@
         "third_party_collection": 21,
         "opt_out": 4,
         "user_choice": 11,
-        "data": 126,
+        "data": 127,
         "legislation": 1,
         "access_edit_delete": 28,
-        "policy_change": 12
+        "policy_change": 9
     },
     {
         "url": "https://www.dekalastore.com",
-        "do_not_track": 0,
-        "data_security": 33,
+        "do_not_track": 4,
+        "data_security": 26,
         "first_party_collection": 285,
         "third_party_collection": 34,
         "opt_out": 4,
         "user_choice": 39,
-        "data": 162,
+        "data": 219,
         "legislation": 9,
         "access_edit_delete": 37,
-        "policy_change": 19
+        "policy_change": 13
     },
     {
         "url": "https://adoriclife.com",
@@ -1242,23 +1242,23 @@
         "third_party_collection": 5,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 18,
+        "data": 19,
         "legislation": 0,
         "access_edit_delete": 10,
-        "policy_change": 9
+        "policy_change": 6
     },
     {
         "url": "https://www.bobvila.com",
         "do_not_track": 0,
         "data_security": 8,
         "first_party_collection": 202,
-        "third_party_collection": 31,
+        "third_party_collection": 30,
         "opt_out": 3,
         "user_choice": 10,
-        "data": 101,
+        "data": 107,
         "legislation": 6,
         "access_edit_delete": 20,
-        "policy_change": 13
+        "policy_change": 8
     },
     {
         "url": "https://www.totwooglobal.com",
@@ -1271,33 +1271,33 @@
         "data": 31,
         "legislation": 1,
         "access_edit_delete": 14,
-        "policy_change": 10
+        "policy_change": 6
     },
     {
         "url": "https://www.fitbit.com",
         "do_not_track": 0,
-        "data_security": 43,
+        "data_security": 32,
         "first_party_collection": 291,
         "third_party_collection": 23,
         "opt_out": 0,
         "user_choice": 42,
-        "data": 203,
+        "data": 271,
         "legislation": 8,
         "access_edit_delete": 62,
-        "policy_change": 9
+        "policy_change": 6
     },
     {
         "url": "https://www.invisawear.com",
-        "do_not_track": 0,
-        "data_security": 22,
+        "do_not_track": 3,
+        "data_security": 18,
         "first_party_collection": 209,
         "third_party_collection": 28,
         "opt_out": 3,
         "user_choice": 12,
-        "data": 108,
+        "data": 139,
         "legislation": 3,
         "access_edit_delete": 27,
-        "policy_change": 16
+        "policy_change": 10
     },
     {
         "url": "http://minyee.shop",
@@ -1307,7 +1307,7 @@
         "third_party_collection": 1,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 27,
+        "data": 40,
         "legislation": 0,
         "access_edit_delete": 6,
         "policy_change": 1
@@ -1320,10 +1320,10 @@
         "third_party_collection": 16,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 34,
+        "data": 50,
         "legislation": 0,
         "access_edit_delete": 4,
-        "policy_change": 5
+        "policy_change": 3
     },
     {
         "url": "https://www.pulomi.cn",
@@ -1333,23 +1333,23 @@
         "third_party_collection": 0,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 6,
+        "data": 9,
         "legislation": 0,
         "access_edit_delete": 2,
-        "policy_change": 4
+        "policy_change": 2
     },
     {
         "url": "https://www.michaelkors.com",
-        "do_not_track": 0,
-        "data_security": 22,
+        "do_not_track": 1,
+        "data_security": 21,
         "first_party_collection": 260,
         "third_party_collection": 23,
         "opt_out": 4,
         "user_choice": 12,
-        "data": 305,
+        "data": 273,
         "legislation": 3,
         "access_edit_delete": 42,
-        "policy_change": 16
+        "policy_change": 11
     },
     {
         "url": "https://w-rara.net",
@@ -1359,7 +1359,7 @@
         "third_party_collection": 1,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 27,
+        "data": 40,
         "legislation": 0,
         "access_edit_delete": 6,
         "policy_change": 1
@@ -1367,54 +1367,54 @@
     {
         "url": "https://www.foreverqueenstore.com",
         "do_not_track": 0,
-        "data_security": 6,
+        "data_security": 5,
         "first_party_collection": 100,
         "third_party_collection": 14,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 56,
+        "data": 60,
         "legislation": 0,
         "access_edit_delete": 18,
-        "policy_change": 8
+        "policy_change": 5
     },
     {
         "url": "https://www.zkteco.com",
         "do_not_track": 0,
-        "data_security": 9,
+        "data_security": 7,
         "first_party_collection": 72,
         "third_party_collection": 13,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 38,
+        "data": 60,
         "legislation": 0,
         "access_edit_delete": 15,
-        "policy_change": 5
+        "policy_change": 4
     },
     {
         "url": "https://oxalife.com",
         "do_not_track": 0,
-        "data_security": 53,
+        "data_security": 45,
         "first_party_collection": 319,
         "third_party_collection": 21,
         "opt_out": 2,
         "user_choice": 42,
-        "data": 356,
+        "data": 568,
         "legislation": 76,
         "access_edit_delete": 72,
-        "policy_change": 26
+        "policy_change": 15
     },
     {
         "url": "https://hathaspace.com",
         "do_not_track": 0,
-        "data_security": 15,
+        "data_security": 14,
         "first_party_collection": 139,
         "third_party_collection": 1,
         "opt_out": 5,
         "user_choice": 6,
-        "data": 173,
+        "data": 185,
         "legislation": 1,
         "access_edit_delete": 98,
-        "policy_change": 71
+        "policy_change": 47
     },
     {
         "url": "https://www.dyson.com",
@@ -1437,59 +1437,59 @@
         "third_party_collection": 2,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 31,
+        "data": 29,
         "legislation": 0,
         "access_edit_delete": 6,
-        "policy_change": 2
+        "policy_change": 1
     },
     {
         "url": "https://www.rabbitair.com",
-        "do_not_track": 0,
-        "data_security": 40,
+        "do_not_track": 3,
+        "data_security": 33,
         "first_party_collection": 355,
         "third_party_collection": 49,
         "opt_out": 8,
         "user_choice": 20,
-        "data": 225,
+        "data": 281,
         "legislation": 4,
         "access_edit_delete": 77,
-        "policy_change": 30
+        "policy_change": 23
     },
     {
         "url": "https://www.instanthome.com",
-        "do_not_track": 0,
-        "data_security": 28,
+        "do_not_track": 4,
+        "data_security": 26,
         "first_party_collection": 501,
         "third_party_collection": 186,
         "opt_out": 8,
         "user_choice": 27,
-        "data": 355,
+        "data": 386,
         "legislation": 17,
         "access_edit_delete": 89,
-        "policy_change": 25
+        "policy_change": 16
     },
     {
         "url": "https://pureenrichment.com",
         "do_not_track": 0,
-        "data_security": 11,
+        "data_security": 10,
         "first_party_collection": 110,
         "third_party_collection": 13,
         "opt_out": 2,
         "user_choice": 5,
-        "data": 81,
+        "data": 82,
         "legislation": 1,
         "access_edit_delete": 23,
-        "policy_change": 14
+        "policy_change": 10
     },
     {
         "url": "https://www.invisiclean.com",
         "do_not_track": 0,
-        "data_security": 8,
+        "data_security": 7,
         "first_party_collection": 59,
         "third_party_collection": 3,
         "opt_out": 0,
         "user_choice": 2,
-        "data": 38,
+        "data": 42,
         "legislation": 0,
         "access_edit_delete": 10,
         "policy_change": 2
@@ -1497,15 +1497,15 @@
     {
         "url": "https://www.sharkclean.com",
         "do_not_track": 0,
-        "data_security": 24,
+        "data_security": 22,
         "first_party_collection": 243,
         "third_party_collection": 30,
         "opt_out": 5,
         "user_choice": 15,
-        "data": 160,
+        "data": 180,
         "legislation": 8,
         "access_edit_delete": 51,
-        "policy_change": 21
+        "policy_change": 17
     },
     {
         "url": "https://oransi.com",
@@ -1515,7 +1515,7 @@
         "third_party_collection": 0,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 8,
+        "data": 9,
         "legislation": 0,
         "access_edit_delete": 5,
         "policy_change": 0
@@ -1528,7 +1528,7 @@
         "third_party_collection": 5,
         "opt_out": 3,
         "user_choice": 3,
-        "data": 6,
+        "data": 7,
         "legislation": 0,
         "access_edit_delete": 1,
         "policy_change": 1
@@ -1536,15 +1536,15 @@
     {
         "url": "https://www.comfortzoneproducts.com",
         "do_not_track": 0,
-        "data_security": 15,
+        "data_security": 14,
         "first_party_collection": 131,
         "third_party_collection": 15,
         "opt_out": 2,
         "user_choice": 3,
-        "data": 115,
+        "data": 162,
         "legislation": 9,
         "access_edit_delete": 20,
-        "policy_change": 13
+        "policy_change": 9
     },
     {
         "url": "https://lasko.com",
@@ -1554,23 +1554,23 @@
         "third_party_collection": 10,
         "opt_out": 0,
         "user_choice": 2,
-        "data": 58,
+        "data": 67,
         "legislation": 0,
         "access_edit_delete": 12,
-        "policy_change": 7
+        "policy_change": 4
     },
     {
         "url": "https://www.cuisinart.com",
-        "do_not_track": 0,
-        "data_security": 37,
+        "do_not_track": 2,
+        "data_security": 35,
         "first_party_collection": 440,
         "third_party_collection": 39,
         "opt_out": 11,
         "user_choice": 17,
-        "data": 414,
+        "data": 435,
         "legislation": 10,
         "access_edit_delete": 87,
-        "policy_change": 37
+        "policy_change": 26
     },
     {
         "url": "https://medifyair.com",
@@ -1588,41 +1588,41 @@
     {
         "url": "https://www.hejikohome.com",
         "do_not_track": 0,
-        "data_security": 9,
+        "data_security": 8,
         "first_party_collection": 46,
         "third_party_collection": 1,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 36,
+        "data": 41,
         "legislation": 1,
         "access_edit_delete": 17,
-        "policy_change": 10
+        "policy_change": 6
     },
     {
         "url": "https://frida.com",
-        "do_not_track": 0,
+        "do_not_track": 1,
         "data_security": 9,
         "first_party_collection": 171,
         "third_party_collection": 29,
         "opt_out": 0,
         "user_choice": 8,
-        "data": 49,
+        "data": 48,
         "legislation": 1,
         "access_edit_delete": 15,
-        "policy_change": 11
+        "policy_change": 8
     },
     {
         "url": "https://www.iqair.com",
         "do_not_track": 0,
-        "data_security": 17,
+        "data_security": 14,
         "first_party_collection": 126,
         "third_party_collection": 13,
         "opt_out": 0,
         "user_choice": 5,
-        "data": 68,
+        "data": 88,
         "legislation": 1,
         "access_edit_delete": 25,
-        "policy_change": 7
+        "policy_change": 5
     },
     {
         "url": "https://airhealth.com",
@@ -1632,49 +1632,49 @@
         "third_party_collection": 11,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 49,
+        "data": 52,
         "legislation": 0,
         "access_edit_delete": 25,
-        "policy_change": 19
+        "policy_change": 10
     },
     {
         "url": "https://durabasics.com",
-        "do_not_track": 0,
+        "do_not_track": 1,
         "data_security": 1,
         "first_party_collection": 63,
         "third_party_collection": 5,
         "opt_out": 2,
         "user_choice": 1,
-        "data": 27,
+        "data": 26,
         "legislation": 0,
         "access_edit_delete": 8,
-        "policy_change": 4
+        "policy_change": 3
     },
     {
         "url": "https://www.suntouch.com",
-        "do_not_track": 0,
-        "data_security": 20,
+        "do_not_track": 3,
+        "data_security": 17,
         "first_party_collection": 348,
         "third_party_collection": 21,
         "opt_out": 0,
         "user_choice": 17,
-        "data": 226,
+        "data": 259,
         "legislation": 4,
         "access_edit_delete": 43,
-        "policy_change": 20
+        "policy_change": 15
     },
     {
         "url": "https://www.aprilaire.com",
-        "do_not_track": 0,
-        "data_security": 21,
+        "do_not_track": 2,
+        "data_security": 20,
         "first_party_collection": 305,
         "third_party_collection": 31,
         "opt_out": 1,
         "user_choice": 19,
-        "data": 180,
+        "data": 217,
         "legislation": 8,
         "access_edit_delete": 49,
-        "policy_change": 33
+        "policy_change": 20
     },
     {
         "url": "https://www.lennox.com",
@@ -1697,23 +1697,23 @@
         "third_party_collection": 6,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 80,
+        "data": 87,
         "legislation": 0,
         "access_edit_delete": 4,
-        "policy_change": 4
+        "policy_change": 3
     },
     {
         "url": "https://www.stelpro.com",
         "do_not_track": 0,
-        "data_security": 8,
+        "data_security": 7,
         "first_party_collection": 82,
         "third_party_collection": 6,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 70,
+        "data": 155,
         "legislation": 0,
         "access_edit_delete": 14,
-        "policy_change": 8
+        "policy_change": 5
     },
     {
         "url": "https://2gig.com",
@@ -1739,46 +1739,46 @@
         "data": 27,
         "legislation": 0,
         "access_edit_delete": 9,
-        "policy_change": 6
+        "policy_change": 3
     },
     {
         "url": "https://www.warmlyyours.com",
-        "do_not_track": 0,
-        "data_security": 40,
+        "do_not_track": 5,
+        "data_security": 33,
         "first_party_collection": 375,
         "third_party_collection": 32,
         "opt_out": 11,
         "user_choice": 22,
-        "data": 297,
+        "data": 391,
         "legislation": 35,
         "access_edit_delete": 56,
-        "policy_change": 22
+        "policy_change": 16
     },
     {
         "url": "https://www.amazon.ae",
         "do_not_track": 0,
-        "data_security": 21,
+        "data_security": 20,
         "first_party_collection": 195,
         "third_party_collection": 14,
         "opt_out": 1,
         "user_choice": 6,
-        "data": 142,
+        "data": 134,
         "legislation": 0,
         "access_edit_delete": 44,
-        "policy_change": 16
+        "policy_change": 14
     },
     {
         "url": "https://www.nepal.ubuy.com",
         "do_not_track": 0,
-        "data_security": 14,
+        "data_security": 13,
         "first_party_collection": 97,
         "third_party_collection": 2,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 51,
+        "data": 56,
         "legislation": 0,
         "access_edit_delete": 21,
-        "policy_change": 11
+        "policy_change": 7
     },
     {
         "url": "https://www.mars-hydro.com",
@@ -1788,10 +1788,10 @@
         "third_party_collection": 1,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 32,
+        "data": 34,
         "legislation": 0,
         "access_edit_delete": 8,
-        "policy_change": 4
+        "policy_change": 3
     },
     {
         "url": "http://www.vantrue.us",
@@ -1801,23 +1801,23 @@
         "third_party_collection": 2,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 20,
+        "data": 24,
         "legislation": 0,
         "access_edit_delete": 13,
         "policy_change": 0
     },
     {
         "url": "http://www.rexingusa.com",
-        "do_not_track": 0,
-        "data_security": 21,
+        "do_not_track": 5,
+        "data_security": 19,
         "first_party_collection": 81,
         "third_party_collection": 1,
         "opt_out": 3,
         "user_choice": 1,
-        "data": 60,
+        "data": 67,
         "legislation": 0,
         "access_edit_delete": 9,
-        "policy_change": 6
+        "policy_change": 3
     },
     {
         "url": "http://carpuride.com",
@@ -1827,10 +1827,10 @@
         "third_party_collection": 14,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 43,
+        "data": 44,
         "legislation": 0,
         "access_edit_delete": 18,
-        "policy_change": 15
+        "policy_change": 10
     },
     {
         "url": "http://www.taillight.com",
@@ -1840,23 +1840,23 @@
         "third_party_collection": 10,
         "opt_out": 1,
         "user_choice": 2,
-        "data": 97,
+        "data": 98,
         "legislation": 0,
         "access_edit_delete": 28,
-        "policy_change": 9
+        "policy_change": 6
     },
     {
         "url": "http://www.azdomes.com",
         "do_not_track": 0,
-        "data_security": 8,
+        "data_security": 7,
         "first_party_collection": 44,
         "third_party_collection": 1,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 33,
+        "data": 37,
         "legislation": 1,
         "access_edit_delete": 16,
-        "policy_change": 10
+        "policy_change": 6
     },
     {
         "url": "http://viofo.com",
@@ -1866,62 +1866,62 @@
         "third_party_collection": 6,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 45,
+        "data": 44,
         "legislation": 0,
         "access_edit_delete": 8,
-        "policy_change": 6
+        "policy_change": 4
     },
     {
         "url": "http://www.lysol.com",
         "do_not_track": 0,
-        "data_security": 29,
+        "data_security": 23,
         "first_party_collection": 114,
         "third_party_collection": 12,
         "opt_out": 2,
         "user_choice": 4,
-        "data": 193,
+        "data": 283,
         "legislation": 0,
         "access_edit_delete": 14,
-        "policy_change": 11
+        "policy_change": 7
     },
     {
         "url": "http://www.wolfmate.ca",
         "do_not_track": 0,
-        "data_security": 29,
+        "data_security": 27,
         "first_party_collection": 239,
         "third_party_collection": 21,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 171,
+        "data": 174,
         "legislation": 0,
         "access_edit_delete": 36,
-        "policy_change": 8
+        "policy_change": 6
     },
     {
         "url": "http://www.ironcompany.com",
         "do_not_track": 0,
-        "data_security": 5,
+        "data_security": 4,
         "first_party_collection": 29,
         "third_party_collection": 2,
         "opt_out": 1,
         "user_choice": 0,
-        "data": 17,
+        "data": 20,
         "legislation": 0,
         "access_edit_delete": 6,
-        "policy_change": 5
+        "policy_change": 3
     },
     {
         "url": "http://serenelifehome.com",
-        "do_not_track": 0,
+        "do_not_track": 1,
         "data_security": 25,
         "first_party_collection": 102,
         "third_party_collection": 14,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 57,
+        "data": 60,
         "legislation": 0,
         "access_edit_delete": 34,
-        "policy_change": 20
+        "policy_change": 11
     },
     {
         "url": "http://www.cubii.com",
@@ -1931,49 +1931,49 @@
         "third_party_collection": 5,
         "opt_out": 2,
         "user_choice": 3,
-        "data": 31,
+        "data": 27,
         "legislation": 1,
         "access_edit_delete": 6,
         "policy_change": 0
     },
     {
         "url": "http://www.nautilusinc.com",
-        "do_not_track": 0,
-        "data_security": 33,
+        "do_not_track": 3,
+        "data_security": 29,
         "first_party_collection": 532,
         "third_party_collection": 190,
         "opt_out": 3,
         "user_choice": 15,
-        "data": 309,
+        "data": 335,
         "legislation": 17,
         "access_edit_delete": 83,
-        "policy_change": 26
+        "policy_change": 18
     },
     {
         "url": "http://inspirefitness.com",
-        "do_not_track": 0,
-        "data_security": 31,
+        "do_not_track": 3,
+        "data_security": 30,
         "first_party_collection": 267,
         "third_party_collection": 33,
         "opt_out": 3,
         "user_choice": 22,
-        "data": 234,
+        "data": 320,
         "legislation": 12,
         "access_edit_delete": 51,
-        "policy_change": 19
+        "policy_change": 14
     },
     {
         "url": "http://egym.com",
         "do_not_track": 0,
-        "data_security": 20,
+        "data_security": 19,
         "first_party_collection": 259,
         "third_party_collection": 59,
         "opt_out": 11,
         "user_choice": 27,
-        "data": 191,
+        "data": 232,
         "legislation": 6,
         "access_edit_delete": 37,
-        "policy_change": 17
+        "policy_change": 12
     },
     {
         "url": "http://staminaproducts.com",
@@ -1983,10 +1983,10 @@
         "third_party_collection": 2,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 19,
+        "data": 22,
         "legislation": 0,
         "access_edit_delete": 6,
-        "policy_change": 4
+        "policy_change": 2
     },
     {
         "url": "http://www.zepp.com",
@@ -1996,40 +1996,40 @@
         "third_party_collection": 0,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 20,
+        "data": 27,
         "legislation": 0,
         "access_edit_delete": 4,
         "policy_change": 0
     },
     {
         "url": "http://bellabeat.com",
-        "do_not_track": 0,
-        "data_security": 23,
+        "do_not_track": 2,
+        "data_security": 20,
         "first_party_collection": 176,
         "third_party_collection": 12,
         "opt_out": 1,
         "user_choice": 7,
-        "data": 136,
+        "data": 255,
         "legislation": 0,
         "access_edit_delete": 42,
-        "policy_change": 25
+        "policy_change": 17
     },
     {
         "url": "http://www.lutron.com",
-        "do_not_track": 0,
+        "do_not_track": 1,
         "data_security": 11,
         "first_party_collection": 125,
         "third_party_collection": 16,
         "opt_out": 4,
         "user_choice": 4,
-        "data": 81,
+        "data": 109,
         "legislation": 0,
         "access_edit_delete": 21,
-        "policy_change": 21
+        "policy_change": 12
     },
     {
         "url": "http://hubitat.com",
-        "do_not_track": 0,
+        "do_not_track": 2,
         "data_security": 1,
         "first_party_collection": 62,
         "third_party_collection": 6,
@@ -2038,121 +2038,121 @@
         "data": 25,
         "legislation": 0,
         "access_edit_delete": 9,
-        "policy_change": 6
+        "policy_change": 4
     },
     {
         "url": "http://sonoff.tech",
-        "do_not_track": 0,
+        "do_not_track": 3,
         "data_security": 9,
         "first_party_collection": 187,
         "third_party_collection": 15,
         "opt_out": 0,
         "user_choice": 6,
-        "data": 67,
+        "data": 87,
         "legislation": 0,
         "access_edit_delete": 25,
-        "policy_change": 11
+        "policy_change": 8
     },
     {
         "url": "http://www.glocalme.com",
         "do_not_track": 0,
-        "data_security": 28,
+        "data_security": 24,
         "first_party_collection": 111,
         "third_party_collection": 8,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 61,
+        "data": 88,
         "legislation": 2,
         "access_edit_delete": 33,
-        "policy_change": 11
+        "policy_change": 8
     },
     {
         "url": "http://sense.com",
         "do_not_track": 0,
-        "data_security": 22,
+        "data_security": 18,
         "first_party_collection": 104,
         "third_party_collection": 24,
         "opt_out": 2,
         "user_choice": 4,
-        "data": 81,
+        "data": 161,
         "legislation": 2,
         "access_edit_delete": 21,
-        "policy_change": 15
+        "policy_change": 11
     },
     {
         "url": "http://husukulight.com",
         "do_not_track": 0,
-        "data_security": 23,
+        "data_security": 20,
         "first_party_collection": 65,
         "third_party_collection": 11,
         "opt_out": 0,
         "user_choice": 4,
-        "data": 43,
+        "data": 104,
         "legislation": 2,
         "access_edit_delete": 15,
-        "policy_change": 3
+        "policy_change": 2
     },
     {
         "url": "http://www.lenovo.com",
         "do_not_track": 0,
-        "data_security": 90,
+        "data_security": 76,
         "first_party_collection": 685,
         "third_party_collection": 65,
         "opt_out": 2,
         "user_choice": 27,
-        "data": 521,
+        "data": 601,
         "legislation": 2,
         "access_edit_delete": 134,
-        "policy_change": 58
+        "policy_change": 39
     },
     {
         "url": "http://www.meross.com",
-        "do_not_track": 0,
-        "data_security": 22,
+        "do_not_track": 1,
+        "data_security": 20,
         "first_party_collection": 171,
         "third_party_collection": 24,
         "opt_out": 0,
         "user_choice": 18,
-        "data": 150,
+        "data": 207,
         "legislation": 3,
         "access_edit_delete": 52,
-        "policy_change": 25
+        "policy_change": 20
     },
     {
         "url": "http://www.amazon.com",
         "do_not_track": 0,
-        "data_security": 22,
+        "data_security": 21,
         "first_party_collection": 211,
         "third_party_collection": 18,
         "opt_out": 1,
         "user_choice": 6,
-        "data": 163,
+        "data": 155,
         "legislation": 0,
         "access_edit_delete": 56,
-        "policy_change": 21
+        "policy_change": 19
     },
     {
         "url": "http://www.sixinhome.com",
         "do_not_track": 0,
-        "data_security": 16,
+        "data_security": 13,
         "first_party_collection": 54,
         "third_party_collection": 2,
         "opt_out": 0,
         "user_choice": 4,
-        "data": 30,
+        "data": 48,
         "legislation": 3,
         "access_edit_delete": 12,
-        "policy_change": 2
+        "policy_change": 1
     },
     {
         "url": "http://www.amax.com",
         "do_not_track": 0,
-        "data_security": 7,
+        "data_security": 5,
         "first_party_collection": 78,
         "third_party_collection": 5,
         "opt_out": 0,
         "user_choice": 2,
-        "data": 30,
+        "data": 37,
         "legislation": 7,
         "access_edit_delete": 11,
         "policy_change": 3
@@ -2168,69 +2168,69 @@
         "data": 27,
         "legislation": 0,
         "access_edit_delete": 6,
-        "policy_change": 4
+        "policy_change": 3
     },
     {
         "url": "http://lora-alliance.org",
         "do_not_track": 0,
-        "data_security": 43,
+        "data_security": 30,
         "first_party_collection": 211,
         "third_party_collection": 22,
         "opt_out": 1,
         "user_choice": 11,
-        "data": 135,
+        "data": 155,
         "legislation": 0,
         "access_edit_delete": 26,
-        "policy_change": 16
+        "policy_change": 11
     },
     {
         "url": "http://www.jbl.com",
         "do_not_track": 0,
-        "data_security": 50,
+        "data_security": 37,
         "first_party_collection": 246,
         "third_party_collection": 17,
         "opt_out": 1,
         "user_choice": 4,
-        "data": 185,
+        "data": 213,
         "legislation": 1,
         "access_edit_delete": 37,
-        "policy_change": 18
+        "policy_change": 13
     },
     {
         "url": "http://www.optomausa.com",
-        "do_not_track": 0,
+        "do_not_track": 4,
         "data_security": 18,
         "first_party_collection": 109,
         "third_party_collection": 12,
         "opt_out": 0,
         "user_choice": 10,
-        "data": 133,
+        "data": 241,
         "legislation": 3,
         "access_edit_delete": 33,
-        "policy_change": 20
+        "policy_change": 13
     },
     {
         "url": "http://www.signify.com",
         "do_not_track": 0,
-        "data_security": 35,
+        "data_security": 31,
         "first_party_collection": 161,
         "third_party_collection": 40,
         "opt_out": 3,
         "user_choice": 35,
-        "data": 200,
+        "data": 363,
         "legislation": 3,
         "access_edit_delete": 36,
-        "policy_change": 13
+        "policy_change": 11
     },
     {
         "url": "http://www.vont.com",
         "do_not_track": 0,
-        "data_security": 12,
+        "data_security": 11,
         "first_party_collection": 87,
         "third_party_collection": 8,
         "opt_out": 2,
         "user_choice": 3,
-        "data": 49,
+        "data": 61,
         "legislation": 4,
         "access_edit_delete": 11,
         "policy_change": 0
@@ -2243,49 +2243,49 @@
         "third_party_collection": 8,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 47,
+        "data": 53,
         "legislation": 1,
         "access_edit_delete": 19,
-        "policy_change": 10
+        "policy_change": 6
     },
     {
         "url": "http://asdlighting.com",
         "do_not_track": 0,
-        "data_security": 16,
+        "data_security": 14,
         "first_party_collection": 44,
         "third_party_collection": 3,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 26,
+        "data": 41,
         "legislation": 0,
         "access_edit_delete": 7,
-        "policy_change": 10
+        "policy_change": 6
     },
     {
         "url": "http://www.cooperlighting.com",
         "do_not_track": 0,
-        "data_security": 33,
+        "data_security": 29,
         "first_party_collection": 152,
         "third_party_collection": 42,
         "opt_out": 4,
         "user_choice": 29,
-        "data": 198,
+        "data": 348,
         "legislation": 3,
         "access_edit_delete": 34,
-        "policy_change": 11
+        "policy_change": 9
     },
     {
         "url": "http://olive-hc.com",
-        "do_not_track": 0,
-        "data_security": 27,
+        "do_not_track": 2,
+        "data_security": 24,
         "first_party_collection": 270,
         "third_party_collection": 31,
         "opt_out": 1,
         "user_choice": 6,
-        "data": 121,
+        "data": 136,
         "legislation": 0,
         "access_edit_delete": 40,
-        "policy_change": 19
+        "policy_change": 11
     },
     {
         "url": "http://lepulsefit.com",
@@ -2295,23 +2295,23 @@
         "third_party_collection": 3,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 32,
+        "data": 56,
         "legislation": 0,
         "access_edit_delete": 10,
-        "policy_change": 6
+        "policy_change": 5
     },
     {
         "url": "http://greatergoods.com",
-        "do_not_track": 0,
-        "data_security": 29,
+        "do_not_track": 5,
+        "data_security": 28,
         "first_party_collection": 149,
         "third_party_collection": 18,
         "opt_out": 1,
         "user_choice": 5,
-        "data": 134,
+        "data": 147,
         "legislation": 0,
         "access_edit_delete": 53,
-        "policy_change": 19
+        "policy_change": 13
     },
     {
         "url": "http://www.iyunmai.us",
@@ -2321,7 +2321,7 @@
         "third_party_collection": 0,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 6,
+        "data": 10,
         "legislation": 0,
         "access_edit_delete": 3,
         "policy_change": 0
@@ -2329,15 +2329,15 @@
     {
         "url": "http://auradevices.io",
         "do_not_track": 0,
-        "data_security": 13,
+        "data_security": 9,
         "first_party_collection": 193,
         "third_party_collection": 27,
         "opt_out": 0,
         "user_choice": 2,
-        "data": 117,
+        "data": 163,
         "legislation": 5,
         "access_edit_delete": 31,
-        "policy_change": 23
+        "policy_change": 14
     },
     {
         "url": "http://getwellue.com",
@@ -2347,10 +2347,10 @@
         "third_party_collection": 4,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 35,
+        "data": 58,
         "legislation": 1,
         "access_edit_delete": 10,
-        "policy_change": 8
+        "policy_change": 6
     },
     {
         "url": "http://1byone.com",
@@ -2360,23 +2360,23 @@
         "third_party_collection": 6,
         "opt_out": 2,
         "user_choice": 1,
-        "data": 74,
+        "data": 81,
         "legislation": 0,
         "access_edit_delete": 23,
-        "policy_change": 14
+        "policy_change": 10
     },
     {
         "url": "http://www.healthkeephome.com",
         "do_not_track": 0,
-        "data_security": 11,
+        "data_security": 10,
         "first_party_collection": 122,
         "third_party_collection": 24,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 71,
+        "data": 81,
         "legislation": 2,
         "access_edit_delete": 20,
-        "policy_change": 8
+        "policy_change": 6
     },
     {
         "url": "http://www.accurofit.com",
@@ -2386,49 +2386,49 @@
         "third_party_collection": 9,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 44,
+        "data": 47,
         "legislation": 0,
         "access_edit_delete": 4,
-        "policy_change": 3
+        "policy_change": 2
     },
     {
         "url": "http://rollibot.com",
-        "do_not_track": 0,
+        "do_not_track": 3,
         "data_security": 4,
         "first_party_collection": 97,
         "third_party_collection": 12,
         "opt_out": 7,
         "user_choice": 3,
-        "data": 71,
+        "data": 70,
         "legislation": 0,
         "access_edit_delete": 16,
-        "policy_change": 13
+        "policy_change": 7
     },
     {
         "url": "http://www.semtech.com",
         "do_not_track": 0,
-        "data_security": 30,
+        "data_security": 24,
         "first_party_collection": 191,
         "third_party_collection": 17,
         "opt_out": 0,
         "user_choice": 5,
-        "data": 104,
+        "data": 112,
         "legislation": 5,
         "access_edit_delete": 26,
-        "policy_change": 14
+        "policy_change": 11
     },
     {
         "url": "http://omronhealthcare.com",
         "do_not_track": 0,
-        "data_security": 24,
+        "data_security": 21,
         "first_party_collection": 295,
         "third_party_collection": 41,
         "opt_out": 15,
         "user_choice": 15,
-        "data": 213,
+        "data": 232,
         "legislation": 8,
         "access_edit_delete": 25,
-        "policy_change": 8
+        "policy_change": 6
     },
     {
         "url": "http://www.wgelectronics.com",
@@ -2438,7 +2438,7 @@
         "third_party_collection": 0,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 5,
+        "data": 6,
         "legislation": 0,
         "access_edit_delete": 1,
         "policy_change": 0
@@ -2446,15 +2446,15 @@
     {
         "url": "http://elitehrv.com",
         "do_not_track": 0,
-        "data_security": 22,
+        "data_security": 20,
         "first_party_collection": 259,
         "third_party_collection": 15,
         "opt_out": 3,
         "user_choice": 10,
-        "data": 157,
+        "data": 160,
         "legislation": 5,
         "access_edit_delete": 24,
-        "policy_change": 7
+        "policy_change": 5
     },
     {
         "url": "http://ptzoptics.com",
@@ -2464,88 +2464,88 @@
         "third_party_collection": 2,
         "opt_out": 0,
         "user_choice": 2,
-        "data": 34,
+        "data": 36,
         "legislation": 0,
         "access_edit_delete": 18,
-        "policy_change": 10
+        "policy_change": 6
     },
     {
         "url": "http://www.teckinhome.com",
-        "do_not_track": 0,
-        "data_security": 6,
+        "do_not_track": 2,
+        "data_security": 4,
         "first_party_collection": 96,
         "third_party_collection": 11,
         "opt_out": 0,
         "user_choice": 4,
-        "data": 45,
+        "data": 47,
         "legislation": 5,
         "access_edit_delete": 13,
-        "policy_change": 6
+        "policy_change": 4
     },
     {
         "url": "http://www.security.org",
         "do_not_track": 0,
-        "data_security": 11,
+        "data_security": 9,
         "first_party_collection": 284,
         "third_party_collection": 56,
         "opt_out": 4,
         "user_choice": 7,
-        "data": 137,
+        "data": 148,
         "legislation": 4,
         "access_edit_delete": 31,
-        "policy_change": 17
+        "policy_change": 11
     },
     {
         "url": "http://iwinees.com",
         "do_not_track": 0,
-        "data_security": 26,
+        "data_security": 23,
         "first_party_collection": 237,
         "third_party_collection": 20,
         "opt_out": 1,
         "user_choice": 6,
-        "data": 210,
+        "data": 231,
         "legislation": 15,
         "access_edit_delete": 37,
-        "policy_change": 10
+        "policy_change": 7
     },
     {
         "url": "http://www.creelighting.com",
-        "do_not_track": 0,
-        "data_security": 50,
+        "do_not_track": 4,
+        "data_security": 45,
         "first_party_collection": 416,
         "third_party_collection": 34,
         "opt_out": 0,
         "user_choice": 28,
-        "data": 242,
+        "data": 256,
         "legislation": 6,
         "access_edit_delete": 67,
-        "policy_change": 24
+        "policy_change": 17
     },
     {
         "url": "http://m.reolink.com",
-        "do_not_track": 0,
-        "data_security": 42,
+        "do_not_track": 2,
+        "data_security": 40,
         "first_party_collection": 267,
         "third_party_collection": 17,
         "opt_out": 2,
         "user_choice": 7,
-        "data": 195,
+        "data": 206,
         "legislation": 0,
         "access_edit_delete": 50,
-        "policy_change": 14
+        "policy_change": 9
     },
     {
         "url": "http://amcrest.com",
         "do_not_track": 0,
-        "data_security": 9,
+        "data_security": 8,
         "first_party_collection": 33,
         "third_party_collection": 3,
         "opt_out": 1,
         "user_choice": 0,
-        "data": 23,
+        "data": 27,
         "legislation": 0,
         "access_edit_delete": 6,
-        "policy_change": 9
+        "policy_change": 5
     },
     {
         "url": "http://wallbox.com",
@@ -2555,10 +2555,10 @@
         "third_party_collection": 6,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 117,
+        "data": 130,
         "legislation": 0,
         "access_edit_delete": 28,
-        "policy_change": 14
+        "policy_change": 11
     },
     {
         "url": "http://hydrow.com",
@@ -2581,23 +2581,23 @@
         "third_party_collection": 8,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 46,
+        "data": 50,
         "legislation": 0,
         "access_edit_delete": 10,
-        "policy_change": 5
+        "policy_change": 4
     },
     {
         "url": "http://inbodyusa.com",
         "do_not_track": 0,
-        "data_security": 84,
+        "data_security": 80,
         "first_party_collection": 584,
         "third_party_collection": 58,
         "opt_out": 3,
         "user_choice": 22,
-        "data": 426,
+        "data": 466,
         "legislation": 22,
         "access_edit_delete": 161,
-        "policy_change": 70
+        "policy_change": 51
     },
     {
         "url": "http://loftilla.com",
@@ -2607,10 +2607,10 @@
         "third_party_collection": 8,
         "opt_out": 0,
         "user_choice": 7,
-        "data": 37,
+        "data": 68,
         "legislation": 0,
         "access_edit_delete": 33,
-        "policy_change": 12
+        "policy_change": 10
     },
     {
         "url": "http://raynor.com",
@@ -2620,20 +2620,20 @@
         "third_party_collection": 2,
         "opt_out": 0,
         "user_choice": 2,
-        "data": 14,
+        "data": 16,
         "legislation": 0,
         "access_edit_delete": 4,
         "policy_change": 1
     },
     {
         "url": "http://www.lorex.com",
-        "do_not_track": 0,
+        "do_not_track": 4,
         "data_security": 7,
         "first_party_collection": 15,
         "third_party_collection": 3,
         "opt_out": 0,
         "user_choice": 7,
-        "data": 62,
+        "data": 55,
         "legislation": 0,
         "access_edit_delete": 17,
         "policy_change": 1
@@ -2672,7 +2672,7 @@
         "third_party_collection": 1,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 4,
+        "data": 16,
         "legislation": 0,
         "access_edit_delete": 0,
         "policy_change": 0
@@ -2680,32 +2680,32 @@
     {
         "url": "http://www.specotech.com",
         "do_not_track": 0,
-        "data_security": 14,
+        "data_security": 13,
         "first_party_collection": 118,
         "third_party_collection": 15,
         "opt_out": 1,
         "user_choice": 1,
-        "data": 64,
+        "data": 67,
         "legislation": 5,
         "access_edit_delete": 17,
-        "policy_change": 8
+        "policy_change": 7
     },
     {
         "url": "http://g-homa.com",
-        "do_not_track": 0,
-        "data_security": 29,
+        "do_not_track": 3,
+        "data_security": 26,
         "first_party_collection": 196,
         "third_party_collection": 23,
         "opt_out": 4,
         "user_choice": 13,
-        "data": 118,
+        "data": 135,
         "legislation": 3,
         "access_edit_delete": 38,
-        "policy_change": 21
+        "policy_change": 15
     },
     {
         "url": "http://inqmega.com",
-        "do_not_track": 0,
+        "do_not_track": 2,
         "data_security": 1,
         "first_party_collection": 66,
         "third_party_collection": 6,
@@ -2714,33 +2714,33 @@
         "data": 31,
         "legislation": 0,
         "access_edit_delete": 9,
-        "policy_change": 6
+        "policy_change": 4
     },
     {
         "url": "http://www.liftmaster.com",
-        "do_not_track": 0,
-        "data_security": 21,
+        "do_not_track": 5,
+        "data_security": 19,
         "first_party_collection": 356,
         "third_party_collection": 50,
         "opt_out": 8,
         "user_choice": 20,
-        "data": 316,
+        "data": 427,
         "legislation": 6,
         "access_edit_delete": 76,
-        "policy_change": 16
+        "policy_change": 13
     },
     {
         "url": "http://www.ezviz.com",
         "do_not_track": 0,
-        "data_security": 20,
+        "data_security": 17,
         "first_party_collection": 96,
         "third_party_collection": 15,
         "opt_out": 0,
         "user_choice": 5,
-        "data": 48,
+        "data": 53,
         "legislation": 0,
         "access_edit_delete": 18,
-        "policy_change": 6
+        "policy_change": 5
     },
     {
         "url": "http://contixo.com",
@@ -2750,40 +2750,40 @@
         "third_party_collection": 0,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 30,
+        "data": 42,
         "legislation": 0,
         "access_edit_delete": 11,
         "policy_change": 1
     },
     {
         "url": "http://energizerconnect.com",
-        "do_not_track": 0,
-        "data_security": 20,
+        "do_not_track": 5,
+        "data_security": 19,
         "first_party_collection": 101,
         "third_party_collection": 11,
         "opt_out": 3,
         "user_choice": 0,
-        "data": 86,
+        "data": 84,
         "legislation": 0,
         "access_edit_delete": 20,
-        "policy_change": 12
+        "policy_change": 7
     },
     {
         "url": "http://www.iegeek.com",
         "do_not_track": 0,
-        "data_security": 21,
+        "data_security": 18,
         "first_party_collection": 63,
         "third_party_collection": 10,
         "opt_out": 0,
         "user_choice": 2,
-        "data": 37,
+        "data": 85,
         "legislation": 2,
         "access_edit_delete": 16,
-        "policy_change": 4
+        "policy_change": 3
     },
     {
         "url": "http://anransec.com",
-        "do_not_track": 0,
+        "do_not_track": 2,
         "data_security": 0,
         "first_party_collection": 52,
         "third_party_collection": 2,
@@ -2792,33 +2792,33 @@
         "data": 30,
         "legislation": 0,
         "access_edit_delete": 9,
-        "policy_change": 6
+        "policy_change": 4
     },
     {
         "url": "http://www.luubeibei.com",
-        "do_not_track": 0,
-        "data_security": 13,
+        "do_not_track": 5,
+        "data_security": 11,
         "first_party_collection": 64,
         "third_party_collection": 1,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 45,
+        "data": 50,
         "legislation": 0,
         "access_edit_delete": 8,
-        "policy_change": 6
+        "policy_change": 3
     },
     {
         "url": "http://www.dekalastore.com",
-        "do_not_track": 0,
-        "data_security": 33,
+        "do_not_track": 4,
+        "data_security": 26,
         "first_party_collection": 285,
         "third_party_collection": 34,
         "opt_out": 4,
         "user_choice": 39,
-        "data": 162,
+        "data": 219,
         "legislation": 9,
         "access_edit_delete": 37,
-        "policy_change": 19
+        "policy_change": 13
     },
     {
         "url": "http://smartro.co",
@@ -2836,28 +2836,28 @@
     {
         "url": "http://www.usa.philips.com",
         "do_not_track": 0,
-        "data_security": 68,
+        "data_security": 61,
         "first_party_collection": 228,
         "third_party_collection": 58,
         "opt_out": 0,
         "user_choice": 39,
-        "data": 443,
+        "data": 695,
         "legislation": 7,
         "access_edit_delete": 62,
-        "policy_change": 20
+        "policy_change": 16
     },
     {
         "url": "http://ezvalo.com",
         "do_not_track": 0,
-        "data_security": 9,
+        "data_security": 8,
         "first_party_collection": 41,
         "third_party_collection": 0,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 35,
+        "data": 43,
         "legislation": 1,
         "access_edit_delete": 18,
-        "policy_change": 10
+        "policy_change": 6
     },
     {
         "url": "http://www.wittidesign.com",
@@ -2867,62 +2867,62 @@
         "third_party_collection": 11,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 68,
+        "data": 117,
         "legislation": 0,
         "access_edit_delete": 26,
-        "policy_change": 12
+        "policy_change": 9
     },
     {
         "url": "http://drprepare.com",
-        "do_not_track": 0,
-        "data_security": 20,
+        "do_not_track": 5,
+        "data_security": 17,
         "first_party_collection": 89,
         "third_party_collection": 9,
         "opt_out": 1,
         "user_choice": 3,
-        "data": 68,
+        "data": 100,
         "legislation": 1,
         "access_edit_delete": 18,
-        "policy_change": 10
+        "policy_change": 7
     },
     {
         "url": "http://www.kawaiiamai.com",
-        "do_not_track": 0,
+        "do_not_track": 2,
         "data_security": 1,
         "first_party_collection": 45,
         "third_party_collection": 2,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 16,
+        "data": 22,
         "legislation": 0,
         "access_edit_delete": 6,
-        "policy_change": 7
+        "policy_change": 4
     },
     {
         "url": "http://www.tiktok.com",
         "do_not_track": 0,
-        "data_security": 16,
+        "data_security": 15,
         "first_party_collection": 304,
         "third_party_collection": 38,
         "opt_out": 1,
         "user_choice": 17,
-        "data": 188,
+        "data": 204,
         "legislation": 0,
         "access_edit_delete": 32,
-        "policy_change": 10
+        "policy_change": 8
     },
     {
         "url": "http://mujoylife.com",
         "do_not_track": 0,
-        "data_security": 7,
+        "data_security": 4,
         "first_party_collection": 123,
         "third_party_collection": 20,
         "opt_out": 0,
         "user_choice": 6,
-        "data": 66,
+        "data": 80,
         "legislation": 2,
         "access_edit_delete": 17,
-        "policy_change": 12
+        "policy_change": 7
     },
     {
         "url": "http://www.ibroadlink.com",
@@ -2932,23 +2932,23 @@
         "third_party_collection": 2,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 22,
+        "data": 24,
         "legislation": 0,
         "access_edit_delete": 7,
-        "policy_change": 3
+        "policy_change": 2
     },
     {
         "url": "http://www.tramsmart.co",
         "do_not_track": 0,
-        "data_security": 17,
+        "data_security": 16,
         "first_party_collection": 78,
         "third_party_collection": 7,
         "opt_out": 0,
         "user_choice": 5,
-        "data": 74,
+        "data": 125,
         "legislation": 0,
         "access_edit_delete": 18,
-        "policy_change": 13
+        "policy_change": 9
     },
     {
         "url": "http://byjasco.com",
@@ -2958,49 +2958,49 @@
         "third_party_collection": 20,
         "opt_out": 0,
         "user_choice": 4,
-        "data": 100,
+        "data": 102,
         "legislation": 2,
         "access_edit_delete": 44,
-        "policy_change": 27
+        "policy_change": 21
     },
     {
         "url": "http://www.novostella.net",
         "do_not_track": 0,
-        "data_security": 8,
+        "data_security": 7,
         "first_party_collection": 27,
         "third_party_collection": 3,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 20,
+        "data": 21,
         "legislation": 0,
         "access_edit_delete": 7,
-        "policy_change": 9
+        "policy_change": 6
     },
     {
         "url": "http://www.broadlink.ae",
         "do_not_track": 0,
-        "data_security": 18,
+        "data_security": 16,
         "first_party_collection": 88,
         "third_party_collection": 8,
         "opt_out": 0,
         "user_choice": 5,
-        "data": 75,
+        "data": 120,
         "legislation": 0,
         "access_edit_delete": 20,
-        "policy_change": 12
+        "policy_change": 8
     },
     {
         "url": "http://www.lvwit.com",
         "do_not_track": 0,
-        "data_security": 9,
+        "data_security": 8,
         "first_party_collection": 43,
         "third_party_collection": 0,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 36,
+        "data": 44,
         "legislation": 1,
         "access_edit_delete": 18,
-        "policy_change": 10
+        "policy_change": 6
     },
     {
         "url": "http://www.qivation.com",
@@ -3010,7 +3010,7 @@
         "third_party_collection": 0,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 38,
+        "data": 74,
         "legislation": 0,
         "access_edit_delete": 20,
         "policy_change": 0
@@ -3023,10 +3023,10 @@
         "third_party_collection": 0,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 77,
+        "data": 76,
         "legislation": 0,
         "access_edit_delete": 20,
-        "policy_change": 9
+        "policy_change": 7
     },
     {
         "url": "http://www.bluexbulb.com",
@@ -3036,10 +3036,10 @@
         "third_party_collection": 5,
         "opt_out": 0,
         "user_choice": 2,
-        "data": 56,
+        "data": 59,
         "legislation": 0,
         "access_edit_delete": 32,
-        "policy_change": 17
+        "policy_change": 10
     },
     {
         "url": "http://www.lepro.com",
@@ -3049,7 +3049,7 @@
         "third_party_collection": 2,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 46,
+        "data": 48,
         "legislation": 0,
         "access_edit_delete": 10,
         "policy_change": 1
@@ -3062,7 +3062,7 @@
         "third_party_collection": 0,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 25,
+        "data": 21,
         "legislation": 0,
         "access_edit_delete": 2,
         "policy_change": 0
@@ -3070,12 +3070,12 @@
     {
         "url": "http://allterco.com",
         "do_not_track": 0,
-        "data_security": 11,
+        "data_security": 8,
         "first_party_collection": 18,
         "third_party_collection": 15,
         "opt_out": 0,
         "user_choice": 12,
-        "data": 36,
+        "data": 79,
         "legislation": 1,
         "access_edit_delete": 6,
         "policy_change": 4
@@ -3088,23 +3088,23 @@
         "third_party_collection": 16,
         "opt_out": 6,
         "user_choice": 6,
-        "data": 12,
+        "data": 14,
         "legislation": 0,
         "access_edit_delete": 2,
         "policy_change": 2
     },
     {
         "url": "http://isunenergy.com",
-        "do_not_track": 0,
-        "data_security": 35,
+        "do_not_track": 3,
+        "data_security": 29,
         "first_party_collection": 220,
         "third_party_collection": 27,
         "opt_out": 2,
         "user_choice": 8,
-        "data": 93,
+        "data": 130,
         "legislation": 0,
         "access_edit_delete": 46,
-        "policy_change": 25
+        "policy_change": 18
     },
     {
         "url": "http://www.yamiry.com",
@@ -3117,46 +3117,46 @@
         "data": 20,
         "legislation": 0,
         "access_edit_delete": 6,
-        "policy_change": 7
+        "policy_change": 4
     },
     {
         "url": "http://www.proscenic.com",
         "do_not_track": 0,
-        "data_security": 16,
+        "data_security": 14,
         "first_party_collection": 84,
         "third_party_collection": 4,
         "opt_out": 0,
         "user_choice": 2,
-        "data": 61,
+        "data": 72,
         "legislation": 0,
         "access_edit_delete": 22,
-        "policy_change": 8
+        "policy_change": 7
     },
     {
         "url": "http://en.lockin.com",
-        "do_not_track": 0,
-        "data_security": 34,
+        "do_not_track": 3,
+        "data_security": 31,
         "first_party_collection": 182,
         "third_party_collection": 11,
         "opt_out": 0,
         "user_choice": 10,
-        "data": 91,
+        "data": 102,
         "legislation": 2,
         "access_edit_delete": 21,
-        "policy_change": 14
+        "policy_change": 10
     },
     {
         "url": "http://lockly.com",
         "do_not_track": 0,
-        "data_security": 19,
+        "data_security": 18,
         "first_party_collection": 150,
         "third_party_collection": 22,
         "opt_out": 0,
         "user_choice": 5,
-        "data": 95,
+        "data": 109,
         "legislation": 6,
         "access_edit_delete": 35,
-        "policy_change": 17
+        "policy_change": 11
     },
     {
         "url": "http://www.hugolog.com",
@@ -3166,10 +3166,10 @@
         "third_party_collection": 1,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 26,
+        "data": 29,
         "legislation": 0,
         "access_edit_delete": 11,
-        "policy_change": 11
+        "policy_change": 6
     },
     {
         "url": "http://www.aibocn.net",
@@ -3187,54 +3187,54 @@
     {
         "url": "http://www.arpha.com",
         "do_not_track": 0,
-        "data_security": 54,
+        "data_security": 44,
         "first_party_collection": 185,
         "third_party_collection": 14,
         "opt_out": 0,
         "user_choice": 6,
-        "data": 109,
+        "data": 179,
         "legislation": 0,
         "access_edit_delete": 40,
         "policy_change": 6
     },
     {
         "url": "http://www.votomy.com",
-        "do_not_track": 0,
+        "do_not_track": 2,
         "data_security": 13,
         "first_party_collection": 120,
         "third_party_collection": 4,
         "opt_out": 0,
         "user_choice": 2,
-        "data": 62,
+        "data": 57,
         "legislation": 0,
         "access_edit_delete": 26,
-        "policy_change": 18
+        "policy_change": 10
     },
     {
         "url": "http://www.locstar.com",
         "do_not_track": 0,
-        "data_security": 8,
+        "data_security": 7,
         "first_party_collection": 65,
         "third_party_collection": 13,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 37,
+        "data": 55,
         "legislation": 0,
         "access_edit_delete": 16,
-        "policy_change": 5
+        "policy_change": 4
     },
     {
         "url": "http://www.igloohome.co",
         "do_not_track": 0,
-        "data_security": 72,
+        "data_security": 56,
         "first_party_collection": 72,
         "third_party_collection": 13,
         "opt_out": 0,
         "user_choice": 5,
-        "data": 102,
+        "data": 200,
         "legislation": 3,
         "access_edit_delete": 32,
-        "policy_change": 13
+        "policy_change": 7
     },
     {
         "url": "http://www.inbody.in",
@@ -3244,27 +3244,27 @@
         "third_party_collection": 0,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 31,
+        "data": 34,
         "legislation": 0,
         "access_edit_delete": 1,
-        "policy_change": 2
+        "policy_change": 1
     },
     {
         "url": "http://www.qardio.com",
         "do_not_track": 0,
-        "data_security": 43,
+        "data_security": 32,
         "first_party_collection": 239,
         "third_party_collection": 66,
         "opt_out": 2,
         "user_choice": 12,
-        "data": 167,
+        "data": 258,
         "legislation": 4,
         "access_edit_delete": 36,
-        "policy_change": 20
+        "policy_change": 14
     },
     {
         "url": "http://www.wecolormasks.com",
-        "do_not_track": 0,
+        "do_not_track": 2,
         "data_security": 1,
         "first_party_collection": 67,
         "third_party_collection": 6,
@@ -3273,7 +3273,7 @@
         "data": 36,
         "legislation": 0,
         "access_edit_delete": 9,
-        "policy_change": 6
+        "policy_change": 4
     },
     {
         "url": "http://himalayausa.com",
@@ -3283,75 +3283,75 @@
         "third_party_collection": 1,
         "opt_out": 0,
         "user_choice": 2,
-        "data": 28,
+        "data": 31,
         "legislation": 0,
         "access_edit_delete": 8,
-        "policy_change": 8
+        "policy_change": 5
     },
     {
         "url": "http://www.sharevgo.com",
         "do_not_track": 0,
-        "data_security": 16,
+        "data_security": 12,
         "first_party_collection": 53,
         "third_party_collection": 24,
         "opt_out": 0,
         "user_choice": 2,
-        "data": 45,
+        "data": 57,
         "legislation": 0,
         "access_edit_delete": 11,
-        "policy_change": 8
+        "policy_change": 5
     },
     {
         "url": "http://www.conair.com",
-        "do_not_track": 0,
-        "data_security": 30,
+        "do_not_track": 2,
+        "data_security": 28,
         "first_party_collection": 326,
         "third_party_collection": 29,
         "opt_out": 8,
         "user_choice": 14,
-        "data": 266,
+        "data": 286,
         "legislation": 9,
         "access_edit_delete": 33,
-        "policy_change": 14
+        "policy_change": 9
     },
     {
         "url": "http://www.miniinthebox.com",
-        "do_not_track": 0,
-        "data_security": 37,
+        "do_not_track": 5,
+        "data_security": 32,
         "first_party_collection": 279,
         "third_party_collection": 22,
         "opt_out": 3,
         "user_choice": 9,
-        "data": 167,
+        "data": 194,
         "legislation": 7,
         "access_edit_delete": 60,
-        "policy_change": 15
+        "policy_change": 12
     },
     {
         "url": "http://patientaid.com",
-        "do_not_track": 0,
+        "do_not_track": 8,
         "data_security": 0,
         "first_party_collection": 62,
         "third_party_collection": 3,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 41,
+        "data": 43,
         "legislation": 0,
         "access_edit_delete": 11,
         "policy_change": 2
     },
     {
         "url": "http://vackertboende.com",
-        "do_not_track": 0,
-        "data_security": 8,
+        "do_not_track": 2,
+        "data_security": 5,
         "first_party_collection": 105,
         "third_party_collection": 10,
         "opt_out": 2,
         "user_choice": 5,
-        "data": 51,
+        "data": 54,
         "legislation": 8,
         "access_edit_delete": 17,
-        "policy_change": 9
+        "policy_change": 7
     },
     {
         "url": "http://sunnyhealthfitness.com",
@@ -3369,25 +3369,25 @@
     {
         "url": "http://dminc.com",
         "do_not_track": 0,
-        "data_security": 19,
+        "data_security": 17,
         "first_party_collection": 143,
         "third_party_collection": 16,
         "opt_out": 6,
         "user_choice": 10,
-        "data": 148,
+        "data": 217,
         "legislation": 3,
         "access_edit_delete": 25,
-        "policy_change": 14
+        "policy_change": 9
     },
     {
         "url": "http://www.detecto.com",
-        "do_not_track": 0,
+        "do_not_track": 1,
         "data_security": 2,
         "first_party_collection": 28,
         "third_party_collection": 0,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 25,
+        "data": 22,
         "legislation": 0,
         "access_edit_delete": 3,
         "policy_change": 0
@@ -3395,15 +3395,15 @@
     {
         "url": "http://selletonscales.com",
         "do_not_track": 0,
-        "data_security": 9,
+        "data_security": 8,
         "first_party_collection": 41,
         "third_party_collection": 0,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 32,
+        "data": 40,
         "legislation": 1,
         "access_edit_delete": 15,
-        "policy_change": 8
+        "policy_change": 5
     },
     {
         "url": "http://www.bn-link.com",
@@ -3413,7 +3413,7 @@
         "third_party_collection": 8,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 29,
+        "data": 31,
         "legislation": 0,
         "access_edit_delete": 7,
         "policy_change": 0
@@ -3426,36 +3426,36 @@
         "third_party_collection": 1,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 34,
+        "data": 37,
         "legislation": 1,
         "access_edit_delete": 15,
-        "policy_change": 8
+        "policy_change": 5
     },
     {
         "url": "http://www.masimo.com",
-        "do_not_track": 0,
-        "data_security": 54,
+        "do_not_track": 7,
+        "data_security": 40,
         "first_party_collection": 314,
         "third_party_collection": 22,
         "opt_out": 1,
         "user_choice": 21,
-        "data": 166,
+        "data": 208,
         "legislation": 4,
         "access_edit_delete": 46,
-        "policy_change": 9
+        "policy_change": 6
     },
     {
         "url": "http://www.weber.com",
         "do_not_track": 0,
-        "data_security": 24,
+        "data_security": 20,
         "first_party_collection": 203,
         "third_party_collection": 34,
         "opt_out": 3,
         "user_choice": 14,
-        "data": 154,
+        "data": 207,
         "legislation": 0,
         "access_edit_delete": 47,
-        "policy_change": 17
+        "policy_change": 10
     },
     {
         "url": "http://www.lavatools.co",
@@ -3465,10 +3465,10 @@
         "third_party_collection": 1,
         "opt_out": 0,
         "user_choice": 2,
-        "data": 40,
+        "data": 41,
         "legislation": 1,
         "access_edit_delete": 17,
-        "policy_change": 10
+        "policy_change": 6
     },
     {
         "url": "http://www.tappecue.com",
@@ -3481,7 +3481,7 @@
         "data": 6,
         "legislation": 0,
         "access_edit_delete": 4,
-        "policy_change": 4
+        "policy_change": 2
     },
     {
         "url": "http://life.tenergy.com",
@@ -3491,153 +3491,153 @@
         "third_party_collection": 8,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 37,
+        "data": 42,
         "legislation": 0,
         "access_edit_delete": 13,
-        "policy_change": 16
+        "policy_change": 10
     },
     {
         "url": "http://meater.com",
         "do_not_track": 0,
-        "data_security": 22,
+        "data_security": 18,
         "first_party_collection": 196,
         "third_party_collection": 24,
         "opt_out": 1,
         "user_choice": 10,
-        "data": 99,
+        "data": 121,
         "legislation": 1,
         "access_edit_delete": 26,
-        "policy_change": 9
+        "policy_change": 6
     },
     {
         "url": "http://nutrichefkitchen.com",
-        "do_not_track": 0,
+        "do_not_track": 1,
         "data_security": 25,
         "first_party_collection": 102,
         "third_party_collection": 14,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 56,
+        "data": 59,
         "legislation": 0,
         "access_edit_delete": 33,
-        "policy_change": 20
+        "policy_change": 11
     },
     {
         "url": "http://baldr.com",
-        "do_not_track": 0,
+        "do_not_track": 2,
         "data_security": 8,
         "first_party_collection": 62,
         "third_party_collection": 3,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 30,
+        "data": 32,
         "legislation": 0,
         "access_edit_delete": 18,
-        "policy_change": 11
+        "policy_change": 6
     },
     {
         "url": "http://grilleye.com",
         "do_not_track": 0,
-        "data_security": 13,
+        "data_security": 10,
         "first_party_collection": 107,
         "third_party_collection": 25,
         "opt_out": 2,
         "user_choice": 5,
-        "data": 56,
+        "data": 80,
         "legislation": 0,
         "access_edit_delete": 18,
-        "policy_change": 12
+        "policy_change": 7
     },
     {
         "url": "http://iproven.com",
         "do_not_track": 0,
-        "data_security": 27,
+        "data_security": 21,
         "first_party_collection": 97,
         "third_party_collection": 8,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 69,
+        "data": 140,
         "legislation": 7,
         "access_edit_delete": 19,
-        "policy_change": 13
+        "policy_change": 8
     },
     {
         "url": "http://ambientweather.com",
-        "do_not_track": 0,
-        "data_security": 25,
+        "do_not_track": 2,
+        "data_security": 24,
         "first_party_collection": 281,
         "third_party_collection": 40,
         "opt_out": 6,
         "user_choice": 14,
-        "data": 193,
+        "data": 203,
         "legislation": 0,
         "access_edit_delete": 38,
-        "policy_change": 12
+        "policy_change": 7
     },
     {
         "url": "http://hathaspace.com",
         "do_not_track": 0,
-        "data_security": 15,
+        "data_security": 14,
         "first_party_collection": 139,
         "third_party_collection": 1,
         "opt_out": 5,
         "user_choice": 6,
-        "data": 173,
+        "data": 185,
         "legislation": 1,
         "access_edit_delete": 98,
-        "policy_change": 71
+        "policy_change": 47
     },
     {
         "url": "http://levoit.com",
-        "do_not_track": 0,
-        "data_security": 27,
+        "do_not_track": 5,
+        "data_security": 23,
         "first_party_collection": 246,
         "third_party_collection": 24,
         "opt_out": 2,
         "user_choice": 15,
-        "data": 139,
+        "data": 154,
         "legislation": 2,
         "access_edit_delete": 45,
-        "policy_change": 27
+        "policy_change": 17
     },
     {
         "url": "http://www.iqair.com",
         "do_not_track": 0,
-        "data_security": 17,
+        "data_security": 14,
         "first_party_collection": 126,
         "third_party_collection": 13,
         "opt_out": 0,
         "user_choice": 5,
-        "data": 68,
+        "data": 88,
         "legislation": 1,
         "access_edit_delete": 25,
-        "policy_change": 7
+        "policy_change": 5
     },
     {
         "url": "http://doreljuvenile.com",
         "do_not_track": 0,
-        "data_security": 31,
+        "data_security": 24,
         "first_party_collection": 120,
         "third_party_collection": 11,
         "opt_out": 0,
         "user_choice": 6,
-        "data": 81,
+        "data": 107,
         "legislation": 2,
         "access_edit_delete": 24,
-        "policy_change": 12
+        "policy_change": 9
     },
     {
         "url": "http://www.instanthome.com",
-        "do_not_track": 0,
-        "data_security": 28,
+        "do_not_track": 4,
+        "data_security": 26,
         "first_party_collection": 501,
         "third_party_collection": 186,
         "opt_out": 8,
         "user_choice": 27,
-        "data": 355,
+        "data": 386,
         "legislation": 17,
         "access_edit_delete": 89,
-        "policy_change": 25
+        "policy_change": 16
     },
     {
         "url": "http://www.trusens.com",
@@ -3647,27 +3647,27 @@
         "third_party_collection": 5,
         "opt_out": 3,
         "user_choice": 3,
-        "data": 6,
+        "data": 7,
         "legislation": 0,
         "access_edit_delete": 1,
         "policy_change": 1
     },
     {
         "url": "http://www.catholicpurchasing.org",
-        "do_not_track": 0,
-        "data_security": 25,
+        "do_not_track": 5,
+        "data_security": 23,
         "first_party_collection": 299,
         "third_party_collection": 34,
         "opt_out": 11,
         "user_choice": 14,
-        "data": 228,
+        "data": 279,
         "legislation": 22,
         "access_edit_delete": 35,
-        "policy_change": 18
+        "policy_change": 13
     },
     {
         "url": "http://azeus.net",
-        "do_not_track": 0,
+        "do_not_track": 2,
         "data_security": 1,
         "first_party_collection": 65,
         "third_party_collection": 6,
@@ -3676,7 +3676,7 @@
         "data": 26,
         "legislation": 0,
         "access_edit_delete": 9,
-        "policy_change": 6
+        "policy_change": 4
     },
     {
         "url": "http://medifyair.com",
@@ -3699,20 +3699,20 @@
         "third_party_collection": 17,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 59,
+        "data": 72,
         "legislation": 2,
         "access_edit_delete": 23,
-        "policy_change": 5
+        "policy_change": 4
     },
     {
         "url": "http://www.target.com",
-        "do_not_track": 0,
+        "do_not_track": 3,
         "data_security": 21,
         "first_party_collection": 303,
         "third_party_collection": 44,
         "opt_out": 7,
         "user_choice": 15,
-        "data": 240,
+        "data": 247,
         "legislation": 8,
         "access_edit_delete": 54,
         "policy_change": 9
@@ -3720,38 +3720,38 @@
     {
         "url": "http://www.tellur.com",
         "do_not_track": 0,
-        "data_security": 32,
+        "data_security": 24,
         "first_party_collection": 59,
         "third_party_collection": 7,
         "opt_out": 0,
         "user_choice": 4,
-        "data": 129,
+        "data": 251,
         "legislation": 0,
         "access_edit_delete": 11,
-        "policy_change": 4
+        "policy_change": 3
     },
     {
         "url": "http://www.tmezon.com",
         "do_not_track": 0,
-        "data_security": 17,
+        "data_security": 15,
         "first_party_collection": 46,
         "third_party_collection": 7,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 31,
+        "data": 47,
         "legislation": 0,
         "access_edit_delete": 10,
-        "policy_change": 11
+        "policy_change": 7
     },
     {
         "url": "http://aeotec.com",
         "do_not_track": 0,
-        "data_security": 33,
+        "data_security": 22,
         "first_party_collection": 173,
         "third_party_collection": 13,
         "opt_out": 1,
         "user_choice": 24,
-        "data": 151,
+        "data": 285,
         "legislation": 33,
         "access_edit_delete": 26,
         "policy_change": 1
@@ -3764,36 +3764,36 @@
         "third_party_collection": 2,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 27,
+        "data": 31,
         "legislation": 0,
         "access_edit_delete": 1,
         "policy_change": 1
     },
     {
         "url": "http://coolwufan.com",
-        "do_not_track": 0,
-        "data_security": 8,
+        "do_not_track": 2,
+        "data_security": 5,
         "first_party_collection": 100,
         "third_party_collection": 11,
         "opt_out": 2,
         "user_choice": 5,
-        "data": 52,
+        "data": 55,
         "legislation": 6,
         "access_edit_delete": 18,
-        "policy_change": 8
+        "policy_change": 6
     },
     {
         "url": "http://rokid.ai",
         "do_not_track": 0,
-        "data_security": 18,
+        "data_security": 17,
         "first_party_collection": 96,
         "third_party_collection": 24,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 138,
+        "data": 195,
         "legislation": 0,
         "access_edit_delete": 31,
-        "policy_change": 16
+        "policy_change": 9
     },
     {
         "url": "http://ebuynow.com",
@@ -3803,33 +3803,33 @@
         "third_party_collection": 12,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 69,
+        "data": 75,
         "legislation": 0,
         "access_edit_delete": 22,
-        "policy_change": 14
+        "policy_change": 8
     },
     {
         "url": "http://www.lyxpro.com",
         "do_not_track": 0,
-        "data_security": 14,
+        "data_security": 13,
         "first_party_collection": 87,
         "third_party_collection": 9,
         "opt_out": 1,
         "user_choice": 2,
-        "data": 59,
+        "data": 81,
         "legislation": 0,
         "access_edit_delete": 24,
-        "policy_change": 8
+        "policy_change": 6
     },
     {
         "url": "http://flow.audio",
         "do_not_track": 0,
-        "data_security": 17,
+        "data_security": 13,
         "first_party_collection": 125,
         "third_party_collection": 7,
         "opt_out": 0,
         "user_choice": 7,
-        "data": 84,
+        "data": 105,
         "legislation": 4,
         "access_edit_delete": 11,
         "policy_change": 1
@@ -3837,19 +3837,19 @@
     {
         "url": "http://www.energysistem.com",
         "do_not_track": 0,
-        "data_security": 11,
+        "data_security": 8,
         "first_party_collection": 62,
         "third_party_collection": 7,
         "opt_out": 0,
         "user_choice": 8,
-        "data": 62,
+        "data": 105,
         "legislation": 2,
         "access_edit_delete": 15,
         "policy_change": 4
     },
     {
         "url": "http://ortizan.com",
-        "do_not_track": 0,
+        "do_not_track": 1,
         "data_security": 1,
         "first_party_collection": 61,
         "third_party_collection": 4,
@@ -3858,7 +3858,7 @@
         "data": 31,
         "legislation": 0,
         "access_edit_delete": 8,
-        "policy_change": 4
+        "policy_change": 3
     },
     {
         "url": "http://us.creative.com",
@@ -3868,10 +3868,10 @@
         "third_party_collection": 20,
         "opt_out": 3,
         "user_choice": 6,
-        "data": 136,
+        "data": 157,
         "legislation": 0,
         "access_edit_delete": 18,
-        "policy_change": 7
+        "policy_change": 6
     },
     {
         "url": "http://wonderoftech.com",
@@ -3881,46 +3881,46 @@
         "third_party_collection": 3,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 25,
+        "data": 26,
         "legislation": 0,
         "access_edit_delete": 5,
-        "policy_change": 7
+        "policy_change": 5
     },
     {
         "url": "http://rockfordfosgate.com",
-        "do_not_track": 0,
-        "data_security": 43,
+        "do_not_track": 3,
+        "data_security": 36,
         "first_party_collection": 317,
         "third_party_collection": 27,
         "opt_out": 6,
         "user_choice": 19,
-        "data": 174,
+        "data": 206,
         "legislation": 6,
         "access_edit_delete": 59,
-        "policy_change": 26
+        "policy_change": 19
     },
     {
         "url": "http://www.sony.com",
-        "do_not_track": 0,
+        "do_not_track": 2,
         "data_security": 13,
         "first_party_collection": 166,
         "third_party_collection": 32,
         "opt_out": 0,
         "user_choice": 7,
-        "data": 87,
+        "data": 83,
         "legislation": 0,
         "access_edit_delete": 30,
-        "policy_change": 13
+        "policy_change": 9
     },
     {
         "url": "http://www.zoundindustries.com",
         "do_not_track": 0,
-        "data_security": 9,
+        "data_security": 6,
         "first_party_collection": 31,
         "third_party_collection": 2,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 54,
+        "data": 117,
         "legislation": 3,
         "access_edit_delete": 10,
         "policy_change": 2
@@ -3933,10 +3933,10 @@
         "third_party_collection": 18,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 26,
+        "data": 23,
         "legislation": 0,
         "access_edit_delete": 14,
-        "policy_change": 10
+        "policy_change": 7
     },
     {
         "url": "http://www.bestbuy.ca",
@@ -3946,10 +3946,10 @@
         "third_party_collection": 20,
         "opt_out": 1,
         "user_choice": 4,
-        "data": 182,
+        "data": 183,
         "legislation": 2,
         "access_edit_delete": 57,
-        "policy_change": 26
+        "policy_change": 18
     },
     {
         "url": "http://gracedigital.com",
@@ -3962,20 +3962,20 @@
         "data": 39,
         "legislation": 0,
         "access_edit_delete": 5,
-        "policy_change": 3
+        "policy_change": 2
     },
     {
         "url": "http://electric.garden",
-        "do_not_track": 0,
+        "do_not_track": 2,
         "data_security": 1,
         "first_party_collection": 61,
         "third_party_collection": 6,
         "opt_out": 2,
         "user_choice": 1,
-        "data": 27,
+        "data": 29,
         "legislation": 0,
         "access_edit_delete": 8,
-        "policy_change": 6
+        "policy_change": 4
     },
     {
         "url": "http://miroirusa.com",
@@ -3985,62 +3985,62 @@
         "third_party_collection": 1,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 23,
+        "data": 24,
         "legislation": 0,
         "access_edit_delete": 8,
-        "policy_change": 8
+        "policy_change": 4
     },
     {
         "url": "http://www.psbspeakers.com",
         "do_not_track": 0,
-        "data_security": 17,
+        "data_security": 14,
         "first_party_collection": 176,
         "third_party_collection": 16,
         "opt_out": 0,
         "user_choice": 6,
-        "data": 70,
+        "data": 87,
         "legislation": 4,
         "access_edit_delete": 22,
-        "policy_change": 18
+        "policy_change": 12
     },
     {
         "url": "http://www.tvears.com",
-        "do_not_track": 0,
-        "data_security": 21,
+        "do_not_track": 5,
+        "data_security": 19,
         "first_party_collection": 160,
         "third_party_collection": 20,
         "opt_out": 10,
         "user_choice": 12,
-        "data": 124,
+        "data": 180,
         "legislation": 15,
         "access_edit_delete": 27,
-        "policy_change": 18
+        "policy_change": 12
     },
     {
         "url": "http://www.jabra.com",
         "do_not_track": 0,
-        "data_security": 29,
+        "data_security": 21,
         "first_party_collection": 458,
         "third_party_collection": 41,
         "opt_out": 1,
         "user_choice": 8,
-        "data": 445,
+        "data": 581,
         "legislation": 11,
         "access_edit_delete": 31,
-        "policy_change": 24
+        "policy_change": 17
     },
     {
         "url": "http://cartell.com",
-        "do_not_track": 0,
-        "data_security": 20,
+        "do_not_track": 5,
+        "data_security": 18,
         "first_party_collection": 68,
         "third_party_collection": 1,
         "opt_out": 3,
         "user_choice": 1,
-        "data": 53,
+        "data": 59,
         "legislation": 0,
         "access_edit_delete": 8,
-        "policy_change": 4
+        "policy_change": 2
     },
     {
         "url": "http://www.wagnermeters.com",
@@ -4050,10 +4050,10 @@
         "third_party_collection": 7,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 67,
+        "data": 83,
         "legislation": 0,
         "access_edit_delete": 10,
-        "policy_change": 9
+        "policy_change": 5
     },
     {
         "url": "http://lipulighting.com",
@@ -4063,7 +4063,7 @@
         "third_party_collection": 0,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 30,
+        "data": 33,
         "legislation": 0,
         "access_edit_delete": 3,
         "policy_change": 1
@@ -4083,16 +4083,16 @@
     },
     {
         "url": "http://www.kohler.com",
-        "do_not_track": 0,
-        "data_security": 39,
+        "do_not_track": 1,
+        "data_security": 30,
         "first_party_collection": 315,
         "third_party_collection": 32,
         "opt_out": 0,
         "user_choice": 27,
-        "data": 235,
+        "data": 292,
         "legislation": 8,
         "access_edit_delete": 42,
-        "policy_change": 13
+        "policy_change": 8
     },
     {
         "url": "http://www.eesystem.com",
@@ -4102,23 +4102,23 @@
         "third_party_collection": 15,
         "opt_out": 0,
         "user_choice": 13,
-        "data": 87,
+        "data": 92,
         "legislation": 4,
         "access_edit_delete": 23,
-        "policy_change": 13
+        "policy_change": 9
     },
     {
         "url": "http://www.moen.com",
         "do_not_track": 0,
-        "data_security": 11,
+        "data_security": 10,
         "first_party_collection": 173,
         "third_party_collection": 19,
         "opt_out": 5,
         "user_choice": 9,
-        "data": 129,
+        "data": 141,
         "legislation": 3,
         "access_edit_delete": 31,
-        "policy_change": 5
+        "policy_change": 4
     },
     {
         "url": "http://www.woodbridgebath.com",
@@ -4135,29 +4135,29 @@
     },
     {
         "url": "http://www.streamlabswater.com",
-        "do_not_track": 0,
-        "data_security": 24,
+        "do_not_track": 2,
+        "data_security": 23,
         "first_party_collection": 399,
         "third_party_collection": 26,
         "opt_out": 2,
         "user_choice": 21,
-        "data": 258,
+        "data": 254,
         "legislation": 21,
         "access_edit_delete": 32,
-        "policy_change": 12
+        "policy_change": 10
     },
     {
         "url": "http://www.zircon.com",
-        "do_not_track": 0,
+        "do_not_track": 1,
         "data_security": 10,
         "first_party_collection": 224,
         "third_party_collection": 37,
         "opt_out": 5,
         "user_choice": 5,
-        "data": 110,
+        "data": 117,
         "legislation": 0,
         "access_edit_delete": 31,
-        "policy_change": 15
+        "policy_change": 10
     },
     {
         "url": "http://www.victronenergy.com",
@@ -4167,7 +4167,7 @@
         "third_party_collection": 6,
         "opt_out": 1,
         "user_choice": 0,
-        "data": 24,
+        "data": 35,
         "legislation": 1,
         "access_edit_delete": 1,
         "policy_change": 0
@@ -4180,62 +4180,62 @@
         "third_party_collection": 0,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 25,
+        "data": 29,
         "legislation": 0,
         "access_edit_delete": 20,
-        "policy_change": 9
+        "policy_change": 5
     },
     {
         "url": "http://www.inreality.com",
-        "do_not_track": 0,
-        "data_security": 14,
+        "do_not_track": 3,
+        "data_security": 12,
         "first_party_collection": 120,
         "third_party_collection": 11,
         "opt_out": 0,
         "user_choice": 2,
-        "data": 148,
+        "data": 243,
         "legislation": 11,
         "access_edit_delete": 18,
-        "policy_change": 5
+        "policy_change": 4
     },
     {
         "url": "http://www.mightyautoparts.com",
-        "do_not_track": 0,
-        "data_security": 31,
+        "do_not_track": 5,
+        "data_security": 23,
         "first_party_collection": 104,
         "third_party_collection": 7,
         "opt_out": 1,
         "user_choice": 7,
-        "data": 83,
+        "data": 161,
         "legislation": 4,
         "access_edit_delete": 18,
-        "policy_change": 13
+        "policy_change": 8
     },
     {
         "url": "http://www.vtech.com",
-        "do_not_track": 0,
+        "do_not_track": 2,
         "data_security": 11,
         "first_party_collection": 80,
         "third_party_collection": 4,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 51,
+        "data": 61,
         "legislation": 2,
         "access_edit_delete": 16,
-        "policy_change": 5
+        "policy_change": 4
     },
     {
         "url": "http://www.vogels.com",
         "do_not_track": 0,
-        "data_security": 13,
+        "data_security": 12,
         "first_party_collection": 195,
         "third_party_collection": 10,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 196,
+        "data": 236,
         "legislation": 1,
         "access_edit_delete": 25,
-        "policy_change": 15
+        "policy_change": 9
     },
     {
         "url": "http://www.touchstonehomeproducts.com",
@@ -4258,33 +4258,33 @@
         "third_party_collection": 2,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 29,
+        "data": 32,
         "legislation": 0,
         "access_edit_delete": 18,
-        "policy_change": 9
+        "policy_change": 5
     },
     {
         "url": "http://www.echogear.com",
-        "do_not_track": 0,
+        "do_not_track": 2,
         "data_security": 13,
         "first_party_collection": 227,
         "third_party_collection": 35,
         "opt_out": 4,
         "user_choice": 17,
-        "data": 134,
+        "data": 131,
         "legislation": 14,
         "access_edit_delete": 20,
-        "policy_change": 17
+        "policy_change": 12
     },
     {
         "url": "http://www.leepiya.com",
         "do_not_track": 0,
-        "data_security": 4,
+        "data_security": 3,
         "first_party_collection": 78,
         "third_party_collection": 6,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 43,
+        "data": 42,
         "legislation": 5,
         "access_edit_delete": 7,
         "policy_change": 1
@@ -4297,27 +4297,27 @@
         "third_party_collection": 2,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 29,
+        "data": 31,
         "legislation": 1,
         "access_edit_delete": 10,
-        "policy_change": 9
+        "policy_change": 5
     },
     {
         "url": "http://www.shopsmartdeals.com",
-        "do_not_track": 0,
+        "do_not_track": 1,
         "data_security": 1,
         "first_party_collection": 61,
         "third_party_collection": 5,
         "opt_out": 2,
         "user_choice": 1,
-        "data": 26,
+        "data": 25,
         "legislation": 0,
         "access_edit_delete": 8,
-        "policy_change": 4
+        "policy_change": 3
     },
     {
         "url": "http://magideal.com",
-        "do_not_track": 0,
+        "do_not_track": 2,
         "data_security": 1,
         "first_party_collection": 52,
         "third_party_collection": 4,
@@ -4326,33 +4326,33 @@
         "data": 27,
         "legislation": 0,
         "access_edit_delete": 9,
-        "policy_change": 6
+        "policy_change": 4
     },
     {
         "url": "http://www.tile.com",
-        "do_not_track": 0,
-        "data_security": 67,
+        "do_not_track": 1,
+        "data_security": 58,
         "first_party_collection": 511,
         "third_party_collection": 67,
         "opt_out": 2,
         "user_choice": 20,
-        "data": 406,
+        "data": 448,
         "legislation": 7,
         "access_edit_delete": 66,
-        "policy_change": 28
+        "policy_change": 18
     },
     {
         "url": "http://www.paj-gps.com",
         "do_not_track": 0,
-        "data_security": 25,
+        "data_security": 18,
         "first_party_collection": 160,
         "third_party_collection": 6,
         "opt_out": 0,
         "user_choice": 18,
-        "data": 181,
+        "data": 294,
         "legislation": 47,
         "access_edit_delete": 22,
-        "policy_change": 6
+        "policy_change": 3
     },
     {
         "url": "http://www.nutale.com",
@@ -4365,7 +4365,7 @@
         "data": 58,
         "legislation": 0,
         "access_edit_delete": 18,
-        "policy_change": 21
+        "policy_change": 13
     },
     {
         "url": "http://www.jiobit.com",
@@ -4378,7 +4378,7 @@
         "data": 16,
         "legislation": 0,
         "access_edit_delete": 3,
-        "policy_change": 4
+        "policy_change": 3
     },
     {
         "url": "http://landairsea.com",
@@ -4388,36 +4388,36 @@
         "third_party_collection": 9,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 21,
+        "data": 25,
         "legislation": 0,
         "access_edit_delete": 19,
-        "policy_change": 7
+        "policy_change": 5
     },
     {
         "url": "http://spytec.com",
         "do_not_track": 0,
-        "data_security": 17,
+        "data_security": 14,
         "first_party_collection": 101,
         "third_party_collection": 12,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 56,
+        "data": 118,
         "legislation": 0,
         "access_edit_delete": 5,
-        "policy_change": 2
+        "policy_change": 1
     },
     {
         "url": "http://www.dogtra.com",
         "do_not_track": 0,
-        "data_security": 13,
+        "data_security": 12,
         "first_party_collection": 70,
         "third_party_collection": 2,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 43,
+        "data": 47,
         "legislation": 0,
         "access_edit_delete": 18,
-        "policy_change": 14
+        "policy_change": 9
     },
     {
         "url": "http://www.eskynow.com",
@@ -4427,10 +4427,10 @@
         "third_party_collection": 3,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 22,
+        "data": 24,
         "legislation": 0,
         "access_edit_delete": 10,
-        "policy_change": 10
+        "policy_change": 7
     },
     {
         "url": "http://www.tackgps.app",
@@ -4440,10 +4440,10 @@
         "third_party_collection": 15,
         "opt_out": 0,
         "user_choice": 4,
-        "data": 69,
+        "data": 111,
         "legislation": 0,
         "access_edit_delete": 15,
-        "policy_change": 10
+        "policy_change": 7
     },
     {
         "url": "http://www.humancentric.com",
@@ -4453,14 +4453,14 @@
         "third_party_collection": 0,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 4,
+        "data": 5,
         "legislation": 1,
         "access_edit_delete": 0,
         "policy_change": 0
     },
     {
         "url": "http://badgertracker.com",
-        "do_not_track": 0,
+        "do_not_track": 2,
         "data_security": 1,
         "first_party_collection": 65,
         "third_party_collection": 5,
@@ -4469,7 +4469,7 @@
         "data": 26,
         "legislation": 0,
         "access_edit_delete": 9,
-        "policy_change": 6
+        "policy_change": 4
     },
     {
         "url": "http://www.lonestartracking.com",
@@ -4479,10 +4479,10 @@
         "third_party_collection": 4,
         "opt_out": 3,
         "user_choice": 1,
-        "data": 70,
+        "data": 85,
         "legislation": 0,
         "access_edit_delete": 20,
-        "policy_change": 12
+        "policy_change": 11
     },
     {
         "url": "http://www.projectorsuperstore.com",
@@ -4492,62 +4492,62 @@
         "third_party_collection": 6,
         "opt_out": 0,
         "user_choice": 15,
-        "data": 33,
+        "data": 76,
         "legislation": 0,
         "access_edit_delete": 9,
-        "policy_change": 8
+        "policy_change": 5
     },
     {
         "url": "http://www.kodak.com",
         "do_not_track": 0,
-        "data_security": 56,
+        "data_security": 50,
         "first_party_collection": 373,
         "third_party_collection": 26,
         "opt_out": 5,
         "user_choice": 27,
-        "data": 225,
+        "data": 252,
         "legislation": 2,
         "access_edit_delete": 28,
-        "policy_change": 11
+        "policy_change": 9
     },
     {
         "url": "http://goodeestore.com",
         "do_not_track": 0,
-        "data_security": 9,
+        "data_security": 8,
         "first_party_collection": 40,
         "third_party_collection": 1,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 30,
+        "data": 37,
         "legislation": 1,
         "access_edit_delete": 15,
-        "policy_change": 8
+        "policy_change": 5
     },
     {
         "url": "http://www.projectorcentral.com",
-        "do_not_track": 0,
-        "data_security": 33,
+        "do_not_track": 3,
+        "data_security": 26,
         "first_party_collection": 276,
         "third_party_collection": 34,
         "opt_out": 3,
         "user_choice": 13,
-        "data": 157,
+        "data": 226,
         "legislation": 12,
         "access_edit_delete": 33,
-        "policy_change": 14
+        "policy_change": 10
     },
     {
         "url": "http://electronics.sony.com",
-        "do_not_track": 0,
-        "data_security": 23,
+        "do_not_track": 5,
+        "data_security": 22,
         "first_party_collection": 408,
         "third_party_collection": 113,
         "opt_out": 3,
         "user_choice": 25,
-        "data": 363,
+        "data": 389,
         "legislation": 0,
         "access_edit_delete": 60,
-        "policy_change": 27
+        "policy_change": 18
     },
     {
         "url": "http://www.kmart.com",
@@ -4560,20 +4560,20 @@
         "data": 7,
         "legislation": 0,
         "access_edit_delete": 5,
-        "policy_change": 4
+        "policy_change": 2
     },
     {
         "url": "http://raggzz.com",
         "do_not_track": 0,
-        "data_security": 9,
+        "data_security": 8,
         "first_party_collection": 42,
         "third_party_collection": 0,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 32,
+        "data": 40,
         "legislation": 1,
         "access_edit_delete": 16,
-        "policy_change": 8
+        "policy_change": 5
     },
     {
         "url": "http://www.seeedstudio.com",
@@ -4583,7 +4583,7 @@
         "third_party_collection": 2,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 20,
+        "data": 26,
         "legislation": 0,
         "access_edit_delete": 6,
         "policy_change": 2
@@ -4596,23 +4596,23 @@
         "third_party_collection": 8,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 22,
+        "data": 23,
         "legislation": 0,
         "access_edit_delete": 15,
-        "policy_change": 11
+        "policy_change": 7
     },
     {
         "url": "https://www.oneplus.com",
-        "do_not_track": 0,
-        "data_security": 55,
+        "do_not_track": 1,
+        "data_security": 48,
         "first_party_collection": 235,
         "third_party_collection": 41,
         "opt_out": 5,
         "user_choice": 11,
-        "data": 268,
+        "data": 495,
         "legislation": 2,
         "access_edit_delete": 57,
-        "policy_change": 20
+        "policy_change": 15
     },
     {
         "url": "https://www.mokoblue.com",
@@ -4622,36 +4622,36 @@
         "third_party_collection": 1,
         "opt_out": 0,
         "user_choice": 4,
-        "data": 14,
+        "data": 15,
         "legislation": 0,
         "access_edit_delete": 13,
-        "policy_change": 4
+        "policy_change": 3
     },
     {
         "url": "https://superdanny.net",
         "do_not_track": 0,
-        "data_security": 18,
+        "data_security": 16,
         "first_party_collection": 72,
         "third_party_collection": 10,
         "opt_out": 0,
         "user_choice": 2,
-        "data": 67,
+        "data": 93,
         "legislation": 0,
         "access_edit_delete": 25,
-        "policy_change": 11
+        "policy_change": 7
     },
     {
         "url": "https://www.hisense-usa.com",
-        "do_not_track": 0,
+        "do_not_track": 2,
         "data_security": 7,
         "first_party_collection": 150,
         "third_party_collection": 20,
         "opt_out": 1,
         "user_choice": 2,
-        "data": 100,
+        "data": 103,
         "legislation": 5,
         "access_edit_delete": 16,
-        "policy_change": 6
+        "policy_change": 5
     },
     {
         "url": "https://www.uei.com",
@@ -4661,23 +4661,23 @@
         "third_party_collection": 10,
         "opt_out": 0,
         "user_choice": 5,
-        "data": 70,
+        "data": 74,
         "legislation": 0,
         "access_edit_delete": 33,
-        "policy_change": 9
+        "policy_change": 7
     },
     {
         "url": "https://www.amazfit.com",
-        "do_not_track": 0,
-        "data_security": 26,
+        "do_not_track": 4,
+        "data_security": 22,
         "first_party_collection": 198,
         "third_party_collection": 22,
         "opt_out": 7,
         "user_choice": 8,
-        "data": 115,
+        "data": 123,
         "legislation": 5,
         "access_edit_delete": 20,
-        "policy_change": 10
+        "policy_change": 6
     },
     {
         "url": "https://www.asus.com",
@@ -4695,41 +4695,41 @@
     {
         "url": "https://www.hp.com",
         "do_not_track": 0,
-        "data_security": 11,
+        "data_security": 7,
         "first_party_collection": 2,
         "third_party_collection": 0,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 6,
+        "data": 15,
         "legislation": 0,
         "access_edit_delete": 1,
         "policy_change": 0
     },
     {
         "url": "https://electronics.sony.com",
-        "do_not_track": 0,
-        "data_security": 23,
+        "do_not_track": 5,
+        "data_security": 22,
         "first_party_collection": 399,
         "third_party_collection": 110,
         "opt_out": 3,
         "user_choice": 24,
-        "data": 356,
+        "data": 382,
         "legislation": 0,
         "access_edit_delete": 58,
-        "policy_change": 25
+        "policy_change": 16
     },
     {
         "url": "https://www.jbl.com",
         "do_not_track": 0,
-        "data_security": 50,
+        "data_security": 37,
         "first_party_collection": 246,
         "third_party_collection": 17,
         "opt_out": 1,
         "user_choice": 4,
-        "data": 185,
+        "data": 213,
         "legislation": 1,
         "access_edit_delete": 37,
-        "policy_change": 18
+        "policy_change": 13
     },
     {
         "url": "http://www.sinyofox.com",
@@ -4747,67 +4747,67 @@
     {
         "url": "https://www.usa.philips.com",
         "do_not_track": 0,
-        "data_security": 68,
+        "data_security": 61,
         "first_party_collection": 229,
         "third_party_collection": 58,
         "opt_out": 0,
         "user_choice": 39,
-        "data": 444,
+        "data": 696,
         "legislation": 7,
         "access_edit_delete": 63,
-        "policy_change": 20
+        "policy_change": 16
     },
     {
         "url": "https://www.toshiba.com",
         "do_not_track": 0,
-        "data_security": 20,
+        "data_security": 17,
         "first_party_collection": 160,
         "third_party_collection": 23,
         "opt_out": 2,
         "user_choice": 9,
-        "data": 103,
+        "data": 104,
         "legislation": 7,
         "access_edit_delete": 34,
-        "policy_change": 23
+        "policy_change": 15
     },
     {
         "url": "https://www.nvidia.com",
         "do_not_track": 0,
-        "data_security": 17,
+        "data_security": 12,
         "first_party_collection": 144,
         "third_party_collection": 40,
         "opt_out": 1,
         "user_choice": 8,
-        "data": 133,
+        "data": 203,
         "legislation": 1,
         "access_edit_delete": 10,
-        "policy_change": 7
+        "policy_change": 4
     },
     {
         "url": "https://www.pioneer-car.eu",
         "do_not_track": 0,
-        "data_security": 17,
+        "data_security": 15,
         "first_party_collection": 48,
         "third_party_collection": 12,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 72,
+        "data": 137,
         "legislation": 6,
         "access_edit_delete": 12,
-        "policy_change": 5
+        "policy_change": 4
     },
     {
         "url": "https://www.turtlebeach.com",
         "do_not_track": 0,
-        "data_security": 20,
+        "data_security": 17,
         "first_party_collection": 145,
         "third_party_collection": 7,
         "opt_out": 0,
         "user_choice": 8,
-        "data": 104,
+        "data": 117,
         "legislation": 0,
         "access_edit_delete": 18,
-        "policy_change": 14
+        "policy_change": 9
     },
     {
         "url": "https://xiaomistoreph.com",
@@ -4817,36 +4817,36 @@
         "third_party_collection": 1,
         "opt_out": 0,
         "user_choice": 0,
-        "data": 17,
+        "data": 21,
         "legislation": 0,
         "access_edit_delete": 5,
         "policy_change": 0
     },
     {
         "url": "https://www.iogear.com",
-        "do_not_track": 0,
-        "data_security": 36,
+        "do_not_track": 3,
+        "data_security": 28,
         "first_party_collection": 189,
         "third_party_collection": 37,
         "opt_out": 6,
         "user_choice": 18,
-        "data": 129,
+        "data": 148,
         "legislation": 0,
         "access_edit_delete": 30,
-        "policy_change": 11
+        "policy_change": 9
     },
     {
         "url": "https://www.echogear.com",
-        "do_not_track": 0,
+        "do_not_track": 2,
         "data_security": 13,
         "first_party_collection": 209,
         "third_party_collection": 30,
         "opt_out": 2,
         "user_choice": 14,
-        "data": 124,
+        "data": 121,
         "legislation": 13,
         "access_edit_delete": 19,
-        "policy_change": 16
+        "policy_change": 11
     },
     {
         "url": "https://www.fosmon.com",
@@ -4856,23 +4856,23 @@
         "third_party_collection": 2,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 23,
+        "data": 25,
         "legislation": 0,
         "access_edit_delete": 14,
-        "policy_change": 9
+        "policy_change": 5
     },
     {
         "url": "https://www.ipazzport.com",
         "do_not_track": 0,
-        "data_security": 17,
+        "data_security": 15,
         "first_party_collection": 119,
         "third_party_collection": 20,
         "opt_out": 0,
         "user_choice": 5,
-        "data": 79,
+        "data": 106,
         "legislation": 0,
         "access_edit_delete": 16,
-        "policy_change": 11
+        "policy_change": 10
     },
     {
         "url": "https://alpinecom.net",
@@ -4882,62 +4882,62 @@
         "third_party_collection": 13,
         "opt_out": 3,
         "user_choice": 1,
-        "data": 36,
+        "data": 38,
         "legislation": 0,
         "access_edit_delete": 23,
-        "policy_change": 8
+        "policy_change": 6
     },
     {
         "url": "https://www.lenovo.com",
         "do_not_track": 0,
-        "data_security": 90,
+        "data_security": 76,
         "first_party_collection": 685,
         "third_party_collection": 65,
         "opt_out": 2,
         "user_choice": 27,
-        "data": 522,
+        "data": 602,
         "legislation": 2,
         "access_edit_delete": 134,
-        "policy_change": 58
+        "policy_change": 39
     },
     {
         "url": "https://usa.yamaha.com",
-        "do_not_track": 0,
-        "data_security": 43,
+        "do_not_track": 4,
+        "data_security": 41,
         "first_party_collection": 276,
         "third_party_collection": 49,
         "opt_out": 4,
         "user_choice": 25,
-        "data": 216,
+        "data": 283,
         "legislation": 4,
         "access_edit_delete": 48,
-        "policy_change": 22
+        "policy_change": 15
     },
     {
         "url": "https://www.viewsonic.com",
-        "do_not_track": 0,
-        "data_security": 5,
+        "do_not_track": 7,
+        "data_security": 4,
         "first_party_collection": 148,
         "third_party_collection": 15,
         "opt_out": 1,
         "user_choice": 2,
-        "data": 76,
+        "data": 99,
         "legislation": 0,
         "access_edit_delete": 19,
-        "policy_change": 10
+        "policy_change": 5
     },
     {
         "url": "https://www.rca.com",
         "do_not_track": 0,
-        "data_security": 47,
+        "data_security": 32,
         "first_party_collection": 105,
         "third_party_collection": 15,
         "opt_out": 0,
         "user_choice": 11,
-        "data": 72,
+        "data": 121,
         "legislation": 16,
         "access_edit_delete": 24,
-        "policy_change": 10
+        "policy_change": 6
     },
     {
         "url": "https://victrola.com",
@@ -4947,7 +4947,7 @@
         "third_party_collection": 0,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 39,
+        "data": 40,
         "legislation": 0,
         "access_edit_delete": 3,
         "policy_change": 0
@@ -4955,67 +4955,67 @@
     {
         "url": "https://www.acer.com",
         "do_not_track": 0,
-        "data_security": 39,
+        "data_security": 29,
         "first_party_collection": 221,
         "third_party_collection": 30,
         "opt_out": 1,
         "user_choice": 13,
-        "data": 151,
+        "data": 222,
         "legislation": 4,
         "access_edit_delete": 40,
-        "policy_change": 12
+        "policy_change": 8
     },
     {
         "url": "https://starkhomes.ca",
         "do_not_track": 0,
-        "data_security": 18,
+        "data_security": 12,
         "first_party_collection": 83,
         "third_party_collection": 12,
         "opt_out": 0,
         "user_choice": 3,
-        "data": 44,
+        "data": 64,
         "legislation": 0,
         "access_edit_delete": 16,
-        "policy_change": 10
+        "policy_change": 7
     },
     {
         "url": "https://www.optomausa.com",
-        "do_not_track": 0,
+        "do_not_track": 4,
         "data_security": 18,
         "first_party_collection": 109,
         "third_party_collection": 12,
         "opt_out": 0,
         "user_choice": 10,
-        "data": 133,
+        "data": 241,
         "legislation": 3,
         "access_edit_delete": 33,
-        "policy_change": 20
+        "policy_change": 13
     },
     {
         "url": "https://audioengine.com",
-        "do_not_track": 0,
-        "data_security": 18,
+        "do_not_track": 4,
+        "data_security": 17,
         "first_party_collection": 86,
         "third_party_collection": 7,
         "opt_out": 11,
         "user_choice": 5,
-        "data": 54,
+        "data": 68,
         "legislation": 0,
         "access_edit_delete": 17,
-        "policy_change": 8
+        "policy_change": 6
     },
     {
         "url": "https://www.scosche.com",
-        "do_not_track": 0,
-        "data_security": 19,
+        "do_not_track": 2,
+        "data_security": 17,
         "first_party_collection": 224,
         "third_party_collection": 43,
         "opt_out": 1,
         "user_choice": 12,
-        "data": 130,
+        "data": 140,
         "legislation": 7,
         "access_edit_delete": 33,
-        "policy_change": 21
+        "policy_change": 15
     },
     {
         "url": "https://www.do-smarter.com",
@@ -5025,7 +5025,7 @@
         "third_party_collection": 7,
         "opt_out": 2,
         "user_choice": 1,
-        "data": 26,
+        "data": 31,
         "legislation": 0,
         "access_edit_delete": 14,
         "policy_change": 3
@@ -5033,15 +5033,15 @@
     {
         "url": "http://fitturn.cn",
         "do_not_track": 0,
-        "data_security": 19,
+        "data_security": 18,
         "first_party_collection": 41,
         "third_party_collection": 4,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 26,
+        "data": 32,
         "legislation": 0,
         "access_edit_delete": 16,
-        "policy_change": 6
+        "policy_change": 5
     },
     {
         "url": "https://byjasco.com",
@@ -5051,14 +5051,14 @@
         "third_party_collection": 20,
         "opt_out": 0,
         "user_choice": 4,
-        "data": 100,
+        "data": 102,
         "legislation": 2,
         "access_edit_delete": 44,
-        "policy_change": 27
+        "policy_change": 21
     },
     {
         "url": "https://tikbands.com",
-        "do_not_track": 0,
+        "do_not_track": 2,
         "data_security": 1,
         "first_party_collection": 66,
         "third_party_collection": 6,
@@ -5067,59 +5067,59 @@
         "data": 28,
         "legislation": 0,
         "access_edit_delete": 9,
-        "policy_change": 6
+        "policy_change": 4
     },
     {
         "url": "https://www.slideusa.com",
-        "do_not_track": 0,
-        "data_security": 18,
+        "do_not_track": 5,
+        "data_security": 16,
         "first_party_collection": 64,
         "third_party_collection": 1,
         "opt_out": 0,
         "user_choice": 1,
-        "data": 51,
+        "data": 58,
         "legislation": 0,
         "access_edit_delete": 7,
-        "policy_change": 4
+        "policy_change": 2
     },
     {
         "url": "http://www.dirrelo.com",
         "do_not_track": 0,
-        "data_security": 8,
+        "data_security": 7,
         "first_party_collection": 84,
         "third_party_collection": 7,
         "opt_out": 0,
         "user_choice": 4,
-        "data": 56,
+        "data": 62,
         "legislation": 0,
         "access_edit_delete": 18,
-        "policy_change": 7
+        "policy_change": 5
     },
     {
         "url": "https://wewalk.io",
         "do_not_track": 0,
-        "data_security": 22,
+        "data_security": 16,
         "first_party_collection": 86,
         "third_party_collection": 5,
         "opt_out": 0,
         "user_choice": 2,
-        "data": 72,
+        "data": 145,
         "legislation": 9,
         "access_edit_delete": 17,
-        "policy_change": 3
+        "policy_change": 2
     },
     {
         "url": "https://www.hafury.com",
         "do_not_track": 0,
-        "data_security": 32,
+        "data_security": 29,
         "first_party_collection": 142,
         "third_party_collection": 18,
         "opt_out": 0,
         "user_choice": 12,
-        "data": 105,
+        "data": 121,
         "legislation": 0,
         "access_edit_delete": 26,
-        "policy_change": 15
+        "policy_change": 12
     },
     {
         "url": "https://www.proyoo.com",
@@ -5129,23 +5129,23 @@
         "third_party_collection": 7,
         "opt_out": 2,
         "user_choice": 1,
-        "data": 26,
+        "data": 31,
         "legislation": 0,
         "access_edit_delete": 14,
         "policy_change": 3
     },
     {
         "url": "https://shopinspiratek.com",
-        "do_not_track": 0,
+        "do_not_track": 1,
         "data_security": 1,
         "first_party_collection": 64,
         "third_party_collection": 6,
         "opt_out": 2,
         "user_choice": 1,
-        "data": 28,
+        "data": 27,
         "legislation": 0,
         "access_edit_delete": 8,
-        "policy_change": 4
+        "policy_change": 3
     },
     {
         "url": "http://www.3plususa.com",
@@ -5276,19 +5276,6 @@
         "legislation": 1,
         "access_edit_delete": 78,
         "policy_change": 40
-    },
-    {
-        "url": "http://www.ecovacs.com",
-        "do_not_track": 0,
-        "data_security": 22,
-        "first_party_collection": 318,
-        "third_party_collection": 44,
-        "opt_out": 17,
-        "user_choice": 14,
-        "data": 216,
-        "legislation": 14,
-        "access_edit_delete": 59,
-        "policy_change": 26
     },
     {
         "url": "http://www.ao.com",
@@ -7098,6 +7085,45 @@
         "policy_change": 10
     },
     {
+        "url": "http://www.airivo.com",
+        "do_not_track": 1,
+        "data_security": 1,
+        "first_party_collection": 7,
+        "third_party_collection": 0,
+        "opt_out": 0,
+        "user_choice": 0,
+        "data": 8,
+        "legislation": 0,
+        "access_edit_delete": 3,
+        "policy_change": 0
+    },
+    {
+        "url": "http://www.cablematters.com",
+        "do_not_track": 0,
+        "data_security": 0,
+        "first_party_collection": 2,
+        "third_party_collection": 0,
+        "opt_out": 0,
+        "user_choice": 0,
+        "data": 14,
+        "legislation": 0,
+        "access_edit_delete": 0,
+        "policy_change": 0
+    },
+    {
+        "url": "http://www.adero.com",
+        "do_not_track": 2,
+        "data_security": 0,
+        "first_party_collection": 0,
+        "third_party_collection": 0,
+        "opt_out": 0,
+        "user_choice": 0,
+        "data": 5,
+        "legislation": 0,
+        "access_edit_delete": 0,
+        "policy_change": 0
+    },
+    {
         "url": "http://www.aarons.com",
         "do_not_track": 0,
         "data_security": 12,
@@ -8305,19 +8331,6 @@
         "legislation": 3,
         "access_edit_delete": 14,
         "policy_change": 7
-    },
-    {
-        "url": "http://www.invoxia.com",
-        "do_not_track": 0,
-        "data_security": 7,
-        "first_party_collection": 41,
-        "third_party_collection": 4,
-        "opt_out": 0,
-        "user_choice": 0,
-        "data": 40,
-        "legislation": 0,
-        "access_edit_delete": 10,
-        "policy_change": 5
     },
     {
         "url": "http://www.irobot.com",
@@ -10465,19 +10478,6 @@
         "policy_change": 26
     },
     {
-        "url": "http://www.irobot.com",
-        "do_not_track": 1,
-        "data_security": 21,
-        "first_party_collection": 440,
-        "third_party_collection": 65,
-        "opt_out": 16,
-        "user_choice": 32,
-        "data": 291,
-        "legislation": 6,
-        "access_edit_delete": 37,
-        "policy_change": 14
-    },
-    {
         "url": "http://www.ecovacs.com",
         "do_not_track": 0,
         "data_security": 22,
@@ -10660,6 +10660,19 @@
         "policy_change": 2
     },
     {
+        "url": "http://www.bosch-home.com",
+        "do_not_track": 0,
+        "data_security": 58,
+        "first_party_collection": 189,
+        "third_party_collection": 19,
+        "opt_out": 8,
+        "user_choice": 9,
+        "data": 375,
+        "legislation": 5,
+        "access_edit_delete": 35,
+        "policy_change": 6
+    },
+    {
         "url": "http://www.support.fossilgroup.com",
         "do_not_track": 0,
         "data_security": 13,
@@ -10671,19 +10684,6 @@
         "legislation": 5,
         "access_edit_delete": 25,
         "policy_change": 4
-    },
-    {
-        "url": "http://www.facegraph.com",
-        "do_not_track": 0,
-        "data_security": 1,
-        "first_party_collection": 14,
-        "third_party_collection": 0,
-        "opt_out": 0,
-        "user_choice": 0,
-        "data": 12,
-        "legislation": 0,
-        "access_edit_delete": 5,
-        "policy_change": 0
     },
     {
         "url": "http://www.onepeloton.com",

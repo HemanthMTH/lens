@@ -143,7 +143,7 @@ export class RegulatorComponent {
         this.countryData = this.getCountryData(countryData);
         this.updates = updateData;
         this.noMentionUpdates = noMentionUpdateData;
-        this.selectedCountry = this.countries[30];
+        this.selectedCountry = this.countries[42];
         this.selectedDevice = this.devices[0];
         this.onDeviceTypeChange(this.selectedDevice);
         this.onCountryChange(this.selectedCountry);

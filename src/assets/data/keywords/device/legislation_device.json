@@ -2,139 +2,139 @@
     {
         "category": "Miscellaneous",
         "min": 0,
-        "average": 0.5,
-        "max": 3
+        "average": 0.0,
+        "max": 0
+    },
+    {
+        "category": "Smart Air Conditioner",
+        "min": 0,
+        "average": 4.35,
+        "max": 34
+    },
+    {
+        "category": "Smart Alarm Clock",
+        "min": 0,
+        "average": 2.111111111,
+        "max": 9
     },
     {
         "category": "Smart Body Scanner",
         "min": 0,
-        "average": 0.0,
-        "max": 0
+        "average": 3.0,
+        "max": 22
+    },
+    {
+        "category": "Smart Bracelet",
+        "min": 0,
+        "average": 10.0,
+        "max": 76
     },
     {
         "category": "Smart Camera",
         "min": 0,
-        "average": 0.285,
-        "max": 2
+        "average": 2.19047619,
+        "max": 15
     },
     {
         "category": "Smart Connected Vehicle",
         "min": 0,
-        "average": 0.42,
-        "max": 3
-    },
-    {
-        "category": "Smart Doorbell",
-        "min": 0,
-        "average": 0.0,
-        "max": 0
+        "average": 0.1428571429,
+        "max": 1
     },
     {
         "category": "Smart Entertainment Device",
         "min": 0,
-        "average": 1.666,
-        "max": 5
+        "average": 1.863636364,
+        "max": 16
     },
     {
         "category": "Smart Fitness Equipment",
         "min": 0,
-        "average": 0.0,
-        "max": 0
+        "average": 4.0,
+        "max": 17
     },
     {
         "category": "Smart Health Tracker",
         "min": 0,
-        "average": 1.909,
+        "average": 2.176470588,
         "max": 9
     },
     {
         "category": "Smart Home Device",
         "min": 0,
-        "average": 0.91,
-        "max": 6
+        "average": 2.463157895,
+        "max": 33
     },
     {
         "category": "Smart Light",
         "min": 0,
-        "average": 1.25,
-        "max": 8
+        "average": 0.8095238095,
+        "max": 4
     },
     {
         "category": "Smart Location Tracker",
         "min": 0,
-        "average": 0.75,
-        "max": 4
+        "average": 4.583333333,
+        "max": 47
     },
     {
         "category": "Smart Lock",
         "min": 0,
         "average": 1.0,
-        "max": 2
-    },
-    {
-        "category": "Smart Monitor",
-        "min": 0,
-        "average": 0.0,
-        "max": 0
+        "max": 6
     },
     {
         "category": "Smart Mount",
         "min": 0,
-        "average": 0.0,
-        "max": 0
-    },
-    {
-        "category": "Smart Networking",
-        "min": 0,
-        "average": 1.25,
-        "max": 3
+        "average": 2.625,
+        "max": 14
     },
     {
         "category": "Smart Projector",
-        "min": 13,
-        "average": 13.0,
-        "max": 13
+        "min": 0,
+        "average": 3.75,
+        "max": 12
     },
     {
         "category": "Smart Scale",
         "min": 0,
-        "average": 0.125,
-        "max": 1
-    },
-    {
-        "category": "Smart Security",
-        "min": 0,
-        "average": 0.3,
-        "max": 2
+        "average": 2.461538462,
+        "max": 9
     },
     {
         "category": "Smart Sensor",
         "min": 0,
-        "average": 1.444,
-        "max": 10
+        "average": 3.235294118,
+        "max": 21
     },
     {
         "category": "Smart Speaker",
         "min": 0,
-        "average": 0.25,
-        "max": 1
+        "average": 2.666666667,
+        "max": 15
+    },
+    {
+        "category": "Smart Thermometer",
+        "min": 0,
+        "average": 1.058823529,
+        "max": 9
     },
     {
         "category": "Smart Thermostat",
         "min": 0,
-        "average": 0.75,
-        "max": 5
+        "average": 4.272727273,
+        "max": 35
     },
     {
-        "category": "Smart Tv",
+        "category": "Smart Video Doorbell",
         "min": 0,
-        "average": 0.5,
-        "max": 1
+        "average": 7.0,
+        "max": 33
     },
     {
         "category": "Smart Watch",
         "min": 0,
-        "average": 2.88,
-        "max": 18
+        "average": 0.3333333333,
+        "max": 1
     }
 ]

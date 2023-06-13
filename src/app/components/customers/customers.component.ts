@@ -156,9 +156,9 @@ export class CustomersComponent {
 
         this.data = [
             {
-                x: keywordMetrics.map((d) => d.median),
+                x: keywordMetrics.map((d) => d.mean),
                 y: keywordMetrics.map((d) => d.group_name),
-                name: 'Median',
+                name: 'Mean',
                 type: 'bar',
                 orientation: 'h',
             },

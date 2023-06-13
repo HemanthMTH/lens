@@ -17,6 +17,66 @@
         ]
     },
     {
+        "device_name": "Smart Air Conditioner",
+        "data": [
+            {
+                "year": 2020,
+                "count": 1
+            },
+            {
+                "year": 2021,
+                "count": 2
+            },
+            {
+                "year": 2022,
+                "count": 4
+            },
+            {
+                "year": 2023,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "device_name": "Smart Alarm Clock",
+        "data": [
+            {
+                "year": 2021,
+                "count": 1
+            },
+            {
+                "year": 2022,
+                "count": 2
+            }
+        ]
+    },
+    {
+        "device_name": "Smart Body Scanner",
+        "data": [
+            {
+                "year": 2021,
+                "count": 1
+            },
+            {
+                "year": 2022,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "device_name": "Smart Bracelet",
+        "data": [
+            {
+                "year": 2022,
+                "count": 1
+            },
+            {
+                "year": 2023,
+                "count": 1
+            }
+        ]
+    },
+    {
         "device_name": "Smart Camera",
         "data": [
             {
@@ -29,11 +89,15 @@
             },
             {
                 "year": 2021,
-                "count": 4
+                "count": 8
             },
             {
                 "year": 2022,
-                "count": 2
+                "count": 5
+            },
+            {
+                "year": 2023,
+                "count": 1
             }
         ]
     },
@@ -51,6 +115,10 @@
             {
                 "year": 2022,
                 "count": 4
+            },
+            {
+                "year": 2023,
+                "count": 1
             }
         ]
     },
@@ -60,6 +128,10 @@
             {
                 "year": 2019,
                 "count": 1
+            },
+            {
+                "year": 2023,
+                "count": 1
             }
         ]
     },
@@ -67,7 +139,32 @@
         "device_name": "Smart Entertainment Devices",
         "data": [
             {
+                "year": 2013,
+                "count": 1
+            },
+            {
+                "year": 2020,
+                "count": 2
+            },
+            {
                 "year": 2017,
+                "count": 1
+            },
+            {
+                "year": 2022,
+                "count": 7
+            },
+            {
+                "year": 2023,
+                "count": 3
+            }
+        ]
+    },
+    {
+        "device_name": "Smart Fitness Equipment",
+        "data": [
+            {
+                "year": 2020,
                 "count": 1
             },
             {
@@ -85,11 +182,11 @@
             },
             {
                 "year": 2020,
-                "count": 3
+                "count": 4
             },
             {
                 "year": 2021,
-                "count": 3
+                "count": 4
             },
             {
                 "year": 2022,
@@ -101,6 +198,14 @@
         "device_name": "Smart Home Device",
         "data": [
             {
+                "year": 2001,
+                "count": 1
+            },
+            {
+                "year": 2014,
+                "count": 1
+            },
+            {
                 "year": 2017,
                 "count": 2
             },
@@ -110,19 +215,23 @@
             },
             {
                 "year": 2019,
-                "count": 5
-            },
-            {
-                "year": 2020,
                 "count": 6
             },
             {
+                "year": 2020,
+                "count": 8
+            },
+            {
                 "year": 2021,
-                "count": 7
+                "count": 9
             },
             {
                 "year": 2022,
-                "count": 11
+                "count": 16
+            },
+            {
+                "year": 2023,
+                "count": 4
             }
         ]
     },
@@ -152,6 +261,19 @@
             {
                 "year": 2022,
                 "count": 1
+            },
+            {
+                "year": 2023,
+                "count": 2
+            }
+        ]
+    },
+    {
+        "device_name": "Smart Location Tracker",
+        "data": [
+            {
+                "year": 2023,
+                "count": 1
             }
         ]
     },
@@ -164,6 +286,29 @@
             },
             {
                 "year": 2022,
+                "count": 2
+            }
+        ]
+    },
+    {
+        "device_name": "Smart Mount",
+        "data": [
+            {
+                "year": 2003,
+                "count": 1
+            },
+            {
+                "year": 2023,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "device_name": "Smart Projector",
+        "data": [
+            
+            {
+                "year": 2020,
                 "count": 1
             }
         ]
@@ -207,15 +352,27 @@
         ]
     },
     {
-        "device_name": "Smart Scales",
+        "device_name": "Smart Scale",
         "data": [
+            {
+                "year": 2017,
+                "count": 1
+            },
             {
                 "year": 2018,
                 "count": 2
             },
             {
+                "year": 2019,
+                "count": 1
+            },
+            {
                 "year": 2020,
                 "count": 1
+            },
+            {
+                "year": 2021,
+                "count": 2
             },
             {
                 "year": 2022,
@@ -252,6 +409,10 @@
         "device_name": "Smart Sensor",
         "data": [
             {
+                "year": 2003,
+                "count": 1
+            },
+            {
                 "year": 2017,
                 "count": 1
             },
@@ -269,7 +430,11 @@
             },
             {
                 "year": 2022,
-                "count": 5
+                "count": 7
+            },
+            {
+                "year": 2023,
+                "count": 1
             }
         ]
     },
@@ -277,12 +442,37 @@
         "device_name": "Smart Speaker",
         "data": [
             {
-                "year": 2019,
+                "year": 2018,
                 "count": 1
             },
             {
-                "year": 2022,
+                "year": 2019,
                 "count": 2
+            },
+            {
+                "year": 2022,
+                "count": 3
+            }
+        ]
+    },
+    {
+        "device_name": "Smart Thermometer",
+        "data": [
+            {
+                "year": 2020,
+                "count": 1
+            },
+            {
+                "year": 2021,
+                "count": 2
+            },
+            {
+                "year": 2022,
+                "count": 1
+            },
+            {
+                "year": 2023,
+                "count": 4
             }
         ]
     },
@@ -295,16 +485,20 @@
             },
             {
                 "year": 2020,
+                "count": 4
+            },
+            {
+                "year": 2021,
                 "count": 3
             },
             {
                 "year": 2021,
-                "count": 2
+                "count": 3
             }
         ]
     },
     {
-        "device_name": "Smart Tv",
+        "device_name": "Smart TV",
         "data": [
             {
                 "year": 2020,

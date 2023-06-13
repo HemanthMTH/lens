@@ -9,11 +9,7 @@
   },
   {
       "category": "Smart Home Device",
-      "size": 156
-  },
-  {
-      "category": "Robot Vacuum Cleaner",
-      "size": 16
+      "size": 172
   },
   {
       "category": "Smart Thermometer",
@@ -100,7 +96,7 @@
       "size": 6
   },
   {
-      "category": "Miscellanious",
+      "category": "Miscellaneous",
       "size": 15
   },
   {
