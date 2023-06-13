@@ -3,18 +3,18 @@
     <p class="lead">
         Welcome to our in-depth exploration of GDPR's impact on privacy
         policies. With PrivacyLens, we track the evolution of these policies
-        before and after GDPR's implementation by tracking Policy changes over time.
+        before and after GDPR's implementation by tracking Policy changes over
+        time.
     </p>
 
     <h3 class="fw-bold lead">Policy Updates</h3>
     <p class="lead">
         In order to keep users informed of changes in data collection and usage,
         policy updates are crucial. Our analysis categorized policies into two
-        groups - device-specific and non-device-specific.
-        Charts shown below illustrates the updates made on each device type
-        privacy policy over the years. Red line in both the charts depicts as a
-        boundary to check updates on policies before and after GDPR | CCPA
-        happened.
+        groups - device-specific and non-device-specific. Charts shown below
+        illustrates the updates made on each device type privacy policy over the
+        years. Red line in both the charts depicts as a boundary to check
+        updates on policies before and after GDPR | CCPA happened.
     </p>
     <div class="alert alert-info text-center mt-2 custom" role="alert">
         <i class="fa fa-info-circle me-2"></i>
@@ -108,6 +108,17 @@
         name.
     </p>
 
+    <!-- <div class="container mt-5 text-center">
+        <div class="row d-flex justify-content-center">
+            <div class="col-auto">
+                <plotly-plot
+                    [data]="countryData"
+                    [layout]="countryLayout"
+                ></plotly-plot>
+            </div>
+        </div>
+    </div> -->
+
     <div class="container mt-5 text-center">
         <div class="row d-flex justify-content-center">
             <div class="col-auto">
@@ -118,6 +129,7 @@
             </div>
         </div>
     </div>
+
     <ng-select
         [items]="countries"
         bindLabel="name"
@@ -136,5 +148,4 @@
             </div>
         </div>
     </div>
-    
 </div>

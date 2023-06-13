@@ -38,7 +38,7 @@ export class RegulatorComponent {
 
     deviceLayout = {
         barmode: 'stack',
-        title: 'Percentage of Policies with Mention and No Mention of Devices',
+        title: 'Percentage of Policies with Mention and No Mention of devices across the World',
         xaxis: { tickmode: 'linear', tickangle: 45, tickfont: { size: 9 } },
         yaxis: {
             title: 'Percentage',
@@ -48,11 +48,11 @@ export class RegulatorComponent {
     };
 
     countryLayout = {
-        barmode: 'stack',
-        title: ' Percentage of Countries with Mention and No Mention of Devices',
-        xaxis: { tickmode: 'linear', tickangle: 45, tickfont: { size: 9 } },
-        yaxis: {
-            title: 'Percentage',
+        title: ' Difference in Percentage between Mention and No Mention of Devices',
+        geo: {
+            projection: {
+                type: 'robinson',
+            },
         },
         width: 1000,
         height: 600,
@@ -143,7 +143,7 @@ export class RegulatorComponent {
         this.countryData = this.getCountryData(countryData);
         this.updates = updateData;
         this.noMentionUpdates = noMentionUpdateData;
-        this.selectedCountry = this.countries[42];
+        this.selectedCountry = this.countries[41];
         this.selectedDevice = this.devices[0];
         this.onDeviceTypeChange(this.selectedDevice);
         this.onCountryChange(this.selectedCountry);
@@ -166,21 +166,18 @@ export class RegulatorComponent {
         ];
     }
 
-    getCountryData(data: CountryInfo[]): BarChartInput[] {
-        return [
-            {
-                x: data.map((d) => d.country),
-                y: data.map((d) => (d.not_mentioned / d.total) * 100),
-                name: 'No mention of smart device',
-                type: 'bar',
-            },
-            {
-                x: data.map((d) => d.country),
-                y: data.map((d) => (d.mentioned / d.total) * 100),
-                name: 'Mention of smart device',
-                type: 'bar',
-            },
-        ];
+    getCountryData(data: CountryInfo[]): any[] {
+        
+        return [{
+            type: 'choropleth',
+            locationmode: 'country names',
+            locations: data.map((d) => d.country),
+            z: data.map((d) => ((d.mentioned - d.not_mentioned) / d.total) * 100),
+            text: data.map((d) => d.country),
+            colorscale: 'RdBu',
+            zmid: 0,
+            reversescale: true,
+          }];
     }
 
     onCountryChange(param: string): void {

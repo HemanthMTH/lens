@@ -13,29 +13,34 @@ export interface CountryInfo extends Info {
 
 export interface DistributionInfo {
     country: string;
-    smart_watches: number | null;
-    smart_tvs: number | null;
-    smart_thermostats: number | null;
-    smart_speakers: number | null;
-    smart_sensors: number | null;
+    smart_watch: number | null;
+    smart_tv: number | null;
+    smart_thermostat: number | null;
+    smart_thermometer: number | null;
+    smart_speaker: number | null;
+    smart_sensor: number | null;
     smart_security: number | null;
-    smart_scales: number | null;
-    smart_projectors: number | null;
+    smart_scale: number | null;
+    smart_projector: number | null;
     smart_networking: number | null;
-    smart_mounts: number | null;
-    smart_monitors: number | null;
-    smart_locks: number | null;
-    smart_location_trackers: number | null;
-    smart_lights: number | null;
-    smart_home_devices: number | null;
-    smart_health_trackers: number | null;
+    smart_mount: number | null;
+    smart_monitor: number | null;
+    smart_lock: number | null;
+    smart_location_tracker: number | null;
+    smart_light: number | null;
+    smart_home_device: number | null;
+    smart_health_tracker: number | null;
     smart_gaming: number | null;
-    smart_fitness_equipments: number | null;
-    smart_entertainment_devices: number | null;
-    smart_doorbells: number | null;
+    smart_fitness_equipment: number | null;
+    smart_entertainment_device: number | null;
+    smart_doorbell: number | null;
     smart_connected_vehicle: number | null;
-    smart_cameras: number | null;
-    smart_body_scanners: number | null;
+    smart_camera: number | null;
+    smart_body_scanner: number | null;
+    smart_bracelet: number | null;
+    smart_air_purifier: number | null;
+    smart_air_conditioner: number | null;
+    smart_alarm_clock: number | null;
     misc: number | null;
 }
 

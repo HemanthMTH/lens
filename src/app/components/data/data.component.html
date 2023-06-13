@@ -12,14 +12,18 @@
         [animateRows]="true"
         [paginationAutoPageSize]="true"
         [pagination]="true"
-       
     >
     </ag-grid-angular>
 </div>
-<div class="alert alert-info d-flex justify-content-center my-2" style="padding:2px" role="alert">
+<div
+    class="alert alert-info d-flex justify-content-center my-2"
+    style="padding: 2px"
+    role="alert"
+>
     <p class="lead">
-        <strong>Note:</strong> Select desired manufacturer URLs from the dropdown list to view feature and keyword
-        details for the selected. Scroll down for keywords.
+        <strong>Note:</strong> Select desired manufacturer URLs from the
+        dropdown list to view the readability and privacy analysis for the
+        selected. Scroll down for privacy analysis
     </p>
 </div>
 <ng-select
@@ -31,7 +35,7 @@
     (change)="onChange($event)"
 >
 </ng-select>
-<h4 *ngIf="showFeatures" class="text-center"> Features </h4>
+<h4 *ngIf="showFeatures" class="text-center">Readability Analysis</h4>
 
 <div *ngIf="showFeatures" style="height: 50vh" class="ag-theme-alpine my-5">
     <ag-grid-angular
@@ -43,11 +47,10 @@
         [animateRows]="true"
         [paginationAutoPageSize]="true"
         [pagination]="true"
-        
     >
     </ag-grid-angular>
 </div>
-<h4 *ngIf="showFeatures" class="text-center"> Keywords </h4>
+<h4 *ngIf="showFeatures" class="text-center">Privacy Analysis</h4>
 
 <div *ngIf="showFeatures" style="height: 50vh" class="ag-theme-alpine my-5">
     <ag-grid-angular
@@ -59,7 +62,6 @@
         [animateRows]="true"
         [paginationAutoPageSize]="true"
         [pagination]="true"
-        
     >
     </ag-grid-angular>
 </div>
