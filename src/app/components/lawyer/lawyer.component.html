@@ -315,4 +315,59 @@
         >
         </ag-grid-angular>
     </div>
+    <p class="lead">
+        Based on the previous features, our classifiers classify the policies
+        based on their level of ambiguity (level of ambiguity in italics). The
+        following table shows the results along with the F-1 scores of the
+        classifiers.
+    </p>
+    <h4 class="text-center">
+        F1-score of Random Forrest Classifier for each Ambiguity Class
+    </h4>
+    <div style="height: 30vh" class="ag-theme-alpine my-5">
+        <ag-grid-angular
+        style="width: 100%; height: 100%"
+            [rowData]="f1ScoreRowData$"
+            [columnDefs]="f1ScoreColumnDefs"
+            [defaultColDef]="defaultColDef"
+            [animateRows]="true"
+            (gridReady)="onF1ScoreGridReady($event)"
+        >
+        </ag-grid-angular>
+    </div>
+
+    <p class="lead">
+        We found that almost all smart-connected car policies were classified as
+        very ambiguous, indicating a need for clearer information. Our analysis
+        showed EU privacy policies to be less ambiguous than those in the US and
+        China, likely due to stricter data privacy laws like GDPR. We
+        categorized policies into three ambiguity levels: not-ambiguous,
+        somewhat-ambiguous, and very-ambiguous. The EU had the highest
+        percentage of not-ambiguous policies (65.8%), while China had the lowest
+        (54.3%). The US had the most somewhat-ambiguous policies (27.5%), with
+        the EU having the least (12.5%). In the very-ambiguous category, China
+        had the highest percentage (23.9%), and the US had the lowest (18.7%) as
+        shown below.
+    </p>
+    <h4 class="text-center">
+        Percentage of Ambiguity Level across Manufacturers
+    </h4>
+    <div style="height: 30vh" class="ag-theme-alpine my-5">
+        <ag-grid-angular
+        style="width: 100%; height: 100%"
+            [rowData]="ambiguityLevelRowData$"
+            [columnDefs]="ambiguityLevelColumnDefs"
+            [defaultColDef]="defaultColDef"
+            [animateRows]="true"
+            (gridReady)="onAmbiguityLevelGridReady($event)"
+        >
+        </ag-grid-angular>
+    </div>
+    <p class="lead">
+        Overall, the results suggest that companies need to pay more attention
+        to the level of ambiguity in their privacy policies, particularly for
+        smart-connected cars. The findings also highlight the need for stricter
+        regulations and guidelines to ensure that privacy policies are more
+        transparent and easier to understand for users.
+    </p>
 </div>

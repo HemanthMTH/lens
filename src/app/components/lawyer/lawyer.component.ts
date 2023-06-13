@@ -5,6 +5,8 @@ import { AgGridAngular } from 'ag-grid-angular';
 import { ColDef, GridReadyEvent } from 'ag-grid-community';
 import { interpolateRgbBasis } from 'd3-interpolate';
 import { Similarity } from 'src/app/models/similarity';
+import ambiguityLevelData from '../../../assets/data/tables/ambiguity_levels.json';
+import f1ScoreData from '../../../assets/data/tables/f1scores.json';
 import ambiguityData from '../../../assets/explore/features.json';
 import similarityData from '../../../assets/explore/manufacturers.json';
 import _heatmapData from '../../../assets/explore/matrix.json';
@@ -65,6 +67,8 @@ export class LawyerComponent implements OnInit {
     dataSource: Similarity[] = [];
 
     hmData: HeatMapPolicy[] = [];
+    ambiguityLevelRowData$!: any[];
+    f1ScoreRowData$!: any[];
 
     // Dynamic heatmap
     view: [number, number] = [700, 500];
@@ -109,6 +113,44 @@ export class LawyerComponent implements OnInit {
         minWidth: 100,
         resizable: true,
     };
+
+    public f1ScoreColumnDefs: ColDef[] = [
+        {
+            headerName: 'Ambiguity Class',
+            field: 'ambiguity_class',
+        },
+        {
+            headerName: 'No. of Policies',
+            field: 'number_of_policies',
+        },
+        {
+            headerName: 'Random Forrest Classifier',
+            field: 'random_forrest_classifier',
+        },
+        {
+            headerName: 'Logistic Regression',
+            field: 'logistic_regression',
+        },
+    ];
+
+    public ambiguityLevelColumnDefs: ColDef[] = [
+        {
+            headerName: 'Manufacturer Country',
+            field: 'country',
+        },
+        {
+            headerName: 'Not Ambiguous',
+            field: 'not_ambiguous',
+        },
+        {
+            headerName: 'Very Ambiguous',
+            field: 'very_ambiguous',
+        },
+        {
+            headerName: ' Somewhat Ambiguous',
+            field: 'somewhat_ambiguous',
+        },
+    ];
 
     selectedWebsites: HeatMapPolicy[] = [];
     chartHeatmapData: Series[] = [];
@@ -215,6 +257,16 @@ export class LawyerComponent implements OnInit {
 
     onMetricsGridReady(params: GridReadyEvent) {
         this.metricRowData$ = metricData;
+        params.api.sizeColumnsToFit()
+    }
+
+    onF1ScoreGridReady(params: GridReadyEvent) {
+        this.f1ScoreRowData$ = f1ScoreData;
+        params.api.sizeColumnsToFit()
+    }
+
+    onAmbiguityLevelGridReady(params: GridReadyEvent) {
+        this.ambiguityLevelRowData$ = ambiguityLevelData;
         params.api.sizeColumnsToFit()
     }
 

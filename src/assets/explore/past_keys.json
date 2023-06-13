@@ -1,0 +1,28 @@
+[
+    {
+        "url": "https://www.frigidaire.com",
+        "do_not_track": 0,
+        "data_security": 1,
+        "first_party_collection": 118,
+        "third_party_collection": 18,
+        "opt_out": 0,
+        "user_choice": 5,
+        "data": 114,
+        "legislation": 0,
+        "access_edit_delete": 24,
+        "policy_change": 8
+    },
+    {
+        "url": "https://www.lg.com",
+        "do_not_track": 0,
+        "data_security": 0,
+        "first_party_collection": 3,
+        "third_party_collection": 0,
+        "opt_out": 0,
+        "user_choice": 0,
+        "data": 9,
+        "legislation": 0,
+        "access_edit_delete": 5,
+        "policy_change": 1
+    }
+]

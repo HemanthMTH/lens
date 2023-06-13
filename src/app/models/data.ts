@@ -10,6 +10,16 @@ export interface ProductData {
     features?: Feature;
 }
 
+export interface PastProductData {
+    manufacturer_url: string;
+    manufacturer: string;
+    policy_text: string;
+    year: number,
+    policy_url?: string | null;
+    keywords?: Keyword;
+    features?: Feature;
+}
+
 export interface Keyword {
     do_not_track: number;
     data_security: number;
