@@ -51,7 +51,7 @@ export class RegulatorComponent {
         title: ' Difference in Percentage between Mention and No Mention of Devices',
         geo: {
             projection: {
-                type: 'robinson',
+                type: 'orthographic',
             },
         },
         width: 1000,
