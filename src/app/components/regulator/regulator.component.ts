@@ -48,10 +48,10 @@ export class RegulatorComponent {
     };
 
     countryLayout = {
-        title: ' Difference in Percentage between Mention and No Mention of Devices',
+        title: 'Percentage of Policies with Explicit Mention of Devices',
         geo: {
             projection: {
-                type: 'orthographic',
+                type: 'robinson',
             },
         },
         width: 1000,
@@ -172,7 +172,7 @@ export class RegulatorComponent {
             type: 'choropleth',
             locationmode: 'country names',
             locations: data.map((d) => d.country),
-            z: data.map((d) => ((d.mentioned - d.not_mentioned) / d.total) * 100),
+            z: data.map((d) => ((d.mentioned) / d.total) * 100),
             text: data.map((d) => d.country),
             colorscale: 'RdBu',
             zmid: 0,

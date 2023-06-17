@@ -186,12 +186,12 @@ export class LawyerComponent implements OnInit {
             width: 200,
         },
         {
-            headerName: 'Imprecise Words',
+            headerName: 'Freq. of Imprecise Words',
             field: 'imprecise_words',
             width: 200,
         },
         {
-            headerName: 'Connective Words',
+            headerName: 'Freq. of Connective Words',
             field: 'connective_words',
             width: 200,
         },

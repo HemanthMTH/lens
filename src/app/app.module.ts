@@ -11,6 +11,7 @@ import { AgGridModule } from 'ag-grid-angular';
 import { GoogleChartsModule } from 'angular-google-charts';
 import { PlotlyModule } from 'angular-plotly.js';
 import { PdfViewerModule } from 'ng2-pdf-viewer';
+import { TooltipModule } from 'ngx-bootstrap/tooltip';
 import * as PlotlyJS from 'plotly.js-dist-min';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -37,7 +38,6 @@ import { PublicationsComponent } from './components/publications/publications.co
 import { RegulatorComponent } from './components/regulator/regulator.component';
 import { SimilarityComponent } from './components/similarity/similarity.component';
 import { UrlRendererComponent } from './components/url-renderer/url-renderer.component';
-import { PastComponent } from './components/past/past.component';
 
 PlotlyModule.plotlyjs = PlotlyJS;
 @NgModule({
@@ -66,7 +66,6 @@ PlotlyModule.plotlyjs = PlotlyJS;
     CustomersComponent,
     LawyerComponent,
     RegulatorComponent,
-    PastComponent
   ],
   imports: [
     BrowserModule,
@@ -84,6 +83,7 @@ PlotlyModule.plotlyjs = PlotlyJS;
     NgbTooltipModule,
     NgbModalModule,
     NgSelectModule,
+    TooltipModule.forRoot(),
   ],
   providers: [],
   schemas: [CUSTOM_ELEMENTS_SCHEMA],

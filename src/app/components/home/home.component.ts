@@ -10,5 +10,5 @@ export class HomeComponent {
     policies: number = 1200;
     collected: number = 1200;
 
-    lastUpdatedDate: Date = new Date(2023, 4, 24, 12, 30);
+    lastUpdatedDate: Date = new Date(2023, 5, 16, 3, 22);
 }

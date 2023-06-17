@@ -46,11 +46,11 @@ export class KeywordModalComponent implements OnInit {
   //[ngStyle]="{'background-color': getGradientColor(getKeywordValue(key))}"
 
   objectKeys(item: Feature) {
-    return Object.keys(item).filter(key => key !== 'url'); // Exclude 'url' key
+    return Object.keys(item).filter(key => key !== 'manufacturer' && key !== 'year' && key !== 'policy_text');
   }
 
   getKeywordValue(key: string): any {
-    return this.features[key as keyof Feature];
+    return Number(this.features[key as keyof Feature]).toFixed(2);
   }
 
   getKeywordLabel(key: string): string {

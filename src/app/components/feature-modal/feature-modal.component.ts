@@ -38,7 +38,6 @@ import { KeywordType } from 'src/app/models/keywords';
                     </div>
                 </div>
 
-                
                 <div class="row mt-3">
                     <div class="col">
                         <div class="d-flex align-items-center">
@@ -79,7 +78,17 @@ export class FeatureModalComponent implements OnInit {
     }
 
     objectKeys(item: Keyword) {
-        return Object.keys(item).filter((key) => key !== 'url'); // Exclude 'url' key
+        return Object.keys(item).filter(
+            (key) =>
+                key !== 'manufacturer' &&
+                key !== 'mentioned' &&
+                key !== 'year' &&
+                key !== 'policy_text' &&
+                key !== 'policy_text' &&
+                key !== 'compliance' &&
+                key !== 'last_update' &&
+                key !== 'assessment'
+        );
     }
 
     getKeywordValue(key: string): any {

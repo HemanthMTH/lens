@@ -11,7 +11,6 @@ import { KeywordComponent } from './components/keyword/keyword.component';
 import { LawyerComponent } from './components/lawyer/lawyer.component';
 import { MembersComponent } from './components/members/members.component';
 import { MLAnalysisComponent } from './components/mlanalysis/mlanalysis.component';
-import { PastComponent } from './components/past/past.component';
 import { PrivacyPolicyComponent } from './components/privacy-policy/privacy-policy.component';
 import { PublicationsComponent } from './components/publications/publications.component';
 import { RegulatorComponent } from './components/regulator/regulator.component';
@@ -80,11 +79,7 @@ const routes: Routes = [
     {
         path: 'regulator',
         component: RegulatorComponent,
-    },
-    {
-        path: 'past',
-        component: PastComponent,
-    },
+    }
 ];
 
 @NgModule({

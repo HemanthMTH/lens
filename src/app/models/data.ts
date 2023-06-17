@@ -1,23 +1,25 @@
-export interface ProductData {
+export interface MetaData {
+    url: string;
     manufacturer_url: string;
     manufacturer: string;
+    device: string;
     country: string;
     category: string;
-    policy_text: string;
-    mentioned: boolean;
-    policy_url?: string | null;
+    policy_text?: string;
+    year: number;
+    policy_url: string;
     keywords?: Keyword;
     features?: Feature;
 }
 
-export interface PastProductData {
-    manufacturer_url: string;
+export class Policy {
     manufacturer: string;
-    policy_text: string;
-    year: number,
-    policy_url?: string | null;
-    keywords?: Keyword;
-    features?: Feature;
+    policy_text?: string;
+
+    constructor(manufacturer: string, policy_text: string) {
+        this.manufacturer = manufacturer;
+        this.policy_text = policy_text;
+    }
 }
 
 export interface Keyword {
@@ -31,11 +33,17 @@ export interface Keyword {
     legislation: number;
     access_edit_delete: number;
     policy_change: number;
-    url: string;
+    manufacturer: string;
+    mentioned: boolean;
+    compliance?: string | null;
+    last_update?: string | null;
+    assessment?: string | null;
+    policy_text?: string;
+    year?: number;
 }
 
 export interface Feature {
-    url: string;
+    manufacturer: string;
     coherence_score: number;
     entropy: number;
     unique_words: number;
@@ -44,6 +52,8 @@ export interface Feature {
     imprecise_words: number;
     connective_words: number;
     spelling_errors: number;
+    policy_text?: string;
+    year?: number;
 }
 
 export enum FeatureType {
