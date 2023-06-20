@@ -38,6 +38,7 @@ import { PublicationsComponent } from './components/publications/publications.co
 import { RegulatorComponent } from './components/regulator/regulator.component';
 import { SimilarityComponent } from './components/similarity/similarity.component';
 import { UrlRendererComponent } from './components/url-renderer/url-renderer.component';
+import { TermComponent } from './components/term/term.component';
 
 PlotlyModule.plotlyjs = PlotlyJS;
 @NgModule({
@@ -66,6 +67,7 @@ PlotlyModule.plotlyjs = PlotlyJS;
     CustomersComponent,
     LawyerComponent,
     RegulatorComponent,
+    TermComponent,
   ],
   imports: [
     BrowserModule,

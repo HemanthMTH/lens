@@ -15,6 +15,7 @@ import { PrivacyPolicyComponent } from './components/privacy-policy/privacy-poli
 import { PublicationsComponent } from './components/publications/publications.component';
 import { RegulatorComponent } from './components/regulator/regulator.component';
 import { SimilarityComponent } from './components/similarity/similarity.component';
+import { TermComponent } from './components/term/term.component';
 const routes: Routes = [
     { path: '', pathMatch: 'full', redirectTo: 'home' },
     {
@@ -79,6 +80,10 @@ const routes: Routes = [
     {
         path: 'regulator',
         component: RegulatorComponent,
+    },
+    {
+        path: 'info',
+        component: TermComponent,
     }
 ];
 
