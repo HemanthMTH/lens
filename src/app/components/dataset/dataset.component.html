@@ -1,8 +1,9 @@
 <div class="container my-5">
     <p class="lead">
-        The PrivacyLens dataset is continuously evolving. As of now, it contains 1200 privacy policies extracted for 32
-        smart device categories. The following graph shows the distribution of privacy policies based on different categories of
-        smart devices.
+        The PrivacyLens dataset is continuously evolving. As of now, it contains
+        1200 privacy policies extracted for 5198 smart devices from 32
+        categories. The following graph shows the distribution of privacy
+        policies based on different categories of smart devices.
     </p>
 
     <div class="container mt-5 text-center">
@@ -12,31 +13,67 @@
             </div>
         </div>
     </div>
-
     <p class="lead">
-        PrivacyLens collects and analyzes privacy policies from smart devices from manufacturers all around the world.
-        The following graph shows the distribution of privacy policies based on the manufacturer's country.
-    </p>
-    <div class="container mt-5 text-center">
-        <div class="row d-flex justify-content-center">
-            <div class="col-auto">
-                <plotly-plot [data]="countryData" [layout]="countryLayout"></plotly-plot>
-            </div>
-        </div>
-    </div>
-
-    <p class="lead">
-        Not all the privacy policies available online explicitly mention the smart device itself (sometimes they just
-        apply to the website of the manufacturer or the app associated with the device).
+        PrivacyLens collects and analyzes privacy policies from smart devices
+        from manufacturers all around the world. This following map provides a
+        geographical representation of privacy policies of different
+        manufacturers across the globe. The colors represent the proportion of
+        such policies for each country, expressed as a percentage of the total
+        count. Hover over a country to see the specific percentage. For
+        instance, a higher percentage indicates that a greater proportion of
+        policies in that country explicitly mention smart devices.
     </p>
 
     <div class="container mt-5 text-center">
         <div class="row d-flex justify-content-center">
             <div class="col-auto">
-                <plotly-plot [data]="pieData" [layout]="pieLayout"></plotly-plot>
+                <plotly-plot
+                    [data]="countryPolicyData"
+                    [layout]="countryPolicyLayout"
+                ></plotly-plot>
             </div>
         </div>
     </div>
-    <p class="lead">Explore our Dataset <a routerLink="/data" style="color: #00AAFF; text-decoration: none;">here.</a></p>
-    
+    <p class="lead">
+        Not all the privacy policies available online explicitly mention the
+        smart device itself (sometimes they just apply to the website of the
+        manufacturer or the app associated with the device).
+    </p>
+    <p class="lead">
+        The following graph shows the percentage of policies that explicitly
+        mention the device per country.
+    </p>
+    <div class="container mt-5 text-center">
+        <div class="row d-flex justify-content-center">
+            <div class="col-auto">
+                <plotly-plot
+                    [data]="countryData"
+                    [layout]="countryLayout"
+                ></plotly-plot>
+            </div>
+        </div>
+    </div>
+
+    <p class="lead">
+        The following pie chart illustrates the proportion of privacy policies
+        that explicitly mention smart devices versus those that do not in the
+        dataset.
+    </p>
+
+    <div class="container mt-5 text-center">
+        <div class="row d-flex justify-content-center">
+            <div class="col-auto">
+                <plotly-plot
+                    [data]="pieData"
+                    [layout]="pieLayout"
+                ></plotly-plot>
+            </div>
+        </div>
+    </div>
+    <p class="lead">
+        Explore the PrivacyLens Dataset
+        <a routerLink="/data" style="color: #00aaff; text-decoration: none"
+            >here.</a
+        >
+    </p>
 </div>

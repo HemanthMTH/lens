@@ -175,7 +175,6 @@ export class RegulatorComponent {
             z: data.map((d) => ((d.mentioned) / d.total) * 100),
             text: data.map((d) => d.country),
             colorscale: 'RdBu',
-            zmid: 0,
             reversescale: true,
           }];
     }
