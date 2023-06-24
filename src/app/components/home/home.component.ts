@@ -1,6 +1,7 @@
 import { DecimalPipe } from '@angular/common';
 import { Component } from '@angular/core';
 import features from '../../../assets/explore/features.json';
+import pastFeatures from '../../../assets/latest/past_features.json';
 
 @Component({
     selector: 'app-home',
@@ -13,13 +14,17 @@ export class HomeComponent {
     collected: number = 1200;
     humanTime: string;
 
-    lastUpdatedDate: Date = new Date(2023, 5, 16, 3, 22);
+    lastUpdatedDate: Date = new Date(2023, 5, 23, 6, 36);
 
     constructor() {
-        let sum = 0;
+        let sum1 = 0;
         features.forEach(element => {
-            sum = sum + element.reading_time
+            sum1 = sum1 + element.reading_time
         });
-        this.humanTime = Number(sum/60).toFixed(2);
+        let sum2 = 0;
+        pastFeatures.forEach(element => {
+            sum2 = sum2 + element.reading_time
+        });
+        this.humanTime = Number((sum1 + sum2) / 60).toFixed(2);
     }
 }

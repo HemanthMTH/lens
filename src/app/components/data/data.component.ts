@@ -11,6 +11,9 @@ import { Feature, Keyword, MetaData, Policy } from 'src/app/models/data';
 import _data from '../../../assets/latest/deviceData.json';
 import featureData from '../../../assets/latest/features.json';
 import keywordData from '../../../assets/latest/keyword.json';
+import pastFeatureData from '../../../assets/latest/past_features.json';
+import pastKeywordData from '../../../assets/latest/past_keywords.json';
+import pastPolicyData from '../../../assets/latest/past_policies.json';
 import policyData from '../../../assets/latest/policies.json';
 import { BooleanCellRendererComponent } from '../boolean-cell-renderer/boolean-cell-renderer.component';
 import { ButtonRendererComponent } from '../button/button.component';
@@ -224,6 +227,8 @@ export class DataComponent {
     rowData: MetaData[];
     featuresData: any[];
     keywordData: any[];
+    pastFeaturesData: any[];
+    pastKeywordData: any[];
     defaultColDef: ColDef = {
         sortable: true,
         filter: true,
@@ -273,18 +278,31 @@ export class DataComponent {
         this.selected = param;
         this.featuresData = this.selected.map((element) => element?.features);
         this.keywordData = this.selected.map((element) => element?.keywords);
-        this.featureRowData$ = this.featuresData;
-        this.keywordRowData$ = this.keywordData;
-        this.keywordRowData$.forEach(element => {
+        this.keywordData.forEach(element => {
             const rec = param.find(p => p.manufacturer === element.manufacturer)
             element.policy_text = rec?.policy_text
             element.year = rec?.year
         });
-        this.featureRowData$.forEach(element => {
+        this.featuresData.forEach(element => {
             const rec = param.find(p => p.manufacturer === element.manufacturer)
             element.policy_text = rec?.policy_text
             element.year = rec?.year
         });
+        
+        const mans = param.map(p => p.manufacturer)
+        this.pastKeywordData = pastKeywordData.filter(keyword => mans.some(m => m === keyword.manufacturer))
+        this.pastKeywordData.forEach(element => {
+            const rec = pastPolicyData.find(p => p.manufacturer === element.manufacturer && p.year === element.year)
+            element.policy_text = rec?.policy_text
+        });
+        this.pastFeaturesData = pastFeatureData.filter(keyword => mans.some(m => m === keyword.manufacturer))
+        this.pastFeaturesData.forEach(element => {
+            const rec = pastPolicyData.find(p => p.manufacturer === element.manufacturer && p.year === element.year)
+            element.policy_text = rec?.policy_text
+        });
+        this.keywordRowData$ =  [...this.keywordData, ...this.pastKeywordData];
+        this.featureRowData$ = [...this.featuresData, ...this.pastFeaturesData];
+        
         this.showFeatures = this.selected.length > 0;
     }
 

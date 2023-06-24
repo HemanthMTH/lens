@@ -5,6 +5,7 @@ import countryData from '../../../assets/data/countries.json';
 import _data from '../../../assets/data/grouped_data.json';
 import mentioned_data from '../../../assets/data/grouped_mentioned_data.json';
 import cData from '../../../assets/latest/countryPol.json';
+import metaData from '../../../assets/latest/deviceData.json';
 
 @Component({
     selector: 'app-dataset',
@@ -58,10 +59,12 @@ export class DatasetComponent implements OnInit {
         height: 600,
     };
     total: number;
+    metaDataSize: number;
 
     constructor() {
         this.countryData = this.getCountryData(countryData);
         this.total = cData.reduce((total, item) => total + item.count, 0);
+        this.metaDataSize = metaData.length;
         this.countryPolicyData = [{
             type: 'choropleth',
             locationmode: 'country names',
