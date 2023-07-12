@@ -10,11 +10,11 @@ import pastFeatures from '../../../assets/latest/past_features.json';
 })
 export class HomeComponent {
     devices: number = 7300;
-    policies: number = 1200;
+    policies: number = 1460;
     collected: number = 1200;
     humanTime: string;
 
-    lastUpdatedDate: Date = new Date(2023, 5, 23, 6, 36);
+    lastUpdatedDate: Date = new Date(2023, 5, 25, 2, 18);
 
     constructor() {
         let sum1 = 0;

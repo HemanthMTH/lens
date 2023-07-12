@@ -4,6 +4,7 @@ import { AmbiguityComponent } from './components/ambiguity/ambiguity.component';
 import { CustomersComponent } from './components/customers/customers.component';
 import { DataComponent } from './components/data/data.component';
 import { DatasetComponent } from './components/dataset/dataset.component';
+import { DiffComponent } from './components/diff/diff.component';
 import { FeaturesComponent } from './components/features/features.component';
 import { HomeComponent } from './components/home/home.component';
 import { KeyInformationComponent } from './components/key-information/key-information.component';
@@ -16,6 +17,7 @@ import { PublicationsComponent } from './components/publications/publications.co
 import { RegulatorComponent } from './components/regulator/regulator.component';
 import { SimilarityComponent } from './components/similarity/similarity.component';
 import { TermComponent } from './components/term/term.component';
+import { TestComponent } from './components/test/test.component';
 const routes: Routes = [
     { path: '', pathMatch: 'full', redirectTo: 'home' },
     {
@@ -84,7 +86,16 @@ const routes: Routes = [
     {
         path: 'info',
         component: TermComponent,
-    }
+    },
+    {
+        path: 'test',
+        component: TestComponent,
+    },
+    {
+        path: 'diff',
+        component: DiffComponent,
+    },
+    
 ];
 
 @NgModule({

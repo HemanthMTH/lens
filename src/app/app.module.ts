@@ -39,6 +39,8 @@ import { RegulatorComponent } from './components/regulator/regulator.component';
 import { SimilarityComponent } from './components/similarity/similarity.component';
 import { UrlRendererComponent } from './components/url-renderer/url-renderer.component';
 import { TermComponent } from './components/term/term.component';
+import { TestComponent } from './components/test/test.component';
+import { DiffComponent } from './components/diff/diff.component';
 
 PlotlyModule.plotlyjs = PlotlyJS;
 @NgModule({
@@ -68,6 +70,8 @@ PlotlyModule.plotlyjs = PlotlyJS;
     LawyerComponent,
     RegulatorComponent,
     TermComponent,
+    TestComponent,
+    DiffComponent,
   ],
   imports: [
     BrowserModule,
