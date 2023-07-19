@@ -15,9 +15,9 @@ export interface MetaData {
 export class Policy {
     manufacturer: string;
     policy_text?: string;
-    year?: string;
+    year?: number;
 
-    constructor(manufacturer: string, policy_text: string, year?: string) {
+    constructor(manufacturer: string, policy_text: string, year?: number) {
         this.manufacturer = manufacturer;
         this.policy_text = policy_text;
         this.year = year;
