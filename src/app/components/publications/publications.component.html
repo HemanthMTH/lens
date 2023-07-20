@@ -33,57 +33,83 @@
   </div>
 </div> -->
 
-
 <div class="container mt-5">
-  <!-- <div class="d-flex justify-content-between mb-4">
-    <img src="../../../assets/img/dams_logo.png" alt="DAMS Logo" class="mr-2" style="height: 50px;">
-    <img src="../../../assets/img/umbc_logo.png" alt="Logo" class="mr-2" style="height: 50px;">
-  </div> -->
-  <p class="lead">
-    PrivacyLens is an automated framework that collects privacy policies of smart devices from different sources
-    continuously. After collection, PrivacyLens applies a suit of AI analysis algorithms to extract insights including
-    information about their readability or the most important privacy concepts included. PrivacyLens collects and
-    analyzes also past privacy policies for the last few years to give a timeline and explore changes due to, for
-    instance, data regulations. By providing valuable insights and comparisons, PrivacyLens aims to enhance the
-    usability and effectiveness of these policies for end-users ultimately empowering users to make better-informed
-    decisions when purchasing and using smart devices.
-  </p>
-
-  <p class="lead">
-    Read more about what PrivacyLens extracts from privacy policies in its analysis 
-    <a
-      routerLink="/info"
-      style="color: #00aaff; text-decoration: none"
-      >here.</a
-  >
-</p>
-
-  <h2>High-level overview of PrivacyLens</h2>
-  <div class="row">
-    <div class="col-md-12">
-      <div class="img-container text-center">
-        <img src="assets/img/arch.png" alt="System Architecture" class="img-fluid rounded mx-auto d-block">
-      </div>
+    <div class="d-flex justify-content-between mb-4">
+        <img
+            src="../../../assets/img/dams_logo.png"
+            alt="DAMS Logo"
+            class="mr-2"
+            style="height: 50px"
+        />
+        <img
+            src="../../../assets/img/umbc_logo.png"
+            alt="Logo"
+            class="mr-2"
+            style="height: 50px"
+        />
     </div>
-  </div>
+    <p class="lead">
+        PrivacyLens is an automated framework that collects privacy policies of
+        smart devices from different sources continuously. After collection,
+        PrivacyLens applies a suit of AI analysis algorithms to extract insights
+        including information about their readability or the most important
+        privacy concepts included. PrivacyLens collects and analyzes also past
+        privacy policies for the last few years to give a timeline and explore
+        changes due to, for instance, data regulations. By providing valuable
+        insights and comparisons, PrivacyLens aims to enhance the usability and
+        effectiveness of these policies for end-users ultimately empowering
+        users to make better-informed decisions when purchasing and using smart
+        devices.
+    </p>
 
-  
+    <p class="lead">
+        Read more about what PrivacyLens extracts from privacy policies in its
+        analysis
+        <a routerLink="/info" style="color: #00aaff; text-decoration: none"
+            >here.</a
+        >
+    </p>
+    <p class="lead">
+        PrivacyLens is a project from the
+        <span
+            class="highlighted-text"
+            (mouseenter)="showImage = true"
+            (mouseleave)="showImage = false"
+        >
+            <span class="hover-text link-primary">DAMS lab</span>
+            <div *ngIf="showImage" [@fadeInOut] class="hover-content">
+                <img
+                    src="../../../assets/img/dams_logo.png"
+                    alt="DAMS Logo"
+                    class="logo-image"
+                />
+            </div>
+        </span>
+        <a
+            href="https://damslabumbc.github.io/"
+            class="link-primary ms-1"
+            target="_blank"
+            rel="noopener noreferrer"
+        >
+            <i class="fas fa-external-link-alt"></i>
+        </a>
+        at UMBC.
+    </p>
 
-  <!-- <p class="lead">
-    PrivacyLens is a project from the
-    <span class="highlighted-text" (mouseenter)="showImage = true" (mouseleave)="showImage = false">
-      <span class="hover-text link-primary">DAMS lab</span>
-      <div *ngIf="showImage" [@fadeInOut] class="hover-content">
-        <img src="../../../assets/img/dams_logo.png" alt="DAMS Logo" class="logo-image">
-      </div>
-    </span>
-    <a href="https://damslabumbc.github.io/" class="link-primary ms-1" target="_blank" rel="noopener noreferrer">
-      <i class="fas fa-external-link-alt"></i>
-    </a>
-    at UMBC.
-  </p> -->
+    <h2>High-level overview of PrivacyLens</h2>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="img-container text-center">
+                <img
+                    src="assets/img/arch.png"
+                    alt="System Architecture"
+                    class="img-fluid rounded mx-auto d-block"
+                />
+            </div>
+        </div>
+    </div>
 
-  <!-- <h2 class="research-title">Publications</h2>
+    <!-- <h2 class="research-title">Publications</h2>
 
   <ng-select [items]="papers" [placeholder]="'Select a paper'" [appendTo]="'body'" [virtualScroll]="true"
     [virtualScrollItemSize]="40" [(ngModel)]="selectedPaper" class="paper-select">
@@ -95,7 +121,7 @@
     </ng-template>
   </ng-select> -->
 
-  <!-- <div *ngIf="selectedPaper" class="my-3">
+    <!-- <div *ngIf="selectedPaper" class="my-3">
     <p class="lead"> If you use the dataset for your research project, please consider citing the paper:</p>
     <app-bibtex-citation [entryType]="'article'" [citationKey]="'paper'" [title]="selectedPaper.title"
       [author]="'Author Name'" [journal]="'Journal Name'" [volume]="1" [num]="1" [pages]="'1-10'"

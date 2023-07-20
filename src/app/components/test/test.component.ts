@@ -325,7 +325,6 @@ export class TestComponent implements OnInit {
         this.selectedManufacturer = 'amazfit';
         this.onChange(this.selectedManufacturer);
         this.patchFormValue();
-        this.onSelectionComplete();
     }
 
     patchFormValue(): void {
@@ -461,6 +460,7 @@ export class TestComponent implements OnInit {
             .filter((p) => p.manufacturer === param)
             .sort((a, b) => a.year - b.year);
         this.uniqueYears = this.rowData.map((p) => p.year);
+        this.onSelectionComplete()
     }
 
     onGridReady(params: GridReadyEvent) {
